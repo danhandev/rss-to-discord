@@ -7,6 +7,10 @@ on:
 
 permissions:
   contents: write            # state.json 커밋용
+  
+concurrency:
+  group: rss-relay
+  cancel-in-progress: false
 
 jobs:
   relay:
@@ -31,5 +35,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add state.json
-          git diff --staged --quiet || git commit -m "chore: update state"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update state"
+          for i in 1 2 3; do
+            git pull --rebase origin main && \
+              git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
