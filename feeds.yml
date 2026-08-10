@@ -1,0 +1,55 @@
+# 채널별로 어떤 피드를 보낼지 정의합니다.
+# webhook_env: GitHub Secrets에 등록할 환경변수 이름 (Discord 채널별 웹훅 URL)
+
+channels:
+  - name: "korea-tech"          # Discord #korea-tech 채널
+    webhook_env: DISCORD_WEBHOOK_KOREA
+    feeds:
+      - name: "토스테크"
+        url: "https://toss.tech/rss.xml"
+      - name: "우아한형제들"
+        url: "https://techblog.woowahan.com/feed"
+      - name: "카카오"
+        url: "https://tech.kakao.com/feed/"
+      - name: "카카오페이"
+        url: "https://tech.kakaopay.com/rss.xml"
+      - name: "뱅크샐러드"
+        url: "https://blog.banksalad.com/rss.xml"
+      - name: "NAVER D2"
+        url: "https://d2.naver.com/d2.atom"
+      - name: "LINE"
+        url: "https://techblog.lycorp.co.jp/ko/feed/index.xml"
+      - name: "당근"
+        url: "https://medium.com/feed/daangn"
+      - name: "쿠팡"
+        url: "https://medium.com/feed/coupang-engineering"
+      - name: "컬리"
+        url: "https://helloworld.kurly.com/feed.xml"
+      - name: "데브시스터즈"
+        url: "https://tech.devsisters.com/rss.xml"
+      - name: "쏘카"
+        url: "https://tech.socarcorp.kr/feed"
+      - name: "하이퍼커넥트"
+        url: "https://hyperconnect.github.io/feed.xml"
+      - name: "요즘IT"
+        url: "https://yozm.wishket.com/magazine/feed/"
+
+  - name: "java-spring"
+    webhook_env: DISCORD_WEBHOOK_JAVA
+    feeds:
+      - name: "Spring Blog"
+        url: "https://spring.io/blog.atom"
+      # This Week in Spring만 보고 싶으면 아래 필터를 사용
+      # - name: "This Week in Spring"
+      #   url: "https://spring.io/blog.atom"
+      #   include: ["This Week in Spring"]
+
+  - name: "global"
+    webhook_env: DISCORD_WEBHOOK_GLOBAL
+    feeds:
+      - name: "Hacker News 100+"
+        url: "https://hnrss.org/frontpage?points=100"
+      - name: "HN: Java"
+        url: "https://hnrss.org/newest?q=Java&points=50"
+      - name: "HN: Postgres"
+        url: "https://hnrss.org/newest?q=Postgres&points=50"
