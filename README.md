@@ -32,3 +32,34 @@ RSS 주소를 모르면 블로그 주소 뒤에 `/feed`, `/rss.xml`, `/feed.xml`
 
     pip install -r requirements.txt
     DISCORD_WEBHOOK_KOREA="웹훅URL" python main.py
+
+# RSS → Discord v2
+
+v1에서 달라진 점
+- 피드가 제공하는 요약을 Discord embed 본문에 함께 표시
+- 채널별 mode: stream(즉시) / digest(주 1회 묶음)
+- 전송 실패가 예외로 번져 state를 날리던 문제 수정
+- push 충돌 시 rebase 후 재시도
+
+## 마이그레이션 (v1을 이미 돌리고 있다면)
+
+1. main.py, feeds.yml, .github/workflows/rss.yml 교체
+2. state.json 삭제 (구조가 {"seen":..., "pending":...}로 바뀜)
+3. Discord 채널을 daily / weekly-tech / weekly-finance 로 정리하고
+   웹훅 3개를 Secrets에 등록
+   - DISCORD_WEBHOOK_DAILY
+   - DISCORD_WEBHOOK_WEEKLY
+   - DISCORD_WEBHOOK_FINANCE
+4. push 후 Actions에서 Run workflow
+
+state.json을 지우면 각 피드의 최신 2건이 들어옵니다(FIRST_RUN_SEND).
+digest 채널은 그 2건이 pending에 쌓였다가 월요일에 한 번에 옵니다.
+바로 확인하려면 Run workflow에서 digest 체크박스를 켜세요.
+
+## 튜닝
+
+main.py 상단 상수
+- MAX_PER_RUN: stream 채널에서 한 번에 보낼 최대 개수
+- SUMMARY_LIMIT: embed 본문 길이 (기본 280자)
+- DIGEST_MAX_LINES: 다이제스트 한 메시지 최대 줄 수
+
