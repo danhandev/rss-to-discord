@@ -1,122 +1,73 @@
-"""RSS -> Discord 릴레이.
+# mode: stream  = 새 글이 나오면 바로 전송
+# mode: digest  = 쌓아뒀다가 주 1회 한 메시지로 전송
+#
+# 주의: 같은 URL을 두 채널에 넣지 마세요. 중복 판정 키가 URL이라
+#       먼저 처리된 채널에서만 전송됩니다.
 
-feeds.yml에 정의된 피드를 순회하며, 아직 보내지 않은 글만
-채널별 Discord 웹훅으로 전송한다. 처리한 글의 id는 state.json에 남긴다.
-"""
+channels:
 
-import json
-import os
-import pathlib
-import sys
-import time
-from typing import Any
+  # ── 매일 볼 것. 요약이 붙어 있어 제목만으로 판단 가능 ──
+  - name: "daily"
+    webhook_env: DISCORD_WEBHOOK_DAILY
+    mode: stream
+    feeds:
+      - name: "GeekNews"
+        url: "https://news.hada.io/rss/news"
+      - name: "Hacker News 100+"
+        url: "https://hnrss.org/frontpage?points=100"
+      - name: "Spring Blog"
+        url: "https://spring.io/blog.atom"
+        include: ["This Week in Spring"]   # 릴리스 노트 제외
+      # TLDR 뉴스레터: RSS가 없습니다.
+      # kill-the-newsletter.com에서 주소를 발급받아 그 주소로 구독한 뒤,
+      # 발급된 피드 URL을 아래에 넣으세요.
+      # - name: "TLDR"
+      #   url: "https://kill-the-newsletter.com/feeds/발급받은키.xml"
 
-import feedparser
-import requests
-import yaml
+  # ── 주 1회 몰아서 볼 것 (기업 기술블로그) ──
+  - name: "weekly-tech"
+    webhook_env: DISCORD_WEBHOOK_WEEKLY
+    mode: digest
+    feeds:
+      - name: "토스테크"
+        url: "https://toss.tech/rss.xml"
+      - name: "우아한형제들"
+        url: "https://techblog.woowahan.com/feed"
+      - name: "카카오"
+        url: "https://tech.kakao.com/feed/"
+      - name: "카카오페이"
+        url: "https://tech.kakaopay.com/rss.xml"
+      - name: "뱅크샐러드"
+        url: "https://blog.banksalad.com/rss.xml"
+      - name: "NAVER D2"
+        url: "https://d2.naver.com/d2.atom"
+      - name: "LINE"
+        url: "https://techblog.lycorp.co.jp/ko/feed/index.xml"
+      - name: "당근"
+        url: "https://medium.com/feed/daangn"
+      - name: "쿠팡"
+        url: "https://medium.com/feed/coupang-engineering"
+      - name: "컬리"
+        url: "https://helloworld.kurly.com/feed.xml"
+      - name: "데브시스터즈"
+        url: "https://tech.devsisters.com/rss.xml"
+      - name: "쏘카"
+        url: "https://tech.socarcorp.kr/feed"
+      - name: "하이퍼커넥트"
+        url: "https://hyperconnect.github.io/feed.xml"
+      - name: "요즘IT"
+        url: "https://yozm.wishket.com/magazine/feed/"
 
-ROOT = pathlib.Path(__file__).parent
-STATE_PATH = ROOT / "state.json"
-MAX_PER_RUN = 5          # 피드 하나당 한 번에 보낼 최대 개수 (첫 실행 폭탄 방지)
-KEEP_PER_FEED = 200      # state.json이 무한히 커지지 않도록 피드별 보관 개수
-
-
-def load_state() -> dict[str, list[str]]:
-    if STATE_PATH.exists():
-        return json.loads(STATE_PATH.read_text(encoding="utf-8"))
-    return {}
-
-
-def save_state(state: dict[str, list[str]]) -> None:
-    STATE_PATH.write_text(
-        json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-
-
-def entry_id(entry: Any) -> str:
-    """피드마다 id/guid/link 중 있는 걸 쓴다."""
-    return entry.get("id") or entry.get("guid") or entry.get("link", "")
-
-
-def matches(entry: Any, include: list[str] | None) -> bool:
-    if not include:
-        return True
-    title = entry.get("title", "")
-    return any(keyword.lower() in title.lower() for keyword in include)
-
-
-def post_to_discord(webhook: str, source: str, entry: Any) -> bool:
-    payload = {
-        "embeds": [
-            {
-                "title": entry.get("title", "(제목 없음)")[:250],
-                "url": entry.get("link", ""),
-                "description": "",
-                "footer": {"text": source},
-            }
-        ]
-    }
-    resp = requests.post(webhook, json=payload, timeout=15)
-
-    # Discord 웹훅 레이트리밋 대응
-    if resp.status_code == 429:
-        retry_after = resp.json().get("retry_after", 1)
-        time.sleep(float(retry_after) + 0.5)
-        resp = requests.post(webhook, json=payload, timeout=15)
-
-    if resp.status_code >= 300:
-        print(f"  ! 전송 실패 {resp.status_code}: {resp.text[:200]}", file=sys.stderr)
-        return False
-    return True
-
-
-def main() -> int:
-    config = yaml.safe_load((ROOT / "feeds.yml").read_text(encoding="utf-8"))
-    state = load_state()
-    sent_total = 0
-
-    for channel in config["channels"]:
-        webhook = os.environ.get(channel["webhook_env"], "").strip()
-        if not webhook:
-            print(f"[skip] {channel['name']}: {channel['webhook_env']} 미설정")
-            continue
-
-        for feed in channel["feeds"]:
-            url, name = feed["url"], feed["name"]
-            print(f"[{channel['name']}] {name}")
-
-            parsed = feedparser.parse(url)
-            if parsed.bozo and not parsed.entries:
-                print(f"  ! 파싱 실패: {parsed.get('bozo_exception')}", file=sys.stderr)
-                continue
-
-            seen = state.setdefault(url, [])
-            first_run = not seen
-
-            # 피드는 최신순이므로 뒤집어서 오래된 것부터 보낸다
-            new_entries = [
-                e for e in reversed(parsed.entries)
-                if entry_id(e) not in seen and matches(e, feed.get("include"))
-            ]
-
-            if first_run:
-                # 최초 실행에서는 과거 글을 전부 쏘지 않고 id만 기록
-                seen.extend(entry_id(e) for e in new_entries)
-                print(f"  최초 실행: {len(new_entries)}건 기록만 하고 전송 생략")
-                new_entries = []
-
-            for entry in new_entries[-MAX_PER_RUN:]:
-                if post_to_discord(webhook, name, entry):
-                    seen.append(entry_id(entry))
-                    sent_total += 1
-                    time.sleep(1)  # 웹훅 초당 제한 여유
-
-            state[url] = seen[-KEEP_PER_FEED:]
-
-    save_state(state)
-    print(f"완료: {sent_total}건 전송")
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+  # ── 금융 규제/정책. 실시간일 이유가 없으니 주 1회 ──
+  # 아래 주소는 각 기관 RSS 안내 페이지에서 직접 복사해서 채우세요.
+  #   금융위원회  https://www.fsc.go.kr/ut060101  (보도자료 항목)
+  #   한국은행    bok.or.kr 하단 RSS 안내
+  #   금융보안원  fsec.or.kr 자료실 (RSS 미제공 시 생략)
+  - name: "weekly-finance"
+    webhook_env: DISCORD_WEBHOOK_FINANCE
+    mode: digest
+    feeds: []
+      # - name: "금융위 보도자료"
+      #   url: "여기에 붙여넣기"
+      # - name: "한국은행 보도자료"
+      #   url: "여기에 붙여넣기"
