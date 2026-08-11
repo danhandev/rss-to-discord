@@ -35,7 +35,14 @@ WS_RE = re.compile(r"\s+")
 
 def load_state() -> dict[str, Any]:
     if STATE_PATH.exists():
-        return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+        try:
+            data = json.loads(STATE_PATH.read_text(encoding="utf-8") or "{}")
+        except json.JSONDecodeError:
+            print("! state.json 손상 — 초기화합니다", file=sys.stderr)
+            data = {}
+        data.setdefault("seen", {})
+        data.setdefault("pending", {})
+        return data
     return {"seen": {}, "pending": {}}
 
 
