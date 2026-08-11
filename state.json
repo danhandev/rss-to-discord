@@ -60,7 +60,9 @@
       "https://news.hada.io/topic?id=32389",
       "https://news.hada.io/topic?id=32390",
       "https://news.hada.io/topic?id=32391",
-      "https://news.hada.io/topic?id=32392"
+      "https://news.hada.io/topic?id=32392",
+      "https://news.hada.io/topic?id=32395",
+      "https://news.hada.io/article/rails-without-dhh"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -88,7 +90,11 @@
       "https://news.ycombinator.com/item?id=49184220",
       "https://news.ycombinator.com/item?id=49247070",
       "https://news.ycombinator.com/item?id=49250109",
-      "https://news.ycombinator.com/item?id=49250894"
+      "https://news.ycombinator.com/item?id=49250894",
+      "https://news.ycombinator.com/item?id=49245023",
+      "https://news.ycombinator.com/item?id=49245437",
+      "https://news.ycombinator.com/item?id=49249555",
+      "https://news.ycombinator.com/item?id=49250836"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -571,7 +577,10 @@
       "https://www.fsc.go.kr/no010101/87461",
       "https://www.fsc.go.kr/no010101/87474",
       "https://www.fsc.go.kr/no010101/87493",
-      "https://www.fsc.go.kr/no010101/87496"
+      "https://www.fsc.go.kr/no010101/87496",
+      "https://www.fsc.go.kr/no010101/87498",
+      "https://www.fsc.go.kr/no010101/87499",
+      "https://www.fsc.go.kr/no010101/87503"
     ]
   },
   "pending": {
@@ -588,6 +597,24 @@
         "title": "청년미래적금, 138.5만명 최종 가입",
         "link": "https://www.fsc.go.kr/no010101/87496",
         "summary": "청년미래적금, 138.5만명 최종 가입 ✓ 최초 모집에 234.3만명 신청, 154.7만명 가입심사 통과, 최종 138.5만명 가입 지난 6월 22일부터 7월 3일까지 진행된 청년미래적금 최초 가입신청 에는 총 234.3만명 이 신청 하였으며, 개인·가구소득 등 가입요건 심사 를 통과 한 154.7만명 중 138.5만명 이 청년미래적금 에 최종 가입 하였다. 청년미래적금 가입자를 유형별 로 살펴보면 일반형 약 98.3만명 (70.9%) , 우대형 약 38.9만명 (28.1%) 이며 * , 연령별…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "2026년 하반기 영세·중소가맹점 선정결과 및 2026년 상반기 신규가맹점 카드수수료 환급 안내",
+        "link": "https://www.fsc.go.kr/no010101/87498",
+        "summary": "2026년 하반기 영세·중소가맹점 선정결과 및 2026년 상반기 신규가맹점 카드수수료 환급 안내 [1] ’26.8.14. 부터 ’26.하반기 기준 신용카드가맹점 309.4만개 , 결제대행업체 (PG) 하위가맹점 199.9만개 , 택시사업자 16.6만개 에 우대수수료율 적용 [2] ’26.상반기 신규사업자 로서 ’26.하반기 기준 영세·중소가맹점으로 새롭게 확인된 신용카드가맹점 15.9만개 , 결제대행업체 하위가맹점 13.2만개 , 택시사업자 0.6만개 에 수수료 차액 (기존수수료율-우대수수료율)…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "가상자산시장의 투명성 강화를 위한 「특정금융정보법 시행령」 개정안 국무회의 의결",
+        "link": "https://www.fsc.go.kr/no010101/87499",
+        "summary": "가상자산시장의 투명성 강화를 위한 「 특정금융정보법 시행령」 개정안 국무회의 의결 ✓ 가상자산사업자 신고 불수리 요건 (건전한 재무상태 및 사회적 신용 등) 및 심사대상이 되는 대주주의 범위를 구체화 ✓ 트래블룰 기준금액 (100만원) 폐지 , 해외 가상자산사업자 및 개인지갑 과의 거래 관련 자금세탁방지 의무 (위험도에 따른 거래허용범위 차등화 등) 부과 ✓ 특정금융정보법상 고객확인의 방법 및 대상을 명확화 가상자산사업자의 신고제를 강화하고, 가상자산 이전거래 관련 자금세탁 방지 의무를 강화하기…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명",
+        "link": "https://www.fsc.go.kr/no010101/87503",
+        "summary": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명 - 1. 관련 보도내용 □ 연합뉴스는 8.10일 「6천억원 국민참여성장펀드에 청년 13%뿐… 9월 2차 신청땐 늘까”」 제하의 기사에서, ㅇ“ 금융당국이 지난 5월 출시한 6천억원 규모의 국민참여형 국민성장펀드 (국민참여성장펀드) 에서 청년층 (2030세대) 가입 금액 비중이 13% 수준에 그친 것으로 나타났다.”등의 내용을 보도하였습니다. 2. 동 보도내용에 대한 설명 (1) 국민참여성장펀드…"
       }
     ]
   }
