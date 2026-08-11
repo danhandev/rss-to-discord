@@ -2,12 +2,18 @@ name: RSS to Discord
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # 2시간마다 (UTC 기준)
-  workflow_dispatch:         # Actions 탭에서 수동 실행용
+    - cron: "0 */2 * * *"    # stream: 2시간마다
+    - cron: "0 0 * * 1"      # digest: 월요일 09:00 KST
+  workflow_dispatch:
+    inputs:
+      digest:
+        description: "주간 다이제스트도 함께 발송"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write            # state.json 커밋용
-  
+  contents: write
+
 concurrency:
   group: rss-relay
   cancel-in-progress: false
@@ -26,9 +32,10 @@ jobs:
 
       - run: python main.py
         env:
-          DISCORD_WEBHOOK_KOREA: ${{ secrets.DISCORD_WEBHOOK_KOREA }}
-          DISCORD_WEBHOOK_JAVA: ${{ secrets.DISCORD_WEBHOOK_JAVA }}
-          DISCORD_WEBHOOK_GLOBAL: ${{ secrets.DISCORD_WEBHOOK_GLOBAL }}
+          DIGEST: ${{ github.event.schedule == '0 0 * * 1' || inputs.digest }}
+          DISCORD_WEBHOOK_DAILY: ${{ secrets.DISCORD_WEBHOOK_DAILY }}
+          DISCORD_WEBHOOK_WEEKLY: ${{ secrets.DISCORD_WEBHOOK_WEEKLY }}
+          DISCORD_WEBHOOK_FINANCE: ${{ secrets.DISCORD_WEBHOOK_FINANCE }}
 
       - name: Commit state
         run: |
@@ -38,8 +45,7 @@ jobs:
           git diff --staged --quiet && exit 0
           git commit -m "chore: update state"
           for i in 1 2 3; do
-            git pull --rebase origin main && \
-              git push origin HEAD:main && exit 0
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep 5
           done
           exit 1
