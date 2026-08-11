@@ -19,7 +19,8 @@
     "https://toss.tech/article/device-farm-nebula",
     "https://toss.tech/article/llm_context_topic",
     "https://toss.tech/article/ds-mle-cowork",
-    "https://toss.tech/article/52209"
+    "https://toss.tech/article/52209",
+    "https://toss.tech/article/tossion"
   ],
   "https://tech.kakao.com/feed/": [
     "https://tech.kakao.com/posts/821",
@@ -337,7 +338,12 @@
     "https://news.ycombinator.com/item?id=49213660",
     "https://news.ycombinator.com/item?id=49243474",
     "https://news.ycombinator.com/item?id=49245491",
-    "https://news.ycombinator.com/item?id=49249150"
+    "https://news.ycombinator.com/item?id=49249150",
+    "https://news.ycombinator.com/item?id=49209918",
+    "https://news.ycombinator.com/item?id=49246804",
+    "https://news.ycombinator.com/item?id=49247477",
+    "https://news.ycombinator.com/item?id=49249481",
+    "https://news.ycombinator.com/item?id=49251411"
   ],
   "https://hnrss.org/newest?q=Java&points=50": [
     "https://news.ycombinator.com/item?id=46182307",
