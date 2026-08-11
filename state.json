@@ -50,7 +50,11 @@
       "https://news.hada.io/topic?id=32377",
       "https://news.hada.io/topic?id=32378",
       "https://news.hada.io/topic?id=32379",
-      "https://news.hada.io/topic?id=32380"
+      "https://news.hada.io/topic?id=32380",
+      "https://news.hada.io/topic?id=32381",
+      "https://news.hada.io/topic?id=32382",
+      "https://news.hada.io/topic?id=32383",
+      "https://news.hada.io/topic?id=32384"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -541,10 +545,35 @@
       "https://www.bok.or.kr/portal/bbs/P0001992/view.do?nttId=10081955&menuNo=200351",
       "https://www.bok.or.kr/portal/bbs/P0001992/view.do?nttId=10082232&menuNo=200351",
       "https://www.bok.or.kr/portal/bbs/P0001992/view.do?nttId=10088873&menuNo=200351"
+    ],
+    "https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111": [
+      "https://www.fsc.go.kr/no010101/87451",
+      "https://www.fsc.go.kr/no010101/87453",
+      "https://www.fsc.go.kr/no010101/87455",
+      "https://www.fsc.go.kr/no010101/87456",
+      "https://www.fsc.go.kr/no010101/87457",
+      "https://www.fsc.go.kr/no010101/87458",
+      "https://www.fsc.go.kr/no010101/87461",
+      "https://www.fsc.go.kr/no010101/87474",
+      "https://www.fsc.go.kr/no010101/87493",
+      "https://www.fsc.go.kr/no010101/87496"
     ]
   },
   "pending": {
     "weekly-tech": [],
-    "weekly-finance": []
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "“시청 김주무관인데요, 무전기를 도매가로 대리구매 해주시면 차액을 챙겨드리겠습니다.” ☞ 공무원의 달콤한 대리구매 유혹, 100% 신종피싱 사기입니다.",
+        "link": "https://www.fsc.go.kr/no010101/87493",
+        "summary": "“시청 김주무관인데요, 무전기를 도매가로 대리구매 해주시면 차액을 챙겨드리겠습니다.” ☞ 공무원의 달콤한 대리구매 유혹, 100% 신종피싱 사기입니다. - FIU 제도운영기획관 주재로 6월 30일 부터 시행한 신종피싱 의심계좌 거래정지제도 * 점검회의를 개최 하여 제도 운영현황을 점검 * 신종피싱에 이용된 것으로 의심되는 계좌에 대해 금융회사에서 신속히 임시정지 (7영업일) 실시, 필요시 최대 60영업일간 추가 정지 - 제도 시행 이후 한달간 약 5,000건 (4,935건) 의 신종피싱 의심계좌…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "청년미래적금, 138.5만명 최종 가입",
+        "link": "https://www.fsc.go.kr/no010101/87496",
+        "summary": "청년미래적금, 138.5만명 최종 가입 ✓ 최초 모집에 234.3만명 신청, 154.7만명 가입심사 통과, 최종 138.5만명 가입 지난 6월 22일부터 7월 3일까지 진행된 청년미래적금 최초 가입신청 에는 총 234.3만명 이 신청 하였으며, 개인·가구소득 등 가입요건 심사 를 통과 한 154.7만명 중 138.5만명 이 청년미래적금 에 최종 가입 하였다. 청년미래적금 가입자를 유형별 로 살펴보면 일반형 약 98.3만명 (70.9%) , 우대형 약 38.9만명 (28.1%) 이며 * , 연령별…"
+      }
+    ]
   }
 }
