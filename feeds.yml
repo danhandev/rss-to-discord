@@ -1,9 +1,28 @@
-# 채널별로 어떤 피드를 보낼지 정의합니다.
-# webhook_env: GitHub Secrets에 등록할 환경변수 이름 (Discord 채널별 웹훅 URL)
+# mode: stream  = 새 글이 나오면 바로 전송
+# mode: digest  = 쌓아뒀다가 주 1회 한 메시지로 전송
+#
+# 주의: 같은 URL을 두 채널에 넣지 마세요. 중복 판정 키가 URL이라
+#       먼저 처리된 채널에서만 전송됩니다.
 
 channels:
-  - name: "korea-tech"          # Discord #korea-tech 채널
-    webhook_env: DISCORD_WEBHOOK_KOREA
+
+  # ── 매일 볼 것. 요약이 붙어 있어 제목만으로 판단 가능 ──
+  - name: "daily"
+    webhook_env: DISCORD_WEBHOOK_DAILY
+    mode: stream
+    feeds:
+      - name: "GeekNews"
+        url: "https://news.hada.io/rss/news"
+      - name: "Hacker News 100+"
+        url: "https://hnrss.org/frontpage?points=100"
+      - name: "Spring Blog"
+        url: "https://spring.io/blog.atom"
+        include: ["This Week in Spring"]   # 릴리스 노트 제외
+
+  # ── 주 1회 몰아서 볼 것 (기업 기술블로그) ──
+  - name: "weekly-tech"
+    webhook_env: DISCORD_WEBHOOK_WEEKLY
+    mode: digest
     feeds:
       - name: "토스테크"
         url: "https://toss.tech/rss.xml"
@@ -34,22 +53,18 @@ channels:
       - name: "요즘IT"
         url: "https://yozm.wishket.com/magazine/feed/"
 
-  - name: "java-spring"
-    webhook_env: DISCORD_WEBHOOK_JAVA
+  # ── 금융 규제/정책. 실시간일 이유가 없으니 주 1회 ──
+  - name: "weekly-finance"
+    webhook_env: DISCORD_WEBHOOK_FINANCE
+    mode: digest
     feeds:
-      - name: "Spring Blog"
-        url: "https://spring.io/blog.atom"
-      # This Week in Spring만 보고 싶으면 아래 필터를 사용
-      # - name: "This Week in Spring"
-      #   url: "https://spring.io/blog.atom"
-      #   include: ["This Week in Spring"]
-
-  - name: "global"
-    webhook_env: DISCORD_WEBHOOK_GLOBAL
-    feeds:
-      - name: "Hacker News 100+"
-        url: "https://hnrss.org/frontpage?points=100"
-      - name: "HN: Java"
-        url: "https://hnrss.org/newest?q=Java&points=50"
-      - name: "HN: Postgres"
-        url: "https://hnrss.org/newest?q=Postgres&points=50"
+      - name: "금융위 보도자료"
+        url: "https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+      - name: "한은 지급결제보고서"
+        url: "https://www.bok.or.kr/portal/bbs/P0000600/news.rss?menuNo=200072"
+      - name: "한은 지급결제 동향자료"
+        url: "https://www.bok.or.kr/portal/bbs/B0000507/news.rss?menuNo=201225"
+      - name: "한은 금융정보화 추진현황"
+        url: "https://www.bok.or.kr/portal/bbs/P0000272/news.rss?menuNo=200728"
+      - name: "한은금융망 운영 및 구축"
+        url: "https://www.bok.or.kr/portal/bbs/P0001992/news.rss?menuNo=200351"
