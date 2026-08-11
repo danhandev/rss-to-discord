@@ -64,7 +64,9 @@
       "https://news.hada.io/topic?id=32395",
       "https://news.hada.io/article/rails-without-dhh",
       "https://news.hada.io/topic?id=32400",
-      "https://news.hada.io/topic?id=32401"
+      "https://news.hada.io/topic?id=32401",
+      "https://news.hada.io/topic?id=32402",
+      "https://news.hada.io/topic?id=32403"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -97,7 +99,8 @@
       "https://news.ycombinator.com/item?id=49245437",
       "https://news.ycombinator.com/item?id=49249555",
       "https://news.ycombinator.com/item?id=49250836",
-      "https://news.ycombinator.com/item?id=49254880"
+      "https://news.ycombinator.com/item?id=49254880",
+      "https://news.ycombinator.com/item?id=49212449"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
