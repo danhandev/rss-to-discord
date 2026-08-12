@@ -149,7 +149,8 @@
       "https://news.ycombinator.com/item?id=49201953",
       "https://news.ycombinator.com/item?id=49261417",
       "https://news.ycombinator.com/item?id=49267928",
-      "https://news.ycombinator.com/item?id=49268564"
+      "https://news.ycombinator.com/item?id=49268564",
+      "https://news.ycombinator.com/item?id=49267108"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -355,7 +356,9 @@
       "https://medium.com/p/d4e61f6ba32f",
       "https://medium.com/p/090fb4021e20",
       "https://medium.com/p/f8b32edb2eb1",
-      "https://medium.com/p/3fa344b4391b"
+      "https://medium.com/p/3fa344b4391b",
+      "https://medium.com/p/34dd50abbfb7",
+      "https://medium.com/p/db1aa92af5e4"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -636,11 +639,28 @@
       "https://www.fsc.go.kr/no010101/87496",
       "https://www.fsc.go.kr/no010101/87498",
       "https://www.fsc.go.kr/no010101/87499",
-      "https://www.fsc.go.kr/no010101/87503"
+      "https://www.fsc.go.kr/no010101/87503",
+      "https://www.fsc.go.kr/no010101/87507",
+      "https://www.fsc.go.kr/no010101/87510",
+      "https://www.fsc.go.kr/no010101/87512",
+      "https://www.fsc.go.kr/no010101/87513"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "당근",
+        "title": "웹뷰 다음의 레일을 깔다: 당근이 Lynx를 선택한 이유",
+        "link": "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요, 당근 프론트엔드코어팀 리더 Tony입니다. 저희 팀은 프론트엔드 엔지니어들이 쓰는 개발 환경과 배포 인프라를 만들어요. 이 글은 레퍼런스가 거의 없던 기술 Lynx를 검토해서 프로덕션 앱에 넣기까지의 기록이에요. 새로운 기술을 도입할지 고민해 본 분이라면 판단의 과정이 참고가 될 거예요. 웹뷰와 성능 문제 당근 앱의 여러 화면은 웹뷰로 만들어져 있습니다. 웹뷰는 화면을 열 때 웹 문서와 데이터를 네트워크에서 가져와 실행하는데, 이 초기 로딩 문제가 오래된 과제였어요. SSR을…"
+      },
+      {
+        "source": "당근",
+        "title": "Laying the Rails Beyond WebView: Why Karrot Chose Lynx",
+        "link": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
+        "summary": "Hi, I’m Tony, the lead of Karrot’s Frontend Core Team. Our team builds the development environment and deployment infrastructure used by frontend engineers at Karrot. This post is a record of how we evaluated Lynx — a technology with very few real-world references at the time —…"
+      }
+    ],
     "weekly-finance": [
       {
         "source": "금융위 보도자료",
@@ -671,6 +691,30 @@
         "title": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명",
         "link": "https://www.fsc.go.kr/no010101/87503",
         "summary": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명 - 1. 관련 보도내용 □ 연합뉴스는 8.10일 「6천억원 국민참여성장펀드에 청년 13%뿐… 9월 2차 신청땐 늘까”」 제하의 기사에서, ㅇ“ 금융당국이 지난 5월 출시한 6천억원 규모의 국민참여형 국민성장펀드 (국민참여성장펀드) 에서 청년층 (2030세대) 가입 금액 비중이 13% 수준에 그친 것으로 나타났다.”등의 내용을 보도하였습니다. 2. 동 보도내용에 대한 설명 (1) 국민참여성장펀드…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "“실수요자 자금애로 해소를 위한 총량관리 목표 조정방안을 금주중 발표할 예정입니다.”",
+        "link": "https://www.fsc.go.kr/no010101/87507",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "스크래핑 차단에 따른 국민불편 최소화를 위해 금융권 대응 방안을 논의하였습니다.",
+        "link": "https://www.fsc.go.kr/no010101/87510",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "8.19일부터 괴리율 관리가 강화되고 모의거래가 의무화됩니다.",
+        "link": "https://www.fsc.go.kr/no010101/87512",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "2026년 하반기 디(D)-테스트베드 참여자 모집",
+        "link": "https://www.fsc.go.kr/no010101/87513",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
       }
     ]
   }
