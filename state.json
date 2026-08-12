@@ -83,7 +83,11 @@
       "https://news.hada.io/topic?id=32423",
       "https://news.hada.io/topic?id=32424",
       "https://news.hada.io/topic?id=32426",
-      "https://news.hada.io/topic?id=32427"
+      "https://news.hada.io/topic?id=32427",
+      "https://news.hada.io/topic?id=32408",
+      "https://news.hada.io/topic?id=32415",
+      "https://news.hada.io/topic?id=32428",
+      "https://news.hada.io/article/antirez-controls-the-ideas"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -140,7 +144,10 @@
       "https://news.ycombinator.com/item?id=49261895",
       "https://news.ycombinator.com/item?id=49262211",
       "https://news.ycombinator.com/item?id=49262811",
-      "https://news.ycombinator.com/item?id=49265051"
+      "https://news.ycombinator.com/item?id=49265051",
+      "https://news.ycombinator.com/item?id=49201953",
+      "https://news.ycombinator.com/item?id=49261417",
+      "https://news.ycombinator.com/item?id=49267928"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
