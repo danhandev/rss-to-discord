@@ -101,7 +101,12 @@
       "https://news.hada.io/topic?id=32442",
       "https://news.hada.io/topic?id=32443",
       "https://news.hada.io/topic?id=32444",
-      "https://news.hada.io/topic?id=32445"
+      "https://news.hada.io/topic?id=32445",
+      "https://news.hada.io/topic?id=32450",
+      "https://news.hada.io/topic?id=32452",
+      "https://news.hada.io/topic?id=32453",
+      "https://news.hada.io/topic?id=32454",
+      "https://news.hada.io/topic?id=32455"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -188,7 +193,8 @@
       "https://news.ycombinator.com/item?id=49269090",
       "https://news.ycombinator.com/item?id=49270726",
       "https://news.ycombinator.com/item?id=49271757",
-      "https://news.ycombinator.com/item?id=49275335"
+      "https://news.ycombinator.com/item?id=49275335",
+      "https://news.ycombinator.com/item?id=49274757"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -215,7 +221,8 @@
       "https://toss.tech/article/llm_context_topic",
       "https://toss.tech/article/ds-mle-cowork",
       "https://toss.tech/article/52209",
-      "https://toss.tech/article/tossion"
+      "https://toss.tech/article/tossion",
+      "https://toss.tech/article/tech_talk_talk_1"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -697,6 +704,12 @@
         "title": "Laying the Rails Beyond WebView: Why Karrot Chose Lynx",
         "link": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
         "summary": "Hi, I’m Tony, the lead of Karrot’s Frontend Core Team. Our team builds the development environment and deployment infrastructure used by frontend engineers at Karrot. This post is a record of how we evaluated Lynx — a technology with very few real-world references at the time —…"
+      },
+      {
+        "source": "토스테크",
+        "title": "AI에게 투자정보를 말하게 하기까지",
+        "link": "https://toss.tech/article/tech_talk_talk_1",
+        "summary": "근거를 고르고, 절차를 통제하고, 실패를 다시 쓰는 세 개의 관문"
       }
     ],
     "weekly-finance": [
