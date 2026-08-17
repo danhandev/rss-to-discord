@@ -1,8 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32329",
-      "https://news.hada.io/topic?id=32330",
       "https://news.hada.io/topic?id=32332",
       "https://news.hada.io/topic?id=32335",
       "https://news.hada.io/topic?id=32336",
@@ -200,7 +198,9 @@
       "https://news.hada.io/topic?id=32565",
       "https://news.hada.io/topic?id=32566",
       "https://news.hada.io/topic?id=32572",
-      "https://news.hada.io/topic?id=32573"
+      "https://news.hada.io/topic?id=32573",
+      "https://news.hada.io/topic?id=32563",
+      "https://news.hada.io/topic?id=32575"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -392,7 +392,10 @@
       "https://news.ycombinator.com/item?id=49322107",
       "https://news.ycombinator.com/item?id=49322695",
       "https://news.ycombinator.com/item?id=49322573",
-      "https://news.ycombinator.com/item?id=49323381"
+      "https://news.ycombinator.com/item?id=49323381",
+      "https://news.ycombinator.com/item?id=49259980",
+      "https://news.ycombinator.com/item?id=49323686",
+      "https://news.ycombinator.com/item?id=49325159"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
