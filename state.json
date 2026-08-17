@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32321",
-      "https://news.hada.io/topic?id=32322",
-      "https://news.hada.io/topic?id=32323",
-      "https://news.hada.io/topic?id=32324",
-      "https://news.hada.io/topic?id=32326",
       "https://news.hada.io/topic?id=32329",
       "https://news.hada.io/topic?id=32330",
       "https://news.hada.io/topic?id=32332",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=32568",
       "https://news.hada.io/topic?id=32569",
       "https://news.hada.io/topic?id=32570",
-      "https://news.hada.io/topic?id=32571"
+      "https://news.hada.io/topic?id=32571",
+      "https://news.hada.io/topic?id=32564",
+      "https://news.hada.io/topic?id=32565",
+      "https://news.hada.io/topic?id=32566",
+      "https://news.hada.io/topic?id=32572",
+      "https://news.hada.io/topic?id=32573"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49208296",
@@ -390,7 +390,9 @@
       "https://news.ycombinator.com/item?id=49321717",
       "https://news.ycombinator.com/item?id=49321353",
       "https://news.ycombinator.com/item?id=49322107",
-      "https://news.ycombinator.com/item?id=49322695"
+      "https://news.ycombinator.com/item?id=49322695",
+      "https://news.ycombinator.com/item?id=49322573",
+      "https://news.ycombinator.com/item?id=49323381"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -891,99 +893,7 @@
     ]
   },
   "pending": {
-    "weekly-tech": [
-      {
-        "source": "당근",
-        "title": "웹뷰 다음의 레일을 깔다: 당근이 Lynx를 선택한 이유",
-        "link": "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4",
-        "summary": "안녕하세요, 당근 프론트엔드코어팀 리더 Tony입니다. 저희 팀은 프론트엔드 엔지니어들이 쓰는 개발 환경과 배포 인프라를 만들어요. 이 글은 레퍼런스가 거의 없던 기술 Lynx를 검토해서 프로덕션 앱에 넣기까지의 기록이에요. 새로운 기술을 도입할지 고민해 본 분이라면 판단의 과정이 참고가 될 거예요. 웹뷰와 성능 문제 당근 앱의 여러 화면은 웹뷰로 만들어져 있습니다. 웹뷰는 화면을 열 때 웹 문서와 데이터를 네트워크에서 가져와 실행하는데, 이 초기 로딩 문제가 오래된 과제였어요. SSR을…"
-      },
-      {
-        "source": "당근",
-        "title": "Laying the Rails Beyond WebView: Why Karrot Chose Lynx",
-        "link": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
-        "summary": "Hi, I’m Tony, the lead of Karrot’s Frontend Core Team. Our team builds the development environment and deployment infrastructure used by frontend engineers at Karrot. This post is a record of how we evaluated Lynx — a technology with very few real-world references at the time —…"
-      },
-      {
-        "source": "토스테크",
-        "title": "AI에게 투자정보를 말하게 하기까지",
-        "link": "https://toss.tech/article/tech_talk_talk_1",
-        "summary": "근거를 고르고, 절차를 통제하고, 실패를 다시 쓰는 세 개의 관문"
-      }
-    ],
-    "weekly-finance": [
-      {
-        "source": "금융위 보도자료",
-        "title": "“시청 김주무관인데요, 무전기를 도매가로 대리구매 해주시면 차액을 챙겨드리겠습니다.” ☞ 공무원의 달콤한 대리구매 유혹, 100% 신종피싱 사기입니다.",
-        "link": "https://www.fsc.go.kr/no010101/87493",
-        "summary": "“시청 김주무관인데요, 무전기를 도매가로 대리구매 해주시면 차액을 챙겨드리겠습니다.” ☞ 공무원의 달콤한 대리구매 유혹, 100% 신종피싱 사기입니다. - FIU 제도운영기획관 주재로 6월 30일 부터 시행한 신종피싱 의심계좌 거래정지제도 * 점검회의를 개최 하여 제도 운영현황을 점검 * 신종피싱에 이용된 것으로 의심되는 계좌에 대해 금융회사에서 신속히 임시정지 (7영업일) 실시, 필요시 최대 60영업일간 추가 정지 - 제도 시행 이후 한달간 약 5,000건 (4,935건) 의 신종피싱 의심계좌…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "청년미래적금, 138.5만명 최종 가입",
-        "link": "https://www.fsc.go.kr/no010101/87496",
-        "summary": "청년미래적금, 138.5만명 최종 가입 ✓ 최초 모집에 234.3만명 신청, 154.7만명 가입심사 통과, 최종 138.5만명 가입 지난 6월 22일부터 7월 3일까지 진행된 청년미래적금 최초 가입신청 에는 총 234.3만명 이 신청 하였으며, 개인·가구소득 등 가입요건 심사 를 통과 한 154.7만명 중 138.5만명 이 청년미래적금 에 최종 가입 하였다. 청년미래적금 가입자를 유형별 로 살펴보면 일반형 약 98.3만명 (70.9%) , 우대형 약 38.9만명 (28.1%) 이며 * , 연령별…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "2026년 하반기 영세·중소가맹점 선정결과 및 2026년 상반기 신규가맹점 카드수수료 환급 안내",
-        "link": "https://www.fsc.go.kr/no010101/87498",
-        "summary": "2026년 하반기 영세·중소가맹점 선정결과 및 2026년 상반기 신규가맹점 카드수수료 환급 안내 [1] ’26.8.14. 부터 ’26.하반기 기준 신용카드가맹점 309.4만개 , 결제대행업체 (PG) 하위가맹점 199.9만개 , 택시사업자 16.6만개 에 우대수수료율 적용 [2] ’26.상반기 신규사업자 로서 ’26.하반기 기준 영세·중소가맹점으로 새롭게 확인된 신용카드가맹점 15.9만개 , 결제대행업체 하위가맹점 13.2만개 , 택시사업자 0.6만개 에 수수료 차액 (기존수수료율-우대수수료율)…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "가상자산시장의 투명성 강화를 위한 「특정금융정보법 시행령」 개정안 국무회의 의결",
-        "link": "https://www.fsc.go.kr/no010101/87499",
-        "summary": "가상자산시장의 투명성 강화를 위한 「 특정금융정보법 시행령」 개정안 국무회의 의결 ✓ 가상자산사업자 신고 불수리 요건 (건전한 재무상태 및 사회적 신용 등) 및 심사대상이 되는 대주주의 범위를 구체화 ✓ 트래블룰 기준금액 (100만원) 폐지 , 해외 가상자산사업자 및 개인지갑 과의 거래 관련 자금세탁방지 의무 (위험도에 따른 거래허용범위 차등화 등) 부과 ✓ 특정금융정보법상 고객확인의 방법 및 대상을 명확화 가상자산사업자의 신고제를 강화하고, 가상자산 이전거래 관련 자금세탁 방지 의무를 강화하기…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명",
-        "link": "https://www.fsc.go.kr/no010101/87503",
-        "summary": "“국민참여성장펀드의 청년 가입기회를 확대할 계획입니다.” - 연합뉴스 8.10일자 기사에 대한 설명 - 1. 관련 보도내용 □ 연합뉴스는 8.10일 「6천억원 국민참여성장펀드에 청년 13%뿐… 9월 2차 신청땐 늘까”」 제하의 기사에서, ㅇ“ 금융당국이 지난 5월 출시한 6천억원 규모의 국민참여형 국민성장펀드 (국민참여성장펀드) 에서 청년층 (2030세대) 가입 금액 비중이 13% 수준에 그친 것으로 나타났다.”등의 내용을 보도하였습니다. 2. 동 보도내용에 대한 설명 (1) 국민참여성장펀드…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "“실수요자 자금애로 해소를 위한 총량관리 목표 조정방안을 금주중 발표할 예정입니다.”",
-        "link": "https://www.fsc.go.kr/no010101/87507",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "스크래핑 차단에 따른 국민불편 최소화를 위해 금융권 대응 방안을 논의하였습니다.",
-        "link": "https://www.fsc.go.kr/no010101/87510",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "8.19일부터 괴리율 관리가 강화되고 모의거래가 의무화됩니다.",
-        "link": "https://www.fsc.go.kr/no010101/87512",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "2026년 하반기 디(D)-테스트베드 참여자 모집",
-        "link": "https://www.fsc.go.kr/no010101/87513",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "수도권 23만호+α 추가 공급, 주택 공급 촉진 및  청년 등 실수요자 금융지원 강화",
-        "link": "https://www.fsc.go.kr/no010101/87517",
-        "summary": "수도권 23만호+α 추가 공급, 주택 공급 촉진 및 청년 등 실수요자 금융지원 강화 - 국토부, 「 전월세 및 매매시장 안정을 위한 주택 신속공급 방안 」 발표 - 금융위, ｢ 부동산 시장 안정을 위한 금융 종합대책 ｣ 발표 - 대책 이 속도감 있게 이행 되도록 범정부 주택 신속공급 점검체계 즉시 가동 □ 김윤덕 국토교통부장관 , 이억원 금융위원장 , 임기근 국무조정실장 , 재정경제부 이형일 1차관 은 8.13일(목) 정부서울청사에 서 ｢ 전월세 및 매매 시장 안정을 위한 주택 신속공급 방안 ｣…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "가상자산사업자 신고제 강화에 맞춰 신고매뉴얼을 전면 개정합니다. - FIU·금감원, 개정 신고매뉴얼에 대한 「찾아가는 설명회」 개최",
-        "link": "https://www.fsc.go.kr/no010101/87521",
-        "summary": "가상자산사업자 신고제 강화에 맞춰 신고매뉴얼을 전면 개정합니다. - FIU·금감원, 개정 신고매뉴얼에 대한 「 찾아가는 설명회 」 개최 - ✓ 개정 특금법령 (8.20. 시행)에 따라 가상자산사업자 대주주의 건전성 , 사업자의 재무상태·사회적 신용 , 조직·인력·전산설비 등이 신고대상 에 포함 ✓개정 신고매뉴얼은 강화된 신고제 하에서 사업자가 실제 신고 준비 · 이행 에 필요한 실무기준·절차·방법 등을 안내하여 예측가능성 제고 ✓FIU 제도운영기획관은 모두발언을 통해 가상자산시장의 신뢰 제고 를…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "2026년 7월 가계대출 동향(잠정) 및  ｢확대 가계부채 점검회의｣ 개최",
-        "link": "https://www.fsc.go.kr/no010101/87543",
-        "summary": "2026년 7월 가계대출 동향 (잠정) 및 ｢확대 가계부채 점검회의｣ 개최 ◇ ’26.7월 全 금융권 가계대출 은 +6.2조원 증가 하여 전월 (+8.3조원) 대비 증가폭 축소 , 전년 동월 (+2.2조원) 대비 증가폭 확대 * 증감액 (조원) : (‘26.1월)+1.4 (2월)+2.9 (3월)+3.5 (4월)+3.5 (5월)+9.3 (6월)+8.3 (7월 p )+6.2 ◇ 전일 발표한 ｢ 부동산 시장 안정을 위한 금융 종합대책 ｣의 차질없는 추진 을 위해 유관기관 및 금융권 의 적극적인 참여…"
-      }
-    ]
+    "weekly-tech": [],
+    "weekly-finance": []
   }
 }
