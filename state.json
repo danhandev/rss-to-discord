@@ -203,11 +203,6 @@
       "https://news.hada.io/topic?id=32623"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49261514",
-      "https://news.ycombinator.com/item?id=49261895",
-      "https://news.ycombinator.com/item?id=49262211",
-      "https://news.ycombinator.com/item?id=49262811",
-      "https://news.ycombinator.com/item?id=49265051",
       "https://news.ycombinator.com/item?id=49201953",
       "https://news.ycombinator.com/item?id=49261417",
       "https://news.ycombinator.com/item?id=49267928",
@@ -402,12 +397,18 @@
       "https://news.ycombinator.com/item?id=49334960",
       "https://news.ycombinator.com/item?id=49345476",
       "https://news.ycombinator.com/item?id=49345843",
-      "https://news.ycombinator.com/item?id=49348751"
+      "https://news.ycombinator.com/item?id=49348751",
+      "https://news.ycombinator.com/item?id=49332981",
+      "https://news.ycombinator.com/item?id=49340710",
+      "https://news.ycombinator.com/item?id=49349147",
+      "https://news.ycombinator.com/item?id=49349898",
+      "https://news.ycombinator.com/item?id=49349984"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
       "https://spring.io/blog/2026/08/04/this-week-in-spring-august-4-2026",
-      "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026"
+      "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
+      "https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
