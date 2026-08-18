@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32360",
       "https://news.hada.io/topic?id=32361",
       "https://news.hada.io/topic?id=32362",
       "https://news.hada.io/topic?id=32363",
@@ -200,14 +199,10 @@
       "https://news.hada.io/topic?id=32597",
       "https://news.hada.io/topic?id=32598",
       "https://news.hada.io/topic?id=32599",
-      "https://news.hada.io/topic?id=32600"
+      "https://news.hada.io/topic?id=32600",
+      "https://news.hada.io/topic?id=32595"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49250894",
-      "https://news.ycombinator.com/item?id=49245023",
-      "https://news.ycombinator.com/item?id=49245437",
-      "https://news.ycombinator.com/item?id=49249555",
-      "https://news.ycombinator.com/item?id=49250836",
       "https://news.ycombinator.com/item?id=49254880",
       "https://news.ycombinator.com/item?id=49212449",
       "https://news.ycombinator.com/item?id=49173107",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49331474",
       "https://news.ycombinator.com/item?id=49333344",
       "https://news.ycombinator.com/item?id=49338328",
-      "https://news.ycombinator.com/item?id=49338459"
+      "https://news.ycombinator.com/item?id=49338459",
+      "https://news.ycombinator.com/item?id=49272891",
+      "https://news.ycombinator.com/item?id=49334409",
+      "https://news.ycombinator.com/item?id=49335600",
+      "https://news.ycombinator.com/item?id=49337392",
+      "https://news.ycombinator.com/item?id=49337602"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -430,7 +430,8 @@
       "https://toss.tech/article/ds-mle-cowork",
       "https://toss.tech/article/52209",
       "https://toss.tech/article/tossion",
-      "https://toss.tech/article/tech_talk_talk_1"
+      "https://toss.tech/article/tech_talk_talk_1",
+      "https://toss.tech/article/games-in-ads"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -903,7 +904,14 @@
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "토스테크",
+        "title": "토스는 어떻게 광고 속에 게임을 넣었을까",
+        "link": "https://toss.tech/article/games-in-ads",
+        "summary": "토스에서 게임 광고를 받기 위해 MRAID 기반 플레이어블 광고 SDK를 직접 만든 이야기를 소개해요."
+      }
+    ],
     "weekly-finance": []
   }
 }
