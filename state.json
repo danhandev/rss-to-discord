@@ -1,9 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/article/rails-without-dhh",
-      "https://news.hada.io/topic?id=32400",
-      "https://news.hada.io/topic?id=32401",
       "https://news.hada.io/topic?id=32402",
       "https://news.hada.io/topic?id=32403",
       "https://news.hada.io/topic?id=32405",
@@ -200,7 +197,10 @@
       "https://news.hada.io/topic?id=32637",
       "https://news.hada.io/topic?id=32639",
       "https://news.hada.io/topic?id=32641",
-      "https://news.hada.io/topic?id=32642"
+      "https://news.hada.io/topic?id=32642",
+      "https://news.hada.io/topic?id=32646",
+      "https://news.hada.io/article/github-is-not-just-git",
+      "https://news.hada.io/topic?id=32648"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49194856",
