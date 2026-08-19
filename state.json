@@ -1,9 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32428",
-      "https://news.hada.io/article/antirez-controls-the-ideas",
-      "https://news.hada.io/topic?id=32430",
       "https://news.hada.io/topic?id=32432",
       "https://news.hada.io/topic?id=32433",
       "https://news.hada.io/topic?id=32434",
@@ -200,14 +197,12 @@
       "https://news.hada.io/topic?id=32669",
       "https://news.hada.io/topic?id=32670",
       "https://news.hada.io/topic?id=32671",
-      "https://news.hada.io/topic?id=32672"
+      "https://news.hada.io/topic?id=32672",
+      "https://news.hada.io/topic?id=32673",
+      "https://news.hada.io/topic?id=32674",
+      "https://news.hada.io/topic?id=32675"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49281916",
-      "https://news.ycombinator.com/item?id=49280103",
-      "https://news.ycombinator.com/item?id=49242698",
-      "https://news.ycombinator.com/item?id=49284774",
-      "https://news.ycombinator.com/item?id=49285244",
       "https://news.ycombinator.com/item?id=49285327",
       "https://news.ycombinator.com/item?id=49285418",
       "https://news.ycombinator.com/item?id=49285982",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49362401",
       "https://news.ycombinator.com/item?id=49364559",
       "https://news.ycombinator.com/item?id=49365405",
-      "https://news.ycombinator.com/item?id=49365733"
+      "https://news.ycombinator.com/item?id=49365733",
+      "https://news.ycombinator.com/item?id=49347477",
+      "https://news.ycombinator.com/item?id=49350031",
+      "https://news.ycombinator.com/item?id=49353339",
+      "https://news.ycombinator.com/item?id=49364745",
+      "https://news.ycombinator.com/item?id=49365443"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
