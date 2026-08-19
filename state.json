@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32380",
-      "https://news.hada.io/topic?id=32381",
-      "https://news.hada.io/topic?id=32382",
-      "https://news.hada.io/topic?id=32383",
-      "https://news.hada.io/topic?id=32384",
       "https://news.hada.io/topic?id=32386",
       "https://news.hada.io/topic?id=32388",
       "https://news.hada.io/topic?id=32389",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32622",
       "https://news.hada.io/topic?id=32623",
       "https://news.hada.io/topic?id=32624",
-      "https://news.hada.io/topic?id=32625"
+      "https://news.hada.io/topic?id=32625",
+      "https://news.hada.io/topic?id=32628",
+      "https://news.hada.io/topic?id=32629",
+      "https://news.hada.io/topic?id=32630",
+      "https://news.hada.io/topic?id=32631",
+      "https://news.hada.io/topic?id=32633"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49265879",
-      "https://news.ycombinator.com/item?id=49266277",
-      "https://news.ycombinator.com/item?id=49269818",
-      "https://news.ycombinator.com/item?id=49270022",
-      "https://news.ycombinator.com/item?id=49270040",
       "https://news.ycombinator.com/item?id=49208693",
       "https://news.ycombinator.com/item?id=49260250",
       "https://news.ycombinator.com/item?id=49270953",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49310602",
       "https://news.ycombinator.com/item?id=49332495",
       "https://news.ycombinator.com/item?id=49351324",
-      "https://news.ycombinator.com/item?id=49351330"
+      "https://news.ycombinator.com/item?id=49351330",
+      "https://news.ycombinator.com/item?id=49321298",
+      "https://news.ycombinator.com/item?id=49348055",
+      "https://news.ycombinator.com/item?id=49348912",
+      "https://news.ycombinator.com/item?id=49352806",
+      "https://news.ycombinator.com/item?id=49353221"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -902,7 +902,8 @@
       "https://www.fsc.go.kr/no010101/87513",
       "https://www.fsc.go.kr/no010101/87517",
       "https://www.fsc.go.kr/no010101/87521",
-      "https://www.fsc.go.kr/no010101/87543"
+      "https://www.fsc.go.kr/no010101/87543",
+      "https://www.fsc.go.kr/no010101/87554"
     ]
   },
   "pending": {
@@ -920,6 +921,13 @@
         "summary": "안녕하세요. 사내 보안 업무에 AI를 접목하는 일을 하고 있는 Security Development Division(LINE Plus Security R&D)팀입니다.이 글은 사내..."
       }
     ],
-    "weekly-finance": []
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "“함께하는 금융, 청년의 미래를 그리다” 「2026 금융권 공동채용 박람회」 개최 - 8월 19일(수)~20일(목) 10:00~17:00, 서울 DDP에서 개최",
+        "link": "https://www.fsc.go.kr/no010101/87554",
+        "summary": "“함께하는 금융, 청년의 미래를 그리다” 「2026 금융권 공동채용 박람회」 개최 - 8월 19일(수)~20일(목) 10:00~17:00, 서울 DDP에서 개최- ✓ 올해 10회차를 맞이하여 역대 최대 규모 인 금융기관 82개사 참가 ✓ ’27년 부터 금융권 공동채용 박람회 연 2회 개최 로 확대 하고, 지역 거주 청년들을 위해 2회 중 1회는 비수도권 지역 에서 개최 【 행사 개요 】 8월 19일(수) ~ 20일(목) 양일간, 서울 동대문디자인플라자 (DDP)에서 금융권 최대 규모 채용행사인…"
+      }
+    ]
   }
 }
