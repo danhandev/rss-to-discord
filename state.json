@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32395",
       "https://news.hada.io/article/rails-without-dhh",
       "https://news.hada.io/topic?id=32400",
       "https://news.hada.io/topic?id=32401",
@@ -200,14 +199,10 @@
       "https://news.hada.io/topic?id=32636",
       "https://news.hada.io/topic?id=32637",
       "https://news.hada.io/topic?id=32639",
-      "https://news.hada.io/topic?id=32641"
+      "https://news.hada.io/topic?id=32641",
+      "https://news.hada.io/topic?id=32642"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49272549",
-      "https://news.ycombinator.com/item?id=49272655",
-      "https://news.ycombinator.com/item?id=49272832",
-      "https://news.ycombinator.com/item?id=49273165",
-      "https://news.ycombinator.com/item?id=49273478",
       "https://news.ycombinator.com/item?id=49194856",
       "https://news.ycombinator.com/item?id=49270621",
       "https://news.ycombinator.com/item?id=49272569",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49311814",
       "https://news.ycombinator.com/item?id=49355142",
       "https://news.ycombinator.com/item?id=49353407",
-      "https://news.ycombinator.com/item?id=49354949"
+      "https://news.ycombinator.com/item?id=49354949",
+      "https://news.ycombinator.com/item?id=49353432",
+      "https://news.ycombinator.com/item?id=49354613",
+      "https://news.ycombinator.com/item?id=49355105",
+      "https://news.ycombinator.com/item?id=49355606",
+      "https://news.ycombinator.com/item?id=49355825"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -903,7 +903,8 @@
       "https://www.fsc.go.kr/no010101/87517",
       "https://www.fsc.go.kr/no010101/87521",
       "https://www.fsc.go.kr/no010101/87543",
-      "https://www.fsc.go.kr/no010101/87554"
+      "https://www.fsc.go.kr/no010101/87554",
+      "https://www.fsc.go.kr/no010101/87558"
     ]
   },
   "pending": {
@@ -927,6 +928,12 @@
         "title": "“함께하는 금융, 청년의 미래를 그리다” 「2026 금융권 공동채용 박람회」 개최 - 8월 19일(수)~20일(목) 10:00~17:00, 서울 DDP에서 개최",
         "link": "https://www.fsc.go.kr/no010101/87554",
         "summary": "“함께하는 금융, 청년의 미래를 그리다” 「2026 금융권 공동채용 박람회」 개최 - 8월 19일(수)~20일(목) 10:00~17:00, 서울 DDP에서 개최- ✓ 올해 10회차를 맞이하여 역대 최대 규모 인 금융기관 82개사 참가 ✓ ’27년 부터 금융권 공동채용 박람회 연 2회 개최 로 확대 하고, 지역 거주 청년들을 위해 2회 중 1회는 비수도권 지역 에서 개최 【 행사 개요 】 8월 19일(수) ~ 20일(목) 양일간, 서울 동대문디자인플라자 (DDP)에서 금융권 최대 규모 채용행사인…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "제53차 금융중심지추진위원회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87558",
+        "summary": "제53차 금융중심지추진위원회 개최 ▸ (안건①) 「제7차 금융중심지 조성과 발전에 관한 기본계획(2026~2028)」 - 4대 추진과제 선정 : ①금융산업 혁신 제고, ②글로벌 수준 금융인프라 구축, ③자본시장 활성화, ④금융중심지 지원 내실화 ▸ (안건②) 「전북 금융중심지 지정 평가방안」 - 평가단을 구성하여 현장실사 및 법정 심의사항 등 평가방안 마련 - 연구수행기관의 평가결과를 토대로 연내 금융중심지 지정 여부 를 심의할 계획 Ⅰ. 회의 개요 금융위원회는 제53차…"
       }
     ]
   }
