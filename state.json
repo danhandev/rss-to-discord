@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32437",
-      "https://news.hada.io/topic?id=32438",
-      "https://news.hada.io/topic?id=32439",
-      "https://news.hada.io/topic?id=32441",
-      "https://news.hada.io/topic?id=32442",
       "https://news.hada.io/topic?id=32443",
       "https://news.hada.io/topic?id=32444",
       "https://news.hada.io/topic?id=32445",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=32683",
       "https://news.hada.io/topic?id=32684",
       "https://news.hada.io/topic?id=32685",
-      "https://news.hada.io/topic?id=32686"
+      "https://news.hada.io/topic?id=32686",
+      "https://news.hada.io/topic?id=32678",
+      "https://news.hada.io/topic?id=32679",
+      "https://news.hada.io/topic?id=32680",
+      "https://news.hada.io/topic?id=32681",
+      "https://news.hada.io/topic?id=32688"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49285770",
@@ -615,7 +615,8 @@
       "https://medium.com/p/f8b32edb2eb1",
       "https://medium.com/p/3fa344b4391b",
       "https://medium.com/p/34dd50abbfb7",
-      "https://medium.com/p/db1aa92af5e4"
+      "https://medium.com/p/db1aa92af5e4",
+      "https://medium.com/p/a50dd4b7b44c"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -905,7 +906,8 @@
       "https://www.fsc.go.kr/no010101/87521",
       "https://www.fsc.go.kr/no010101/87543",
       "https://www.fsc.go.kr/no010101/87554",
-      "https://www.fsc.go.kr/no010101/87558"
+      "https://www.fsc.go.kr/no010101/87558",
+      "https://www.fsc.go.kr/no010101/87565"
     ]
   },
   "pending": {
@@ -927,6 +929,12 @@
         "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
         "link": "https://toss.tech/article/ads_dashboard_fe",
         "summary": "서버가 하던 필터링·정렬·검색·페이지네이션을 브라우저로 옮겼더니, 속도뿐 아니라 손대지 못하던 문제 네 개가 같이 풀렸습니다."
+      },
+      {
+        "source": "당근",
+        "title": "당근의 인증은 어떻게 달라져 왔을까요?",
+        "link": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요? Identity Service Team의 Software Engineer 키(Key)입니다. Identity Service Team은 당근의 회원과 인증을 책임지고 있는 팀이에요. 당근뿐 아니라 대부분의 서비스에서, 인증은 서비스를 시작하려면 꼭 한 번은 거쳐야 하는 단계예요. SMS 인증부터 본인인증까지 방식은 다양하지만, 모든 인증이 하려는 일은 결국 하나예요. ‘이 계정의 주인이 나’라는 걸 확인하는 것. 그럼 당근은 ‘이 계정의 주인이 나’라는 걸 어떻게 확인해 왔을까요?…"
       }
     ],
     "weekly-finance": [
@@ -941,6 +949,12 @@
         "title": "제53차 금융중심지추진위원회 개최",
         "link": "https://www.fsc.go.kr/no010101/87558",
         "summary": "제53차 금융중심지추진위원회 개최 ▸ (안건①) 「제7차 금융중심지 조성과 발전에 관한 기본계획(2026~2028)」 - 4대 추진과제 선정 : ①금융산업 혁신 제고, ②글로벌 수준 금융인프라 구축, ③자본시장 활성화, ④금융중심지 지원 내실화 ▸ (안건②) 「전북 금융중심지 지정 평가방안」 - 평가단을 구성하여 현장실사 및 법정 심의사항 등 평가방안 마련 - 연구수행기관의 평가결과를 토대로 연내 금융중심지 지정 여부 를 심의할 계획 Ⅰ. 회의 개요 금융위원회는 제53차…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융·통신·수사 협업으로  보이스피싱 피해 신고 전에 막는다!  - 제2차 보이스피싱 근절 협의회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87565",
+        "summary": "금융·통신·수사 협업으로 보이스피싱 피해 신고 전에 막는다! - 제2차 보이스피싱 근절 협의회 개최 - • 기관 간 칸막이를 제거 하여 금융·통신·수사분야 보이스피싱 의심정보 공유 • 은행 내 FDS-AML 통합대응 및 은행-통신사 협약 등 민간분야 협업 본격화 • 전 금융권 대상 대포통장 관련 실태 조사 및 제도개선 추진 【관련 국정과제】 66. 금융투자자 및 소비자 권익보호 강화 [ 회의개요 ] 금융위원회 는 ’26.8.20.(목) 권대영 부위원장 주재 로 경찰청, 국세청, 금융 감독원,…"
       }
     ]
   }
