@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32432",
-      "https://news.hada.io/topic?id=32433",
-      "https://news.hada.io/topic?id=32434",
-      "https://news.hada.io/topic?id=32435",
-      "https://news.hada.io/topic?id=32436",
       "https://news.hada.io/topic?id=32437",
       "https://news.hada.io/topic?id=32438",
       "https://news.hada.io/topic?id=32439",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=32672",
       "https://news.hada.io/topic?id=32673",
       "https://news.hada.io/topic?id=32674",
-      "https://news.hada.io/topic?id=32675"
+      "https://news.hada.io/topic?id=32675",
+      "https://news.hada.io/topic?id=32682",
+      "https://news.hada.io/topic?id=32683",
+      "https://news.hada.io/topic?id=32684",
+      "https://news.hada.io/topic?id=32685",
+      "https://news.hada.io/topic?id=32686"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49285327",
-      "https://news.ycombinator.com/item?id=49285418",
-      "https://news.ycombinator.com/item?id=49285982",
-      "https://news.ycombinator.com/item?id=49286341",
       "https://news.ycombinator.com/item?id=49285770",
       "https://news.ycombinator.com/item?id=49286485",
       "https://news.ycombinator.com/item?id=49286662",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=49350031",
       "https://news.ycombinator.com/item?id=49353339",
       "https://news.ycombinator.com/item?id=49364745",
-      "https://news.ycombinator.com/item?id=49365443"
+      "https://news.ycombinator.com/item?id=49365443",
+      "https://news.ycombinator.com/item?id=49362728",
+      "https://news.ycombinator.com/item?id=49363668",
+      "https://news.ycombinator.com/item?id=49365841",
+      "https://news.ycombinator.com/item?id=49367350"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -432,7 +432,8 @@
       "https://toss.tech/article/52209",
       "https://toss.tech/article/tossion",
       "https://toss.tech/article/tech_talk_talk_1",
-      "https://toss.tech/article/games-in-ads"
+      "https://toss.tech/article/games-in-ads",
+      "https://toss.tech/article/ads_dashboard_fe"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -920,6 +921,12 @@
         "title": "보안 업무를 위한 AI 에이전트 플랫폼 「SAGE」 개발기 1편: 판단은 사람에게 남기는 설계",
         "link": "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
         "summary": "안녕하세요. 사내 보안 업무에 AI를 접목하는 일을 하고 있는 Security Development Division(LINE Plus Security R&D)팀입니다.이 글은 사내..."
+      },
+      {
+        "source": "토스테크",
+        "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+        "link": "https://toss.tech/article/ads_dashboard_fe",
+        "summary": "서버가 하던 필터링·정렬·검색·페이지네이션을 브라우저로 옮겼더니, 속도뿐 아니라 손대지 못하던 문제 네 개가 같이 풀렸습니다."
       }
     ],
     "weekly-finance": [
