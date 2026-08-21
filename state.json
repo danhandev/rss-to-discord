@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32468",
-      "https://news.hada.io/topic?id=32469",
-      "https://news.hada.io/topic?id=32470",
-      "https://news.hada.io/topic?id=32473",
-      "https://news.hada.io/topic?id=32474",
       "https://news.hada.io/topic?id=32475",
       "https://news.hada.io/topic?id=32476",
       "https://news.hada.io/topic?id=32477",
@@ -200,10 +195,14 @@
       "https://news.hada.io/topic?id=32706",
       "https://news.hada.io/topic?id=32707",
       "https://news.hada.io/topic?id=32708",
-      "https://news.hada.io/topic?id=32709"
+      "https://news.hada.io/topic?id=32709",
+      "https://news.hada.io/topic?id=32710",
+      "https://news.hada.io/topic?id=32711",
+      "https://news.hada.io/topic?id=32712",
+      "https://news.hada.io/topic?id=32713",
+      "https://news.hada.io/topic?id=32714"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49299282",
       "https://news.ycombinator.com/item?id=49299684",
       "https://news.ycombinator.com/item?id=49299605",
       "https://news.ycombinator.com/item?id=49299675",
@@ -402,7 +401,8 @@
       "https://news.ycombinator.com/item?id=49378243",
       "https://news.ycombinator.com/item?id=49378768",
       "https://news.ycombinator.com/item?id=49378957",
-      "https://news.ycombinator.com/item?id=49379550"
+      "https://news.ycombinator.com/item?id=49379550",
+      "https://news.ycombinator.com/item?id=49375719"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -433,7 +433,8 @@
       "https://toss.tech/article/tossion",
       "https://toss.tech/article/tech_talk_talk_1",
       "https://toss.tech/article/games-in-ads",
-      "https://toss.tech/article/ads_dashboard_fe"
+      "https://toss.tech/article/ads_dashboard_fe",
+      "https://toss.tech/article/tech_talk_talk_2"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -940,6 +941,12 @@
         "title": "당근의 인증은 어떻게 달라져 왔을까요?",
         "link": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4",
         "summary": "안녕하세요? Identity Service Team의 Software Engineer 키(Key)입니다. Identity Service Team은 당근의 회원과 인증을 책임지고 있는 팀이에요. 당근뿐 아니라 대부분의 서비스에서, 인증은 서비스를 시작하려면 꼭 한 번은 거쳐야 하는 단계예요. SMS 인증부터 본인인증까지 방식은 다양하지만, 모든 인증이 하려는 일은 결국 하나예요. ‘이 계정의 주인이 나’라는 걸 확인하는 것. 그럼 당근은 ‘이 계정의 주인이 나’라는 걸 어떻게 확인해 왔을까요?…"
+      },
+      {
+        "source": "토스테크",
+        "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
+        "link": "https://toss.tech/article/tech_talk_talk_2",
+        "summary": "LLM 서빙 생태계는 빠르게 바뀌고 있습니다. 불과 수년 전만 해도, LLM을 배포하는 것 자체가 허들인 경우가 많았어요. 하지만, 지금은 다양한 곳에서 On-premise LLM을 다양하게 사용하고 있습니다. 토스증권도 마찬가지로 다수의 오픈 소스 LLM, 직접 튜닝한 모델을 서비스에 활용하고 있습니다. 이런 상황에서, LLM을 단순히 서빙하는 것보다, 잘 띄우는 것이 더 중요해졌습니다. 평소에는 조용하던 팀의 알림 채널이 어느 날 갑자기 알림이 쏟아지는 날이 있습니다. 이 알림들은 여러…"
       }
     ],
     "weekly-finance": [
