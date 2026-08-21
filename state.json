@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32489",
-      "https://news.hada.io/topic?id=32480",
-      "https://news.hada.io/topic?id=32481",
-      "https://news.hada.io/topic?id=32482",
-      "https://news.hada.io/topic?id=32491",
       "https://news.hada.io/topic?id=32492",
       "https://news.hada.io/topic?id=32493",
       "https://news.hada.io/topic?id=32494",
@@ -200,12 +195,14 @@
       "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
       "https://news.hada.io/topic?id=32723",
       "https://news.hada.io/topic?id=32725",
-      "https://news.hada.io/topic?id=32726"
+      "https://news.hada.io/topic?id=32726",
+      "https://news.hada.io/topic?id=32730",
+      "https://news.hada.io/topic?id=32731",
+      "https://news.hada.io/topic?id=32732",
+      "https://news.hada.io/topic?id=32733",
+      "https://news.hada.io/topic?id=32734"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49300568",
-      "https://news.ycombinator.com/item?id=49300800",
-      "https://news.ycombinator.com/item?id=49303202",
       "https://news.ycombinator.com/item?id=49304447",
       "https://news.ycombinator.com/item?id=49305492",
       "https://news.ycombinator.com/item?id=49306577",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=49384716",
       "https://news.ycombinator.com/item?id=49384896",
       "https://news.ycombinator.com/item?id=49385994",
-      "https://news.ycombinator.com/item?id=49386163"
+      "https://news.ycombinator.com/item?id=49386163",
+      "https://news.ycombinator.com/item?id=49385860",
+      "https://news.ycombinator.com/item?id=49387497",
+      "https://news.ycombinator.com/item?id=49388154"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
