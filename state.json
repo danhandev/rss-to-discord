@@ -1,8 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32521",
-      "https://news.hada.io/topic?id=32522",
       "https://news.hada.io/topic?id=32523",
       "https://news.hada.io/topic?id=32524",
       "https://news.hada.io/topic?id=32526",
@@ -200,10 +198,11 @@
       "https://news.hada.io/topic?id=32756",
       "https://news.hada.io/topic?id=32760",
       "https://news.hada.io/topic?id=32761",
-      "https://news.hada.io/topic?id=32762"
+      "https://news.hada.io/topic?id=32762",
+      "https://news.hada.io/topic?id=32764",
+      "https://news.hada.io/topic?id=32765"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49314403",
       "https://news.ycombinator.com/item?id=49268580",
       "https://news.ycombinator.com/item?id=49313367",
       "https://news.ycombinator.com/item?id=49313428",
@@ -402,7 +401,8 @@
       "https://news.ycombinator.com/item?id=49394496",
       "https://news.ycombinator.com/item?id=49384210",
       "https://news.ycombinator.com/item?id=49391553",
-      "https://news.ycombinator.com/item?id=49395605"
+      "https://news.ycombinator.com/item?id=49395605",
+      "https://news.ycombinator.com/item?id=49398304"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
