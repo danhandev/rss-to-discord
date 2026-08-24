@@ -1,9 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32595",
-      "https://news.hada.io/topic?id=32602",
-      "https://news.hada.io/topic?id=32604",
       "https://news.hada.io/topic?id=32606",
       "https://news.hada.io/topic?id=32607",
       "https://news.hada.io/topic?id=32608",
@@ -200,7 +197,10 @@
       "https://news.hada.io/topic?id=32838",
       "https://news.hada.io/topic?id=32839",
       "https://news.hada.io/topic?id=32840",
-      "https://news.hada.io/topic?id=32841"
+      "https://news.hada.io/topic?id=32841",
+      "https://news.hada.io/topic?id=32842",
+      "https://news.hada.io/topic?id=32843",
+      "https://news.hada.io/topic?id=32844"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49326156",
