@@ -1,8 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32636",
-      "https://news.hada.io/topic?id=32637",
       "https://news.hada.io/topic?id=32639",
       "https://news.hada.io/topic?id=32641",
       "https://news.hada.io/topic?id=32642",
@@ -200,12 +198,11 @@
       "https://news.hada.io/topic?id=32868",
       "https://news.hada.io/topic?id=32871",
       "https://news.hada.io/topic?id=32872",
-      "https://news.hada.io/topic?id=32873"
+      "https://news.hada.io/topic?id=32873",
+      "https://news.hada.io/topic?id=32874",
+      "https://news.hada.io/topic?id=32875"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49331474",
-      "https://news.ycombinator.com/item?id=49333344",
-      "https://news.ycombinator.com/item?id=49338328",
       "https://news.ycombinator.com/item?id=49338459",
       "https://news.ycombinator.com/item?id=49272891",
       "https://news.ycombinator.com/item?id=49334409",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=49426466",
       "https://news.ycombinator.com/item?id=49420530",
       "https://news.ycombinator.com/item?id=49423539",
-      "https://news.ycombinator.com/item?id=49424387"
+      "https://news.ycombinator.com/item?id=49424387",
+      "https://news.ycombinator.com/item?id=49399722",
+      "https://news.ycombinator.com/item?id=49419252",
+      "https://news.ycombinator.com/item?id=49428121"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -914,11 +914,19 @@
       "https://www.fsc.go.kr/no010101/87569",
       "https://www.fsc.go.kr/no010101/87570",
       "https://www.fsc.go.kr/no010101/87571",
-      "https://www.fsc.go.kr/no010101/87572"
+      "https://www.fsc.go.kr/no010101/87572",
+      "https://www.fsc.go.kr/no010101/87585"
     ]
   },
   "pending": {
     "weekly-tech": [],
-    "weekly-finance": []
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "“AI 시대 국민의 일상과 생업을 잇는 마이데이터 발전방안을 추진합니다.“",
+        "link": "https://www.fsc.go.kr/no010101/87585",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      }
+    ]
   }
 }
