@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32661",
-      "https://news.hada.io/topic?id=32656",
-      "https://news.hada.io/topic?id=32662",
-      "https://news.hada.io/topic?id=32663",
-      "https://news.hada.io/topic?id=32664",
       "https://news.hada.io/topic?id=32665",
       "https://news.hada.io/topic?id=32654",
       "https://news.hada.io/topic?id=32655",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32884",
       "https://news.hada.io/topic?id=32885",
       "https://news.hada.io/topic?id=32886",
-      "https://news.hada.io/topic?id=32887"
+      "https://news.hada.io/topic?id=32887",
+      "https://news.hada.io/topic?id=32891",
+      "https://news.hada.io/topic?id=32892",
+      "https://news.hada.io/topic?id=32893",
+      "https://news.hada.io/topic?id=32894",
+      "https://news.hada.io/topic?id=32895"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49348751",
-      "https://news.ycombinator.com/item?id=49332981",
-      "https://news.ycombinator.com/item?id=49340710",
-      "https://news.ycombinator.com/item?id=49349147",
-      "https://news.ycombinator.com/item?id=49349898",
       "https://news.ycombinator.com/item?id=49349984",
       "https://news.ycombinator.com/item?id=49272631",
       "https://news.ycombinator.com/item?id=49310602",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49437069",
       "https://news.ycombinator.com/item?id=49437210",
       "https://news.ycombinator.com/item?id=49437946",
-      "https://news.ycombinator.com/item?id=49439017"
+      "https://news.ycombinator.com/item?id=49439017",
+      "https://news.ycombinator.com/item?id=49436786",
+      "https://news.ycombinator.com/item?id=49437049",
+      "https://news.ycombinator.com/item?id=49437483",
+      "https://news.ycombinator.com/item?id=49440786",
+      "https://news.ycombinator.com/item?id=49441033"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -435,7 +435,8 @@
       "https://toss.tech/article/tech_talk_talk_1",
       "https://toss.tech/article/games-in-ads",
       "https://toss.tech/article/ads_dashboard_fe",
-      "https://toss.tech/article/tech_talk_talk_2"
+      "https://toss.tech/article/tech_talk_talk_2",
+      "https://toss.tech/article/tech_talk_talk_3"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -920,7 +921,14 @@
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "토스테크",
+        "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
+        "link": "https://toss.tech/article/tech_talk_talk_3",
+        "summary": "안녕하세요, 토스증권 AI 데이터 플랫폼 팀에서 ML 엔지니어로 일하고 있는 황호익입니다. 이번 글에서는 토스증권 안에서 추천과 검색이 어떤 방향으로 진화하고 있는지 이야기해보려고 해요. 추천은 어떻게 배치 중심에서 실시간 개인화로 바뀌고 있는지, 검색은 어떻게 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있는지 순서대로 다룰게요. 완성된 정답이라기보다는, 시스템을 만들면서 마주친 고민들이라고 봐주시면 좋겠습니다. 토스증권 AI 데이터 플랫폼 팀의 미션 토스증권의 모든 AI 서비스가…"
+      }
+    ],
     "weekly-finance": [
       {
         "source": "금융위 보도자료",
