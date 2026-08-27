@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32699",
-      "https://news.hada.io/topic?id=32700",
-      "https://news.hada.io/topic?id=32702",
-      "https://news.hada.io/topic?id=32703",
-      "https://news.hada.io/topic?id=32704",
       "https://news.hada.io/topic?id=32705",
       "https://news.hada.io/topic?id=32706",
       "https://news.hada.io/topic?id=32707",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32932",
       "https://news.hada.io/topic?id=32933",
       "https://news.hada.io/topic?id=32936",
-      "https://news.hada.io/topic?id=32937"
+      "https://news.hada.io/topic?id=32937",
+      "https://news.hada.io/topic?id=32945",
+      "https://news.hada.io/topic?id=32946",
+      "https://news.hada.io/topic?id=32947",
+      "https://news.hada.io/topic?id=32948",
+      "https://news.hada.io/topic?id=32949"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49362401",
-      "https://news.ycombinator.com/item?id=49364559",
-      "https://news.ycombinator.com/item?id=49365405",
-      "https://news.ycombinator.com/item?id=49365733",
-      "https://news.ycombinator.com/item?id=49347477",
       "https://news.ycombinator.com/item?id=49350031",
       "https://news.ycombinator.com/item?id=49353339",
       "https://news.ycombinator.com/item?id=49364745",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49457545",
       "https://news.ycombinator.com/item?id=49458161",
       "https://news.ycombinator.com/item?id=49458418",
-      "https://news.ycombinator.com/item?id=49458709"
+      "https://news.ycombinator.com/item?id=49458709",
+      "https://news.ycombinator.com/item?id=49464543",
+      "https://news.ycombinator.com/item?id=49464896",
+      "https://news.ycombinator.com/item?id=49465169",
+      "https://news.ycombinator.com/item?id=49466917",
+      "https://news.ycombinator.com/item?id=49468083"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -448,7 +448,8 @@
       "https://tech.kakao.com/posts/826",
       "https://tech.kakao.com/posts/827",
       "https://tech.kakao.com/posts/828",
-      "https://tech.kakao.com/posts/829"
+      "https://tech.kakao.com/posts/829",
+      "https://tech.kakao.com/posts/830"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -927,6 +928,12 @@
         "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
         "link": "https://toss.tech/article/tech_talk_talk_3",
         "summary": "안녕하세요, 토스증권 AI 데이터 플랫폼 팀에서 ML 엔지니어로 일하고 있는 황호익입니다. 이번 글에서는 토스증권 안에서 추천과 검색이 어떤 방향으로 진화하고 있는지 이야기해보려고 해요. 추천은 어떻게 배치 중심에서 실시간 개인화로 바뀌고 있는지, 검색은 어떻게 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있는지 순서대로 다룰게요. 완성된 정답이라기보다는, 시스템을 만들면서 마주친 고민들이라고 봐주시면 좋겠습니다. 토스증권 AI 데이터 플랫폼 팀의 미션 토스증권의 모든 AI 서비스가…"
+      },
+      {
+        "source": "카카오",
+        "title": "지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!",
+        "link": "https://tech.kakao.com/posts/830",
+        "summary": "대한민국 AI 생태계의 새로운 바람이 시작됩니다! ⛵ 카카오가 부산광역시, 카카오임팩트와 함께 지역 AI 생태계 조성과 기술 교류를 위한 '카카오 AI 돛 Summit 26’을 개최합니다! 이번 서밋은 카카오가 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력하여 비수도권의 인재 양성 및 창업을 지원하는 ‘카카오 AI 돛’ 프로젝트의 핵심 행사입니다. '미래를 향해, 가능성의 항해’ 슬로건 아래, 기술과 AI 생태계가 강력하게 연결..."
       }
     ],
     "weekly-finance": [
