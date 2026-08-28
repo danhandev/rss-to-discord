@@ -1,14 +1,14 @@
 # RSS → Discord
 
-`feeds.yml`에 등록한 RSS를 주기적으로 읽어 새 글만 Discord로 보냅니다.
-GitHub Actions에서 돌기 때문에 서버가 필요 없습니다.
+`feeds.yml`에 등록한 RSS를 주기적으로 읽어 신규 업로드된 글만 Discord로 보냅니다. GitHub Actions를 활용해 서버가 필요하지 않습니다.
 
-읽는 주기가 다른 피드를 한 채널에 섞으면 둘 다 안 보게 되므로,
-채널마다 **stream**(바로 전송)과 **digest**(주 1회 묶음) 중 하나를 고릅니다.
+<br>
 
-## 동작 방식
+## 1. 동작 방식
 
-### 두 가지 모드
+읽는 주기에 따라 피드를 분리했습니다. discord 채널 기준으로 **stream**(바로 전송)과 **digest**(주 1회 묶음) 중 하나를 고를 수 있습니다.
+
+### 전송 모드 선택
 
 | 모드 | 전송 시점 | 형태 | 쓰는 곳 |
 |---|---|---|---|
@@ -18,16 +18,14 @@ GitHub Actions에서 돌기 때문에 서버가 필요 없습니다.
 `stream`은 한 번에 쏟아지지 않도록 피드당 최대 5건(`MAX_PER_RUN`)까지만 보냅니다.
 `digest`는 개수 제한 없이 쌓아두었다가 발송 시점에 한꺼번에 내보냅니다.
 
-### 첫 실행에 과거 글이 쏟아지지 않는 이유
+### 최초 실행 시 주의할 점
 
-새 피드를 추가하면 그 피드의 전체 글이 "안 읽은 글"로 잡힙니다.
-그래서 처음 보는 피드는 **최신 2건**(`FIRST_RUN_SEND`)만 전송하고,
-나머지는 보낸 것으로 기록만 남깁니다.
+새 피드를 추가할 때 모든 글이 "안 읽은 글"로 간주됩니다. 방대한 양의 콘텐츠가 한번에 들어오는 일을 방지하기 위해 처음 보는 피드는 **최신 2건**(`FIRST_RUN_SEND`)만 전송하고,
+나머지는 보낸 것으로 기록을 남깁니다.
 
-### 중복 판정
+### 중복 판정 원리
 
-보낸 글의 id(`id` → `guid` → `link` 순으로 선택)를 `state.json`에 남기고,
-Actions가 실행 후 자동으로 커밋합니다. 그래서 다음 실행이 같은 글을 다시 보내지 않습니다.
+보낸 글의 id(`id` → `guid` → `link` 순으로 선택)를 `state.json`에 남기고, Actions가 실행 후 자동으로 커밋하여 다음 실행이 같은 글을 다시 보내지 않습니다.
 
 ```jsonc
 {
@@ -36,9 +34,11 @@ Actions가 실행 후 자동으로 커밋합니다. 그래서 다음 실행이 �
 }
 ```
 
-`pending`은 digest 채널이 발송 전까지 글을 쌓아두는 자리입니다.
+`pending`은 digest 채널이 발송 전까지 대기하는 필드입니다.
 
-## 세팅
+<br>
+
+## 2. 세팅 방법
 
 1. Discord에서 채널 3개를 만듭니다 — `daily`, `weekly-tech`, `weekly-finance`
 2. 각 채널 → 채널 편집 → 연동 → 웹후크 → 새 웹후크 → **URL 복사**
@@ -52,17 +52,16 @@ Actions가 실행 후 자동으로 커밋합니다. 그래서 다음 실행이 �
 
 4. Actions 탭 → **RSS to Discord** → Run workflow 로 첫 실행
 
-Secret이 등록되지 않은 채널은 오류 없이 건너뜁니다(`[skip] ...: ... 미설정` 로그).
-세 개 다 채울 필요 없이 쓰고 싶은 채널만 등록해도 됩니다.
+Secret이 등록되지 않은 채널은 오류 없이 건너뜁니다(`[skip] ...: ... 미설정` 로그). 쓰고 싶은 채널만 등록하셔도 됩니다.
 
 > **웹훅 URL은 절대 커밋하지 마세요.** URL 하나만 있으면 누구나 그 채널에 글을 쓸 수 있습니다.
-> Secrets에만 두면 저장소가 public이어도 안전합니다 — 이 워크플로는 `schedule`과
-> `workflow_dispatch`로만 실행되므로 포크에서 Secrets에 접근할 경로가 없습니다.
 > 실수로 커밋했다면 Discord 채널 설정에서 해당 웹훅을 삭제하고 새로 발급하세요.
 
-## 피드 추가
+<br>
 
-`feeds.yml`의 채널 아래에 `name`과 `url`을 추가하고 push하면 끝입니다.
+## 3. 피드 추가
+
+`feeds.yml`의 채널 아래에 `name`과 `url`을 추가하고 push해주세요. 
 
 ```yaml
 channels:
@@ -75,31 +74,13 @@ channels:
         include: ["This Week in Spring"]   # 제목에 이 키워드가 있는 글만
 ```
 
-`include`를 주면 제목에 키워드(대소문자 무시)가 들어간 글만 보냅니다.
-위 예시는 Spring Blog에서 릴리스 노트를 걸러내고 주간 요약만 받습니다.
+`include`를 주면 제목에 키워드(대소문자 무시)가 들어간 글만 보냅니다. 위 예시는 Spring Blog에서 릴리스 노트를 걸러내고 주간 요약만 받습니다.
 
-**같은 URL을 두 채널에 넣지 마세요.** 중복 판정 키가 피드 URL이라
-먼저 처리된 채널에서만 전송됩니다.
+RSS 주소를 모를 경우 블로그 주소 뒤에 `/feed`, `/rss.xml`, `/feed.xml`, `/atom.xml`을 붙여 보거나, 페이지 소스에서 `application/rss+xml`을 찾아보시길 추천드립니다!
 
-RSS 주소를 모르겠으면 블로그 주소 뒤에 `/feed`, `/rss.xml`, `/feed.xml`, `/atom.xml`을
-붙여 보거나, 페이지 소스에서 `application/rss+xml`을 찾으면 됩니다.
+<br>
 
-## 로컬 실행
-
-```bash
-pip install -r requirements.txt
-
-# stream 채널만 확인
-DISCORD_WEBHOOK_DAILY="https://discord.com/api/webhooks/..." python main.py
-
-# digest 발송까지 함께 확인
-DIGEST=1 DISCORD_WEBHOOK_WEEKLY="https://discord.com/api/webhooks/..." python main.py
-```
-
-로컬 실행도 `state.json`을 고칩니다. 테스트로 바뀐 내용을 커밋하고 싶지 않다면
-실행 전에 백업해 두거나 실행 후 `git checkout state.json`으로 되돌리세요.
-
-## 파일 구조
+## 4. 파일 구조
 
 ```
 main.py                    피드 수집 → 필터 → 전송 → state 갱신
@@ -118,19 +99,8 @@ state.json                 보낸 글 id와 digest 대기열 — Actions가 자�
 | `SUMMARY_LIMIT` | 280 | embed 본문에 넣을 요약 길이 |
 | `DIGEST_MAX_LINES` | 40 | 다이제스트 한 메시지 최대 줄 수 |
 
-## 문제가 생기면
+<br>
 
-| 증상 | 확인할 것 |
-|---|---|
-| 아무것도 안 온다 | Actions 로그에 `[skip] ... 미설정`이 있는지 — Secret 이름 오타가 흔합니다 |
-| 특정 피드만 안 온다 | 로그의 `! 파싱 실패` — 피드 URL이 바뀌었거나 죽은 경우입니다 |
-| 전송이 일부만 된다 | 로그의 `! 전송 실패 <코드>` — 웹훅이 삭제됐거나 채널이 없어진 경우입니다 |
-| digest가 안 온다 | 쌓인 게 없으면 `보낼 항목 없음`이 찍힙니다. Run workflow의 digest 체크박스로 즉시 발송 가능 |
-| 처음부터 다시 받고 싶다 | `state.json`을 지우면 각 피드 최신 2건부터 다시 시작합니다 |
-
-전송이나 파싱이 실패해도 예외로 죽지 않고 로그만 남긴 뒤 계속 진행합니다.
-성공한 만큼은 `state.json`에 반영되므로, 다음 실행이 실패분부터 이어서 시도합니다.
-
-## License
+## 5. License
 
 MIT
