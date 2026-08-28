@@ -164,10 +164,12 @@ def main() -> int:
 
             parsed = feedparser.parse(url)
             if parsed.bozo and not parsed.entries:
-                print(f"  ! 파싱 실패: {parsed.get('bozo_exception')}", file=sys.stderr)
+                print(f"  ! [{feed['name']}] 파싱 실패: {parsed.get('bozo_exception')}",
+                      file=sys.stderr)
                 continue
             if not parsed.entries:
-                print(f"  ! 항목 없음 (status={parsed.get('status')})", file=sys.stderr)
+                print(f"  ! [{feed['name']}] 항목 없음 (status={parsed.get('status')})",
+                      file=sys.stderr)
 
             seen = seen_all.setdefault(url, [])
             first_run = not seen
