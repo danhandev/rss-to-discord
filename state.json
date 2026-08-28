@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32735",
-      "https://news.hada.io/topic?id=32736",
-      "https://news.hada.io/topic?id=32737",
-      "https://news.hada.io/topic?id=32738",
-      "https://news.hada.io/topic?id=32728",
       "https://news.hada.io/topic?id=32739",
       "https://news.hada.io/topic?id=32740",
       "https://news.hada.io/topic?id=32741",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32942",
       "https://news.hada.io/topic?id=32943",
       "https://news.hada.io/topic?id=32944",
-      "https://news.hada.io/topic?id=32950"
+      "https://news.hada.io/topic?id=32950",
+      "https://news.hada.io/topic?id=32982",
+      "https://news.hada.io/topic?id=32983",
+      "https://news.hada.io/topic?id=32984",
+      "https://news.hada.io/topic?id=32985",
+      "https://news.hada.io/topic?id=32986"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49367256",
-      "https://news.ycombinator.com/item?id=49372583",
-      "https://news.ycombinator.com/item?id=49373456",
-      "https://news.ycombinator.com/item?id=49348141",
-      "https://news.ycombinator.com/item?id=49360140",
       "https://news.ycombinator.com/item?id=49362689",
       "https://news.ycombinator.com/item?id=49374269",
       "https://news.ycombinator.com/item?id=49374797",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49457722",
       "https://news.ycombinator.com/item?id=49468593",
       "https://news.ycombinator.com/item?id=49468816",
-      "https://news.ycombinator.com/item?id=49473522"
+      "https://news.ycombinator.com/item?id=49473522",
+      "https://news.ycombinator.com/item?id=49477854",
+      "https://news.ycombinator.com/item?id=49478178",
+      "https://news.ycombinator.com/item?id=49478340",
+      "https://news.ycombinator.com/item?id=49479837",
+      "https://news.ycombinator.com/item?id=49479878"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -436,7 +436,8 @@
       "https://toss.tech/article/games-in-ads",
       "https://toss.tech/article/ads_dashboard_fe",
       "https://toss.tech/article/tech_talk_talk_2",
-      "https://toss.tech/article/tech_talk_talk_3"
+      "https://toss.tech/article/tech_talk_talk_3",
+      "https://toss.tech/article/qa_hotfix"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1286,7 +1287,10 @@
       "CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ",
       "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw",
       "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw",
-      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k"
+      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
+      "CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw",
+      "CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ",
+      "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ"
     ]
   },
   "pending": {
@@ -1367,6 +1371,30 @@
         "source": "요즘IT",
         "title": "API란 무엇인가요? (feat. 인터페이스)",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "1%가 겪은 버그 고쳐야할까요?",
+        "link": "https://toss.tech/article/qa_hotfix",
+        "summary": "점진 배포와 핫픽스의 모순 속에서, 판단을 만든 이야기"
+      },
+      {
+        "source": "요즘IT",
+        "title": "리더는 \"AI 왜 안 쓰냐\" VS 실무자는 \"사고 나면요?\"",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "회고 잘하고 싶어서 만든 인터랙티브 회고 도구",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 당장 서비스에 쓸만한 API ① 지도·교통·날씨·금융·부동산 편",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ?oc=5",
         "summary": ""
       }
     ],
