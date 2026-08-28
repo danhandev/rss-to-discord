@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# 상태는 state 브랜치에서 관리한다
+state.json
+.state/

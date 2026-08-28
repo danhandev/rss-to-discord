@@ -24,6 +24,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 상태는 코드와 분리해 state 브랜치에 둔다
+      - uses: actions/checkout@v4
+        with:
+          ref: state
+          path: .state
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -32,12 +38,14 @@ jobs:
 
       - run: python main.py
         env:
+          STATE_PATH: .state/state.json
           DIGEST: ${{ github.event.schedule == '0 0 * * 1' || inputs.digest }}
           DISCORD_WEBHOOK_DAILY: ${{ secrets.DISCORD_WEBHOOK_DAILY }}
           DISCORD_WEBHOOK_WEEKLY: ${{ secrets.DISCORD_WEBHOOK_WEEKLY }}
           DISCORD_WEBHOOK_FINANCE: ${{ secrets.DISCORD_WEBHOOK_FINANCE }}
 
       - name: Commit state
+        working-directory: .state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -45,7 +53,7 @@ jobs:
           git diff --staged --quiet && exit 0
           git commit -m "chore: update state"
           for i in 1 2 3; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            git pull --rebase origin state && git push origin HEAD:state && exit 0
             sleep 5
           done
           exit 1

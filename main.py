@@ -19,7 +19,7 @@ import requests
 import yaml
 
 ROOT = pathlib.Path(__file__).parent
-STATE_PATH = ROOT / "state.json"
+STATE_PATH = pathlib.Path(os.environ.get("STATE_PATH") or ROOT / "state.json")
 
 MAX_PER_RUN = 5           # stream 모드에서 피드당 한 번에 보낼 최대 개수
 FIRST_RUN_SEND = 2        # 신규 피드 등록 시 최신 몇 건을 보낼지
