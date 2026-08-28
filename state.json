@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
-      "https://news.hada.io/topic?id=32723",
-      "https://news.hada.io/topic?id=32725",
-      "https://news.hada.io/topic?id=32726",
-      "https://news.hada.io/topic?id=32730",
       "https://news.hada.io/topic?id=32731",
       "https://news.hada.io/topic?id=32732",
       "https://news.hada.io/topic?id=32733",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=32957",
       "https://news.hada.io/topic?id=32958",
       "https://news.hada.io/topic?id=32959",
-      "https://news.hada.io/topic?id=32960"
+      "https://news.hada.io/topic?id=32960",
+      "https://news.hada.io/topic?id=32951",
+      "https://news.hada.io/topic?id=32952",
+      "https://news.hada.io/topic?id=32953",
+      "https://news.hada.io/topic?id=32954",
+      "https://news.hada.io/topic?id=32955"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49323795",
