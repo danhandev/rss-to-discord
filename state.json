@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32731",
-      "https://news.hada.io/topic?id=32732",
-      "https://news.hada.io/topic?id=32733",
-      "https://news.hada.io/topic?id=32734",
-      "https://news.hada.io/topic?id=32729",
       "https://news.hada.io/topic?id=32735",
       "https://news.hada.io/topic?id=32736",
       "https://news.hada.io/topic?id=32737",
@@ -200,12 +195,14 @@
       "https://news.hada.io/topic?id=32952",
       "https://news.hada.io/topic?id=32953",
       "https://news.hada.io/topic?id=32954",
-      "https://news.hada.io/topic?id=32955"
+      "https://news.hada.io/topic?id=32955",
+      "https://news.hada.io/topic?id=32941",
+      "https://news.hada.io/topic?id=32942",
+      "https://news.hada.io/topic?id=32943",
+      "https://news.hada.io/topic?id=32944",
+      "https://news.hada.io/topic?id=32950"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49323795",
-      "https://news.ycombinator.com/item?id=49371006",
-      "https://news.ycombinator.com/item?id=49371857",
       "https://news.ycombinator.com/item?id=49367256",
       "https://news.ycombinator.com/item?id=49372583",
       "https://news.ycombinator.com/item?id=49373456",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=49464414",
       "https://news.ycombinator.com/item?id=49466006",
       "https://news.ycombinator.com/item?id=49447057",
-      "https://news.ycombinator.com/item?id=49457722"
+      "https://news.ycombinator.com/item?id=49457722",
+      "https://news.ycombinator.com/item?id=49468593",
+      "https://news.ycombinator.com/item?id=49468816",
+      "https://news.ycombinator.com/item?id=49473522"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1285,7 +1285,8 @@
       "CBMiWkFVX3lxTE8wT2dUS3kxUXRZQUV4RDc5QkQ0UEh2eFFwd3Vydlk4QkltVm9Ka0hrODMwaThmQ0o2Yl8zXzZTQl9lUTJTR3hXcFhvdzJSbDAwWHlEYWRCVXVXUQ",
       "CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ",
       "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw",
-      "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw"
+      "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw",
+      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k"
     ]
   },
   "pending": {
@@ -1360,6 +1361,12 @@
         "source": "요즘IT",
         "title": "개발자의 시간은 소중하니까 정규식을 씁시다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "API란 무엇인가요? (feat. 인터페이스)",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
         "summary": ""
       }
     ],
