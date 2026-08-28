@@ -10,7 +10,7 @@ IT 트렌드를 따라가고 인사이트를 얻기 위해 기술 블로그와 �
 
 팀 프로젝트에서 이미 Discord를 사용하고 있기 때문에 저에게 접근성이 가장 좋은 Discord에 글이 모이도록 연결했습니다.
 
-개인용 도구인 만큼 인프라 없이 최대한 간단하게 두고 싶었습니다. GitHub Actions 위에서 동작하도록 만들고, 상태는 DB 없이 저장소의 `state.json` 한 파일로만 관리하도록 했습니다.
+개인용 도구인 만큼 인프라 없이 최대한 간단하게 두고 싶었습니다. GitHub Actions 위에서 동작하도록 만들고, 상태는 DB 없이 `state.json` 한 파일로만 관리하도록 했습니다.
 
 <br>
 
@@ -71,6 +71,8 @@ IT 트렌드를 따라가고 인사이트를 얻기 위해 기술 블로그와 �
 
 보낸 글의 id(`id` → `guid` → `link` 순으로 선택)를 `state.json`에 남기고, Actions가 실행 후 자동으로 커밋하여 다음 실행이 같은 글을 다시 보내지 않습니다.
 
+`state.json`은 코드가 아니라 상태라서 `state` 브랜치에 따로 두었습니다. 2시간마다 갱신되는 파일이 main 커밋 이력을 덮지 않도록 분리한 것입니다.
+
 ```jsonc
 {
   "seen":    { "<피드 URL>": ["<글 id>", ...] },   // 피드별 최근 200건
@@ -129,7 +131,7 @@ RSS 주소를 모를 경우 블로그 주소 뒤에 `/feed`, `/rss.xml`, `/feed.
 ```
 main.py                    피드 수집 → 필터 → 전송 → state 갱신
 feeds.yml                  채널·피드 목록 (여기만 고치면 됩니다)
-state.json                 보낸 글 id와 digest 대기열 — Actions가 자동 커밋
+state.json                 보낸 글 id와 digest 대기열 — state 브랜치에 위치
 .github/workflows/rss.yml  2시간마다 stream, 월요일 digest
 ```
 
