@@ -81,6 +81,17 @@ def matches(entry: Any, include: list[str] | None) -> bool:
     return any(k.lower() in title.lower() for k in include)
 
 
+def strip_relay_noise(entry: Any, item: dict) -> None:
+    """Google News 중계 피드는 제목 끝에 출처가 붙고 요약이 제목의 반복이라 걷어낸다."""
+    source = entry.get("source", {}).get("title", "")
+    if not source:
+        return
+    suffix = f" - {source}"
+    if item["title"].endswith(suffix):
+        item["title"] = item["title"][: -len(suffix)]
+    item["summary"] = ""
+
+
 # ---------- 전송 ----------
 
 def _post(webhook: str, payload: dict) -> bool:
@@ -155,6 +166,8 @@ def main() -> int:
             if parsed.bozo and not parsed.entries:
                 print(f"  ! 파싱 실패: {parsed.get('bozo_exception')}", file=sys.stderr)
                 continue
+            if not parsed.entries:
+                print(f"  ! 항목 없음 (status={parsed.get('status')})", file=sys.stderr)
 
             seen = seen_all.setdefault(url, [])
             first_run = not seen
@@ -181,6 +194,7 @@ def main() -> int:
             } for e in batch]
 
             for entry, item in zip(batch, items):
+                strip_relay_noise(entry, item)
                 if mode == "digest":
                     pending_all.setdefault(name, []).append(item)
                     seen.append(entry_id(entry))
