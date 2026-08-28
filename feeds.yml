@@ -26,12 +26,11 @@ channels:
     feeds:
       - name: "토스테크"
         url: "https://toss.tech/rss.xml"
+      # 원본 피드(techblog.woowahan.com/feed)는 Actions IP에서 연결이 끊겨 Google News로 우회
       - name: "우아한형제들"
-        url: "https://techblog.woowahan.com/feed"
+        url: "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko"
       - name: "카카오"
         url: "https://tech.kakao.com/feed/"
-      - name: "카카오페이"
-        url: "https://tech.kakaopay.com/rss.xml"
       - name: "뱅크샐러드"
         url: "https://blog.banksalad.com/rss.xml"
       - name: "NAVER D2"
@@ -50,8 +49,9 @@ channels:
         url: "https://tech.socarcorp.kr/rss.xml"
       - name: "하이퍼커넥트"
         url: "https://hyperconnect.github.io/feed.xml"
+      # 원본 피드는 Actions IP에 HTML을 반환해 Google News로 우회
       - name: "요즘IT"
-        url: "https://yozm.wishket.com/magazine/feed/"
+        url: "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko"
 
   # ── 금융 규제/정책. 실시간일 이유가 없으니 주 1회 ──
   - name: "weekly-finance"
