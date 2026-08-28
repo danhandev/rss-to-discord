@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32710",
-      "https://news.hada.io/topic?id=32711",
-      "https://news.hada.io/topic?id=32712",
-      "https://news.hada.io/topic?id=32713",
-      "https://news.hada.io/topic?id=32714",
       "https://news.hada.io/topic?id=32715",
       "https://news.hada.io/topic?id=32716",
       "https://news.hada.io/topic?id=32717",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32967",
       "https://news.hada.io/topic?id=32968",
       "https://news.hada.io/topic?id=32969",
-      "https://news.hada.io/topic?id=32970"
+      "https://news.hada.io/topic?id=32970",
+      "https://news.hada.io/topic?id=32961",
+      "https://news.hada.io/topic?id=32962",
+      "https://news.hada.io/topic?id=32963",
+      "https://news.hada.io/topic?id=32964",
+      "https://news.hada.io/topic?id=32965"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49363668",
-      "https://news.ycombinator.com/item?id=49365841",
-      "https://news.ycombinator.com/item?id=49367350",
-      "https://news.ycombinator.com/item?id=49314109",
-      "https://news.ycombinator.com/item?id=49348189",
       "https://news.ycombinator.com/item?id=49362001",
       "https://news.ycombinator.com/item?id=49369408",
       "https://news.ycombinator.com/item?id=49323795",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49467922",
       "https://news.ycombinator.com/item?id=49468642",
       "https://news.ycombinator.com/item?id=49468818",
-      "https://news.ycombinator.com/item?id=49471407"
+      "https://news.ycombinator.com/item?id=49471407",
+      "https://news.ycombinator.com/item?id=49461817",
+      "https://news.ycombinator.com/item?id=49462763",
+      "https://news.ycombinator.com/item?id=49464314",
+      "https://news.ycombinator.com/item?id=49464414",
+      "https://news.ycombinator.com/item?id=49466006"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -919,7 +919,14 @@
       "https://www.fsc.go.kr/no010101/87570",
       "https://www.fsc.go.kr/no010101/87571",
       "https://www.fsc.go.kr/no010101/87572",
-      "https://www.fsc.go.kr/no010101/87585"
+      "https://www.fsc.go.kr/no010101/87585",
+      "https://www.fsc.go.kr/no010101/87593",
+      "https://www.fsc.go.kr/no010101/87594",
+      "https://www.fsc.go.kr/no010101/87595",
+      "https://www.fsc.go.kr/no010101/87604",
+      "https://www.fsc.go.kr/no010101/87605",
+      "https://www.fsc.go.kr/no010101/87609",
+      "https://www.fsc.go.kr/no010101/87611"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1277,7 +1284,8 @@
       "CBMiWkFVX3lxTE5PQm9mNzhLS3p1LXQzOUhJS3FmTnF3NzNoYlI2MnZQV3U5a1VMaVdNdnRQU1BnekRnT2lHMTRiZjQxenM2TFk2QnhHYTh6ZDJybDJ3V0JHdTBSZw",
       "CBMiWkFVX3lxTE8wT2dUS3kxUXRZQUV4RDc5QkQ0UEh2eFFwd3Vydlk4QkltVm9Ka0hrODMwaThmQ0o2Yl8zXzZTQl9lUTJTR3hXcFhvdzJSbDAwWHlEYWRCVXVXUQ",
       "CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ",
-      "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw"
+      "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw",
+      "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw"
     ]
   },
   "pending": {
@@ -1347,6 +1355,12 @@
         "title": "충원이 거절되자 \"이거 한번 해보자\"로 시작한 자동화",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자의 시간은 소중하니까 정규식을 씁시다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1355,6 +1369,48 @@
         "title": "“AI 시대 국민의 일상과 생업을 잇는 마이데이터 발전방안을 추진합니다.“",
         "link": "https://www.fsc.go.kr/no010101/87585",
         "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융위원회 인사보도(과장급 전보)",
+        "link": "https://www.fsc.go.kr/no010101/87593",
+        "summary": "금융위원회 인사 보도 < 과장급 전보 > 글로벌금융과장 나혜영 (現국민지역참여지원과장) 보험과장 임형준 (現가계금융과장) 상호금융팀장 이지현 (現포용금융지원과장) 금융데이터정책과장 김윤희 (現글로벌금융과장) 가상자산과장 서나윤 (現금융데이터정책과장) 자산운용과장 김성진 (現가상자산과장) 국민지역참여지원과장 이종림 (現금융위원회) 금융정보분석원 가상자산검사과장 안남기 (現상호금융팀장) 【2026. 8. 27日字】 자료생산 : 행정인사과 (TEL 02-2100-2752)"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다",
+        "link": "https://www.fsc.go.kr/no010101/87594",
+        "summary": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다 - 멈춘 곳은 다시, 더딘 곳은 더 빨리 추진...LH 매입임대주택으로 공급 - 작년 시범 추진 결과 신축매입만 2.6천호, 올해는 신축·기축매입 모두 공급 □ 국토교통부 (장관 김윤덕), 금융위원회(위원장 이억원), 한국토지주택공사 (LH), 금융감독원은 「주택 신속공급 방안」(8.13) 관련하여, 자금 및 사업성 부족 문제 등으로 멈추거나 더디게 진행 중 인 부동산 프로젝트 파이낸싱 (PF) 사업장을 LH 매입임대주택 으로…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "제10차 지정대리인 심사위원회 개최  - “금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스” 지정",
+        "link": "https://www.fsc.go.kr/no010101/87595",
+        "summary": "제10차 지정대리인 심사위원회 개최 - “ 금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스” 지정 금 융위원회 (위원장 이억원) 는 「 제10차 지정대리인 심사위원회 」를 ’26.8.26일(수) 개최 하고, 1건의 금융서비스를 지정대리인 * 으로 지정 하였다. 핀테크업체 등이 금융위원회로부터 지정대리인으로 지정받게 되면, 금융 회사의 업무위탁 을 받아 지정받은 금융업무 를 운영 할 수 있게 된다. (“의결 결과 세부내용” : 참고) * 금융혁신을 촉진하고 혁신적 금융서비스의…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "FIU, 자금세탁방지 유관기관 협의회 개최 - 16개 유관기관과 국가위험평가 결과를 공유하고, 자금세탁 위협에 대한 금융권의 대응역량 강화방안을 논의",
+        "link": "https://www.fsc.go.kr/no010101/87604",
+        "summary": "FIU, 자금세탁방지 유관기관 협의회 개최 - 16개 유관기관과 국가위험평가 결과를 공유하고, 자금세탁 위협에 대한 금융권의 대응역량 강화방안을 논의 - [ 회의 개요 ] 금융정보분석원 (이하 ‘FIU’) 은 ‘26.8.27.(목) 16개 유관기관과 함께 「자금세탁방지 (Anti-Money Laundering, 이하 AML) 유관기관 협의회」를 개최하였다. 이번 협의회는 ’25년말 완료한 국가위험평가 (NRA : National Risk Assessment) 결과 를 바탕으로 우리나라의 자금세탁…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "｢대부업등 감독규정｣ 개정안 규정변경예고 (‘26.8.27. ~ ’26.10.6.)",
+        "link": "https://www.fsc.go.kr/no010101/87605",
+        "summary": "｢대부업등 감독규정｣ 개정안 규정변경예고 (‘26.8.27. ~ ’26.10.6.) ✓ ｢신용협동조합법｣ 개정 (’26.4월) 에 따라 설립을 준비중인 신협자산관리회사 가 부실채권 매입 업무를 할 수 있도록 ‘ 대부채권 양도가능 기관’ 지위 를 부여 금융위원회는「 신용협동조합법 」 개정 (’26.4.21. 공포, ’26.10.22. 시행)으로 설립 근거가 마련된 신협자산관리회사 가 부실채권 매입ㆍ관리 업무를 원활히 수행할 수 있도록「 대부업등 감독규정 」 개정안 에 대한 규정변경예고 를 실시…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "국민성장펀드가 로봇산업의 경쟁력 강화와K-콘텐츠의 글로벌 영토 확장을 지원합니다.",
+        "link": "https://www.fsc.go.kr/no010101/87609",
+        "summary": "국민성장펀드가 로봇 산업의 경쟁력 강화와 K-콘텐츠 의 글로벌 영토 확장을 지원합니다. • 국민성장펀드 기금운용심의회는 ‘원익로보틱스 휴머노이드 양산시설 구축 사업’ 및 ‘ CJ포디플렉스 의 글로벌 기술특별관 인프라 확장 ’ 등 총 7건의 사업 에 대한 자금지원 (지분투자, 저리대출) 승인 ① 로봇 전문기업인 ‘(주)원익로보틱스 ’의 전북 소재 생산공장 신축을 위해 3,500억원 직접 지분투자 ☞ 로봇핸드, 산업용 휴머노이드 의 경쟁력 강화 ② ‘ 씨제이포디플렉스(주)’ 글로벌 기술특별관 확대에…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "주택공급 촉진을 위한 금융·건설업계 간담회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87611",
+        "summary": "주택공급 촉진을 위한 금융·건설업계 간담회 개최 ◈ 금융위·국토부 는 주택공급 촉진 을 위해 금융권 에 적극적인 자급공급 당부 ◈ 건설업계 현장 애로 를 청취 하고자 PF·건설사 금융애로 해소센터 설치 ※ ｢부동산 시장 안정을 위한 금융 종합대책｣ (8.13일, 금융위) 후속조치 1. 회의 개요 금융위원회 와 국토교통부 는 ｢ 금융·건설업계 정례 간담회 킥오프회의 ｣를 개최하고, 8.13일 부동산 금융대책의 추진상황, 민간 공급 생태계 복원 을 위한 지원사항 , PF·건설사 금융애로 해소센터…"
       }
     ]
   }
