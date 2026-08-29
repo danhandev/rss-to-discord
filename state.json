@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32753",
-      "https://news.hada.io/topic?id=32754",
-      "https://news.hada.io/topic?id=32755",
-      "https://news.hada.io/topic?id=32747",
-      "https://news.hada.io/topic?id=32748",
       "https://news.hada.io/topic?id=32749",
       "https://news.hada.io/topic?id=32750",
       "https://news.hada.io/topic?id=32756",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33001",
       "https://news.hada.io/topic?id=33003",
       "https://news.hada.io/topic?id=33004",
-      "https://news.hada.io/topic?id=33005"
+      "https://news.hada.io/topic?id=33005",
+      "https://news.hada.io/topic?id=32993",
+      "https://news.hada.io/topic?id=32994",
+      "https://news.hada.io/topic?id=33007",
+      "https://news.hada.io/topic?id=33008",
+      "https://news.hada.io/topic?id=33009"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49377853",
-      "https://news.ycombinator.com/item?id=49378630",
-      "https://news.ycombinator.com/item?id=49376332",
-      "https://news.ycombinator.com/item?id=49378243",
-      "https://news.ycombinator.com/item?id=49378768",
       "https://news.ycombinator.com/item?id=49378957",
       "https://news.ycombinator.com/item?id=49379550",
       "https://news.ycombinator.com/item?id=49375719",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49486081",
       "https://news.ycombinator.com/item?id=49486172",
       "https://news.ycombinator.com/item?id=49486334",
-      "https://news.ycombinator.com/item?id=49487341"
+      "https://news.ycombinator.com/item?id=49487341",
+      "https://news.ycombinator.com/item?id=49472216",
+      "https://news.ycombinator.com/item?id=49485267",
+      "https://news.ycombinator.com/item?id=49485416",
+      "https://news.ycombinator.com/item?id=49489057",
+      "https://news.ycombinator.com/item?id=49489982"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1296,7 +1296,11 @@
       "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
       "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ",
       "CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ",
-      "CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ"
+      "CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ",
+      "CBMiWkFVX3lxTE1LS2tRb1IzMHpGeHc1RERka01Ld19MWkZNbVRCT2pvU3g4dTJXX0ZLU0ZRMzduZldIRGtLS2JITU1ZeFRrS2kyakNwZmZlLWdxdExERkVWZlRVZw",
+      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
+      "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw",
+      "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw"
     ]
   },
   "pending": {
@@ -1431,6 +1435,30 @@
         "source": "요즘IT",
         "title": "클로드 코드 제대로 써먹는 프롬프트 작성 팁 6가지",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "‘사용성 평가’로 생생한 유저 피드백 수집하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LS2tRb1IzMHpGeHc1RERka01Ld19MWkZNbVRCT2pvU3g4dTJXX0ZLU0ZRMzduZldIRGtLS2JITU1ZeFRrS2kyakNwZmZlLWdxdExERkVWZlRVZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "쿠팡은 디자인 시스템을 어떻게 구축했을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "실험 조직으로 거듭나기: 3 체계적으로 실험하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 실무와 정보, 무엇이든 물어보세요! | 물어봐 AI",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw?oc=5",
         "summary": ""
       }
     ],
