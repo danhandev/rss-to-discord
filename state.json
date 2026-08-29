@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32739",
-      "https://news.hada.io/topic?id=32740",
-      "https://news.hada.io/topic?id=32741",
-      "https://news.hada.io/topic?id=32742",
-      "https://news.hada.io/topic?id=32743",
       "https://news.hada.io/topic?id=32744",
       "https://news.hada.io/topic?id=32745",
       "https://news.hada.io/topic?id=32746",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32983",
       "https://news.hada.io/topic?id=32984",
       "https://news.hada.io/topic?id=32985",
-      "https://news.hada.io/topic?id=32986"
+      "https://news.hada.io/topic?id=32986",
+      "https://news.hada.io/topic?id=32996",
+      "https://news.hada.io/topic?id=32997",
+      "https://news.hada.io/topic?id=32998",
+      "https://news.hada.io/topic?id=32999",
+      "https://news.hada.io/topic?id=33000"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49362689",
-      "https://news.ycombinator.com/item?id=49374269",
-      "https://news.ycombinator.com/item?id=49374797",
-      "https://news.ycombinator.com/item?id=49347543",
-      "https://news.ycombinator.com/item?id=49348079",
       "https://news.ycombinator.com/item?id=49368886",
       "https://news.ycombinator.com/item?id=49374287",
       "https://news.ycombinator.com/item?id=49375996",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49478178",
       "https://news.ycombinator.com/item?id=49478340",
       "https://news.ycombinator.com/item?id=49479837",
-      "https://news.ycombinator.com/item?id=49479878"
+      "https://news.ycombinator.com/item?id=49479878",
+      "https://news.ycombinator.com/item?id=49477212",
+      "https://news.ycombinator.com/item?id=49477564",
+      "https://news.ycombinator.com/item?id=49479072",
+      "https://news.ycombinator.com/item?id=49479924",
+      "https://news.ycombinator.com/item?id=49480466"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -927,7 +927,8 @@
       "https://www.fsc.go.kr/no010101/87604",
       "https://www.fsc.go.kr/no010101/87605",
       "https://www.fsc.go.kr/no010101/87609",
-      "https://www.fsc.go.kr/no010101/87611"
+      "https://www.fsc.go.kr/no010101/87611",
+      "https://www.fsc.go.kr/no010101/87614"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1290,7 +1291,9 @@
       "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
       "CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw",
       "CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ",
-      "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ"
+      "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ",
+      "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
+      "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ"
     ]
   },
   "pending": {
@@ -1396,6 +1399,18 @@
         "title": "지금 당장 서비스에 쓸만한 API ① 지도·교통·날씨·금융·부동산 편",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "피그마는 여러분을 나쁜 디자이너로 만들고 있습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "[요즘IT x 노션] ‘로컬앱 자랑대회’ 출전작 모집!",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1446,6 +1461,12 @@
         "title": "주택공급 촉진을 위한 금융·건설업계 간담회 개최",
         "link": "https://www.fsc.go.kr/no010101/87611",
         "summary": "주택공급 촉진을 위한 금융·건설업계 간담회 개최 ◈ 금융위·국토부 는 주택공급 촉진 을 위해 금융권 에 적극적인 자급공급 당부 ◈ 건설업계 현장 애로 를 청취 하고자 PF·건설사 금융애로 해소센터 설치 ※ ｢부동산 시장 안정을 위한 금융 종합대책｣ (8.13일, 금융위) 후속조치 1. 회의 개요 금융위원회 와 국토교통부 는 ｢ 금융·건설업계 정례 간담회 킥오프회의 ｣를 개최하고, 8.13일 부동산 금융대책의 추진상황, 민간 공급 생태계 복원 을 위한 지원사항 , PF·건설사 금융애로 해소센터…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "청년의 잠재력에 국가가 투자합니다!  청년 예산 언박싱(UNBOXING) 2027, ｢청년 성장단계별 종합투자 추진전략｣ 발표",
+        "link": "https://www.fsc.go.kr/no010101/87614",
+        "summary": "청년의 잠재력에 국가가 투자합니다! 청년 예산 언박싱(UNBOXING) 2027, ｢청년 성장단계별 종합투자 추진전략｣ 발표 - ❶ 일자리·창업의 ‘성장·이동 사다리’ 복원, ❷ 교육·주거·자산의 ‘출발선 격차’ 완화, ❸‘ 삶의 질’ 제고 등 성장단계별 맞춤형 재정투자 확대 (‘26년 28.2 → ’27년 정부안 43.3조원, +53.5%) - 아이가 태어나서 자립할 때(0~34세)까지 정부가 최대 1억 9,582만원 지원 정부는 8월 28일(금) 오후 3시 청와대 충무실에서 대통령 주재로 ‘…"
       }
     ]
   }
