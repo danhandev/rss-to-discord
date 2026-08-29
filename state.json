@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32744",
-      "https://news.hada.io/topic?id=32745",
-      "https://news.hada.io/topic?id=32746",
-      "https://news.hada.io/topic?id=32751",
-      "https://news.hada.io/topic?id=32752",
       "https://news.hada.io/topic?id=32753",
       "https://news.hada.io/topic?id=32754",
       "https://news.hada.io/topic?id=32755",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=32997",
       "https://news.hada.io/topic?id=32998",
       "https://news.hada.io/topic?id=32999",
-      "https://news.hada.io/topic?id=33000"
+      "https://news.hada.io/topic?id=33000",
+      "https://news.hada.io/topic?id=32995",
+      "https://news.hada.io/topic?id=33001",
+      "https://news.hada.io/topic?id=33003",
+      "https://news.hada.io/topic?id=33004",
+      "https://news.hada.io/topic?id=33005"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49368886",
-      "https://news.ycombinator.com/item?id=49374287",
-      "https://news.ycombinator.com/item?id=49375996",
-      "https://news.ycombinator.com/item?id=49373932",
-      "https://news.ycombinator.com/item?id=49376265",
       "https://news.ycombinator.com/item?id=49377853",
       "https://news.ycombinator.com/item?id=49378630",
       "https://news.ycombinator.com/item?id=49376332",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49477564",
       "https://news.ycombinator.com/item?id=49479072",
       "https://news.ycombinator.com/item?id=49479924",
-      "https://news.ycombinator.com/item?id=49480466"
+      "https://news.ycombinator.com/item?id=49480466",
+      "https://news.ycombinator.com/item?id=49485532",
+      "https://news.ycombinator.com/item?id=49486081",
+      "https://news.ycombinator.com/item?id=49486172",
+      "https://news.ycombinator.com/item?id=49486334",
+      "https://news.ycombinator.com/item?id=49487341"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1030,7 +1030,8 @@
       "CBMiTEFVX3lxTE03dU5Od1V5ZXgwNjZuMGFJYmFScHYycmJEM1VyT2k3T3ZodklwR0dxMUItUkw5blBvVzJDS3RCT0prdHB5MVhEc2Y5VGw",
       "CBMiTEFVX3lxTE5JRUhvbzgtOW5lVW5QU01GUmRkeHRyWUtuTER6bXdaOUxWQkNaa0llT0lvVHJDYzlCS3lFUkh1d0FWU0ZVSTRYSmdwOFE",
       "CBMiTEFVX3lxTE1TRVJnckZxMlIzMXB1b2RoVjR0c0xzd2VmaW1fdzFuaDNhYUdHYkY1ZDVMX1pYaGg5VTNhcVRoYUpCWGVEMmtqa1dDdFU",
-      "CBMiTEFVX3lxTFA5eHZpSkZmZ0JzdW43d2kybG9xZmw1S2VKUmNzMWtUV1Y4NWRKaU9iUTFFYThzVFVPbnJjbmVrd1J6WFhEdDFkTjVZbWc"
+      "CBMiTEFVX3lxTFA5eHZpSkZmZ0JzdW43d2kybG9xZmw1S2VKUmNzMWtUV1Y4NWRKaU9iUTFFYThzVFVPbnJjbmVrd1J6WFhEdDFkTjVZbWc",
+      "CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1293,7 +1294,9 @@
       "CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ",
       "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ",
       "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
-      "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ"
+      "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ",
+      "CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ",
+      "CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ"
     ]
   },
   "pending": {
@@ -1410,6 +1413,24 @@
         "source": "요즘IT",
         "title": "[요즘IT x 노션] ‘로컬앱 자랑대회’ 출전작 모집!",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "React에서 Mobx 경험기 (Redux와 비교기)",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 당장 서비스에 쓸만한 API ② 사주·영화·게임·여행·검색 트렌드 편",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "클로드 코드 제대로 써먹는 프롬프트 작성 팁 6가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ?oc=5",
         "summary": ""
       }
     ],
