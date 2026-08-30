@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32784",
-      "https://news.hada.io/topic?id=32785",
-      "https://news.hada.io/topic?id=32786",
-      "https://news.hada.io/topic?id=32780",
-      "https://news.hada.io/topic?id=32781",
       "https://news.hada.io/topic?id=32787",
       "https://news.hada.io/topic?id=32788",
       "https://news.hada.io/topic?id=32789",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33019",
       "https://news.hada.io/topic?id=33020",
       "https://news.hada.io/topic?id=33028",
-      "https://news.hada.io/topic?id=33030"
+      "https://news.hada.io/topic?id=33030",
+      "https://news.hada.io/topic?id=32990",
+      "https://news.hada.io/topic?id=33031",
+      "https://news.hada.io/topic?id=33033",
+      "https://news.hada.io/topic?id=33034",
+      "https://news.hada.io/topic?id=33036"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49389430",
-      "https://news.ycombinator.com/item?id=49390427",
-      "https://news.ycombinator.com/item?id=49357530",
-      "https://news.ycombinator.com/item?id=49386699",
-      "https://news.ycombinator.com/item?id=49386895",
       "https://news.ycombinator.com/item?id=49388752",
       "https://news.ycombinator.com/item?id=49346444",
       "https://news.ycombinator.com/item?id=49389441",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49425252",
       "https://news.ycombinator.com/item?id=49494301",
       "https://news.ycombinator.com/item?id=49494520",
-      "https://news.ycombinator.com/item?id=49495372"
+      "https://news.ycombinator.com/item?id=49495372",
+      "https://news.ycombinator.com/item?id=49463888",
+      "https://news.ycombinator.com/item?id=49494856",
+      "https://news.ycombinator.com/item?id=49496782",
+      "https://news.ycombinator.com/item?id=49496918",
+      "https://news.ycombinator.com/item?id=49497063"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1031,7 +1031,8 @@
       "CBMiTEFVX3lxTE5JRUhvbzgtOW5lVW5QU01GUmRkeHRyWUtuTER6bXdaOUxWQkNaa0llT0lvVHJDYzlCS3lFUkh1d0FWU0ZVSTRYSmdwOFE",
       "CBMiTEFVX3lxTE1TRVJnckZxMlIzMXB1b2RoVjR0c0xzd2VmaW1fdzFuaDNhYUdHYkY1ZDVMX1pYaGg5VTNhcVRoYUpCWGVEMmtqa1dDdFU",
       "CBMiTEFVX3lxTFA5eHZpSkZmZ0JzdW43d2kybG9xZmw1S2VKUmNzMWtUV1Y4NWRKaU9iUTFFYThzVFVPbnJjbmVrd1J6WFhEdDFkTjVZbWc",
-      "CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ"
+      "CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ",
+      "CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1473,6 +1474,12 @@
         "source": "요즘IT",
         "title": "AI 주도 개발 시대, “기획”에 주목해야 하는 이유",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Vite로 구버전 브라우저 지원하기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o?oc=5",
         "summary": ""
       }
     ],
