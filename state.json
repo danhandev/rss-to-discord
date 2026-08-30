@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32791",
-      "https://news.hada.io/topic?id=32793",
-      "https://news.hada.io/topic?id=32794",
-      "https://news.hada.io/topic?id=32795",
-      "https://news.hada.io/topic?id=32796",
       "https://news.hada.io/topic?id=32797",
       "https://news.hada.io/topic?id=32798",
       "https://news.hada.io/topic?id=32799",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33039",
       "https://news.hada.io/topic?id=33040",
       "https://news.hada.io/topic?id=33041",
-      "https://news.hada.io/topic?id=33042"
+      "https://news.hada.io/topic?id=33042",
+      "https://news.hada.io/topic?id=32989",
+      "https://news.hada.io/topic?id=33037",
+      "https://news.hada.io/topic?id=33043",
+      "https://news.hada.io/topic?id=33044",
+      "https://news.hada.io/topic?id=33045"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49374853",
-      "https://news.ycombinator.com/item?id=49327408",
-      "https://news.ycombinator.com/item?id=49395628",
-      "https://news.ycombinator.com/item?id=49393052",
-      "https://news.ycombinator.com/item?id=49394496",
       "https://news.ycombinator.com/item?id=49384210",
       "https://news.ycombinator.com/item?id=49391553",
       "https://news.ycombinator.com/item?id=49395605",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49498978",
       "https://news.ycombinator.com/item?id=49499394",
       "https://news.ycombinator.com/item?id=49499854",
-      "https://news.ycombinator.com/item?id=49499867"
+      "https://news.ycombinator.com/item?id=49499867",
+      "https://news.ycombinator.com/item?id=49419381",
+      "https://news.ycombinator.com/item?id=49491791",
+      "https://news.ycombinator.com/item?id=49497810",
+      "https://news.ycombinator.com/item?id=49498787",
+      "https://news.ycombinator.com/item?id=49499891"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1305,7 +1305,8 @@
       "CBMiWkFVX3lxTFAwWjVvSWM1dk5oN0dscm40dlFiSVlSb01TM3UwN0liTkVtczkyVlVOMXdZODJTWWttdE0xS3BZLTBZNFhzZ194MlRINVFyVFRJMmlKaWNDNmRlZw",
       "CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ",
       "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
-      "CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ"
+      "CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ",
+      "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw"
     ]
   },
   "pending": {
@@ -1494,6 +1495,12 @@
         "source": "요즘IT",
         "title": "출근하면 코드부터 짜던 개발자가 이제 봇부터 켭니다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "GEO 시대의 글쓰기, SEO와 무엇이 같고 무엇이 다른가",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw?oc=5",
         "summary": ""
       }
     ],
