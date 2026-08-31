@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32814",
-      "https://news.hada.io/topic?id=32817",
-      "https://news.hada.io/topic?id=32818",
-      "https://news.hada.io/topic?id=32819",
-      "https://news.hada.io/topic?id=32820",
       "https://news.hada.io/topic?id=32821",
       "https://news.hada.io/topic?id=32816",
       "https://news.hada.io/topic?id=32824",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33054",
       "https://news.hada.io/topic?id=33055",
       "https://news.hada.io/topic?id=33056",
-      "https://news.hada.io/topic?id=33072"
+      "https://news.hada.io/topic?id=33072",
+      "https://news.hada.io/topic?id=33076",
+      "https://news.hada.io/topic?id=33077",
+      "https://news.hada.io/topic?id=33078",
+      "https://news.hada.io/topic?id=33079",
+      "https://news.hada.io/topic?id=33080"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49399591",
-      "https://news.ycombinator.com/item?id=49400408",
-      "https://news.ycombinator.com/item?id=49351802",
-      "https://news.ycombinator.com/item?id=49399898",
-      "https://news.ycombinator.com/item?id=49355659",
       "https://news.ycombinator.com/item?id=49398158",
       "https://news.ycombinator.com/item?id=49401549",
       "https://news.ycombinator.com/item?id=49402189",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49504625",
       "https://news.ycombinator.com/item?id=49505219",
       "https://news.ycombinator.com/item?id=49505310",
-      "https://news.ycombinator.com/item?id=49506182"
+      "https://news.ycombinator.com/item?id=49506182",
+      "https://news.ycombinator.com/item?id=49508317",
+      "https://news.ycombinator.com/item?id=49508506",
+      "https://news.ycombinator.com/item?id=49510000",
+      "https://news.ycombinator.com/item?id=49510514",
+      "https://news.ycombinator.com/item?id=49511856"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1314,7 +1314,10 @@
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
       "CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ",
       "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
-      "CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw"
+      "CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw",
+      "CBMiWkFVX3lxTE1mR0VqdnhDNTdadTIwWHp4M2RrcHBYNVNlSkVBYzFSSS1laE14UHNIWUd1QndON2ZSTFEybEo3WjN6NVBxVFlzWnhwaXh1TFpYSEMtRjZYaDIwQQ",
+      "CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ",
+      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc"
     ]
   },
   "pending": {
@@ -1329,6 +1332,24 @@
         "source": "요즘IT",
         "title": "오픈AI 에이전트 허깅페이스 해킹 사건의 전말",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "7년 차 기획자의 커뮤니케이션 실제 사례",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mR0VqdnhDNTdadTIwWHp4M2RrcHBYNVNlSkVBYzFSSS1laE14UHNIWUd1QndON2ZSTFEybEo3WjN6NVBxVFlzWnhwaXh1TFpYSEMtRjZYaDIwQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "디자인 시스템 구축기: 3타이포그래피와 프로젝트 관리",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 개발 이야기들",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc?oc=5",
         "summary": ""
       }
     ],
