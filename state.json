@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32797",
-      "https://news.hada.io/topic?id=32798",
-      "https://news.hada.io/topic?id=32799",
-      "https://news.hada.io/topic?id=32800",
-      "https://news.hada.io/topic?id=32801",
       "https://news.hada.io/topic?id=32802",
       "https://news.hada.io/topic?id=32804",
       "https://news.hada.io/topic?id=32805",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=33037",
       "https://news.hada.io/topic?id=33043",
       "https://news.hada.io/topic?id=33044",
-      "https://news.hada.io/topic?id=33045"
+      "https://news.hada.io/topic?id=33045",
+      "https://news.hada.io/topic?id=33059",
+      "https://news.hada.io/topic?id=33061",
+      "https://news.hada.io/topic?id=33062",
+      "https://news.hada.io/topic?id=33063",
+      "https://news.hada.io/topic?id=33065"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49384210",
-      "https://news.ycombinator.com/item?id=49391553",
-      "https://news.ycombinator.com/item?id=49395605",
-      "https://news.ycombinator.com/item?id=49398304",
       "https://news.ycombinator.com/item?id=49376769",
       "https://news.ycombinator.com/item?id=49380303",
       "https://news.ycombinator.com/item?id=49388694",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=49491791",
       "https://news.ycombinator.com/item?id=49497810",
       "https://news.ycombinator.com/item?id=49498787",
-      "https://news.ycombinator.com/item?id=49499891"
+      "https://news.ycombinator.com/item?id=49499891",
+      "https://news.ycombinator.com/item?id=49463397",
+      "https://news.ycombinator.com/item?id=49468126",
+      "https://news.ycombinator.com/item?id=49478426",
+      "https://news.ycombinator.com/item?id=49503601"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -450,7 +450,8 @@
       "https://tech.kakao.com/posts/827",
       "https://tech.kakao.com/posts/828",
       "https://tech.kakao.com/posts/829",
-      "https://tech.kakao.com/posts/830"
+      "https://tech.kakao.com/posts/830",
+      "https://tech.kakao.com/posts/831"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1032,7 +1033,8 @@
       "CBMiTEFVX3lxTE1TRVJnckZxMlIzMXB1b2RoVjR0c0xzd2VmaW1fdzFuaDNhYUdHYkY1ZDVMX1pYaGg5VTNhcVRoYUpCWGVEMmtqa1dDdFU",
       "CBMiTEFVX3lxTFA5eHZpSkZmZ0JzdW43d2kybG9xZmw1S2VKUmNzMWtUV1Y4NWRKaU9iUTFFYThzVFVPbnJjbmVrd1J6WFhEdDFkTjVZbWc",
       "CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ",
-      "CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o"
+      "CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o",
+      "CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1306,7 +1308,9 @@
       "CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ",
       "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
       "CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ",
-      "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw"
+      "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
+      "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
+      "CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ"
     ]
   },
   "pending": {
@@ -1501,6 +1505,30 @@
         "source": "요즘IT",
         "title": "GEO 시대의 글쓰기, SEO와 무엇이 같고 무엇이 다른가",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "[다시보기] 8월 우아한테크세미나 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기",
+        "link": "https://tech.kakao.com/posts/831",
+        "summary": "들어가며 지난 글 LLM as a Judge를 활용한 CodeBuddy 성능 평가에서는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질을 어떻게 측정할 것인지를 다뤘습니다. 평가 체계를 세우고 나니 다음 질문이 따라왔습니다. \"그래서 이 리뷰가 실제로 무엇을 막아주고 있는가?\" 코드버디는 PR을 요약하고(describe), 리뷰하고(review), 개선안을 제안합니다(improve). 정확도는 꾸준히 올라갔습니다. 그런데 리뷰 결과..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "뽑히는 개발자 이력서는 어떻게 만드나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "만들기도 전에 이게 돈이 될까부터 생각한 적 있다면",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ?oc=5",
         "summary": ""
       }
     ],
