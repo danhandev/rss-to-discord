@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32802",
-      "https://news.hada.io/topic?id=32804",
-      "https://news.hada.io/topic?id=32805",
-      "https://news.hada.io/topic?id=32807",
-      "https://news.hada.io/topic?id=32808",
       "https://news.hada.io/topic?id=32809",
       "https://news.hada.io/topic?id=32810",
       "https://news.hada.io/topic?id=32811",
@@ -200,11 +195,14 @@
       "https://news.hada.io/topic?id=33061",
       "https://news.hada.io/topic?id=33062",
       "https://news.hada.io/topic?id=33063",
-      "https://news.hada.io/topic?id=33065"
+      "https://news.hada.io/topic?id=33065",
+      "https://news.hada.io/topic?id=33057",
+      "https://news.hada.io/topic?id=33058",
+      "https://news.hada.io/topic?id=33069",
+      "https://news.hada.io/topic?id=33070",
+      "https://news.hada.io/topic?id=33071"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49376769",
-      "https://news.ycombinator.com/item?id=49380303",
       "https://news.ycombinator.com/item?id=49388694",
       "https://news.ycombinator.com/item?id=49398152",
       "https://news.ycombinator.com/item?id=49398904",
@@ -402,7 +400,9 @@
       "https://news.ycombinator.com/item?id=49463397",
       "https://news.ycombinator.com/item?id=49468126",
       "https://news.ycombinator.com/item?id=49478426",
-      "https://news.ycombinator.com/item?id=49503601"
+      "https://news.ycombinator.com/item?id=49503601",
+      "https://news.ycombinator.com/item?id=49435285",
+      "https://news.ycombinator.com/item?id=49499831"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -929,7 +929,8 @@
       "https://www.fsc.go.kr/no010101/87605",
       "https://www.fsc.go.kr/no010101/87609",
       "https://www.fsc.go.kr/no010101/87611",
-      "https://www.fsc.go.kr/no010101/87614"
+      "https://www.fsc.go.kr/no010101/87614",
+      "https://www.fsc.go.kr/no010101/87620"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1314,279 +1315,7 @@
     ]
   },
   "pending": {
-    "weekly-tech": [
-      {
-        "source": "토스테크",
-        "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
-        "link": "https://toss.tech/article/tech_talk_talk_3",
-        "summary": "안녕하세요, 토스증권 AI 데이터 플랫폼 팀에서 ML 엔지니어로 일하고 있는 황호익입니다. 이번 글에서는 토스증권 안에서 추천과 검색이 어떤 방향으로 진화하고 있는지 이야기해보려고 해요. 추천은 어떻게 배치 중심에서 실시간 개인화로 바뀌고 있는지, 검색은 어떻게 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있는지 순서대로 다룰게요. 완성된 정답이라기보다는, 시스템을 만들면서 마주친 고민들이라고 봐주시면 좋겠습니다. 토스증권 AI 데이터 플랫폼 팀의 미션 토스증권의 모든 AI 서비스가…"
-      },
-      {
-        "source": "카카오",
-        "title": "지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!",
-        "link": "https://tech.kakao.com/posts/830",
-        "summary": "대한민국 AI 생태계의 새로운 바람이 시작됩니다! ⛵ 카카오가 부산광역시, 카카오임팩트와 함께 지역 AI 생태계 조성과 기술 교류를 위한 '카카오 AI 돛 Summit 26’을 개최합니다! 이번 서밋은 카카오가 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력하여 비수도권의 인재 양성 및 창업을 지원하는 ‘카카오 AI 돛’ 프로젝트의 핵심 행사입니다. '미래를 향해, 가능성의 항해’ 슬로건 아래, 기술과 AI 생태계가 강력하게 연결..."
-      },
-      {
-        "source": "우아한형제들",
-        "title": "AI 데이터 분석가 ‘물어보새’ 등장 – 1부. RAG와 Text-To-SQL 활용",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TRVJnckZxMlIzMXB1b2RoVjR0c0xzd2VmaW1fdzFuaDNhYUdHYkY1ZDVMX1pYaGg5VTNhcVRoYUpCWGVEMmtqa1dDdFU?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "장시간 비동기 작업, Kafka 대신 RDB 기반 Task Queue로 해결하기",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5eHZpSkZmZ0JzdW43d2kybG9xZmw1S2VKUmNzMWtUV1Y4NWRKaU9iUTFFYThzVFVPbnJjbmVrd1J6WFhEdDFkTjVZbWc?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "LINE",
-        "title": "LLM Wiki: 코드 기준으로 자동 최신화되는 도메인 지식 SSOT 만들기",
-        "link": "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
-        "summary": "들어가며안녕하세요. LINE Plus에서 Global E-Commerce Platform 개발을 맡고 있는 윤석범입니다.AI로 개발할 때 결과물의 품질은 AI의 코드 생성 능력보다..."
-      },
-      {
-        "source": "컬리",
-        "title": "현관문에도 얼굴이 있다: 배송 완료 사진 기반 On-device 오배송 탐지 시스템",
-        "link": "https://helloworld.kurly.com/blog/image-based-misdelivery-detection/",
-        "summary": "배송 완료 사진의 임베딩 유사도를 기반으로 오배송을 탐지하는 방법과, On-device 추론을 통해 서비스에 적용한 과정을 소개하는 글입니다."
-      },
-      {
-        "source": "컬리",
-        "title": "AI에게 도메인을 가르치다 두 번 갈아엎은 이야기 — LLM Wiki + RAG 혼합기",
-        "link": "https://helloworld.kurly.com/blog/2026-delivery-domain-rag/",
-        "summary": "도메인 지식을 LLM에게 먹이는 방법 — Inverted Index, 본문 임베딩, 요약 임베딩+FTS 세 가지 시도와 두 번의 갈아엎기"
-      },
-      {
-        "source": "쏘카",
-        "title": "장애를 스스로 복구하는 AI 에이전트",
-        "link": "https://tech.socar.kr/dev/2026/07/22/agentic-engineering-in-production",
-        "summary": "데모를 넘어 프로덕션으로"
-      },
-      {
-        "source": "쏘카",
-        "title": "이미 있는 기능을 AI가 또 만들지 않도록 하기 — 지식 그래프 도입기",
-        "link": "https://tech.socar.kr/dev/2026/07/27/parking-brain-1",
-        "summary": "흩어진 도메인 지식을, 개발 루프 안에서 스스로 걸러지고 자라는 그래프로"
-      },
-      {
-        "source": "요즘IT",
-        "title": "현장이 만든 AI를 GS는 어떻게 상용 제품으로 키웠나",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "충원이 거절되자 \"이거 한번 해보자\"로 시작한 자동화",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "개발자의 시간은 소중하니까 정규식을 씁시다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "API란 무엇인가요? (feat. 인터페이스)",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "1%가 겪은 버그 고쳐야할까요?",
-        "link": "https://toss.tech/article/qa_hotfix",
-        "summary": "점진 배포와 핫픽스의 모순 속에서, 판단을 만든 이야기"
-      },
-      {
-        "source": "요즘IT",
-        "title": "리더는 \"AI 왜 안 쓰냐\" VS 실무자는 \"사고 나면요?\"",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "회고 잘하고 싶어서 만든 인터랙티브 회고 도구",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "지금 당장 서비스에 쓸만한 API ① 지도·교통·날씨·금융·부동산 편",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "피그마는 여러분을 나쁜 디자이너로 만들고 있습니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "[요즘IT x 노션] ‘로컬앱 자랑대회’ 출전작 모집!",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "React에서 Mobx 경험기 (Redux와 비교기)",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "지금 당장 서비스에 쓸만한 API ② 사주·영화·게임·여행·검색 트렌드 편",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "클로드 코드 제대로 써먹는 프롬프트 작성 팁 6가지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "‘사용성 평가’로 생생한 유저 피드백 수집하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LS2tRb1IzMHpGeHc1RERka01Ld19MWkZNbVRCT2pvU3g4dTJXX0ZLU0ZRMzduZldIRGtLS2JITU1ZeFRrS2kyakNwZmZlLWdxdExERkVWZlRVZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "쿠팡은 디자인 시스템을 어떻게 구축했을까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "실험 조직으로 거듭나기: 3 체계적으로 실험하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "IT 실무와 정보, 무엇이든 물어보세요! | 물어봐 AI",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "의견과 아이디어가 너무 많아서 문제라면?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwWjVvSWM1dk5oN0dscm40dlFiSVlSb01TM3UwN0liTkVtczkyVlVOMXdZODJTWWttdE0xS3BZLTBZNFhzZ194MlRINVFyVFRJMmlKaWNDNmRlZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI 주도 개발 시대, “기획”에 주목해야 하는 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "Vite로 구버전 브라우저 지원하기",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획 용어 4부: 검색 기획/설계를 위한 기본 용어 알고 가기",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "출근하면 코드부터 짜던 개발자가 이제 봇부터 켭니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "GEO 시대의 글쓰기, SEO와 무엇이 같고 무엇이 다른가",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "[다시보기] 8월 우아한테크세미나 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "카카오",
-        "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기",
-        "link": "https://tech.kakao.com/posts/831",
-        "summary": "들어가며 지난 글 LLM as a Judge를 활용한 CodeBuddy 성능 평가에서는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질을 어떻게 측정할 것인지를 다뤘습니다. 평가 체계를 세우고 나니 다음 질문이 따라왔습니다. \"그래서 이 리뷰가 실제로 무엇을 막아주고 있는가?\" 코드버디는 PR을 요약하고(describe), 리뷰하고(review), 개선안을 제안합니다(improve). 정확도는 꾸준히 올라갔습니다. 그런데 리뷰 결과..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "뽑히는 개발자 이력서는 어떻게 만드나요?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "만들기도 전에 이게 돈이 될까부터 생각한 적 있다면",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ?oc=5",
-        "summary": ""
-      }
-    ],
-    "weekly-finance": [
-      {
-        "source": "금융위 보도자료",
-        "title": "“AI 시대 국민의 일상과 생업을 잇는 마이데이터 발전방안을 추진합니다.“",
-        "link": "https://www.fsc.go.kr/no010101/87585",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "금융위원회 인사보도(과장급 전보)",
-        "link": "https://www.fsc.go.kr/no010101/87593",
-        "summary": "금융위원회 인사 보도 < 과장급 전보 > 글로벌금융과장 나혜영 (現국민지역참여지원과장) 보험과장 임형준 (現가계금융과장) 상호금융팀장 이지현 (現포용금융지원과장) 금융데이터정책과장 김윤희 (現글로벌금융과장) 가상자산과장 서나윤 (現금융데이터정책과장) 자산운용과장 김성진 (現가상자산과장) 국민지역참여지원과장 이종림 (現금융위원회) 금융정보분석원 가상자산검사과장 안남기 (現상호금융팀장) 【2026. 8. 27日字】 자료생산 : 행정인사과 (TEL 02-2100-2752)"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다",
-        "link": "https://www.fsc.go.kr/no010101/87594",
-        "summary": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다 - 멈춘 곳은 다시, 더딘 곳은 더 빨리 추진...LH 매입임대주택으로 공급 - 작년 시범 추진 결과 신축매입만 2.6천호, 올해는 신축·기축매입 모두 공급 □ 국토교통부 (장관 김윤덕), 금융위원회(위원장 이억원), 한국토지주택공사 (LH), 금융감독원은 「주택 신속공급 방안」(8.13) 관련하여, 자금 및 사업성 부족 문제 등으로 멈추거나 더디게 진행 중 인 부동산 프로젝트 파이낸싱 (PF) 사업장을 LH 매입임대주택 으로…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "제10차 지정대리인 심사위원회 개최  - “금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스” 지정",
-        "link": "https://www.fsc.go.kr/no010101/87595",
-        "summary": "제10차 지정대리인 심사위원회 개최 - “ 금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스” 지정 금 융위원회 (위원장 이억원) 는 「 제10차 지정대리인 심사위원회 」를 ’26.8.26일(수) 개최 하고, 1건의 금융서비스를 지정대리인 * 으로 지정 하였다. 핀테크업체 등이 금융위원회로부터 지정대리인으로 지정받게 되면, 금융 회사의 업무위탁 을 받아 지정받은 금융업무 를 운영 할 수 있게 된다. (“의결 결과 세부내용” : 참고) * 금융혁신을 촉진하고 혁신적 금융서비스의…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "FIU, 자금세탁방지 유관기관 협의회 개최 - 16개 유관기관과 국가위험평가 결과를 공유하고, 자금세탁 위협에 대한 금융권의 대응역량 강화방안을 논의",
-        "link": "https://www.fsc.go.kr/no010101/87604",
-        "summary": "FIU, 자금세탁방지 유관기관 협의회 개최 - 16개 유관기관과 국가위험평가 결과를 공유하고, 자금세탁 위협에 대한 금융권의 대응역량 강화방안을 논의 - [ 회의 개요 ] 금융정보분석원 (이하 ‘FIU’) 은 ‘26.8.27.(목) 16개 유관기관과 함께 「자금세탁방지 (Anti-Money Laundering, 이하 AML) 유관기관 협의회」를 개최하였다. 이번 협의회는 ’25년말 완료한 국가위험평가 (NRA : National Risk Assessment) 결과 를 바탕으로 우리나라의 자금세탁…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "｢대부업등 감독규정｣ 개정안 규정변경예고 (‘26.8.27. ~ ’26.10.6.)",
-        "link": "https://www.fsc.go.kr/no010101/87605",
-        "summary": "｢대부업등 감독규정｣ 개정안 규정변경예고 (‘26.8.27. ~ ’26.10.6.) ✓ ｢신용협동조합법｣ 개정 (’26.4월) 에 따라 설립을 준비중인 신협자산관리회사 가 부실채권 매입 업무를 할 수 있도록 ‘ 대부채권 양도가능 기관’ 지위 를 부여 금융위원회는「 신용협동조합법 」 개정 (’26.4.21. 공포, ’26.10.22. 시행)으로 설립 근거가 마련된 신협자산관리회사 가 부실채권 매입ㆍ관리 업무를 원활히 수행할 수 있도록「 대부업등 감독규정 」 개정안 에 대한 규정변경예고 를 실시…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "국민성장펀드가 로봇산업의 경쟁력 강화와K-콘텐츠의 글로벌 영토 확장을 지원합니다.",
-        "link": "https://www.fsc.go.kr/no010101/87609",
-        "summary": "국민성장펀드가 로봇 산업의 경쟁력 강화와 K-콘텐츠 의 글로벌 영토 확장을 지원합니다. • 국민성장펀드 기금운용심의회는 ‘원익로보틱스 휴머노이드 양산시설 구축 사업’ 및 ‘ CJ포디플렉스 의 글로벌 기술특별관 인프라 확장 ’ 등 총 7건의 사업 에 대한 자금지원 (지분투자, 저리대출) 승인 ① 로봇 전문기업인 ‘(주)원익로보틱스 ’의 전북 소재 생산공장 신축을 위해 3,500억원 직접 지분투자 ☞ 로봇핸드, 산업용 휴머노이드 의 경쟁력 강화 ② ‘ 씨제이포디플렉스(주)’ 글로벌 기술특별관 확대에…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "주택공급 촉진을 위한 금융·건설업계 간담회 개최",
-        "link": "https://www.fsc.go.kr/no010101/87611",
-        "summary": "주택공급 촉진을 위한 금융·건설업계 간담회 개최 ◈ 금융위·국토부 는 주택공급 촉진 을 위해 금융권 에 적극적인 자급공급 당부 ◈ 건설업계 현장 애로 를 청취 하고자 PF·건설사 금융애로 해소센터 설치 ※ ｢부동산 시장 안정을 위한 금융 종합대책｣ (8.13일, 금융위) 후속조치 1. 회의 개요 금융위원회 와 국토교통부 는 ｢ 금융·건설업계 정례 간담회 킥오프회의 ｣를 개최하고, 8.13일 부동산 금융대책의 추진상황, 민간 공급 생태계 복원 을 위한 지원사항 , PF·건설사 금융애로 해소센터…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "청년의 잠재력에 국가가 투자합니다!  청년 예산 언박싱(UNBOXING) 2027, ｢청년 성장단계별 종합투자 추진전략｣ 발표",
-        "link": "https://www.fsc.go.kr/no010101/87614",
-        "summary": "청년의 잠재력에 국가가 투자합니다! 청년 예산 언박싱(UNBOXING) 2027, ｢청년 성장단계별 종합투자 추진전략｣ 발표 - ❶ 일자리·창업의 ‘성장·이동 사다리’ 복원, ❷ 교육·주거·자산의 ‘출발선 격차’ 완화, ❸‘ 삶의 질’ 제고 등 성장단계별 맞춤형 재정투자 확대 (‘26년 28.2 → ’27년 정부안 43.3조원, +53.5%) - 아이가 태어나서 자립할 때(0~34세)까지 정부가 최대 1억 9,582만원 지원 정부는 8월 28일(금) 오후 3시 청와대 충무실에서 대통령 주재로 ‘…"
-      }
-    ]
+    "weekly-tech": [],
+    "weekly-finance": []
   }
 }
