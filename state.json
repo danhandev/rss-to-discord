@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32809",
-      "https://news.hada.io/topic?id=32810",
-      "https://news.hada.io/topic?id=32811",
-      "https://news.hada.io/topic?id=32812",
-      "https://news.hada.io/topic?id=32813",
       "https://news.hada.io/topic?id=32814",
       "https://news.hada.io/topic?id=32817",
       "https://news.hada.io/topic?id=32818",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33058",
       "https://news.hada.io/topic?id=33069",
       "https://news.hada.io/topic?id=33070",
-      "https://news.hada.io/topic?id=33071"
+      "https://news.hada.io/topic?id=33071",
+      "https://news.hada.io/topic?id=33052",
+      "https://news.hada.io/topic?id=33054",
+      "https://news.hada.io/topic?id=33055",
+      "https://news.hada.io/topic?id=33056",
+      "https://news.hada.io/topic?id=33072"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49388694",
-      "https://news.ycombinator.com/item?id=49398152",
-      "https://news.ycombinator.com/item?id=49398904",
-      "https://news.ycombinator.com/item?id=49399524",
-      "https://news.ycombinator.com/item?id=49397074",
       "https://news.ycombinator.com/item?id=49399591",
       "https://news.ycombinator.com/item?id=49400408",
       "https://news.ycombinator.com/item?id=49351802",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49478426",
       "https://news.ycombinator.com/item?id=49503601",
       "https://news.ycombinator.com/item?id=49435285",
-      "https://news.ycombinator.com/item?id=49499831"
+      "https://news.ycombinator.com/item?id=49499831",
+      "https://news.ycombinator.com/item?id=49503934",
+      "https://news.ycombinator.com/item?id=49504625",
+      "https://news.ycombinator.com/item?id=49505219",
+      "https://news.ycombinator.com/item?id=49505310",
+      "https://news.ycombinator.com/item?id=49506182"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -930,7 +930,8 @@
       "https://www.fsc.go.kr/no010101/87609",
       "https://www.fsc.go.kr/no010101/87611",
       "https://www.fsc.go.kr/no010101/87614",
-      "https://www.fsc.go.kr/no010101/87620"
+      "https://www.fsc.go.kr/no010101/87620",
+      "https://www.fsc.go.kr/no010101/87622"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1311,11 +1312,33 @@
       "CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ",
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
-      "CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ"
+      "CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ",
+      "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
+      "CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw"
     ]
   },
   "pending": {
-    "weekly-tech": [],
-    "weekly-finance": []
+    "weekly-tech": [
+      {
+        "source": "요즘IT",
+        "title": "하룻밤에 사라진 2조 원, 거래소가 당신의 코인을 지배하는 방식",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "오픈AI 에이전트 허깅페이스 해킹 사건의 전말",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw?oc=5",
+        "summary": ""
+      }
+    ],
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "軍 복무기간이  ‘자산을 형성하고 금융역량을 키우는 기회’가 되도록 지원합니다.  - 2026년 제2차 금융교육협의회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87622",
+        "summary": "軍 복무기간이 ‘ 자산 을 형성하고 금융역량 을 키우는 기회 ’가 되도록 지원합니다. - 2026년 제2차 금융교육협의회 개최 - ◈ 장병 급여인상 과 장병내일준비적금·청년미래적금 등 자산형성 지원 확대 등에 맞춰 관계기관 합동 으로 「 군장병 금융교육 강화 방안 」 마련 ◈ 기존의 ‘ 강의·지식전달식 교육 ’에서 ‘ 스스로 참여하고 문제를 해결하는 교육 ’으로 전환 추진 【관련 국정과제】 82-3번, 청년 등 전국민 경제·금융교육 강화 금융위원회 는 2026년 제2차 금융교육협의회(의장:…"
+      }
+    ]
   }
 }
