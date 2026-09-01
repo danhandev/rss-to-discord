@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32833",
-      "https://news.hada.io/topic?id=32834",
-      "https://news.hada.io/topic?id=32837",
-      "https://news.hada.io/topic?id=32838",
-      "https://news.hada.io/topic?id=32839",
       "https://news.hada.io/topic?id=32840",
       "https://news.hada.io/topic?id=32841",
       "https://news.hada.io/topic?id=32842",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33095",
       "https://news.hada.io/topic?id=33096",
       "https://news.hada.io/topic?id=33097",
-      "https://news.hada.io/topic?id=33098"
+      "https://news.hada.io/topic?id=33098",
+      "https://news.hada.io/topic?id=33103",
+      "https://news.hada.io/topic?id=33105",
+      "https://news.hada.io/topic?id=33106",
+      "https://news.hada.io/topic?id=33107",
+      "https://news.hada.io/topic?id=33108"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49402781",
-      "https://news.ycombinator.com/item?id=49402202",
-      "https://news.ycombinator.com/item?id=49404380",
-      "https://news.ycombinator.com/item?id=49405816",
-      "https://news.ycombinator.com/item?id=49405870",
       "https://news.ycombinator.com/item?id=49406539",
       "https://news.ycombinator.com/item?id=49402213",
       "https://news.ycombinator.com/item?id=49405331",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49496292",
       "https://news.ycombinator.com/item?id=49503521",
       "https://news.ycombinator.com/item?id=49504905",
-      "https://news.ycombinator.com/item?id=49515830"
+      "https://news.ycombinator.com/item?id=49515830",
+      "https://news.ycombinator.com/item?id=49516199",
+      "https://news.ycombinator.com/item?id=49516699",
+      "https://news.ycombinator.com/item?id=49517448",
+      "https://news.ycombinator.com/item?id=49517584",
+      "https://news.ycombinator.com/item?id=49517624"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -555,7 +555,8 @@
       "https://d2.naver.com/helloworld/4821538",
       "https://d2.naver.com/news/1783497",
       "https://d2.naver.com/helloworld/0525182",
-      "https://d2.naver.com/helloworld/7337586"
+      "https://d2.naver.com/helloworld/7337586",
+      "https://d2.naver.com/helloworld/4452165"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1319,7 +1320,9 @@
       "CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw",
       "CBMiWkFVX3lxTE1mR0VqdnhDNTdadTIwWHp4M2RrcHBYNVNlSkVBYzFSSS1laE14UHNIWUd1QndON2ZSTFEybEo3WjN6NVBxVFlzWnhwaXh1TFpYSEMtRjZYaDIwQQ",
       "CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ",
-      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc"
+      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
+      "CBMiWkFVX3lxTE5uTkdVVTQ4N3ZNQjBWc1lNS0tiWkZnakRJamZzcHpQR25sYkVOZWdhb296VTVYWTVieHNRUUlReG9ROW1SSm9BaE5ULURvaXExSmpjT3NSMnV4QQ",
+      "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw"
     ]
   },
   "pending": {
@@ -1359,6 +1362,24 @@
         "title": "곧, if(kakao)26의 이야기가 시작됩니다.",
         "link": "https://tech.kakao.com/posts/832",
         "summary": "“모든 연결에 지능을” if(kakao)26은 이 한 문장에서 시작합니다. 카카오가 기술을 만들며 마주한 고민과 질문, 그 과정에서 얻은 경험과 발견을 나누는 if(kakao)26! 어떤 이야기들이 기다리고 있을지 궁금하신가요? 앞으로 카카오테크 블로그를 통해 if(kakao)26의 다양한 이야기를 하나씩 소개해 드릴 예정입니다! 하나씩 공개될 if(kakao)26의 새로운 이야기를 기대해 주세요! 🔗 if(kakao)26 미리 만나보기"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
+        "link": "https://d2.naver.com/helloworld/4452165",
+        "summary": "저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다. 이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인 fork로 인해 발생한 문제를 발견해 해결하고 기여한 과정을 다루는 시리즈의 1편입니다. 1편에서는 이 문제를…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "브라우저가 화면을 그리는 방법, 렌더링 과정 이해하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTkdVVTQ4N3ZNQjBWc1lNS0tiWkZnakRJamZzcHpQR25sYkVOZWdhb296VTVYWTVieHNRUUlReG9ROW1SSm9BaE5ULURvaXExSmpjT3NSMnV4QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2026년 하반기 국내외 IT 컨퍼런스 일정 모아보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
