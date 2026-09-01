@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32845",
-      "https://news.hada.io/topic?id=32846",
-      "https://news.hada.io/topic?id=32848",
-      "https://news.hada.io/topic?id=32849",
-      "https://news.hada.io/topic?id=32851",
       "https://news.hada.io/topic?id=32852",
       "https://news.hada.io/topic?id=32853",
       "https://news.hada.io/topic?id=32854",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33116",
       "https://news.hada.io/topic?id=33117",
       "https://news.hada.io/topic?id=33119",
-      "https://news.hada.io/topic?id=33121"
+      "https://news.hada.io/topic?id=33121",
+      "https://news.hada.io/topic?id=33124",
+      "https://news.hada.io/topic?id=33125",
+      "https://news.hada.io/topic?id=33126",
+      "https://news.hada.io/topic?id=33127",
+      "https://news.hada.io/topic?id=33128"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49407507",
-      "https://news.ycombinator.com/item?id=49421158",
-      "https://news.ycombinator.com/item?id=49421489",
-      "https://news.ycombinator.com/item?id=49421554",
-      "https://news.ycombinator.com/item?id=49422784",
       "https://news.ycombinator.com/item?id=49424606",
       "https://news.ycombinator.com/item?id=49419237",
       "https://news.ycombinator.com/item?id=49419351",
@@ -402,14 +397,20 @@
       "https://news.ycombinator.com/item?id=49516059",
       "https://news.ycombinator.com/item?id=49517297",
       "https://news.ycombinator.com/item?id=49519939",
-      "https://news.ycombinator.com/item?id=49520022"
+      "https://news.ycombinator.com/item?id=49520022",
+      "https://news.ycombinator.com/item?id=49521973",
+      "https://news.ycombinator.com/item?id=49522897",
+      "https://news.ycombinator.com/item?id=49523720",
+      "https://news.ycombinator.com/item?id=49523754",
+      "https://news.ycombinator.com/item?id=49525378"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
       "https://spring.io/blog/2026/08/04/this-week-in-spring-august-4-2026",
       "https://spring.io/blog/2026/08/11/this-week-in-spring-august-11-2026",
       "https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026",
-      "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25"
+      "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25",
+      "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
@@ -934,7 +935,9 @@
       "https://www.fsc.go.kr/no010101/87614",
       "https://www.fsc.go.kr/no010101/87620",
       "https://www.fsc.go.kr/no010101/87622",
-      "https://www.fsc.go.kr/no010101/87625"
+      "https://www.fsc.go.kr/no010101/87625",
+      "https://www.fsc.go.kr/no010101/87627",
+      "https://www.fsc.go.kr/no010101/87628"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1323,7 +1326,9 @@
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
       "CBMiWkFVX3lxTE5uTkdVVTQ4N3ZNQjBWc1lNS0tiWkZnakRJamZzcHpQR25sYkVOZWdhb296VTVYWTVieHNRUUlReG9ROW1SSm9BaE5ULURvaXExSmpjT3NSMnV4QQ",
       "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
-      "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw"
+      "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw",
+      "CBMiWkFVX3lxTE5wOVJjRGZ1UlNPSGR1bkZIQ0NDTW5FTUd3enlYakJLNENVekFaaFpleU5EU1U0ZkpFc1hsQVJvNTVEd3NDb0R6X0Yxa0dIWS1jSVJlMTNCYkxDUQ",
+      "CBMiWkFVX3lxTE44RDhUV01WTENnTnF1NWNKcWhBc1U5NWo5XzdoS2xkNXZDdHZBTmVGVkQ2ZEFLOThFUDRnWG1MSFE0dmViYi1ISExrWGZHTlBCakVkYXBCakp2Zw"
     ]
   },
   "pending": {
@@ -1387,6 +1392,18 @@
         "title": "AI시대에 필요한 개발자, Product Engineer",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2023년 주목해야 하는 UI/UX 디자인 트렌드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOVJjRGZ1UlNPSGR1bkZIQ0NDTW5FTUd3enlYakJLNENVekFaaFpleU5EU1U0ZkpFc1hsQVJvNTVEd3NDb0R6X0Yxa0dIWS1jSVJlMTNCYkxDUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "자동화할 일을 고르는 것도 실력이다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RDhUV01WTENnTnF1NWNKcWhBc1U5NWo5XzdoS2xkNXZDdHZBTmVGVkQ2ZEFLOThFUDRnWG1MSFE0dmViYi1ISExrWGZHTlBCakVkYXBCakp2Zw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1401,6 +1418,18 @@
         "title": "보험업권이 7개 지방자치단체와 함께지역 소상공인·취약계층을 위한 무료 상생보험 상품을 9월 출시합니다.",
         "link": "https://www.fsc.go.kr/no010101/87625",
         "summary": "보험업권이 7개 지방자치단체와 함께 지역 소상공인·취약계층을 위한 무료 상생보험 상품을 9월 출시합니다. ◈ 보험업권 이 무료 상생보험 상품 을 7개 지자체 ( 경남, 경북, 광주, 전남, 전북, 제주, 충북 ) 에서 각 20억원 규모 로 출시 (총 140억원 규모) - ➀ 생명보험 상품 으로는 6개 지자체 ( 경남, 경북, 광주, 전남, 제주, 충북 ) 에서 신용생명보험 * 이 출시되며, 보험가입자 에 정책금융 우대 (기은 우대금리 0.3%p, 햇살론 보증요율 1년차 0.3%p 인하) 도 지원…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "성장잠재력 제고·서민생활 안정·청년 자산형성 지원을 위한 2027회계연도 금융위원회 예산안 편성",
+        "link": "https://www.fsc.go.kr/no010101/87627",
+        "summary": "성장잠재력 제고·서민생활 안정·청년 자산형성 지원을 위한 2027회계연도 금융위원회 예산안 편성 □ ’ 27년도 금융위원회 소관 예산 안 9조 2,417억원 편성 (’26년 예산 대비 4조 5,901억원 증가 , +98.7%) 1 2027회계연도 금융위원회 소관 예산 개요 2027회계연도 금융위원회 소관 예산안 은 9조 2,417억원 * 규모로 2026년 예산 대비 약 4조 5,901억원 (+98.7%) 증액 된 규모입니다. * 미래대응기금 관련 사업예산 (국민성장펀드·청년미래적금 등…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "2026년도 제61회 공인회계사시험최종 합격자 1,150명 발표",
+        "link": "https://www.fsc.go.kr/no010101/87628",
+        "summary": "2026년도 제61회 공인회계사시험 최종 합격자 1,150명 발표  제2차시험 응시자 4,368명 중 1,150명 을 최종 합격자 로 결정 (합격률 26.3%)  응시자 평균점수 는 57.4점 으로 전년 (57.5점) 대비 0.1점 하락 2026년도 제61회 공인회계사 제2차시험 (6.27.~6.28.) 에 응시 한 4,368명 에 대해 채점을 실시한 결과, 전 과목 모두 배점의 6할 이상 을 득점한 자 등 1,150명 * 을 최종 합격자 로 결정 (공인회계사자격·징계위원회 의결) 하였다.…"
       }
     ]
   }
