@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32827",
-      "https://news.hada.io/topic?id=32830",
-      "https://news.hada.io/topic?id=32792",
-      "https://news.hada.io/topic?id=32831",
-      "https://news.hada.io/topic?id=32832",
       "https://news.hada.io/topic?id=32833",
       "https://news.hada.io/topic?id=32834",
       "https://news.hada.io/topic?id=32837",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33083",
       "https://news.hada.io/topic?id=33084",
       "https://news.hada.io/topic?id=33085",
-      "https://news.hada.io/topic?id=33086"
+      "https://news.hada.io/topic?id=33086",
+      "https://news.hada.io/topic?id=33094",
+      "https://news.hada.io/topic?id=33095",
+      "https://news.hada.io/topic?id=33096",
+      "https://news.hada.io/topic?id=33097",
+      "https://news.hada.io/topic?id=33098"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49379732",
-      "https://news.ycombinator.com/item?id=49387959",
-      "https://news.ycombinator.com/item?id=49393051",
-      "https://news.ycombinator.com/item?id=49402232",
-      "https://news.ycombinator.com/item?id=49346854",
       "https://news.ycombinator.com/item?id=49402781",
       "https://news.ycombinator.com/item?id=49402202",
       "https://news.ycombinator.com/item?id=49404380",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49508982",
       "https://news.ycombinator.com/item?id=49511534",
       "https://news.ycombinator.com/item?id=49512975",
-      "https://news.ycombinator.com/item?id=49514878"
+      "https://news.ycombinator.com/item?id=49514878",
+      "https://news.ycombinator.com/item?id=49495171",
+      "https://news.ycombinator.com/item?id=49496292",
+      "https://news.ycombinator.com/item?id=49503521",
+      "https://news.ycombinator.com/item?id=49504905",
+      "https://news.ycombinator.com/item?id=49515830"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -451,7 +451,8 @@
       "https://tech.kakao.com/posts/828",
       "https://tech.kakao.com/posts/829",
       "https://tech.kakao.com/posts/830",
-      "https://tech.kakao.com/posts/831"
+      "https://tech.kakao.com/posts/831",
+      "https://tech.kakao.com/posts/832"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -931,7 +932,8 @@
       "https://www.fsc.go.kr/no010101/87611",
       "https://www.fsc.go.kr/no010101/87614",
       "https://www.fsc.go.kr/no010101/87620",
-      "https://www.fsc.go.kr/no010101/87622"
+      "https://www.fsc.go.kr/no010101/87622",
+      "https://www.fsc.go.kr/no010101/87625"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1351,6 +1353,12 @@
         "title": "IT 개발 이야기들",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc?oc=5",
         "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "곧, if(kakao)26의 이야기가 시작됩니다.",
+        "link": "https://tech.kakao.com/posts/832",
+        "summary": "“모든 연결에 지능을” if(kakao)26은 이 한 문장에서 시작합니다. 카카오가 기술을 만들며 마주한 고민과 질문, 그 과정에서 얻은 경험과 발견을 나누는 if(kakao)26! 어떤 이야기들이 기다리고 있을지 궁금하신가요? 앞으로 카카오테크 블로그를 통해 if(kakao)26의 다양한 이야기를 하나씩 소개해 드릴 예정입니다! 하나씩 공개될 if(kakao)26의 새로운 이야기를 기대해 주세요! 🔗 if(kakao)26 미리 만나보기"
       }
     ],
     "weekly-finance": [
@@ -1359,6 +1367,12 @@
         "title": "軍 복무기간이  ‘자산을 형성하고 금융역량을 키우는 기회’가 되도록 지원합니다.  - 2026년 제2차 금융교육협의회 개최",
         "link": "https://www.fsc.go.kr/no010101/87622",
         "summary": "軍 복무기간이 ‘ 자산 을 형성하고 금융역량 을 키우는 기회 ’가 되도록 지원합니다. - 2026년 제2차 금융교육협의회 개최 - ◈ 장병 급여인상 과 장병내일준비적금·청년미래적금 등 자산형성 지원 확대 등에 맞춰 관계기관 합동 으로 「 군장병 금융교육 강화 방안 」 마련 ◈ 기존의 ‘ 강의·지식전달식 교육 ’에서 ‘ 스스로 참여하고 문제를 해결하는 교육 ’으로 전환 추진 【관련 국정과제】 82-3번, 청년 등 전국민 경제·금융교육 강화 금융위원회 는 2026년 제2차 금융교육협의회(의장:…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "보험업권이 7개 지방자치단체와 함께지역 소상공인·취약계층을 위한 무료 상생보험 상품을 9월 출시합니다.",
+        "link": "https://www.fsc.go.kr/no010101/87625",
+        "summary": "보험업권이 7개 지방자치단체와 함께 지역 소상공인·취약계층을 위한 무료 상생보험 상품을 9월 출시합니다. ◈ 보험업권 이 무료 상생보험 상품 을 7개 지자체 ( 경남, 경북, 광주, 전남, 전북, 제주, 충북 ) 에서 각 20억원 규모 로 출시 (총 140억원 규모) - ➀ 생명보험 상품 으로는 6개 지자체 ( 경남, 경북, 광주, 전남, 제주, 충북 ) 에서 신용생명보험 * 이 출시되며, 보험가입자 에 정책금융 우대 (기은 우대금리 0.3%p, 햇살론 보증요율 1년차 0.3%p 인하) 도 지원…"
       }
     ]
   }
