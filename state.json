@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32876",
-      "https://news.hada.io/topic?id=32877",
-      "https://news.hada.io/topic?id=32878",
-      "https://news.hada.io/topic?id=32879",
-      "https://news.hada.io/topic?id=32880",
       "https://news.hada.io/topic?id=32881",
       "https://news.hada.io/topic?id=32882",
       "https://news.hada.io/topic?id=32883",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33151",
       "https://news.hada.io/topic?id=33152",
       "https://news.hada.io/topic?id=33153",
-      "https://news.hada.io/topic?id=33154"
+      "https://news.hada.io/topic?id=33154",
+      "https://news.hada.io/topic?id=33136",
+      "https://news.hada.io/topic?id=33158",
+      "https://news.hada.io/topic?id=33159",
+      "https://news.hada.io/topic?id=33161",
+      "https://news.hada.io/topic?id=33164"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49419252",
-      "https://news.ycombinator.com/item?id=49428121",
-      "https://news.ycombinator.com/item?id=49421806",
-      "https://news.ycombinator.com/item?id=49425800",
-      "https://news.ycombinator.com/item?id=49427001",
       "https://news.ycombinator.com/item?id=49420598",
       "https://news.ycombinator.com/item?id=49428080",
       "https://news.ycombinator.com/item?id=49431364",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49531651",
       "https://news.ycombinator.com/item?id=49524863",
       "https://news.ycombinator.com/item?id=49533497",
-      "https://news.ycombinator.com/item?id=49535752"
+      "https://news.ycombinator.com/item?id=49535752",
+      "https://news.ycombinator.com/item?id=49536201",
+      "https://news.ycombinator.com/item?id=49536375",
+      "https://news.ycombinator.com/item?id=49536384",
+      "https://news.ycombinator.com/item?id=49536606",
+      "https://news.ycombinator.com/item?id=49537553"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1338,7 +1338,8 @@
       "CBMiWkFVX3lxTE44RDhUV01WTENnTnF1NWNKcWhBc1U5NWo5XzdoS2xkNXZDdHZBTmVGVkQ2ZEFLOThFUDRnWG1MSFE0dmViYi1ISExrWGZHTlBCakVkYXBCakp2Zw",
       "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
       "CBMiWkFVX3lxTE1RcFBpdHRuM3lnei0tYlJQWmI3OWx1dEljWUY4WURobnVIYzNINjVNUExEQ3FlUm1kRGF5N1pITDFRUnFKRnRWM3NMUnR1ZjMzQXdaQW9Tei1hdw",
-      "CBMiWkFVX3lxTE01MHNoakVFMHBERFNtQWtveDRGRk1FOUtOQmZ3clFPV3lidDVBZ0xqemhyVjdON3RhMS1DYW5DbFh6ZEItejgwRndVOUhzRW1TQ0pkZ3lBdVNnUQ"
+      "CBMiWkFVX3lxTE01MHNoakVFMHBERFNtQWtveDRGRk1FOUtOQmZ3clFPV3lidDVBZ0xqemhyVjdON3RhMS1DYW5DbFh6ZEItejgwRndVOUhzRW1TQ0pkZ3lBdVNnUQ",
+      "CBMiWkFVX3lxTE4tX0JMRk5wV0VFTllpNlhyVVVHWXN2a3RZUXRPUE5Yc0VRRW8tOUo2Y2FacFByaDVfM2FtT0g3RkZjVmcyYktsbk0zMGs3NFNGbGxjQmlxS3RNZw"
     ]
   },
   "pending": {
@@ -1443,6 +1444,12 @@
         "source": "요즘IT",
         "title": "‘아크(Arc)’ 브라우저는 왜 벌써 무덤으로 갔을까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MHNoakVFMHBERFNtQWtveDRGRk1FOUtOQmZ3clFPV3lidDVBZ0xqemhyVjdON3RhMS1DYW5DbFh6ZEItejgwRndVOUhzRW1TQ0pkZ3lBdVNnUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "인스타카트, 쇼피파이, 글로벌 이커머스의 ChatGPT 활용법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tX0JMRk5wV0VFTllpNlhyVVVHWXN2a3RZUXRPUE5Yc0VRRW8tOUo2Y2FacFByaDVfM2FtT0g3RkZjVmcyYktsbk0zMGs3NFNGbGxjQmlxS3RNZw?oc=5",
         "summary": ""
       }
     ],
