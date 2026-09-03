@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32908",
-      "https://news.hada.io/topic?id=32909",
-      "https://news.hada.io/topic?id=32910",
-      "https://news.hada.io/topic?id=32911",
-      "https://news.hada.io/topic?id=32912",
       "https://news.hada.io/topic?id=32914",
       "https://news.hada.io/topic?id=32915",
       "https://news.hada.io/topic?id=32916",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33194",
       "https://news.hada.io/topic?id=33195",
       "https://news.hada.io/topic?id=33196",
-      "https://news.hada.io/topic?id=33197"
+      "https://news.hada.io/topic?id=33197",
+      "https://news.hada.io/topic?id=33198",
+      "https://news.hada.io/topic?id=33199",
+      "https://news.hada.io/topic?id=33200",
+      "https://news.hada.io/topic?id=33201",
+      "https://news.hada.io/topic?id=33202"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49440786",
-      "https://news.ycombinator.com/item?id=49441033",
-      "https://news.ycombinator.com/item?id=49435675",
-      "https://news.ycombinator.com/item?id=49439499",
-      "https://news.ycombinator.com/item?id=49423878",
       "https://news.ycombinator.com/item?id=49442589",
       "https://news.ycombinator.com/item?id=49440410",
       "https://news.ycombinator.com/item?id=49395802",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49550772",
       "https://news.ycombinator.com/item?id=49551096",
       "https://news.ycombinator.com/item?id=49551760",
-      "https://news.ycombinator.com/item?id=49552055"
+      "https://news.ycombinator.com/item?id=49552055",
+      "https://news.ycombinator.com/item?id=49550375",
+      "https://news.ycombinator.com/item?id=49552572",
+      "https://news.ycombinator.com/item?id=49554520",
+      "https://news.ycombinator.com/item?id=49554643",
+      "https://news.ycombinator.com/item?id=49555691"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1052,7 +1052,8 @@
       "CBMiS0FVX3lxTE5nT01jMWowXzM3RXRPV0h1QUNIOTd3cm1uR25LOWNwTnBYYTBXYzFZeGR2UDNPT05VTDlIem1UWk5QOFBBTlFldk5OWQ",
       "CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o",
       "CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw",
-      "CBMiS0FVX3lxTE8yTkdsNWxUdXdtcFZxMTBLU3dvV0VHeHFpcjgxaktDSExwWDRnbmM5ZHFiV3RaSE8tOHkxSHdSeTNOSmpwb1dKeElYQQ"
+      "CBMiS0FVX3lxTE8yTkdsNWxUdXdtcFZxMTBLU3dvV0VHeHFpcjgxaktDSExwWDRnbmM5ZHFiV3RaSE8tOHkxSHdSeTNOSmpwb1dKeElYQQ",
+      "CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1528,6 +1529,12 @@
         "source": "요즘IT",
         "title": "클로드 페이블(Fable) 5.1 등장: 무엇이 다를까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CTENNX1lIWkFCTmpfQjF1bEJ3OWxuZm1lcWx6dGN4WWJEQzNiQUg1QkJtRWJlbkZPQkxid19MNm5ISEI1VHJMMUgzVGdfQV92V1BTM1lOd005Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "선물하기 시스템의 상품 재고는 어떻게 관리되어질까?",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ?oc=5",
         "summary": ""
       }
     ],
