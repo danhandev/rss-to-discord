@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32913",
-      "https://news.hada.io/topic?id=32919",
-      "https://news.hada.io/topic?id=32920",
-      "https://news.hada.io/topic?id=32921",
-      "https://news.hada.io/topic?id=32922",
       "https://news.hada.io/topic?id=32931",
       "https://news.hada.io/topic?id=32932",
       "https://news.hada.io/topic?id=32933",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33209",
       "https://news.hada.io/topic?id=33210",
       "https://news.hada.io/topic?id=33211",
-      "https://news.hada.io/topic?id=33213"
+      "https://news.hada.io/topic?id=33213",
+      "https://news.hada.io/topic?id=33206",
+      "https://news.hada.io/topic?id=33207",
+      "https://news.hada.io/topic?id=33216",
+      "https://news.hada.io/topic?id=33217",
+      "https://news.hada.io/topic?id=33218"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49445727",
-      "https://news.ycombinator.com/item?id=49446422",
-      "https://news.ycombinator.com/item?id=49445873",
-      "https://news.ycombinator.com/item?id=49447682",
-      "https://news.ycombinator.com/item?id=49448210",
       "https://news.ycombinator.com/item?id=49448321",
       "https://news.ycombinator.com/item?id=49448819",
       "https://news.ycombinator.com/item?id=49448872",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49544618",
       "https://news.ycombinator.com/item?id=49544762",
       "https://news.ycombinator.com/item?id=49548452",
-      "https://news.ycombinator.com/item?id=49557206"
+      "https://news.ycombinator.com/item?id=49557206",
+      "https://news.ycombinator.com/item?id=49526298",
+      "https://news.ycombinator.com/item?id=49526453",
+      "https://news.ycombinator.com/item?id=49530807",
+      "https://news.ycombinator.com/item?id=49555233",
+      "https://news.ycombinator.com/item?id=49558086"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1356,7 +1356,10 @@
       "CBMiWkFVX3lxTE9CT2pOLW9YcWZ6N0lDT0JvNkZwWVN0VDRSYXBjTG40Unl1RkpjcXM5ZHM2emJfOEpDQ3VQNlVaMGlYRWt6RVFQSklJSzNjQjFVeFlrVVhNWUdaQQ",
       "CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4",
       "CBMiWkFVX3lxTE9CTENNX1lIWkFCTmpfQjF1bEJ3OWxuZm1lcWx6dGN4WWJEQzNiQUg1QkJtRWJlbkZPQkxid19MNm5ISEI1VHJMMUgzVGdfQV92V1BTM1lOd005Zw",
-      "CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw"
+      "CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw",
+      "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc",
+      "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
+      "CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw"
     ]
   },
   "pending": {
@@ -1551,6 +1554,24 @@
         "source": "요즘IT",
         "title": "무료 AI 도구 총정리: 회사 지원 0원인데 내 돈 쓰긴 아까울 때",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "매니패스트 리뷰 : 4건의 솔직한 사용자 후기를 확인해 보세요.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "‘사고 근육’을 지켜주는 AI 글쓰기 방법 5가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "GPT-6 아스트라(Astra) 등장: 첫 AGI?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw?oc=5",
         "summary": ""
       }
     ],
