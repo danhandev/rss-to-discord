@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32931",
-      "https://news.hada.io/topic?id=32932",
-      "https://news.hada.io/topic?id=32933",
-      "https://news.hada.io/topic?id=32936",
-      "https://news.hada.io/topic?id=32937",
       "https://news.hada.io/topic?id=32945",
       "https://news.hada.io/topic?id=32946",
       "https://news.hada.io/topic?id=32947",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33207",
       "https://news.hada.io/topic?id=33216",
       "https://news.hada.io/topic?id=33217",
-      "https://news.hada.io/topic?id=33218"
+      "https://news.hada.io/topic?id=33218",
+      "https://news.hada.io/topic?id=33223",
+      "https://news.hada.io/topic?id=33224",
+      "https://news.hada.io/topic?id=33225",
+      "https://news.hada.io/topic?id=33226",
+      "https://news.hada.io/topic?id=33228"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49448321",
-      "https://news.ycombinator.com/item?id=49448819",
-      "https://news.ycombinator.com/item?id=49448872",
-      "https://news.ycombinator.com/item?id=49449507",
-      "https://news.ycombinator.com/item?id=49449576",
       "https://news.ycombinator.com/item?id=49450448",
       "https://news.ycombinator.com/item?id=49450722",
       "https://news.ycombinator.com/item?id=49451448",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49526453",
       "https://news.ycombinator.com/item?id=49530807",
       "https://news.ycombinator.com/item?id=49555233",
-      "https://news.ycombinator.com/item?id=49558086"
+      "https://news.ycombinator.com/item?id=49558086",
+      "https://news.ycombinator.com/item?id=49548600",
+      "https://news.ycombinator.com/item?id=49559522",
+      "https://news.ycombinator.com/item?id=49561320",
+      "https://news.ycombinator.com/item?id=49562657",
+      "https://news.ycombinator.com/item?id=49563355"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -438,7 +438,8 @@
       "https://toss.tech/article/ads_dashboard_fe",
       "https://toss.tech/article/tech_talk_talk_2",
       "https://toss.tech/article/tech_talk_talk_3",
-      "https://toss.tech/article/qa_hotfix"
+      "https://toss.tech/article/qa_hotfix",
+      "https://toss.tech/article/52885"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -949,7 +950,8 @@
       "https://www.fsc.go.kr/no010101/87639",
       "https://www.fsc.go.kr/no010101/87646",
       "https://www.fsc.go.kr/no010101/87648",
-      "https://www.fsc.go.kr/no010101/87650"
+      "https://www.fsc.go.kr/no010101/87650",
+      "https://www.fsc.go.kr/no010101/87652"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1056,7 +1058,8 @@
       "CBMiTEFVX3lxTE53cF92QXEwRV9iVE85al8tYUltWWZacVozRXU5eS11aXczOTRtVV9qdEpxcDB4aWVQbXg2SFZIZjZPb29UV1BMc0l0U0o",
       "CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw",
       "CBMiS0FVX3lxTE8yTkdsNWxUdXdtcFZxMTBLU3dvV0VHeHFpcjgxaktDSExwWDRnbmM5ZHFiV3RaSE8tOHkxSHdSeTNOSmpwb1dKeElYQQ",
-      "CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ"
+      "CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ",
+      "CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1573,6 +1576,18 @@
         "title": "GPT-6 아스트라(Astra) 등장: 첫 AGI?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "AI가 만든 코드가 어드민이 되기까지",
+        "link": "https://toss.tech/article/52885",
+        "summary": "실시간으로 생성되는 코드를 어드민 화면으로 보여 주기 위해, 개발 환경을 브라우저 안으로 옮긴 이야기를 소개해요."
+      },
+      {
+        "source": "우아한형제들",
+        "title": "신규 포인트 시스템 전환기 #1 – 개발 단계",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1647,6 +1662,12 @@
         "title": "토큰증권 정책방향 발표- 민·관 합동 토큰증권 협의체 3차회의 개최",
         "link": "https://www.fsc.go.kr/no010101/87650",
         "summary": "토큰증권 정책방향 발표 - 민·관 합동 토큰증권 협의체 3차회의 개최- [1] 조각투자를 넘어 모든 증권의 토큰증권 발행 인프라 구축을 추진합니다. ㅇ 신종·비정형증권 인 조각투자 토큰화와 함께 주식·채권·펀드 등 기존·정형증권의 토큰화 도 함께 추진 ㅇ 혁신 은 늦추지 않으면서 안정성 을 갖추기 위해 단계별 계획 * 마련 * [예] 토큰화 1단계(‘27.2월 법 시행시) -(정형증권) 기관투자자 전용 사모MMF·사채 토큰화, 비상장주식 신탁방식 토큰화 -(비정형증권) 공모 조각투자증권 토큰화…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "지역 밀착형 서민금융 복합지원으로  강원도민의 경제적 자립을 돕겠습니다.  - 이억원 금융위원장, 강원 지역 밀착형 복합지원 업무협약식 참석",
+        "link": "https://www.fsc.go.kr/no010101/87652",
+        "summary": "지역 밀착형 서민금융 복합지원 으로 강원도민의 경제적 자립 을 돕겠습니다. - 이억원 금융위원장, 강원 지역 밀착형 복합지원 업무협약식 참석 - ✓ 금융위원회-강원특별자치도-서민금융진흥원-신용회복위원회-신한은행 간 「지역 밀착형 복합지원 강화를 위한 업무협약(MOU)」 체결 - 금융위 는 민·관 협력 으로 지역 취약계층 대상 금융생활안정 지원 및 경제적 자립기반을 마련 하기 위한 지역별 협업체계 구축 추진 중 - 부산(’25.4월), 광주(’25.4월), 전북(’25.9월)에 이어 4번째…"
       }
     ]
   }
