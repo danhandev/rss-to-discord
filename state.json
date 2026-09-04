@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32945",
-      "https://news.hada.io/topic?id=32946",
-      "https://news.hada.io/topic?id=32947",
-      "https://news.hada.io/topic?id=32948",
-      "https://news.hada.io/topic?id=32949",
       "https://news.hada.io/topic?id=32966",
       "https://news.hada.io/topic?id=32967",
       "https://news.hada.io/topic?id=32968",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33224",
       "https://news.hada.io/topic?id=33225",
       "https://news.hada.io/topic?id=33226",
-      "https://news.hada.io/topic?id=33228"
+      "https://news.hada.io/topic?id=33228",
+      "https://news.hada.io/topic?id=33232",
+      "https://news.hada.io/topic?id=33233",
+      "https://news.hada.io/topic?id=33234",
+      "https://news.hada.io/topic?id=33235",
+      "https://news.hada.io/topic?id=33236"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49450448",
-      "https://news.ycombinator.com/item?id=49450722",
-      "https://news.ycombinator.com/item?id=49451448",
-      "https://news.ycombinator.com/item?id=49452709",
-      "https://news.ycombinator.com/item?id=49452980",
       "https://news.ycombinator.com/item?id=49452990",
       "https://news.ycombinator.com/item?id=49453510",
       "https://news.ycombinator.com/item?id=49452671",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49559522",
       "https://news.ycombinator.com/item?id=49561320",
       "https://news.ycombinator.com/item?id=49562657",
-      "https://news.ycombinator.com/item?id=49563355"
+      "https://news.ycombinator.com/item?id=49563355",
+      "https://news.ycombinator.com/item?id=49563784",
+      "https://news.ycombinator.com/item?id=49563851",
+      "https://news.ycombinator.com/item?id=49564714",
+      "https://news.ycombinator.com/item?id=49565693",
+      "https://news.ycombinator.com/item?id=49566137"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1362,7 +1362,8 @@
       "CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw",
       "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc",
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
-      "CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw"
+      "CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw",
+      "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw"
     ]
   },
   "pending": {
@@ -1587,6 +1588,12 @@
         "source": "우아한형제들",
         "title": "신규 포인트 시스템 전환기 #1 – 개발 단계",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "구글 디자이너가 인공지능 시대에 대처하는 자세",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw?oc=5",
         "summary": ""
       }
     ],
