@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32914",
-      "https://news.hada.io/topic?id=32915",
-      "https://news.hada.io/topic?id=32916",
-      "https://news.hada.io/topic?id=32917",
-      "https://news.hada.io/topic?id=32918",
       "https://news.hada.io/topic?id=32913",
       "https://news.hada.io/topic?id=32919",
       "https://news.hada.io/topic?id=32920",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33199",
       "https://news.hada.io/topic?id=33200",
       "https://news.hada.io/topic?id=33201",
-      "https://news.hada.io/topic?id=33202"
+      "https://news.hada.io/topic?id=33202",
+      "https://news.hada.io/topic?id=33208",
+      "https://news.hada.io/topic?id=33209",
+      "https://news.hada.io/topic?id=33210",
+      "https://news.hada.io/topic?id=33211",
+      "https://news.hada.io/topic?id=33213"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49442589",
-      "https://news.ycombinator.com/item?id=49440410",
-      "https://news.ycombinator.com/item?id=49395802",
-      "https://news.ycombinator.com/item?id=49432201",
-      "https://news.ycombinator.com/item?id=49444514",
       "https://news.ycombinator.com/item?id=49445727",
       "https://news.ycombinator.com/item?id=49446422",
       "https://news.ycombinator.com/item?id=49445873",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49552572",
       "https://news.ycombinator.com/item?id=49554520",
       "https://news.ycombinator.com/item?id=49554643",
-      "https://news.ycombinator.com/item?id=49555691"
+      "https://news.ycombinator.com/item?id=49555691",
+      "https://news.ycombinator.com/item?id=49538069",
+      "https://news.ycombinator.com/item?id=49544618",
+      "https://news.ycombinator.com/item?id=49544762",
+      "https://news.ycombinator.com/item?id=49548452",
+      "https://news.ycombinator.com/item?id=49557206"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -614,7 +614,8 @@
       "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
       "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
       "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
-      "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot"
+      "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
+      "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -946,7 +947,9 @@
       "https://www.fsc.go.kr/no010101/87637",
       "https://www.fsc.go.kr/no010101/87638",
       "https://www.fsc.go.kr/no010101/87639",
-      "https://www.fsc.go.kr/no010101/87646"
+      "https://www.fsc.go.kr/no010101/87646",
+      "https://www.fsc.go.kr/no010101/87648",
+      "https://www.fsc.go.kr/no010101/87650"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1352,7 +1355,8 @@
       "CBMiWkFVX3lxTE5xdHVrOHpzUm1tR0FvNlhkR1FVd2UyQzNPNU5HSjBqaDhCUkdGZ1ZOV1Z4UEZUXzlVM1dnTjM2Vk1HM2RDcC1JMHJWbHhTaWNaTGlwZXNzVFlQZw",
       "CBMiWkFVX3lxTE9CT2pOLW9YcWZ6N0lDT0JvNkZwWVN0VDRSYXBjTG40Unl1RkpjcXM5ZHM2emJfOEpDQ3VQNlVaMGlYRWt6RVFQSklJSzNjQjFVeFlrVVhNWUdaQQ",
       "CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4",
-      "CBMiWkFVX3lxTE9CTENNX1lIWkFCTmpfQjF1bEJ3OWxuZm1lcWx6dGN4WWJEQzNiQUg1QkJtRWJlbkZPQkxid19MNm5ISEI1VHJMMUgzVGdfQV92V1BTM1lOd005Zw"
+      "CBMiWkFVX3lxTE9CTENNX1lIWkFCTmpfQjF1bEJ3OWxuZm1lcWx6dGN4WWJEQzNiQUg1QkJtRWJlbkZPQkxid19MNm5ISEI1VHJMMUgzVGdfQV92V1BTM1lOd005Zw",
+      "CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw"
     ]
   },
   "pending": {
@@ -1536,6 +1540,18 @@
         "title": "선물하기 시스템의 상품 재고는 어떻게 관리되어질까?",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "LINE",
+        "title": "장애 Alert의 원인을 스스로 찾다: SRE Observer 개발기",
+        "link": "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
+        "summary": "들어가며안녕하세요. LINE Plus에서 Home 서비스의 안정성을 책임지고 있는 Home SRE(Site Reliability Engineering) 팀입니다.SRE Observ..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "무료 AI 도구 총정리: 회사 지원 0원인데 내 돈 쓰긴 아까울 때",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSbFBCdmhJTk9za2hTVEtjbW8wMU9WcGV1TkI2ZTBqQjVRN05UU2o2NGg1dDRRNGZMYlBKZGdObkNfaC1IbnpBWGVqbjBzcjFNalZ5Y01qdXlRZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1598,6 +1614,18 @@
         "title": "보다 다양한 금융회사들이  AI 보안위협에 철저히 대비할 수 있도록 제2차 망분리 규제 긴급 완화 조치를 추진합니다.",
         "link": "https://www.fsc.go.kr/no010101/87646",
         "summary": "보다 다양한 금융회사들이 AI 보안위협에 철저히 대비할 수 있도록 제2차 망분리 규제 긴급 완화 조치를 추진합니다. ▸중소 금융회사·전자금융업자까지 신청 자격요건 완화(49개 사 → 75개) ▸9월 중 심사를 거쳐 10월 중 비조치의견서 발급(15개사 이내) ▸1차 테스트 진행중, AI를 활용한 광범위·신속한 취약점 탐색 가능성 확인 [ 개요 ] ’26.9.3.(목) 금융위원회 는 유영준 디지털금융정책관 주재로 금융감독원, 금융보안원 등과 함께「 프런티어 AI 상황대응반 」 5차 회의 를…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융·외환·부동산 등 부문별 리스크 종합 점검",
+        "link": "https://www.fsc.go.kr/no010101/87648",
+        "summary": "금융·외환·부동산 등 부문별 리스크 종합 점검 - 금리 상승에 따른 취약차주·상호금융권 영향 점검 - 시장상황을 고려, 내년 시행되는 상장폐지 시가총액 기준 강화방안 보완 구윤철 부총리 겸 재정경제부 장관 은 ’26.9.4.(금) 08:00, 전국은행연합 회관에서 관계기관 합동 ｢ 시장상황점검회의 ｣를 개최 * 하여 국내외 금융·외환 시장 및 부동산시장 동향 을 통합 점검 하고 대응방향을 논의했다. * 참석자: 금융위원회 위원장 이억원, 국토교통부 1차관 김이탁, 금융감독원 원장 이찬진,…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "토큰증권 정책방향 발표- 민·관 합동 토큰증권 협의체 3차회의 개최",
+        "link": "https://www.fsc.go.kr/no010101/87650",
+        "summary": "토큰증권 정책방향 발표 - 민·관 합동 토큰증권 협의체 3차회의 개최- [1] 조각투자를 넘어 모든 증권의 토큰증권 발행 인프라 구축을 추진합니다. ㅇ 신종·비정형증권 인 조각투자 토큰화와 함께 주식·채권·펀드 등 기존·정형증권의 토큰화 도 함께 추진 ㅇ 혁신 은 늦추지 않으면서 안정성 을 갖추기 위해 단계별 계획 * 마련 * [예] 토큰화 1단계(‘27.2월 법 시행시) -(정형증권) 기관투자자 전용 사모MMF·사채 토큰화, 비상장주식 신탁방식 토큰화 -(비정형증권) 공모 조각투자증권 토큰화…"
       }
     ]
   }
