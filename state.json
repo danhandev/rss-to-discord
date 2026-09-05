@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=32941",
-      "https://news.hada.io/topic?id=32942",
-      "https://news.hada.io/topic?id=32943",
-      "https://news.hada.io/topic?id=32944",
-      "https://news.hada.io/topic?id=32950",
       "https://news.hada.io/topic?id=32982",
       "https://news.hada.io/topic?id=32983",
       "https://news.hada.io/topic?id=32984",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33248",
       "https://news.hada.io/topic?id=33249",
       "https://news.hada.io/topic?id=33250",
-      "https://news.hada.io/topic?id=33251"
+      "https://news.hada.io/topic?id=33251",
+      "https://news.hada.io/topic?id=33205",
+      "https://news.hada.io/topic?id=33252",
+      "https://news.hada.io/topic?id=33253",
+      "https://news.hada.io/topic?id=33254",
+      "https://news.hada.io/topic?id=33255"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49467922",
-      "https://news.ycombinator.com/item?id=49468642",
-      "https://news.ycombinator.com/item?id=49468818",
-      "https://news.ycombinator.com/item?id=49471407",
-      "https://news.ycombinator.com/item?id=49461817",
       "https://news.ycombinator.com/item?id=49462763",
       "https://news.ycombinator.com/item?id=49464314",
       "https://news.ycombinator.com/item?id=49464414",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49571465",
       "https://news.ycombinator.com/item?id=49571632",
       "https://news.ycombinator.com/item?id=49571634",
-      "https://news.ycombinator.com/item?id=49573455"
+      "https://news.ycombinator.com/item?id=49573455",
+      "https://news.ycombinator.com/item?id=49568697",
+      "https://news.ycombinator.com/item?id=49568828",
+      "https://news.ycombinator.com/item?id=49569663",
+      "https://news.ycombinator.com/item?id=49573680",
+      "https://news.ycombinator.com/item?id=49574167"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1364,7 +1364,9 @@
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiWkFVX3lxTFBxWWdRczhfOUgtdmhWMl9oZjk3RWlIT1RzVGRzdHU2N3ZCYVc5UWtpb1ljdmJ6SW1oa25naWZXQ2NzMmZUZW05RWhjaUlwX05FZHdVOURMRklGdw",
       "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
-      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ"
+      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
+      "CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE",
+      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw"
     ]
   },
   "pending": {
@@ -1601,6 +1603,18 @@
         "source": "요즘IT",
         "title": "아직도 1년 전 프롬프트를 그대로 쓰고 있나요?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "wishket은 어떤 서비스야?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "소버린 AI와 자체 생태계를 가진 IT 강대국, 러시아를 가다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw?oc=5",
         "summary": ""
       }
     ],
