@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33003",
       "https://news.hada.io/topic?id=33004",
       "https://news.hada.io/topic?id=33005",
       "https://news.hada.io/topic?id=32993",
@@ -200,11 +199,10 @@
       "https://news.hada.io/topic?id=33263",
       "https://news.hada.io/topic?id=33264",
       "https://news.hada.io/topic?id=33265",
-      "https://news.hada.io/topic?id=33266"
+      "https://news.hada.io/topic?id=33266",
+      "https://news.hada.io/topic?id=33267"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49478340",
-      "https://news.ycombinator.com/item?id=49479837",
       "https://news.ycombinator.com/item?id=49479878",
       "https://news.ycombinator.com/item?id=49477212",
       "https://news.ycombinator.com/item?id=49477564",
@@ -402,7 +400,9 @@
       "https://news.ycombinator.com/item?id=49578866",
       "https://news.ycombinator.com/item?id=49575150",
       "https://news.ycombinator.com/item?id=49578280",
-      "https://news.ycombinator.com/item?id=49580369"
+      "https://news.ycombinator.com/item?id=49580369",
+      "https://news.ycombinator.com/item?id=49576343",
+      "https://news.ycombinator.com/item?id=49580164"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,7 +1366,8 @@
       "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
       "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
       "CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE",
-      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw"
+      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
+      "CBMiWkFVX3lxTE1BMVY1QTdBNDdOSVdYbzdlSkk5NHNSOFg5eHNVeVE4S09lcWRkSnR6N0ZoVEdNbGYxZWlXdjdIMWt3cXZTc2ctNlJ5ZG9hNjdwN04yVm1LZVdndw"
     ]
   },
   "pending": {
@@ -1615,6 +1616,12 @@
         "source": "요즘IT",
         "title": "소버린 AI와 자체 생태계를 가진 IT 강대국, 러시아를 가다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMVY1QTdBNDdOSVdYbzdlSkk5NHNSOFg5eHNVeVE4S09lcWRkSnR6N0ZoVEdNbGYxZWlXdjdIMWt3cXZTc2ctNlJ5ZG9hNjdwN04yVm1LZVdndw?oc=5",
         "summary": ""
       }
     ],
