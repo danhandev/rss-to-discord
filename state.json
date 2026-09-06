@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33024",
-      "https://news.hada.io/topic?id=33025",
-      "https://news.hada.io/topic?id=33018",
-      "https://news.hada.io/topic?id=33019",
-      "https://news.hada.io/topic?id=33020",
       "https://news.hada.io/topic?id=33028",
       "https://news.hada.io/topic?id=33030",
       "https://news.hada.io/topic?id=32990",
@@ -200,11 +195,14 @@
       "https://news.hada.io/topic?id=33290",
       "https://news.hada.io/topic?id=33291",
       "https://news.hada.io/topic?id=33292",
-      "https://news.hada.io/topic?id=33293"
+      "https://news.hada.io/topic?id=33293",
+      "https://news.hada.io/topic?id=33294",
+      "https://news.hada.io/topic?id=33295",
+      "https://news.hada.io/topic?id=33297",
+      "https://news.hada.io/topic?id=33298",
+      "https://news.hada.io/topic?id=33299"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49490702",
-      "https://news.ycombinator.com/item?id=49491568",
       "https://news.ycombinator.com/item?id=49492193",
       "https://news.ycombinator.com/item?id=49415386",
       "https://news.ycombinator.com/item?id=49420524",
@@ -402,7 +400,9 @@
       "https://news.ycombinator.com/item?id=49585627",
       "https://news.ycombinator.com/item?id=49588080",
       "https://news.ycombinator.com/item?id=49588988",
-      "https://news.ycombinator.com/item?id=49589003"
+      "https://news.ycombinator.com/item?id=49589003",
+      "https://news.ycombinator.com/item?id=49590512",
+      "https://news.ycombinator.com/item?id=49590611"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1371,7 +1371,8 @@
       "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
       "CBMiWEFVX3lxTE51LVVUWWJhTXQ1MkZWZjlxS2lnSzlhUkR2Sm1hd0RlUG1GQkZrUVAtcVVBMHFTd3lPZWpXNFpDN05yUkJpQ2g1Z0xJV3RYMFAtc2R5a2RURmw",
       "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
-      "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw"
+      "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
+      "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw"
     ]
   },
   "pending": {
@@ -1650,6 +1651,12 @@
         "source": "요즘IT",
         "title": "로컬 LLM으로 민감정보를 걸러봤습니다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "사용자 ‘리텐션’을 측정하는 5가지 지표",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw?oc=5",
         "summary": ""
       }
     ],
