@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33015",
       "https://news.hada.io/topic?id=32991",
       "https://news.hada.io/topic?id=32992",
       "https://news.hada.io/topic?id=33010",
@@ -200,14 +199,10 @@
       "https://news.hada.io/topic?id=33278",
       "https://news.hada.io/topic?id=33279",
       "https://news.hada.io/topic?id=33280",
-      "https://news.hada.io/topic?id=33281"
+      "https://news.hada.io/topic?id=33281",
+      "https://news.hada.io/topic?id=33282"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49486172",
-      "https://news.ycombinator.com/item?id=49486334",
-      "https://news.ycombinator.com/item?id=49487341",
-      "https://news.ycombinator.com/item?id=49472216",
-      "https://news.ycombinator.com/item?id=49485267",
       "https://news.ycombinator.com/item?id=49485416",
       "https://news.ycombinator.com/item?id=49489057",
       "https://news.ycombinator.com/item?id=49489982",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49582582",
       "https://news.ycombinator.com/item?id=49527599",
       "https://news.ycombinator.com/item?id=49541888",
-      "https://news.ycombinator.com/item?id=49584083"
+      "https://news.ycombinator.com/item?id=49584083",
+      "https://news.ycombinator.com/item?id=49585644",
+      "https://news.ycombinator.com/item?id=49586171",
+      "https://news.ycombinator.com/item?id=49586698",
+      "https://news.ycombinator.com/item?id=49586898",
+      "https://news.ycombinator.com/item?id=49587128"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1370,7 +1370,8 @@
       "CBMiWkFVX3lxTE1BMVY1QTdBNDdOSVdYbzdlSkk5NHNSOFg5eHNVeVE4S09lcWRkSnR6N0ZoVEdNbGYxZWlXdjdIMWt3cXZTc2ctNlJ5ZG9hNjdwN04yVm1LZVdndw",
       "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
       "CBMiWEFVX3lxTE51LVVUWWJhTXQ1MkZWZjlxS2lnSzlhUkR2Sm1hd0RlUG1GQkZrUVAtcVVBMHFTd3lPZWpXNFpDN05yUkJpQ2g1Z0xJV3RYMFAtc2R5a2RURmw",
-      "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw"
+      "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
+      "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw"
     ]
   },
   "pending": {
@@ -1643,6 +1644,12 @@
         "source": "요즘IT",
         "title": "클로드 코드로 만든 주식 분석 리포트: 하네스 분석하기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "로컬 LLM으로 민감정보를 걸러봤습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw?oc=5",
         "summary": ""
       }
     ],
