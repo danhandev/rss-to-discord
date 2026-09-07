@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33044",
-      "https://news.hada.io/topic?id=33045",
-      "https://news.hada.io/topic?id=33059",
-      "https://news.hada.io/topic?id=33061",
-      "https://news.hada.io/topic?id=33062",
       "https://news.hada.io/topic?id=33063",
       "https://news.hada.io/topic?id=33065",
       "https://news.hada.io/topic?id=33057",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33300",
       "https://news.hada.io/topic?id=33315",
       "https://news.hada.io/topic?id=33316",
-      "https://news.hada.io/topic?id=33317"
+      "https://news.hada.io/topic?id=33317",
+      "https://news.hada.io/topic?id=33319",
+      "https://news.hada.io/topic?id=33320",
+      "https://news.hada.io/topic?id=33321",
+      "https://news.hada.io/topic?id=33323",
+      "https://news.hada.io/topic?id=33325"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49491714",
-      "https://news.ycombinator.com/item?id=49494036",
-      "https://news.ycombinator.com/item?id=49494182",
-      "https://news.ycombinator.com/item?id=49494231",
-      "https://news.ycombinator.com/item?id=49425252",
       "https://news.ycombinator.com/item?id=49494301",
       "https://news.ycombinator.com/item?id=49494520",
       "https://news.ycombinator.com/item?id=49495372",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49591876",
       "https://news.ycombinator.com/item?id=49577129",
       "https://news.ycombinator.com/item?id=49589914",
-      "https://news.ycombinator.com/item?id=49593563"
+      "https://news.ycombinator.com/item?id=49593563",
+      "https://news.ycombinator.com/item?id=49596119",
+      "https://news.ycombinator.com/item?id=49596629",
+      "https://news.ycombinator.com/item?id=49597189",
+      "https://news.ycombinator.com/item?id=49597895",
+      "https://news.ycombinator.com/item?id=49597907"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -439,7 +439,10 @@
       "https://toss.tech/article/tech_talk_talk_2",
       "https://toss.tech/article/tech_talk_talk_3",
       "https://toss.tech/article/qa_hotfix",
-      "https://toss.tech/article/52885"
+      "https://toss.tech/article/52885",
+      "https://toss.tech/article/toss-frontend-ai-docs-eng",
+      "https://toss.tech/article/technical-writing-1-eng",
+      "https://toss.tech/article/technical-writing-2-eng"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1376,7 +1379,8 @@
       "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
       "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
       "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
-      "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ"
+      "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
+      "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw"
     ]
   },
   "pending": {
@@ -1391,6 +1395,30 @@
         "source": "요즘IT",
         "title": "나만 쓰기 아까운 ‘로컬앱’을 자랑해 주세요",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "How Documents Find Developers at Toss",
+        "link": "https://toss.tech/article/toss-frontend-ai-docs-eng",
+        "summary": "The Toss Frontend team no longer has to dig through documents to find what they need. We’re building an environment where developers can get immediate answers to their questions through docs and AI. Here’s how we built a new documentation system that lets developers focus…"
+      },
+      {
+        "source": "토스테크",
+        "title": "1. Creating a Role That Didn’t Exist Before",
+        "link": "https://toss.tech/article/technical-writing-1-eng",
+        "summary": "Learn how Toss’s Technical Writers have expanded their role from writing documentation to designing knowledge systems for the organization."
+      },
+      {
+        "source": "토스테크",
+        "title": "2. Beyond Our Expertise",
+        "link": "https://toss.tech/article/technical-writing-2-eng",
+        "summary": "This is the story of how we turned Technical Writers’ challenges and expertise into a product called \"todoc\", and how the process helped us take that expertise even further."
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 챗봇이 있어도 왜 콜센터 전화는 줄지 않을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw?oc=5",
         "summary": ""
       }
     ],
