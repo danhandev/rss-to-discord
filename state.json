@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33063",
-      "https://news.hada.io/topic?id=33065",
-      "https://news.hada.io/topic?id=33057",
-      "https://news.hada.io/topic?id=33058",
-      "https://news.hada.io/topic?id=33069",
       "https://news.hada.io/topic?id=33070",
       "https://news.hada.io/topic?id=33071",
       "https://news.hada.io/topic?id=33052",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33320",
       "https://news.hada.io/topic?id=33321",
       "https://news.hada.io/topic?id=33323",
-      "https://news.hada.io/topic?id=33325"
+      "https://news.hada.io/topic?id=33325",
+      "https://news.hada.io/topic?id=33318",
+      "https://news.hada.io/topic?id=33326",
+      "https://news.hada.io/topic?id=33327",
+      "https://news.hada.io/topic?id=33328",
+      "https://news.hada.io/topic?id=33329"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49494301",
-      "https://news.ycombinator.com/item?id=49494520",
-      "https://news.ycombinator.com/item?id=49495372",
-      "https://news.ycombinator.com/item?id=49463888",
-      "https://news.ycombinator.com/item?id=49494856",
       "https://news.ycombinator.com/item?id=49496782",
       "https://news.ycombinator.com/item?id=49496918",
       "https://news.ycombinator.com/item?id=49497063",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49596629",
       "https://news.ycombinator.com/item?id=49597189",
       "https://news.ycombinator.com/item?id=49597895",
-      "https://news.ycombinator.com/item?id=49597907"
+      "https://news.ycombinator.com/item?id=49597907",
+      "https://news.ycombinator.com/item?id=49596054",
+      "https://news.ycombinator.com/item?id=49596055",
+      "https://news.ycombinator.com/item?id=49598291",
+      "https://news.ycombinator.com/item?id=49599481",
+      "https://news.ycombinator.com/item?id=49600233"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1380,7 +1380,8 @@
       "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
       "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
-      "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw"
+      "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw",
+      "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw"
     ]
   },
   "pending": {
@@ -1419,6 +1420,12 @@
         "source": "요즘IT",
         "title": "AI 챗봇이 있어도 왜 콜센터 전화는 줄지 않을까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "나에게 맞는 웹 기술 스택을 고르는 방법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw?oc=5",
         "summary": ""
       }
     ],
