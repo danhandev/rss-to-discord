@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33028",
-      "https://news.hada.io/topic?id=33030",
-      "https://news.hada.io/topic?id=32990",
-      "https://news.hada.io/topic?id=33031",
-      "https://news.hada.io/topic?id=33033",
       "https://news.hada.io/topic?id=33034",
       "https://news.hada.io/topic?id=33036",
       "https://news.hada.io/topic?id=33038",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=33295",
       "https://news.hada.io/topic?id=33297",
       "https://news.hada.io/topic?id=33298",
-      "https://news.hada.io/topic?id=33299"
+      "https://news.hada.io/topic?id=33299",
+      "https://news.hada.io/topic?id=33306",
+      "https://news.hada.io/topic?id=33307",
+      "https://news.hada.io/topic?id=33308",
+      "https://news.hada.io/topic?id=33309",
+      "https://news.hada.io/topic?id=33311"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49492193",
@@ -454,7 +454,8 @@
       "https://tech.kakao.com/posts/829",
       "https://tech.kakao.com/posts/830",
       "https://tech.kakao.com/posts/831",
-      "https://tech.kakao.com/posts/832"
+      "https://tech.kakao.com/posts/832",
+      "https://tech.kakao.com/posts/834"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1658,6 +1659,12 @@
         "title": "사용자 ‘리텐션’을 측정하는 5가지 지표",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "카카오, if(kakao)26 컨퍼런스 개최... 모든 연결에 지능을",
+        "link": "https://tech.kakao.com/posts/834",
+        "summary": "🔗 if(kakao)26 바로가기 - 10월 13일부터 14일까지 이틀간 카카오 AI 캠퍼스에서 온·오프라인 진행 -올해 슬로건 ‘모든 연결에 지능을’… AI가 확장할 연결의 경험과 신뢰할 수 있는 기술 기준 제시 - 50여개 기술 세션서 AI 적용 성과와 개발 경험 공유…파이어사이드 챗·네트워킹 프로그램도 운영 [2026-09-07] 카카오(대표이사 정신아)가 오는 10월 13일부터 14일까지 이틀간 경기도 용인시 소재 ‘카카오 AI 캠퍼스’에서 ..."
       }
     ],
     "weekly-finance": [
