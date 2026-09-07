@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33041",
-      "https://news.hada.io/topic?id=33042",
-      "https://news.hada.io/topic?id=32989",
-      "https://news.hada.io/topic?id=33037",
-      "https://news.hada.io/topic?id=33043",
       "https://news.hada.io/topic?id=33044",
       "https://news.hada.io/topic?id=33045",
       "https://news.hada.io/topic?id=33059",
@@ -200,12 +195,14 @@
       "https://news.hada.io/topic?id=33302",
       "https://news.hada.io/topic?id=33303",
       "https://news.hada.io/topic?id=33304",
-      "https://news.hada.io/topic?id=33305"
+      "https://news.hada.io/topic?id=33305",
+      "https://news.hada.io/topic?id=33288",
+      "https://news.hada.io/topic?id=33300",
+      "https://news.hada.io/topic?id=33315",
+      "https://news.hada.io/topic?id=33316",
+      "https://news.hada.io/topic?id=33317"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49492219",
-      "https://news.ycombinator.com/item?id=49492632",
-      "https://news.ycombinator.com/item?id=49490870",
       "https://news.ycombinator.com/item?id=49491714",
       "https://news.ycombinator.com/item?id=49494036",
       "https://news.ycombinator.com/item?id=49494182",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=49554622",
       "https://news.ycombinator.com/item?id=49587217",
       "https://news.ycombinator.com/item?id=49587636",
-      "https://news.ycombinator.com/item?id=49591876"
+      "https://news.ycombinator.com/item?id=49591876",
+      "https://news.ycombinator.com/item?id=49577129",
+      "https://news.ycombinator.com/item?id=49589914",
+      "https://news.ycombinator.com/item?id=49593563"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1061,7 +1061,8 @@
       "CBMiS0FVX3lxTE9QdFhvSHl1WEdrZWZwb3dTd2V1SktmTzdiY19UUkZ6X2FFVDZaRXRoTkRjS0h5Y1NtUW1jRmYtV053bDR0TEJQQ1g1Zw",
       "CBMiS0FVX3lxTE8yTkdsNWxUdXdtcFZxMTBLU3dvV0VHeHFpcjgxaktDSExwWDRnbmM5ZHFiV3RaSE8tOHkxSHdSeTNOSmpwb1dKeElYQQ",
       "CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ",
-      "CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw"
+      "CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw",
+      "CBMiTEFVX3lxTE5PWklvU3VCZEZrTkdxS2R0aWdiV3U0QlFKSGxONkMzVk9DMGNCeXg5eEVfajBUQVd5M0tmZ3VBM3pvMHA1VlZLWGZjdDg"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1374,11 +1375,25 @@
       "CBMiWEFVX3lxTE51LVVUWWJhTXQ1MkZWZjlxS2lnSzlhUkR2Sm1hd0RlUG1GQkZrUVAtcVVBMHFTd3lPZWpXNFpDN05yUkJpQ2g1Z0xJV3RYMFAtc2R5a2RURmw",
       "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
       "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
-      "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw"
+      "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
+      "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "우아한형제들",
+        "title": "우리 팀은 카프카를 어떻게 사용하고 있을까",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWklvU3VCZEZrTkdxS2R0aWdiV3U0QlFKSGxONkMzVk9DMGNCeXg5eEVfajBUQVd5M0tmZ3VBM3pvMHA1VlZLWGZjdDg?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "나만 쓰기 아까운 ‘로컬앱’을 자랑해 주세요",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
