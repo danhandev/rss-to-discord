@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33076",
-      "https://news.hada.io/topic?id=33077",
-      "https://news.hada.io/topic?id=33078",
-      "https://news.hada.io/topic?id=33079",
-      "https://news.hada.io/topic?id=33080",
       "https://news.hada.io/topic?id=33082",
       "https://news.hada.io/topic?id=33083",
       "https://news.hada.io/topic?id=33084",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33345",
       "https://news.hada.io/topic?id=33346",
       "https://news.hada.io/topic?id=33347",
-      "https://news.hada.io/topic?id=33349"
+      "https://news.hada.io/topic?id=33349",
+      "https://news.hada.io/topic?id=33343",
+      "https://news.hada.io/topic?id=33351",
+      "https://news.hada.io/topic?id=33355",
+      "https://news.hada.io/topic?id=33357",
+      "https://news.hada.io/topic?id=33358"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49497810",
-      "https://news.ycombinator.com/item?id=49498787",
-      "https://news.ycombinator.com/item?id=49499891",
-      "https://news.ycombinator.com/item?id=49463397",
-      "https://news.ycombinator.com/item?id=49468126",
       "https://news.ycombinator.com/item?id=49478426",
       "https://news.ycombinator.com/item?id=49503601",
       "https://news.ycombinator.com/item?id=49435285",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49575515",
       "https://news.ycombinator.com/item?id=49602699",
       "https://news.ycombinator.com/item?id=49603546",
-      "https://news.ycombinator.com/item?id=49604637"
+      "https://news.ycombinator.com/item?id=49604637",
+      "https://news.ycombinator.com/item?id=49604150",
+      "https://news.ycombinator.com/item?id=49604861",
+      "https://news.ycombinator.com/item?id=49605691",
+      "https://news.ycombinator.com/item?id=49605767",
+      "https://news.ycombinator.com/item?id=49605915"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -459,7 +459,8 @@
       "https://tech.kakao.com/posts/830",
       "https://tech.kakao.com/posts/831",
       "https://tech.kakao.com/posts/832",
-      "https://tech.kakao.com/posts/834"
+      "https://tech.kakao.com/posts/834",
+      "https://tech.kakao.com/posts/833"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -957,7 +958,8 @@
       "https://www.fsc.go.kr/no010101/87648",
       "https://www.fsc.go.kr/no010101/87650",
       "https://www.fsc.go.kr/no010101/87652",
-      "https://www.fsc.go.kr/no010101/87657"
+      "https://www.fsc.go.kr/no010101/87657",
+      "https://www.fsc.go.kr/no010101/87667"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1388,7 +1390,8 @@
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
       "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw",
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
-      "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw"
+      "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
+      "CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ"
     ]
   },
   "pending": {
@@ -1476,8 +1479,27 @@
         "title": "지금 전 세계에서 가장 인기 있는 에이전트 스킬 Top5는 뭘까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "if(kakao)2026 첫째 날, 기술 세션 소개",
+        "link": "https://tech.kakao.com/posts/833",
+        "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를 개발한 노하우를 공유합니다! 최근 공개한 Kanana-2 SLM ..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "매월 30분씩 투자하던 일을 1분으로 줄였더니",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ?oc=5",
+        "summary": ""
       }
     ],
-    "weekly-finance": []
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "제2차 국민참여성장펀드가  9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다.",
+        "link": "https://www.fsc.go.kr/no010101/87667",
+        "summary": "제2차 국민참여성장펀드가 9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다. • 실제 투자운용을 담당할 자펀드 운용사 10개사 선정 • 6,000억원 규모의 ｢국민참여형 국민성장펀드｣를 24개 은행·증권사 에서 판 매 - 판매 첫 주 에는 판매액의 50% (3,000억원) 를 서민 물량 으로 배정하고, 온라인 판매 비중 을 제한( 은행 40%, 증권 60% ) → 2주차에는 제한 없음 I. 개요 금융위원회는 지난 5월 처음 판매된 「 국민참여형 국민성장펀드 」 (이하 ‘…"
+      }
+    ]
   }
 }
