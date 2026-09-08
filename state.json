@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33052",
-      "https://news.hada.io/topic?id=33054",
-      "https://news.hada.io/topic?id=33055",
-      "https://news.hada.io/topic?id=33056",
-      "https://news.hada.io/topic?id=33072",
       "https://news.hada.io/topic?id=33076",
       "https://news.hada.io/topic?id=33077",
       "https://news.hada.io/topic?id=33078",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33328",
       "https://news.hada.io/topic?id=33329",
       "https://news.hada.io/topic?id=33330",
-      "https://news.hada.io/topic?id=33332"
+      "https://news.hada.io/topic?id=33332",
+      "https://news.hada.io/topic?id=33344",
+      "https://news.hada.io/topic?id=33345",
+      "https://news.hada.io/topic?id=33346",
+      "https://news.hada.io/topic?id=33347",
+      "https://news.hada.io/topic?id=33349"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49499394",
-      "https://news.ycombinator.com/item?id=49499854",
-      "https://news.ycombinator.com/item?id=49499867",
-      "https://news.ycombinator.com/item?id=49419381",
-      "https://news.ycombinator.com/item?id=49491791",
       "https://news.ycombinator.com/item?id=49497810",
       "https://news.ycombinator.com/item?id=49498787",
       "https://news.ycombinator.com/item?id=49499891",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49586207",
       "https://news.ycombinator.com/item?id=49592375",
       "https://news.ycombinator.com/item?id=49595865",
-      "https://news.ycombinator.com/item?id=49601655"
+      "https://news.ycombinator.com/item?id=49601655",
+      "https://news.ycombinator.com/item?id=49569838",
+      "https://news.ycombinator.com/item?id=49575515",
+      "https://news.ycombinator.com/item?id=49602699",
+      "https://news.ycombinator.com/item?id=49603546",
+      "https://news.ycombinator.com/item?id=49604637"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -442,7 +442,8 @@
       "https://toss.tech/article/52885",
       "https://toss.tech/article/toss-frontend-ai-docs-eng",
       "https://toss.tech/article/technical-writing-1-eng",
-      "https://toss.tech/article/technical-writing-2-eng"
+      "https://toss.tech/article/technical-writing-2-eng",
+      "https://toss.tech/article/52631"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1065,7 +1066,12 @@
       "CBMiS0FVX3lxTE8yTkdsNWxUdXdtcFZxMTBLU3dvV0VHeHFpcjgxaktDSExwWDRnbmM5ZHFiV3RaSE8tOHkxSHdSeTNOSmpwb1dKeElYQQ",
       "CBMiS0FVX3lxTE5JOWRjMFRJV0J6MGJTT2NQQTJRNGNReVZvdjhzNUotSnQ3d240Q0FQc1I5WTJkWmFYaW5BMXFRVWNHc2F1S005MDgyRQ",
       "CBMiS0FVX3lxTE0tU0Q4VDVZd3BTaHZLVTI0Q0xuejAxODViUURCUkRtR3ZGV2FpQm5vc2QyUTRuUVFHZERZWERmbE9uUmlxWWVyTHpGbw",
-      "CBMiTEFVX3lxTE5PWklvU3VCZEZrTkdxS2R0aWdiV3U0QlFKSGxONkMzVk9DMGNCeXg5eEVfajBUQVd5M0tmZ3VBM3pvMHA1VlZLWGZjdDg"
+      "CBMiTEFVX3lxTE5PWklvU3VCZEZrTkdxS2R0aWdiV3U0QlFKSGxONkMzVk9DMGNCeXg5eEVfajBUQVd5M0tmZ3VBM3pvMHA1VlZLWGZjdDg",
+      "CBMiS0FVX3lxTE4yaGNYRjRCaWtCZUZ2Q3dhZ3RnRW5GdlJoXzg0bDdVR0lNYmtzQ0d3NGZfbDhTWnFkN19LdEIwNUlwQ25lVXBybThNVQ",
+      "CBMiS0FVX3lxTE5GLW1TSGRVclpINk5NSXpUOHJ0YWVUUDN2c2t5cGFXMnBiaVZwcjBXdTVhWUJza1Q0M0U4d0h6VVE1VVdiVEMyaXJROA",
+      "CBMiTEFVX3lxTE14di1iVHI0OENlZkhSYWV3SjN0OElwY0FoNXJMejZ5NURGZHY3bVNyTTJGRldqTWlhMi04cUcyc3pDMHA3TkU2TFZFOU8",
+      "CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw",
+      "CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1381,7 +1387,8 @@
       "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
       "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw",
-      "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw"
+      "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
+      "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw"
     ]
   },
   "pending": {
@@ -1426,6 +1433,48 @@
         "source": "요즘IT",
         "title": "나에게 맞는 웹 기술 스택을 고르는 방법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "AI가 팀 규칙을 지키도록 하는 방법",
+        "link": "https://toss.tech/article/52631",
+        "summary": "Coding Agent를 위한 Stylepack"
+      },
+      {
+        "source": "우아한형제들",
+        "title": "[모집] 2022우아한테크캠프 5기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaGNYRjRCaWtCZUZ2Q3dhZ3RnRW5GdlJoXzg0bDdVR0lNYmtzQ0d3NGZfbDhTWnFkN19LdEIwNUlwQ25lVXBybThNVQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "팀 문화의 탄생",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GLW1TSGRVclpINk5NSXpUOHJ0YWVUUDN2c2t5cGFXMnBiaVZwcjBXdTVhWUJza1Q0M0U4d0h6VVE1VVdiVEMyaXJROA?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14di1iVHI0OENlZkhSYWV3SjN0OElwY0FoNXJMejZ5NURGZHY3bVNyTTJGRldqTWlhMi04cUcyc3pDMHA3TkU2TFZFOU8?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Legacy DB의 JPA Entity Mapping (복합키 매핑 편)",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "실험과 기능플래그를 위한 실험플랫폼 구축하기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 전 세계에서 가장 인기 있는 에이전트 스킬 Top5는 뭘까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw?oc=5",
         "summary": ""
       }
     ],
