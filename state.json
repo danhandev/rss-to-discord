@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33113",
-      "https://news.hada.io/topic?id=33116",
-      "https://news.hada.io/topic?id=33117",
-      "https://news.hada.io/topic?id=33119",
-      "https://news.hada.io/topic?id=33121",
       "https://news.hada.io/topic?id=33124",
       "https://news.hada.io/topic?id=33125",
       "https://news.hada.io/topic?id=33126",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33364",
       "https://news.hada.io/topic?id=33365",
       "https://news.hada.io/topic?id=33371",
-      "https://news.hada.io/topic?id=33372"
+      "https://news.hada.io/topic?id=33372",
+      "https://news.hada.io/topic?id=33399",
+      "https://news.hada.io/topic?id=33400",
+      "https://news.hada.io/topic?id=33401",
+      "https://news.hada.io/topic?id=33402",
+      "https://news.hada.io/topic?id=33403"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49508982",
-      "https://news.ycombinator.com/item?id=49511534",
-      "https://news.ycombinator.com/item?id=49512975",
-      "https://news.ycombinator.com/item?id=49514878",
-      "https://news.ycombinator.com/item?id=49495171",
       "https://news.ycombinator.com/item?id=49496292",
       "https://news.ycombinator.com/item?id=49503521",
       "https://news.ycombinator.com/item?id=49504905",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49610631",
       "https://news.ycombinator.com/item?id=49611051",
       "https://news.ycombinator.com/item?id=49615537",
-      "https://news.ycombinator.com/item?id=49616257"
+      "https://news.ycombinator.com/item?id=49616257",
+      "https://news.ycombinator.com/item?id=49613068",
+      "https://news.ycombinator.com/item?id=49616354",
+      "https://news.ycombinator.com/item?id=49616968",
+      "https://news.ycombinator.com/item?id=49617255",
+      "https://news.ycombinator.com/item?id=49617581"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1393,7 +1393,8 @@
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
       "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
       "CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ",
-      "CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ"
+      "CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ",
+      "CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw"
     ]
   },
   "pending": {
@@ -1498,6 +1499,12 @@
         "source": "요즘IT",
         "title": "대기업 AX일수록 작은 문제부터 풀어야 한다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "안전한 웹을 위해 HTTPS 이해하기: 2HTTPS를 강제하는 HSTS 기술",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw?oc=5",
         "summary": ""
       }
     ],
