@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33138",
-      "https://news.hada.io/topic?id=33145",
-      "https://news.hada.io/topic?id=33147",
-      "https://news.hada.io/topic?id=33148",
-      "https://news.hada.io/topic?id=33149",
       "https://news.hada.io/topic?id=33137",
       "https://news.hada.io/topic?id=33151",
       "https://news.hada.io/topic?id=33152",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33446",
       "https://news.hada.io/topic?id=33448",
       "https://news.hada.io/topic?id=33449",
-      "https://news.hada.io/topic?id=33450"
+      "https://news.hada.io/topic?id=33450",
+      "https://news.hada.io/topic?id=33453",
+      "https://news.hada.io/topic?id=33454",
+      "https://news.hada.io/topic?id=33455",
+      "https://news.hada.io/topic?id=33456",
+      "https://news.hada.io/topic?id=33457"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49522897",
-      "https://news.ycombinator.com/item?id=49523720",
-      "https://news.ycombinator.com/item?id=49523754",
-      "https://news.ycombinator.com/item?id=49525378",
-      "https://news.ycombinator.com/item?id=49525160",
       "https://news.ycombinator.com/item?id=49525297",
       "https://news.ycombinator.com/item?id=49526069",
       "https://news.ycombinator.com/item?id=49527396",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49627370",
       "https://news.ycombinator.com/item?id=49630253",
       "https://news.ycombinator.com/item?id=49630931",
-      "https://news.ycombinator.com/item?id=49630964"
+      "https://news.ycombinator.com/item?id=49630964",
+      "https://news.ycombinator.com/item?id=49628614",
+      "https://news.ycombinator.com/item?id=49629886",
+      "https://news.ycombinator.com/item?id=49630026",
+      "https://news.ycombinator.com/item?id=49630151",
+      "https://news.ycombinator.com/item?id=49630566"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1404,7 +1404,8 @@
       "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
       "CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ",
-      "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw"
+      "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw",
+      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ"
     ]
   },
   "pending": {
@@ -1551,6 +1552,12 @@
         "source": "요즘IT",
         "title": "제타 AI 사용기: 캐릭터 채팅부터 검열 논란까지 총정리",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹 접근성 명암비 기준, 꼭 지켜야 할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ?oc=5",
         "summary": ""
       }
     ],
