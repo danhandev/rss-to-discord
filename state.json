@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33124",
-      "https://news.hada.io/topic?id=33125",
-      "https://news.hada.io/topic?id=33126",
-      "https://news.hada.io/topic?id=33127",
-      "https://news.hada.io/topic?id=33128",
       "https://news.hada.io/topic?id=33101",
       "https://news.hada.io/topic?id=33102",
       "https://news.hada.io/topic?id=33109",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33400",
       "https://news.hada.io/topic?id=33401",
       "https://news.hada.io/topic?id=33402",
-      "https://news.hada.io/topic?id=33403"
+      "https://news.hada.io/topic?id=33403",
+      "https://news.hada.io/topic?id=33420",
+      "https://news.hada.io/topic?id=33421",
+      "https://news.hada.io/topic?id=33424",
+      "https://news.hada.io/topic?id=33426",
+      "https://news.hada.io/topic?id=33428"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49496292",
-      "https://news.ycombinator.com/item?id=49503521",
-      "https://news.ycombinator.com/item?id=49504905",
-      "https://news.ycombinator.com/item?id=49515830",
-      "https://news.ycombinator.com/item?id=49516199",
       "https://news.ycombinator.com/item?id=49516699",
       "https://news.ycombinator.com/item?id=49517448",
       "https://news.ycombinator.com/item?id=49517584",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49616354",
       "https://news.ycombinator.com/item?id=49616968",
       "https://news.ycombinator.com/item?id=49617255",
-      "https://news.ycombinator.com/item?id=49617581"
+      "https://news.ycombinator.com/item?id=49617581",
+      "https://news.ycombinator.com/item?id=49546964",
+      "https://news.ycombinator.com/item?id=49575914",
+      "https://news.ycombinator.com/item?id=49579443",
+      "https://news.ycombinator.com/item?id=49619227",
+      "https://news.ycombinator.com/item?id=49622042"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -444,7 +444,8 @@
       "https://toss.tech/article/toss-frontend-ai-docs-eng",
       "https://toss.tech/article/technical-writing-1-eng",
       "https://toss.tech/article/technical-writing-2-eng",
-      "https://toss.tech/article/52631"
+      "https://toss.tech/article/52631",
+      "https://toss.tech/article/52999"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -461,7 +462,8 @@
       "https://tech.kakao.com/posts/831",
       "https://tech.kakao.com/posts/832",
       "https://tech.kakao.com/posts/834",
-      "https://tech.kakao.com/posts/833"
+      "https://tech.kakao.com/posts/833",
+      "https://tech.kakao.com/posts/835"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -960,7 +962,11 @@
       "https://www.fsc.go.kr/no010101/87650",
       "https://www.fsc.go.kr/no010101/87652",
       "https://www.fsc.go.kr/no010101/87657",
-      "https://www.fsc.go.kr/no010101/87667"
+      "https://www.fsc.go.kr/no010101/87667",
+      "https://www.fsc.go.kr/no010101/87674",
+      "https://www.fsc.go.kr/no010101/87675",
+      "https://www.fsc.go.kr/no010101/87676",
+      "https://www.fsc.go.kr/no010101/87687"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1394,7 +1400,10 @@
       "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
       "CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ",
       "CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ",
-      "CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw"
+      "CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw",
+      "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
+      "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
+      "CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ"
     ]
   },
   "pending": {
@@ -1506,6 +1515,36 @@
         "title": "안전한 웹을 위해 HTTPS 이해하기: 2HTTPS를 강제하는 HSTS 기술",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "App Router의 장점은 우리에게도 장점일까요?",
+        "link": "https://toss.tech/article/52999",
+        "summary": "App Router가 토스뱅크에도 좋은 선택일지, 직접 측정한 결과와 도입 여부를 판단한 기준을 공유해요."
+      },
+      {
+        "source": "카카오",
+        "title": "if(kakao)2026 둘째 날, 기술 세션 소개",
+        "link": "https://tech.kakao.com/posts/835",
+        "summary": "if(kakao)2026 둘째 날은 안정성과 인프라, 거버넌스, AI-DLC, Model & Agent에 대해 이야기합니다. 키노트를 제외한 총 30개의 기술 세션들이 아래와 같이 진행됩니다. [안전성과 인프라] 1. 유휴 서버를 찾다가 Hybrid Cloud까지 갔습니다: 비용 가시화에서 Unit Economics를 향해가는 카카오의 FinOps 여정 (백정태, 정원천) “서버가 놀고 있네? 그럼 빼면 되겠네!”…그렇게 간단하지 않았습니다. 사용률이 ..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "이미 전국민이 경험해본 블록체인 기술 DID란?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "UX측면에서 잘 만들어진 B2C사례: 2부, 토스와 기업은행 아이원뱅킹",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "바이브 코딩 시대, 기업은 왜 GitHub Copilot을 선택했을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1514,6 +1553,30 @@
         "title": "제2차 국민참여성장펀드가  9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다.",
         "link": "https://www.fsc.go.kr/no010101/87667",
         "summary": "제2차 국민참여성장펀드가 9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다. • 실제 투자운용을 담당할 자펀드 운용사 10개사 선정 • 6,000억원 규모의 ｢국민참여형 국민성장펀드｣를 24개 은행·증권사 에서 판 매 - 판매 첫 주 에는 판매액의 50% (3,000억원) 를 서민 물량 으로 배정하고, 온라인 판매 비중 을 제한( 은행 40%, 증권 60% ) → 2주차에는 제한 없음 I. 개요 금융위원회는 지난 5월 처음 판매된 「 국민참여형 국민성장펀드 」 (이하 ‘…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
+        "link": "https://www.fsc.go.kr/no010101/87674",
+        "summary": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최 ◈ 공급부문 21개 과제 중 12개 과제 8월중 조치 완료 ◈ 향후 주1회 점검회의 개최를 통해 유기적 협력 강화 및 이행상황 점검 ※ ｢부동산 시장 안정을 위한 금융 종합대책｣ (8.13일, 금융위) 후속조치 1. 회의 개요 금융위원회 는 9.9일 (수) 전요섭 금융정책국장 주재 로 ｢ 주택공급 촉진을 위한 금융지원 대책 점검회의 ｣를 개최 하여 8.13일 금융 종합대책 중 공급 부문 세부과제 21개 의 추진상황 을 점검 하고, 기관별 애로사항…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "2026년 8월 가계대출 동향(잠정) 및  ｢가계부채 점검회의｣ 개최",
+        "link": "https://www.fsc.go.kr/no010101/87675",
+        "summary": "2026년 8월 가계대출 동향 (잠정) 및 ｢가계부채 점검회의｣ 개최 ◇ ’26.8월 全 금융권 가계대출 은 +2.6조원 증가 하여 전월 (+6.4조원) 및 전년 동월 (+4.8조원) 대비 증가폭 축소 * 증감액 (조원) : (‘26.2월)+2.9 (3월)+3.5 (4월)+3.5 (5월)+9.3 (6월)+8.3 (7월)+6.4 (8월 p )+2.6 ◇ 주택공급 촉진 , 청년 주거 안정 등 정책 적 목적 의 자금 을 차질 없이 공급 하되, 금융회사별 총량관리 목표 이행 을 위한 관리 노력 지속 ◇…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "삼성증권㈜에 대한 단기금융업 인가",
+        "link": "https://www.fsc.go.kr/no010101/87676",
+        "summary": "삼성증권㈜에 대한 단기금융업 인가 ✓ 금번 단기금융업 인가로 삼성증권㈜은 발행어음 업무영위 예정 ’26.9.9(수) 제15차 금융위원회 (위원장 : 이억원) 정례회의에서 삼성증권㈜ 에 대해 자본시장법 제360조에 따른 단기금융업 인가 를 심의∙의결 하였다. 금번 인가 로 인해 단기금융업무 영위 가 가능한 종합금융투자사업자 는 모두 8개사 가 되었으며, 모험자본 공급 등 기업 의 다양한 자금수요 에 대응 해 나갈 것으로 기대된다. [ 종투사 지정 현황 ] 8조원 종투사 4조원 종투사 3조원 종투사…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결",
+        "link": "https://www.fsc.go.kr/no010101/87687",
+        "summary": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결 - 금융위원회 (위원장: 이억원) 는 9월 9일 제15차 회의에서 회계처리기준을 위반 하여 재무제표를 작성·공시한 ㈜덱스터스튜디오 및 회사관계자 에 대하여 「주식회사 등의 외부감사에 관한 법률」 등에 따라 아래와 같이 과징금 부과를 의결 하였습니다. < 조치대상자에 대한 최종 과징금 부과액 > 회사명 대상자 최종 과징금 부과액 ㈜덱스터스튜디오 회사 946.3백만원 前 대표이사 등 2인 167.3백만원 ※…"
       }
     ]
   }
