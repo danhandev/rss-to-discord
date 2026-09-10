@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33137",
-      "https://news.hada.io/topic?id=33151",
-      "https://news.hada.io/topic?id=33152",
-      "https://news.hada.io/topic?id=33153",
-      "https://news.hada.io/topic?id=33154",
       "https://news.hada.io/topic?id=33136",
       "https://news.hada.io/topic?id=33158",
       "https://news.hada.io/topic?id=33159",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33454",
       "https://news.hada.io/topic?id=33455",
       "https://news.hada.io/topic?id=33456",
-      "https://news.hada.io/topic?id=33457"
+      "https://news.hada.io/topic?id=33457",
+      "https://news.hada.io/topic?id=33463",
+      "https://news.hada.io/topic?id=33464",
+      "https://news.hada.io/topic?id=33465",
+      "https://news.hada.io/topic?id=33466",
+      "https://news.hada.io/topic?id=33468"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49525297",
-      "https://news.ycombinator.com/item?id=49526069",
-      "https://news.ycombinator.com/item?id=49527396",
-      "https://news.ycombinator.com/item?id=49527573",
-      "https://news.ycombinator.com/item?id=49523387",
       "https://news.ycombinator.com/item?id=49524320",
       "https://news.ycombinator.com/item?id=49524447",
       "https://news.ycombinator.com/item?id=49525153",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49629886",
       "https://news.ycombinator.com/item?id=49630026",
       "https://news.ycombinator.com/item?id=49630151",
-      "https://news.ycombinator.com/item?id=49630566"
+      "https://news.ycombinator.com/item?id=49630566",
+      "https://news.ycombinator.com/item?id=49614280",
+      "https://news.ycombinator.com/item?id=49628429",
+      "https://news.ycombinator.com/item?id=49628493",
+      "https://news.ycombinator.com/item?id=49628576",
+      "https://news.ycombinator.com/item?id=49635384"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -966,7 +966,8 @@
       "https://www.fsc.go.kr/no010101/87674",
       "https://www.fsc.go.kr/no010101/87675",
       "https://www.fsc.go.kr/no010101/87676",
-      "https://www.fsc.go.kr/no010101/87687"
+      "https://www.fsc.go.kr/no010101/87687",
+      "https://www.fsc.go.kr/no010101/87690"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1591,6 +1592,12 @@
         "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결",
         "link": "https://www.fsc.go.kr/no010101/87687",
         "summary": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결 - 금융위원회 (위원장: 이억원) 는 9월 9일 제15차 회의에서 회계처리기준을 위반 하여 재무제표를 작성·공시한 ㈜덱스터스튜디오 및 회사관계자 에 대하여 「주식회사 등의 외부감사에 관한 법률」 등에 따라 아래와 같이 과징금 부과를 의결 하였습니다. < 조치대상자에 대한 최종 과징금 부과액 > 회사명 대상자 최종 과징금 부과액 ㈜덱스터스튜디오 회사 946.3백만원 前 대표이사 등 2인 167.3백만원 ※…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문",
+        "link": "https://www.fsc.go.kr/no010101/87690",
+        "summary": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문 ◈ 약 2,700세대 규모 의 수도권 주거사업장 을 방문하여 현장애로 청취 ㅇ 해당 사업장은 부동산 경기둔화 및 공사비 상승 등으로 안정적인 자금조달 이 주요 과제 였고, 주금공 PF보증 (약 6,000억원) 으로 정상적 사업추진 가능 ◈ 주택공급 촉진 을 위한 금융권 의 적극적인 PF보증·자금공급 당부 ㅇ 주금공의 적극적인 PF보증 공급 과 민간 금융권 의 확실한 자금공급 으로 본 사업장과 같은 성공사례 가 보다 많이 창출 될…"
       }
     ]
   }
