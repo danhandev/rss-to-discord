@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33136",
-      "https://news.hada.io/topic?id=33158",
-      "https://news.hada.io/topic?id=33159",
-      "https://news.hada.io/topic?id=33161",
-      "https://news.hada.io/topic?id=33164",
       "https://news.hada.io/topic?id=33166",
       "https://news.hada.io/topic?id=33167",
       "https://news.hada.io/topic?id=33168",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33464",
       "https://news.hada.io/topic?id=33465",
       "https://news.hada.io/topic?id=33466",
-      "https://news.hada.io/topic?id=33468"
+      "https://news.hada.io/topic?id=33468",
+      "https://news.hada.io/topic?id=33473",
+      "https://news.hada.io/topic?id=33474",
+      "https://news.hada.io/topic?id=33475",
+      "https://news.hada.io/topic?id=33476",
+      "https://news.hada.io/topic?id=33477"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49524320",
-      "https://news.ycombinator.com/item?id=49524447",
-      "https://news.ycombinator.com/item?id=49525153",
-      "https://news.ycombinator.com/item?id=49527748",
-      "https://news.ycombinator.com/item?id=49529132",
       "https://news.ycombinator.com/item?id=49529621",
       "https://news.ycombinator.com/item?id=49529898",
       "https://news.ycombinator.com/item?id=49530989",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49628429",
       "https://news.ycombinator.com/item?id=49628493",
       "https://news.ycombinator.com/item?id=49628576",
-      "https://news.ycombinator.com/item?id=49635384"
+      "https://news.ycombinator.com/item?id=49635384",
+      "https://news.ycombinator.com/item?id=49636283",
+      "https://news.ycombinator.com/item?id=49637385",
+      "https://news.ycombinator.com/item?id=49638280",
+      "https://news.ycombinator.com/item?id=49638353",
+      "https://news.ycombinator.com/item?id=49639090"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1081,7 +1081,8 @@
       "CBMiS0FVX3lxTE5GLW1TSGRVclpINk5NSXpUOHJ0YWVUUDN2c2t5cGFXMnBiaVZwcjBXdTVhWUJza1Q0M0U4d0h6VVE1VVdiVEMyaXJROA",
       "CBMiTEFVX3lxTE14di1iVHI0OENlZkhSYWV3SjN0OElwY0FoNXJMejZ5NURGZHY3bVNyTTJGRldqTWlhMi04cUcyc3pDMHA3TkU2TFZFOU8",
       "CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw",
-      "CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ"
+      "CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ",
+      "CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1559,6 +1560,12 @@
         "source": "요즘IT",
         "title": "웹 접근성 명암비 기준, 꼭 지켜야 할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "이직초보 어느 개발자의 이력서 만들기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ?oc=5",
         "summary": ""
       }
     ],
