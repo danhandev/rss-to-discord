@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33208",
-      "https://news.hada.io/topic?id=33209",
-      "https://news.hada.io/topic?id=33210",
-      "https://news.hada.io/topic?id=33211",
-      "https://news.hada.io/topic?id=33213",
       "https://news.hada.io/topic?id=33206",
       "https://news.hada.io/topic?id=33207",
       "https://news.hada.io/topic?id=33216",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33531",
       "https://news.hada.io/topic?id=33532",
       "https://news.hada.io/topic?id=33533",
-      "https://news.hada.io/topic?id=33534"
+      "https://news.hada.io/topic?id=33534",
+      "https://news.hada.io/topic?id=33544",
+      "https://news.hada.io/topic?id=33545",
+      "https://news.hada.io/topic?id=33546",
+      "https://news.hada.io/topic?id=33547",
+      "https://news.hada.io/topic?id=33548"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49521909",
-      "https://news.ycombinator.com/item?id=49536411",
-      "https://news.ycombinator.com/item?id=49540565",
-      "https://news.ycombinator.com/item?id=49521031",
-      "https://news.ycombinator.com/item?id=49522137",
       "https://news.ycombinator.com/item?id=49546753",
       "https://news.ycombinator.com/item?id=49546800",
       "https://news.ycombinator.com/item?id=49548395",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49649124",
       "https://news.ycombinator.com/item?id=49649222",
       "https://news.ycombinator.com/item?id=49652237",
-      "https://news.ycombinator.com/item?id=49654229"
+      "https://news.ycombinator.com/item?id=49654229",
+      "https://news.ycombinator.com/item?id=49656225",
+      "https://news.ycombinator.com/item?id=49656471",
+      "https://news.ycombinator.com/item?id=49658311",
+      "https://news.ycombinator.com/item?id=49659245",
+      "https://news.ycombinator.com/item?id=49660576"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1413,7 +1413,8 @@
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
       "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
-      "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw"
+      "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
+      "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ"
     ]
   },
   "pending": {
@@ -1596,6 +1597,12 @@
         "source": "요즘IT",
         "title": "[AX일지]274년 뒤 부품이 온다는 공장에서 : MES·ERP 연동 안 한 이유",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "오픈AI 개발자가 알려주는 GPT-6 Astra 프롬프트 팁",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ?oc=5",
         "summary": ""
       }
     ],
