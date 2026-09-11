@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33198",
-      "https://news.hada.io/topic?id=33199",
-      "https://news.hada.io/topic?id=33200",
-      "https://news.hada.io/topic?id=33201",
-      "https://news.hada.io/topic?id=33202",
       "https://news.hada.io/topic?id=33208",
       "https://news.hada.io/topic?id=33209",
       "https://news.hada.io/topic?id=33210",
@@ -200,7 +195,12 @@
       "https://news.hada.io/article/who-owns-wordpress",
       "https://news.hada.io/topic?id=33520",
       "https://news.hada.io/topic?id=33521",
-      "https://news.hada.io/topic?id=33523"
+      "https://news.hada.io/topic?id=33523",
+      "https://news.hada.io/topic?id=33530",
+      "https://news.hada.io/topic?id=33531",
+      "https://news.hada.io/topic?id=33532",
+      "https://news.hada.io/topic?id=33533",
+      "https://news.hada.io/topic?id=33534"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=49521909",
@@ -968,7 +968,9 @@
       "https://www.fsc.go.kr/no010101/87675",
       "https://www.fsc.go.kr/no010101/87676",
       "https://www.fsc.go.kr/no010101/87687",
-      "https://www.fsc.go.kr/no010101/87690"
+      "https://www.fsc.go.kr/no010101/87690",
+      "https://www.fsc.go.kr/no010101/87701",
+      "https://www.fsc.go.kr/no010101/87702"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1410,7 +1412,8 @@
       "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
-      "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ"
+      "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
+      "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw"
     ]
   },
   "pending": {
@@ -1588,6 +1591,12 @@
         "title": "개발자가 알려주는 클로드 코드 폴더 세팅하기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "[AX일지]274년 뒤 부품이 온다는 공장에서 : MES·ERP 연동 안 한 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1626,6 +1635,18 @@
         "title": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문",
         "link": "https://www.fsc.go.kr/no010101/87690",
         "summary": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문 ◈ 약 2,700세대 규모 의 수도권 주거사업장 을 방문하여 현장애로 청취 ㅇ 해당 사업장은 부동산 경기둔화 및 공사비 상승 등으로 안정적인 자금조달 이 주요 과제 였고, 주금공 PF보증 (약 6,000억원) 으로 정상적 사업추진 가능 ◈ 주택공급 촉진 을 위한 금융권 의 적극적인 PF보증·자금공급 당부 ㅇ 주금공의 적극적인 PF보증 공급 과 민간 금융권 의 확실한 자금공급 으로 본 사업장과 같은 성공사례 가 보다 많이 창출 될…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "IFRS17 체계下 계리가정 보고서 도입으로 보험부채 평가의 합리성과 신뢰성을 제고하겠습니다.",
+        "link": "https://www.fsc.go.kr/no010101/87701",
+        "summary": "IFRS17 체계下 계리가정 보고서 도입 으로 보험부채 평가의 합리성과 신뢰성을 제고 하겠습니다. - ｢계리감독 선진화 방안｣ 등 이행을 위한 ｢보험업감독규정｣ 개정안 규정변경예고 - ◈ (계리가정 관리 강화) 보험부채 평가에 적용되는 계리가정 산출·변경·검증 전반에 대한 관리·감독체계 확립 ➊ (계리가정 보고서 도입) 보험회사 는 계리가정 관련 자료 (가정 현황, 변경 이력 등) 를 매년 사업보고서 제출시 금융감독원 에 함께 제출 ➋ (계리가정 내부통제 강화 ) 보험회사 는 계리가정…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다  - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내",
+        "link": "https://www.fsc.go.kr/no010101/87702",
+        "summary": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다 - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내 - 【관련 국정과제】 66. 금융투자자 및 소비자 권익보호 강화 (4. 금융범죄 예방 및 단속 강화) 【대통령 업무보고 과제】 불법사금융 범죄에 대한 대응체계 강화 및 신속한 피해자 구제 추진 추석 연휴 에는 차례·귀성 비용 등으로 가계의 급전 수요 가 늘어나는 반면, 연휴 기간에는 은행 등 제도권 금융회사의 이용이 어려워 SNS·문자…"
       }
     ]
   }
