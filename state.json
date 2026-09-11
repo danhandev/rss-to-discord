@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33187",
-      "https://news.hada.io/topic?id=33188",
-      "https://news.hada.io/topic?id=33189",
-      "https://news.hada.io/topic?id=33190",
-      "https://news.hada.io/topic?id=33192",
       "https://news.hada.io/topic?id=33193",
       "https://news.hada.io/topic?id=33194",
       "https://news.hada.io/topic?id=33195",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33497",
       "https://news.hada.io/topic?id=33498",
       "https://news.hada.io/topic?id=33499",
-      "https://news.hada.io/topic?id=33500"
+      "https://news.hada.io/topic?id=33500",
+      "https://news.hada.io/topic?id=33510",
+      "https://news.hada.io/topic?id=33511",
+      "https://news.hada.io/topic?id=33512",
+      "https://news.hada.io/topic?id=33513",
+      "https://news.hada.io/topic?id=33514"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49537131",
-      "https://news.ycombinator.com/item?id=49541256",
-      "https://news.ycombinator.com/item?id=49541519",
-      "https://news.ycombinator.com/item?id=49524428",
-      "https://news.ycombinator.com/item?id=49535284",
       "https://news.ycombinator.com/item?id=49535548",
       "https://news.ycombinator.com/item?id=49541458",
       "https://news.ycombinator.com/item?id=49543007",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49645393",
       "https://news.ycombinator.com/item?id=49645754",
       "https://news.ycombinator.com/item?id=49645907",
-      "https://news.ycombinator.com/item?id=49647134"
+      "https://news.ycombinator.com/item?id=49647134",
+      "https://news.ycombinator.com/item?id=49587121",
+      "https://news.ycombinator.com/item?id=49627634",
+      "https://news.ycombinator.com/item?id=49639408",
+      "https://news.ycombinator.com/item?id=49649213",
+      "https://news.ycombinator.com/item?id=49650326"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -625,7 +625,8 @@
       "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
       "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
       "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
-      "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis"
+      "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
+      "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1567,6 +1568,12 @@
         "title": "이직초보 어느 개발자의 이력서 만들기",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "LINE",
+        "title": "AI를 전제로 다시 설계하다, Tech-Verse 2026 참관기",
+        "link": "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
+        "summary": "들어가며안녕하세요. LINE Plus의 LINE VoIP Service Dev 팀에서 서버 개발을 하고 있는 한규범, ABC Studio에서 서버를 개발하고 있는 황건구입니다.저희..."
       }
     ],
     "weekly-finance": [
