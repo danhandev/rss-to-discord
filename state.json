@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33193",
-      "https://news.hada.io/topic?id=33194",
-      "https://news.hada.io/topic?id=33195",
-      "https://news.hada.io/topic?id=33196",
-      "https://news.hada.io/topic?id=33197",
       "https://news.hada.io/topic?id=33198",
       "https://news.hada.io/topic?id=33199",
       "https://news.hada.io/topic?id=33200",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33511",
       "https://news.hada.io/topic?id=33512",
       "https://news.hada.io/topic?id=33513",
-      "https://news.hada.io/topic?id=33514"
+      "https://news.hada.io/topic?id=33514",
+      "https://news.hada.io/topic?id=33517",
+      "https://news.hada.io/article/who-owns-wordpress",
+      "https://news.hada.io/topic?id=33520",
+      "https://news.hada.io/topic?id=33521",
+      "https://news.hada.io/topic?id=33523"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49535548",
-      "https://news.ycombinator.com/item?id=49541458",
-      "https://news.ycombinator.com/item?id=49543007",
-      "https://news.ycombinator.com/item?id=49513856",
-      "https://news.ycombinator.com/item?id=49517018",
       "https://news.ycombinator.com/item?id=49521909",
       "https://news.ycombinator.com/item?id=49536411",
       "https://news.ycombinator.com/item?id=49540565",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49627634",
       "https://news.ycombinator.com/item?id=49639408",
       "https://news.ycombinator.com/item?id=49649213",
-      "https://news.ycombinator.com/item?id=49650326"
+      "https://news.ycombinator.com/item?id=49650326",
+      "https://news.ycombinator.com/item?id=49647300",
+      "https://news.ycombinator.com/item?id=49649124",
+      "https://news.ycombinator.com/item?id=49649222",
+      "https://news.ycombinator.com/item?id=49652237",
+      "https://news.ycombinator.com/item?id=49654229"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1408,7 +1408,9 @@
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
       "CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ",
       "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw",
-      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ"
+      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
+      "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
+      "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ"
     ]
   },
   "pending": {
@@ -1574,6 +1576,18 @@
         "title": "AI를 전제로 다시 설계하다, Tech-Verse 2026 참관기",
         "link": "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
         "summary": "들어가며안녕하세요. LINE Plus의 LINE VoIP Service Dev 팀에서 서버 개발을 하고 있는 한규범, ABC Studio에서 서버를 개발하고 있는 황건구입니다.저희..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "컴포넌트 스터디: 2바, 툴팁, 칩",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자가 알려주는 클로드 코드 폴더 세팅하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
