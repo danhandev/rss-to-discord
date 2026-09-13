@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33270",
-      "https://news.hada.io/topic?id=33272",
-      "https://news.hada.io/topic?id=33273",
-      "https://news.hada.io/topic?id=33275",
-      "https://news.hada.io/topic?id=33276",
       "https://news.hada.io/topic?id=33278",
       "https://news.hada.io/topic?id=33279",
       "https://news.hada.io/topic?id=33280",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33634",
       "https://news.hada.io/topic?id=33635",
       "https://news.hada.io/topic?id=33636",
-      "https://news.hada.io/topic?id=33637"
+      "https://news.hada.io/topic?id=33637",
+      "https://news.hada.io/topic?id=33653",
+      "https://news.hada.io/topic?id=33654",
+      "https://news.hada.io/topic?id=33655",
+      "https://news.hada.io/topic?id=33656",
+      "https://news.hada.io/topic?id=33657"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49569663",
-      "https://news.ycombinator.com/item?id=49573680",
-      "https://news.ycombinator.com/item?id=49574167",
-      "https://news.ycombinator.com/item?id=49533840",
-      "https://news.ycombinator.com/item?id=49575034",
       "https://news.ycombinator.com/item?id=49576124",
       "https://news.ycombinator.com/item?id=49576386",
       "https://news.ycombinator.com/item?id=49576986",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49679643",
       "https://news.ycombinator.com/item?id=49683262",
       "https://news.ycombinator.com/item?id=49684393",
-      "https://news.ycombinator.com/item?id=49685253"
+      "https://news.ycombinator.com/item?id=49685253",
+      "https://news.ycombinator.com/item?id=49684356",
+      "https://news.ycombinator.com/item?id=49686445",
+      "https://news.ycombinator.com/item?id=49686697",
+      "https://news.ycombinator.com/item?id=49686766",
+      "https://news.ycombinator.com/item?id=49688157"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1085,7 +1085,8 @@
       "CBMiTEFVX3lxTE14di1iVHI0OENlZkhSYWV3SjN0OElwY0FoNXJMejZ5NURGZHY3bVNyTTJGRldqTWlhMi04cUcyc3pDMHA3TkU2TFZFOU8",
       "CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw",
       "CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ",
-      "CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ"
+      "CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ",
+      "CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1603,6 +1604,12 @@
         "source": "요즘IT",
         "title": "오픈AI 개발자가 알려주는 GPT-6 Astra 프롬프트 팁",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "실시간 반응형 추천 개발 일지 1부: 프로젝트 소개",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg?oc=5",
         "summary": ""
       }
     ],
