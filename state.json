@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33297",
-      "https://news.hada.io/topic?id=33298",
-      "https://news.hada.io/topic?id=33299",
-      "https://news.hada.io/topic?id=33306",
-      "https://news.hada.io/topic?id=33307",
       "https://news.hada.io/topic?id=33308",
       "https://news.hada.io/topic?id=33309",
       "https://news.hada.io/topic?id=33311",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33681",
       "https://news.hada.io/topic?id=33682",
       "https://news.hada.io/topic?id=33684",
-      "https://news.hada.io/topic?id=33685"
+      "https://news.hada.io/topic?id=33685",
+      "https://news.hada.io/topic?id=33692",
+      "https://news.hada.io/topic?id=33694",
+      "https://news.hada.io/topic?id=33695",
+      "https://news.hada.io/topic?id=33696",
+      "https://news.hada.io/topic?id=33697"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49580939",
-      "https://news.ycombinator.com/item?id=49582000",
-      "https://news.ycombinator.com/item?id=49581870",
-      "https://news.ycombinator.com/item?id=49582582",
-      "https://news.ycombinator.com/item?id=49527599",
       "https://news.ycombinator.com/item?id=49541888",
       "https://news.ycombinator.com/item?id=49584083",
       "https://news.ycombinator.com/item?id=49585644",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49690174",
       "https://news.ycombinator.com/item?id=49690260",
       "https://news.ycombinator.com/item?id=49690554",
-      "https://news.ycombinator.com/item?id=49691343"
+      "https://news.ycombinator.com/item?id=49691343",
+      "https://news.ycombinator.com/item?id=49693610",
+      "https://news.ycombinator.com/item?id=49693613",
+      "https://news.ycombinator.com/item?id=49695409",
+      "https://news.ycombinator.com/item?id=49695829",
+      "https://news.ycombinator.com/item?id=49696125"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -972,7 +972,8 @@
       "https://www.fsc.go.kr/no010101/87701",
       "https://www.fsc.go.kr/no010101/87702",
       "https://www.fsc.go.kr/no010101/87705",
-      "https://www.fsc.go.kr/no010101/87706"
+      "https://www.fsc.go.kr/no010101/87706",
+      "https://www.fsc.go.kr/no010101/87708"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1088,7 +1089,8 @@
       "CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw",
       "CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ",
       "CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ",
-      "CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg"
+      "CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg",
+      "CBMiTEFVX3lxTE5BN2ktazdxbWFxUDFnRUhJRVZXTHdmcVVyZ3Z6RnBHTmEtMVlnaHdVS3cwVlNRMTNHYlpEWnZ6c2o0VDNaRzZkNnN3bHU"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1418,11 +1420,32 @@
       "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
       "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
       "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
-      "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw"
+      "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
+      "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw"
     ]
   },
   "pending": {
-    "weekly-tech": [],
-    "weekly-finance": []
+    "weekly-tech": [
+      {
+        "source": "우아한형제들",
+        "title": "문서로만 지키던 아키텍처 규칙, 테스트 코드로 강제하기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BN2ktazdxbWFxUDFnRUhJRVZXTHdmcVVyZ3Z6RnBHTmEtMVlnaHdVS3cwVlNRMTNHYlpEWnZ6c2o0VDNaRzZkNnN3bHU?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "월 10만 원으로 짜는 직군별 AI: 뭐부터 결제해야 할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw?oc=5",
+        "summary": ""
+      }
+    ],
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최",
+        "link": "https://www.fsc.go.kr/no010101/87708",
+        "summary": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최 - - ’26년 7월 까지 5개 정책금융기관 (산은·수은·기은·신보·기보) 기후금융 공급 규모는 42.0조원 으로, 연간 목표의 74.1% 를 달성하는 등 차질없이 추진 중 - 전환금융 안착 및 활성화를 위한 주요과제 진행상황을 점검 하고, 업계 및 관계기관 간 협업체계를 지속 강화 할 예정 1. 회의 개요 금융위원회 (위원장 이억원, 이하 ‘금융위’) 는 9월…"
+      }
+    ]
   }
 }
