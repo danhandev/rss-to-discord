@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33285",
-      "https://news.hada.io/topic?id=33286",
-      "https://news.hada.io/topic?id=33287",
-      "https://news.hada.io/topic?id=33289",
-      "https://news.hada.io/topic?id=33290",
       "https://news.hada.io/topic?id=33291",
       "https://news.hada.io/topic?id=33292",
       "https://news.hada.io/topic?id=33293",
@@ -200,11 +195,14 @@
       "https://news.hada.io/topic?id=33662",
       "https://news.hada.io/topic?id=33664",
       "https://news.hada.io/topic?id=33665",
-      "https://news.hada.io/topic?id=33667"
+      "https://news.hada.io/topic?id=33667",
+      "https://news.hada.io/topic?id=33652",
+      "https://news.hada.io/topic?id=33658",
+      "https://news.hada.io/topic?id=33659",
+      "https://news.hada.io/topic?id=33660",
+      "https://news.hada.io/topic?id=33670"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49578866",
-      "https://news.ycombinator.com/item?id=49575150",
       "https://news.ycombinator.com/item?id=49578280",
       "https://news.ycombinator.com/item?id=49580369",
       "https://news.ycombinator.com/item?id=49576343",
@@ -402,7 +400,9 @@
       "https://news.ycombinator.com/item?id=49684196",
       "https://news.ycombinator.com/item?id=49688695",
       "https://news.ycombinator.com/item?id=49689048",
-      "https://news.ycombinator.com/item?id=49689460"
+      "https://news.ycombinator.com/item?id=49689460",
+      "https://news.ycombinator.com/item?id=49642645",
+      "https://news.ycombinator.com/item?id=49686380"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1417,265 +1417,12 @@
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
       "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
       "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
-      "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ"
+      "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
+      "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw"
     ]
   },
   "pending": {
-    "weekly-tech": [
-      {
-        "source": "우아한형제들",
-        "title": "우리 팀은 카프카를 어떻게 사용하고 있을까",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWklvU3VCZEZrTkdxS2R0aWdiV3U0QlFKSGxONkMzVk9DMGNCeXg5eEVfajBUQVd5M0tmZ3VBM3pvMHA1VlZLWGZjdDg?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "나만 쓰기 아까운 ‘로컬앱’을 자랑해 주세요",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "How Documents Find Developers at Toss",
-        "link": "https://toss.tech/article/toss-frontend-ai-docs-eng",
-        "summary": "The Toss Frontend team no longer has to dig through documents to find what they need. We’re building an environment where developers can get immediate answers to their questions through docs and AI. Here’s how we built a new documentation system that lets developers focus…"
-      },
-      {
-        "source": "토스테크",
-        "title": "1. Creating a Role That Didn’t Exist Before",
-        "link": "https://toss.tech/article/technical-writing-1-eng",
-        "summary": "Learn how Toss’s Technical Writers have expanded their role from writing documentation to designing knowledge systems for the organization."
-      },
-      {
-        "source": "토스테크",
-        "title": "2. Beyond Our Expertise",
-        "link": "https://toss.tech/article/technical-writing-2-eng",
-        "summary": "This is the story of how we turned Technical Writers’ challenges and expertise into a product called \"todoc\", and how the process helped us take that expertise even further."
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI 챗봇이 있어도 왜 콜센터 전화는 줄지 않을까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "나에게 맞는 웹 기술 스택을 고르는 방법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "AI가 팀 규칙을 지키도록 하는 방법",
-        "link": "https://toss.tech/article/52631",
-        "summary": "Coding Agent를 위한 Stylepack"
-      },
-      {
-        "source": "우아한형제들",
-        "title": "[모집] 2022우아한테크캠프 5기",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaGNYRjRCaWtCZUZ2Q3dhZ3RnRW5GdlJoXzg0bDdVR0lNYmtzQ0d3NGZfbDhTWnFkN19LdEIwNUlwQ25lVXBybThNVQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "팀 문화의 탄생",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GLW1TSGRVclpINk5NSXpUOHJ0YWVUUDN2c2t5cGFXMnBiaVZwcjBXdTVhWUJza1Q0M0U4d0h6VVE1VVdiVEMyaXJROA?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14di1iVHI0OENlZkhSYWV3SjN0OElwY0FoNXJMejZ5NURGZHY3bVNyTTJGRldqTWlhMi04cUcyc3pDMHA3TkU2TFZFOU8?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "Legacy DB의 JPA Entity Mapping (복합키 매핑 편)",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6b0RiUy1BUmUzZURQSEtKWExrZUhvYUU2THBRdkpfUDlGcHFCajA5U09KcWlvdWYwMXBJQTJXbnRNR2xvOVFOT0k4dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "실험과 기능플래그를 위한 실험플랫폼 구축하기",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44LXZaeGlZdDdfY2laZWdnWUtuODc3MTBWRXpuWXl4UFRtemNOQjhJSmxLTWhDN3hzRWlQWTFDOUlUT3RCQm1hVkxuTQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "지금 전 세계에서 가장 인기 있는 에이전트 스킬 Top5는 뭘까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "카카오",
-        "title": "if(kakao)2026 첫째 날, 기술 세션 소개",
-        "link": "https://tech.kakao.com/posts/833",
-        "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를 개발한 노하우를 공유합니다! 최근 공개한 Kanana-2 SLM ..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "매월 30분씩 투자하던 일을 1분으로 줄였더니",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "대기업 AX일수록 작은 문제부터 풀어야 한다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "안전한 웹을 위해 HTTPS 이해하기: 2HTTPS를 강제하는 HSTS 기술",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "App Router의 장점은 우리에게도 장점일까요?",
-        "link": "https://toss.tech/article/52999",
-        "summary": "App Router가 토스뱅크에도 좋은 선택일지, 직접 측정한 결과와 도입 여부를 판단한 기준을 공유해요."
-      },
-      {
-        "source": "카카오",
-        "title": "if(kakao)2026 둘째 날, 기술 세션 소개",
-        "link": "https://tech.kakao.com/posts/835",
-        "summary": "if(kakao)2026 둘째 날은 안정성과 인프라, 거버넌스, AI-DLC, Model & Agent에 대해 이야기합니다. 키노트를 제외한 총 30개의 기술 세션들이 아래와 같이 진행됩니다. [안전성과 인프라] 1. 유휴 서버를 찾다가 Hybrid Cloud까지 갔습니다: 비용 가시화에서 Unit Economics를 향해가는 카카오의 FinOps 여정 (백정태, 정원천) “서버가 놀고 있네? 그럼 빼면 되겠네!”…그렇게 간단하지 않았습니다. 사용률이 ..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "이미 전국민이 경험해본 블록체인 기술 DID란?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "UX측면에서 잘 만들어진 B2C사례: 2부, 토스와 기업은행 아이원뱅킹",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "바이브 코딩 시대, 기업은 왜 GitHub Copilot을 선택했을까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "제타 AI 사용기: 캐릭터 채팅부터 검열 논란까지 총정리",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "웹 접근성 명암비 기준, 꼭 지켜야 할까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "이직초보 어느 개발자의 이력서 만들기",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wMVdIOGdKOWtnbnBmUHpheFVfajZRdnVDWk9CMkdLYTRqaTNXWnhPVGh4YlgwWEFrV0lzUUNlSkVwUWxiUHRGd2RGSQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "LINE",
-        "title": "AI를 전제로 다시 설계하다, Tech-Verse 2026 참관기",
-        "link": "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
-        "summary": "들어가며안녕하세요. LINE Plus의 LINE VoIP Service Dev 팀에서 서버 개발을 하고 있는 한규범, ABC Studio에서 서버를 개발하고 있는 황건구입니다.저희..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "컴포넌트 스터디: 2바, 툴팁, 칩",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "개발자가 알려주는 클로드 코드 폴더 세팅하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "[AX일지]274년 뒤 부품이 온다는 공장에서 : MES·ERP 연동 안 한 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "오픈AI 개발자가 알려주는 GPT-6 Astra 프롬프트 팁",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "실시간 반응형 추천 개발 일지 1부: 프로젝트 소개",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg?oc=5",
-        "summary": ""
-      }
-    ],
-    "weekly-finance": [
-      {
-        "source": "금융위 보도자료",
-        "title": "제2차 국민참여성장펀드가  9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다.",
-        "link": "https://www.fsc.go.kr/no010101/87667",
-        "summary": "제2차 국민참여성장펀드가 9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다. • 실제 투자운용을 담당할 자펀드 운용사 10개사 선정 • 6,000억원 규모의 ｢국민참여형 국민성장펀드｣를 24개 은행·증권사 에서 판 매 - 판매 첫 주 에는 판매액의 50% (3,000억원) 를 서민 물량 으로 배정하고, 온라인 판매 비중 을 제한( 은행 40%, 증권 60% ) → 2주차에는 제한 없음 I. 개요 금융위원회는 지난 5월 처음 판매된 「 국민참여형 국민성장펀드 」 (이하 ‘…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
-        "link": "https://www.fsc.go.kr/no010101/87674",
-        "summary": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최 ◈ 공급부문 21개 과제 중 12개 과제 8월중 조치 완료 ◈ 향후 주1회 점검회의 개최를 통해 유기적 협력 강화 및 이행상황 점검 ※ ｢부동산 시장 안정을 위한 금융 종합대책｣ (8.13일, 금융위) 후속조치 1. 회의 개요 금융위원회 는 9.9일 (수) 전요섭 금융정책국장 주재 로 ｢ 주택공급 촉진을 위한 금융지원 대책 점검회의 ｣를 개최 하여 8.13일 금융 종합대책 중 공급 부문 세부과제 21개 의 추진상황 을 점검 하고, 기관별 애로사항…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "2026년 8월 가계대출 동향(잠정) 및  ｢가계부채 점검회의｣ 개최",
-        "link": "https://www.fsc.go.kr/no010101/87675",
-        "summary": "2026년 8월 가계대출 동향 (잠정) 및 ｢가계부채 점검회의｣ 개최 ◇ ’26.8월 全 금융권 가계대출 은 +2.6조원 증가 하여 전월 (+6.4조원) 및 전년 동월 (+4.8조원) 대비 증가폭 축소 * 증감액 (조원) : (‘26.2월)+2.9 (3월)+3.5 (4월)+3.5 (5월)+9.3 (6월)+8.3 (7월)+6.4 (8월 p )+2.6 ◇ 주택공급 촉진 , 청년 주거 안정 등 정책 적 목적 의 자금 을 차질 없이 공급 하되, 금융회사별 총량관리 목표 이행 을 위한 관리 노력 지속 ◇…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "삼성증권㈜에 대한 단기금융업 인가",
-        "link": "https://www.fsc.go.kr/no010101/87676",
-        "summary": "삼성증권㈜에 대한 단기금융업 인가 ✓ 금번 단기금융업 인가로 삼성증권㈜은 발행어음 업무영위 예정 ’26.9.9(수) 제15차 금융위원회 (위원장 : 이억원) 정례회의에서 삼성증권㈜ 에 대해 자본시장법 제360조에 따른 단기금융업 인가 를 심의∙의결 하였다. 금번 인가 로 인해 단기금융업무 영위 가 가능한 종합금융투자사업자 는 모두 8개사 가 되었으며, 모험자본 공급 등 기업 의 다양한 자금수요 에 대응 해 나갈 것으로 기대된다. [ 종투사 지정 현황 ] 8조원 종투사 4조원 종투사 3조원 종투사…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결",
-        "link": "https://www.fsc.go.kr/no010101/87687",
-        "summary": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결 - 금융위원회 (위원장: 이억원) 는 9월 9일 제15차 회의에서 회계처리기준을 위반 하여 재무제표를 작성·공시한 ㈜덱스터스튜디오 및 회사관계자 에 대하여 「주식회사 등의 외부감사에 관한 법률」 등에 따라 아래와 같이 과징금 부과를 의결 하였습니다. < 조치대상자에 대한 최종 과징금 부과액 > 회사명 대상자 최종 과징금 부과액 ㈜덱스터스튜디오 회사 946.3백만원 前 대표이사 등 2인 167.3백만원 ※…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문",
-        "link": "https://www.fsc.go.kr/no010101/87690",
-        "summary": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문 ◈ 약 2,700세대 규모 의 수도권 주거사업장 을 방문하여 현장애로 청취 ㅇ 해당 사업장은 부동산 경기둔화 및 공사비 상승 등으로 안정적인 자금조달 이 주요 과제 였고, 주금공 PF보증 (약 6,000억원) 으로 정상적 사업추진 가능 ◈ 주택공급 촉진 을 위한 금융권 의 적극적인 PF보증·자금공급 당부 ㅇ 주금공의 적극적인 PF보증 공급 과 민간 금융권 의 확실한 자금공급 으로 본 사업장과 같은 성공사례 가 보다 많이 창출 될…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "IFRS17 체계下 계리가정 보고서 도입으로 보험부채 평가의 합리성과 신뢰성을 제고하겠습니다.",
-        "link": "https://www.fsc.go.kr/no010101/87701",
-        "summary": "IFRS17 체계下 계리가정 보고서 도입 으로 보험부채 평가의 합리성과 신뢰성을 제고 하겠습니다. - ｢계리감독 선진화 방안｣ 등 이행을 위한 ｢보험업감독규정｣ 개정안 규정변경예고 - ◈ (계리가정 관리 강화) 보험부채 평가에 적용되는 계리가정 산출·변경·검증 전반에 대한 관리·감독체계 확립 ➊ (계리가정 보고서 도입) 보험회사 는 계리가정 관련 자료 (가정 현황, 변경 이력 등) 를 매년 사업보고서 제출시 금융감독원 에 함께 제출 ➋ (계리가정 내부통제 강화 ) 보험회사 는 계리가정…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다  - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내",
-        "link": "https://www.fsc.go.kr/no010101/87702",
-        "summary": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다 - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내 - 【관련 국정과제】 66. 금융투자자 및 소비자 권익보호 강화 (4. 금융범죄 예방 및 단속 강화) 【대통령 업무보고 과제】 불법사금융 범죄에 대한 대응체계 강화 및 신속한 피해자 구제 추진 추석 연휴 에는 차례·귀성 비용 등으로 가계의 급전 수요 가 늘어나는 반면, 연휴 기간에는 은행 등 제도권 금융회사의 이용이 어려워 SNS·문자…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "’26년 3분기 혁신금융서비스 지정 정기신청 개시",
-        "link": "https://www.fsc.go.kr/no010101/87705",
-        "summary": "’26년 3분기 혁신금융서비스 지정 정기신청 개시 - ’ 26.9.14.(월) 09:00 ~9.30.(수) 18:00까지 홈페이지(온라인) 접수 진행 - 금융규제 샌드박스 홈페이지 ‘컨설팅 신청’, ‘지정 사례’, ‘자주하는 질문(FAQ)’ 참고 ’ 26년 3분기 혁신금융서비스 지정 정기신청 공고 가 ’26.9.14.(월) 09:00~9.30.(수) 18:00 기간동안 진행된다. 혁신금융서비스 지정 을 희망 하는 기업 은 공고 * 상 신청방법 을 확인 한 뒤, 제출 서류 를 갖추어 신청기간 내…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.",
-        "link": "https://www.fsc.go.kr/no010101/87706",
-        "summary": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다. ▸ 소상공인 ·중소기업 등 대상으로 총 103조 원 규모 자금 을 공급하여, 민생경제 어려움 해 소 → 정책금융기관 특별대출·보증 23조 원 + 은행권 금리우대 대출 79조6천억 원 ▸ 주택연금 은 연휴 전 (9.23일) 미리 지급 하고, 대출만기일, 카드대금 결제일, 공과금 자동납부일 등은 연휴 이후 (9.28일) 로 연기 ▸ 연휴 기간 총 11개 의 이동점포 운영 으로 긴급한 금융거래 수요 해소 ▸ 금융회사별 연휴 기간…"
-      }
-    ]
+    "weekly-tech": [],
+    "weekly-finance": []
   }
 }
