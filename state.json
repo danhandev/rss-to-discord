@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33278",
-      "https://news.hada.io/topic?id=33279",
-      "https://news.hada.io/topic?id=33280",
-      "https://news.hada.io/topic?id=33281",
-      "https://news.hada.io/topic?id=33282",
       "https://news.hada.io/topic?id=33285",
       "https://news.hada.io/topic?id=33286",
       "https://news.hada.io/topic?id=33287",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33654",
       "https://news.hada.io/topic?id=33655",
       "https://news.hada.io/topic?id=33656",
-      "https://news.hada.io/topic?id=33657"
+      "https://news.hada.io/topic?id=33657",
+      "https://news.hada.io/topic?id=33661",
+      "https://news.hada.io/topic?id=33662",
+      "https://news.hada.io/topic?id=33664",
+      "https://news.hada.io/topic?id=33665",
+      "https://news.hada.io/topic?id=33667"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49576124",
-      "https://news.ycombinator.com/item?id=49576386",
-      "https://news.ycombinator.com/item?id=49576986",
-      "https://news.ycombinator.com/item?id=49576258",
-      "https://news.ycombinator.com/item?id=49577975",
       "https://news.ycombinator.com/item?id=49578866",
       "https://news.ycombinator.com/item?id=49575150",
       "https://news.ycombinator.com/item?id=49578280",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49686445",
       "https://news.ycombinator.com/item?id=49686697",
       "https://news.ycombinator.com/item?id=49686766",
-      "https://news.ycombinator.com/item?id=49688157"
+      "https://news.ycombinator.com/item?id=49688157",
+      "https://news.ycombinator.com/item?id=49683953",
+      "https://news.ycombinator.com/item?id=49684196",
+      "https://news.ycombinator.com/item?id=49688695",
+      "https://news.ycombinator.com/item?id=49689048",
+      "https://news.ycombinator.com/item?id=49689460"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -970,7 +970,9 @@
       "https://www.fsc.go.kr/no010101/87687",
       "https://www.fsc.go.kr/no010101/87690",
       "https://www.fsc.go.kr/no010101/87701",
-      "https://www.fsc.go.kr/no010101/87702"
+      "https://www.fsc.go.kr/no010101/87702",
+      "https://www.fsc.go.kr/no010101/87705",
+      "https://www.fsc.go.kr/no010101/87706"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1661,6 +1663,18 @@
         "title": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다  - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내",
         "link": "https://www.fsc.go.kr/no010101/87702",
         "summary": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다 - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내 - 【관련 국정과제】 66. 금융투자자 및 소비자 권익보호 강화 (4. 금융범죄 예방 및 단속 강화) 【대통령 업무보고 과제】 불법사금융 범죄에 대한 대응체계 강화 및 신속한 피해자 구제 추진 추석 연휴 에는 차례·귀성 비용 등으로 가계의 급전 수요 가 늘어나는 반면, 연휴 기간에는 은행 등 제도권 금융회사의 이용이 어려워 SNS·문자…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "’26년 3분기 혁신금융서비스 지정 정기신청 개시",
+        "link": "https://www.fsc.go.kr/no010101/87705",
+        "summary": "’26년 3분기 혁신금융서비스 지정 정기신청 개시 - ’ 26.9.14.(월) 09:00 ~9.30.(수) 18:00까지 홈페이지(온라인) 접수 진행 - 금융규제 샌드박스 홈페이지 ‘컨설팅 신청’, ‘지정 사례’, ‘자주하는 질문(FAQ)’ 참고 ’ 26년 3분기 혁신금융서비스 지정 정기신청 공고 가 ’26.9.14.(월) 09:00~9.30.(수) 18:00 기간동안 진행된다. 혁신금융서비스 지정 을 희망 하는 기업 은 공고 * 상 신청방법 을 확인 한 뒤, 제출 서류 를 갖추어 신청기간 내…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.",
+        "link": "https://www.fsc.go.kr/no010101/87706",
+        "summary": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다. ▸ 소상공인 ·중소기업 등 대상으로 총 103조 원 규모 자금 을 공급하여, 민생경제 어려움 해 소 → 정책금융기관 특별대출·보증 23조 원 + 은행권 금리우대 대출 79조6천억 원 ▸ 주택연금 은 연휴 전 (9.23일) 미리 지급 하고, 대출만기일, 카드대금 결제일, 공과금 자동납부일 등은 연휴 이후 (9.28일) 로 연기 ▸ 연휴 기간 총 11개 의 이동점포 운영 으로 긴급한 금융거래 수요 해소 ▸ 금융회사별 연휴 기간…"
       }
     ]
   }
