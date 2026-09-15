@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33343",
-      "https://news.hada.io/topic?id=33351",
-      "https://news.hada.io/topic?id=33355",
-      "https://news.hada.io/topic?id=33357",
-      "https://news.hada.io/topic?id=33358",
       "https://news.hada.io/topic?id=33342",
       "https://news.hada.io/topic?id=33359",
       "https://news.hada.io/topic?id=33360",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33750",
       "https://news.hada.io/topic?id=33751",
       "https://news.hada.io/topic?id=33752",
-      "https://news.hada.io/topic?id=33753"
+      "https://news.hada.io/topic?id=33753",
+      "https://news.hada.io/topic?id=33754",
+      "https://news.hada.io/topic?id=33755",
+      "https://news.hada.io/topic?id=33756",
+      "https://news.hada.io/topic?id=33757",
+      "https://news.hada.io/topic?id=33758"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49600233",
-      "https://news.ycombinator.com/item?id=49571096",
-      "https://news.ycombinator.com/item?id=49586207",
-      "https://news.ycombinator.com/item?id=49592375",
-      "https://news.ycombinator.com/item?id=49595865",
       "https://news.ycombinator.com/item?id=49601655",
       "https://news.ycombinator.com/item?id=49569838",
       "https://news.ycombinator.com/item?id=49575515",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49715947",
       "https://news.ycombinator.com/item?id=49716176",
       "https://news.ycombinator.com/item?id=49716476",
-      "https://news.ycombinator.com/item?id=49717558"
+      "https://news.ycombinator.com/item?id=49717558",
+      "https://news.ycombinator.com/item?id=49704132",
+      "https://news.ycombinator.com/item?id=49710109",
+      "https://news.ycombinator.com/item?id=49713262",
+      "https://news.ycombinator.com/item?id=49716953",
+      "https://news.ycombinator.com/item?id=49717638"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -411,7 +411,8 @@
       "https://spring.io/blog/2026/08/18/this-week-in-spring-august-18-2026",
       "https://spring.io/blog/2026/08/25/this-week-in-spring-august-25",
       "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026",
-      "https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026"
+      "https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026",
+      "https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
@@ -1430,7 +1431,8 @@
       "CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ",
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
       "CBMiWkFVX3lxTFBoaWUzd1dvOVItV1dkOGhvcVhacnJWRkxCMFFvUUthdWVZTXlRaTd3RjV0ZmRkZDBqUFNBZTB6bTZyTFl6TmlBdURxd1BncXVMOURiZUVBWTNBQQ",
-      "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw"
+      "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
+      "CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw"
     ]
   },
   "pending": {
@@ -1475,6 +1477,12 @@
         "source": "요즘IT",
         "title": "열심히 공부하는 당신이 서류조차 못 넘는 이유",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "직접 돌려본 오픈 웨이트 모델, 어떻게 선택해야 할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw?oc=5",
         "summary": ""
       }
     ],
