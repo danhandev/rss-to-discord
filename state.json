@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33315",
-      "https://news.hada.io/topic?id=33316",
-      "https://news.hada.io/topic?id=33317",
-      "https://news.hada.io/topic?id=33319",
-      "https://news.hada.io/topic?id=33320",
       "https://news.hada.io/topic?id=33321",
       "https://news.hada.io/topic?id=33323",
       "https://news.hada.io/topic?id=33325",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33712",
       "https://news.hada.io/topic?id=33713",
       "https://news.hada.io/topic?id=33714",
-      "https://news.hada.io/topic?id=33715"
+      "https://news.hada.io/topic?id=33715",
+      "https://news.hada.io/topic?id=33721",
+      "https://news.hada.io/topic?id=33723",
+      "https://news.hada.io/topic?id=33724",
+      "https://news.hada.io/topic?id=33725",
+      "https://news.hada.io/topic?id=33726"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49588988",
-      "https://news.ycombinator.com/item?id=49589003",
-      "https://news.ycombinator.com/item?id=49590512",
-      "https://news.ycombinator.com/item?id=49590611",
-      "https://news.ycombinator.com/item?id=49554622",
       "https://news.ycombinator.com/item?id=49587217",
       "https://news.ycombinator.com/item?id=49587636",
       "https://news.ycombinator.com/item?id=49591876",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49698699",
       "https://news.ycombinator.com/item?id=49699158",
       "https://news.ycombinator.com/item?id=49699489",
-      "https://news.ycombinator.com/item?id=49704008"
+      "https://news.ycombinator.com/item?id=49704008",
+      "https://news.ycombinator.com/item?id=49697893",
+      "https://news.ycombinator.com/item?id=49699648",
+      "https://news.ycombinator.com/item?id=49700255",
+      "https://news.ycombinator.com/item?id=49704246",
+      "https://news.ycombinator.com/item?id=49706223"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -445,7 +445,8 @@
       "https://toss.tech/article/technical-writing-1-eng",
       "https://toss.tech/article/technical-writing-2-eng",
       "https://toss.tech/article/52631",
-      "https://toss.tech/article/52999"
+      "https://toss.tech/article/52999",
+      "https://toss.tech/article/gpu-native-cluster"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1421,7 +1422,9 @@
       "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
       "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
       "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
-      "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw"
+      "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw",
+      "CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ",
+      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ"
     ]
   },
   "pending": {
@@ -1436,6 +1439,24 @@
         "source": "요즘IT",
         "title": "월 10만 원으로 짜는 직군별 AI: 뭐부터 결제해야 할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
+        "link": "https://toss.tech/article/gpu-native-cluster",
+        "summary": "토스증권이 Kubernetes GPU 클러스터의 운영 한계를 해결한 방법"
+      },
+      {
+        "source": "요즘IT",
+        "title": "IA, 메뉴구조도, 화면목록이 헷갈린다면?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 기획 이야기들",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ?oc=5",
         "summary": ""
       }
     ],
