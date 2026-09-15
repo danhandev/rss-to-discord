@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33327",
-      "https://news.hada.io/topic?id=33328",
-      "https://news.hada.io/topic?id=33329",
-      "https://news.hada.io/topic?id=33330",
-      "https://news.hada.io/topic?id=33332",
       "https://news.hada.io/topic?id=33344",
       "https://news.hada.io/topic?id=33345",
       "https://news.hada.io/topic?id=33346",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33732",
       "https://news.hada.io/topic?id=33733",
       "https://news.hada.io/topic?id=33734",
-      "https://news.hada.io/topic?id=33735"
+      "https://news.hada.io/topic?id=33735",
+      "https://news.hada.io/topic?id=33740",
+      "https://news.hada.io/topic?id=33741",
+      "https://news.hada.io/topic?id=33742",
+      "https://news.hada.io/topic?id=33743",
+      "https://news.hada.io/topic?id=33744"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49593563",
-      "https://news.ycombinator.com/item?id=49596119",
-      "https://news.ycombinator.com/item?id=49596629",
-      "https://news.ycombinator.com/item?id=49597189",
-      "https://news.ycombinator.com/item?id=49597895",
       "https://news.ycombinator.com/item?id=49597907",
       "https://news.ycombinator.com/item?id=49596054",
       "https://news.ycombinator.com/item?id=49596055",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49707627",
       "https://news.ycombinator.com/item?id=49708431",
       "https://news.ycombinator.com/item?id=49708993",
-      "https://news.ycombinator.com/item?id=49710253"
+      "https://news.ycombinator.com/item?id=49710253",
+      "https://news.ycombinator.com/item?id=49711544",
+      "https://news.ycombinator.com/item?id=49712041",
+      "https://news.ycombinator.com/item?id=49712102",
+      "https://news.ycombinator.com/item?id=49712278",
+      "https://news.ycombinator.com/item?id=49715113"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1428,7 +1428,9 @@
       "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
       "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw",
       "CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ",
-      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ"
+      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
+      "CBMiWkFVX3lxTFBoaWUzd1dvOVItV1dkOGhvcVhacnJWRkxCMFFvUUthdWVZTXlRaTd3RjV0ZmRkZDBqUFNBZTB6bTZyTFl6TmlBdURxd1BncXVMOURiZUVBWTNBQQ",
+      "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw"
     ]
   },
   "pending": {
@@ -1461,6 +1463,18 @@
         "source": "요즘IT",
         "title": "IT 기획 이야기들",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "‘API Versioning’은 반드시 필요할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoaWUzd1dvOVItV1dkOGhvcVhacnJWRkxCMFFvUUthdWVZTXlRaTd3RjV0ZmRkZDBqUFNBZTB6bTZyTFl6TmlBdURxd1BncXVMOURiZUVBWTNBQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "열심히 공부하는 당신이 서류조차 못 넘는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw?oc=5",
         "summary": ""
       }
     ],
