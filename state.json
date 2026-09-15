@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33321",
-      "https://news.hada.io/topic?id=33323",
-      "https://news.hada.io/topic?id=33325",
-      "https://news.hada.io/topic?id=33318",
-      "https://news.hada.io/topic?id=33326",
       "https://news.hada.io/topic?id=33327",
       "https://news.hada.io/topic?id=33328",
       "https://news.hada.io/topic?id=33329",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33723",
       "https://news.hada.io/topic?id=33724",
       "https://news.hada.io/topic?id=33725",
-      "https://news.hada.io/topic?id=33726"
+      "https://news.hada.io/topic?id=33726",
+      "https://news.hada.io/topic?id=33731",
+      "https://news.hada.io/topic?id=33732",
+      "https://news.hada.io/topic?id=33733",
+      "https://news.hada.io/topic?id=33734",
+      "https://news.hada.io/topic?id=33735"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49587217",
-      "https://news.ycombinator.com/item?id=49587636",
-      "https://news.ycombinator.com/item?id=49591876",
-      "https://news.ycombinator.com/item?id=49577129",
-      "https://news.ycombinator.com/item?id=49589914",
       "https://news.ycombinator.com/item?id=49593563",
       "https://news.ycombinator.com/item?id=49596119",
       "https://news.ycombinator.com/item?id=49596629",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49699648",
       "https://news.ycombinator.com/item?id=49700255",
       "https://news.ycombinator.com/item?id=49704246",
-      "https://news.ycombinator.com/item?id=49706223"
+      "https://news.ycombinator.com/item?id=49706223",
+      "https://news.ycombinator.com/item?id=49707473",
+      "https://news.ycombinator.com/item?id=49707627",
+      "https://news.ycombinator.com/item?id=49708431",
+      "https://news.ycombinator.com/item?id=49708993",
+      "https://news.ycombinator.com/item?id=49710253"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -974,7 +974,11 @@
       "https://www.fsc.go.kr/no010101/87702",
       "https://www.fsc.go.kr/no010101/87705",
       "https://www.fsc.go.kr/no010101/87706",
-      "https://www.fsc.go.kr/no010101/87708"
+      "https://www.fsc.go.kr/no010101/87708",
+      "https://www.fsc.go.kr/no010101/87711",
+      "https://www.fsc.go.kr/no010101/87714",
+      "https://www.fsc.go.kr/no010101/87715",
+      "https://www.fsc.go.kr/no010101/87716"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1466,6 +1470,30 @@
         "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최",
         "link": "https://www.fsc.go.kr/no010101/87708",
         "summary": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최 - - ’26년 7월 까지 5개 정책금융기관 (산은·수은·기은·신보·기보) 기후금융 공급 규모는 42.0조원 으로, 연간 목표의 74.1% 를 달성하는 등 차질없이 추진 중 - 전환금융 안착 및 활성화를 위한 주요과제 진행상황을 점검 하고, 업계 및 관계기관 간 협업체계를 지속 강화 할 예정 1. 회의 개요 금융위원회 (위원장 이억원, 이하 ‘금융위’) 는 9월…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융위원회, 제5차  「금융업권 생산적 금융협의체」 개최 - 지주사, 보험사, 증권사, 정책금융기관과  생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의",
+        "link": "https://www.fsc.go.kr/no010101/87711",
+        "summary": "금융위원회, 제5차 「 금융업권 생산적 금융협의체 」 개최 - 지주사, 보험사, 증권사, 정책금융기관과 생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의 - 【 관련 국정과제】58-3. 생산적 분야로의 자금공급 유도를 위한 건전성 규제 개편 【대통령 업무보고 과제】생산적 금융으로의 대전환 Ⅰ. 배경 및 회의개요 금융위원회 는 생산적 금융 대전환 과정에서의 소통과 점검을 위한「 생산적 금융 협의체 ｣ 5차 회의를 개최하였다. 금융위원회 는 「 생산적 금융 대전환 회의 」 를 통해…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "“아시아에서 가장 역동적인 자본시장을 향한 관문 (Gateway to Asia’s Most Dynamic Capital Market)”  「Korea Premium Weeks 2026」 개최 안내",
+        "link": "https://www.fsc.go.kr/no010101/87714",
+        "summary": "“아시아에서 가장 역동적인 자본시장을 향한 관문 (Gateway to Asia’s Most Dynamic Capital Market) ” 「Korea Premium Weeks 2026」 개최 안내 ✓ 2026.9.28. (月) ~10.16. (金) 「 Korea Premium Weeks 2026 」 최초 개최 , 대한민국 자본시장 을 대표 하는 정례 IR 및 컨퍼런스 로 자리매김 기대 - 기존 개별 추진되던 자본시장 관련 행사 들을 통합 · 집중 개최 하여 시너지 효과 를 극대화 하고, 韓 시장…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "합병가액 산정방식 변경(시가→공정가액) 등 자본시장법 개정에 따른 하위법규 개정예고 실시 ※예고기간 ‘26.9.16일 ~ 10.6일",
+        "link": "https://www.fsc.go.kr/no010101/87715",
+        "summary": "합병가액 산정방식 변경(시가→공정가액) 등 자본시장법 개정에 따른 하위법규 개정예고 실시 ※예고기간 ‘26.9.16일 ~ 10.6일 ✓ 합병, 분할 등 조직개편행위 의 실체적, 절차적 공정성을 강화 하기 위한 「 자본시장법 」 개정안 * 이 ’26.12.9일 시행될 예정 * [실체적] 합병 등의 가액 산정방식 변경(시가→공정가액) [절차적] 가액의 적정성 등에 대한 “이사회 검토” 및 “외부평가” 의무화, 계열사 간 합병 등의 경우 이해관계 공시 등 ✓ 세부 요건·기준, 공시 내용·방법 등…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담",
+        "link": "https://www.fsc.go.kr/no010101/87716",
+        "summary": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담 󰋻 한·독 금융시장·정책 동향 공유 및 양국 금융협력 강화 등 논의 이억원 금융위원장 은 9월 15일(화) 오후 4시 정부서울청사에서 독일 연방 하원 재정위원회 (Finance Committee) 크리스티안 괴르케 ( Christian Görke) 위원장 을 비롯한 하원의원 7명 과 면담하였다. 독일 연방하원 (Bundestag) 은 법률제정 , 연방정부에 대한 견제 · 감독 , 연방예산 심의 · 의결 및 연방총리 선출 등의 권한을 갖는…"
       }
     ]
   }
