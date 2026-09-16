@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33366",
-      "https://news.hada.io/topic?id=33367",
-      "https://news.hada.io/topic?id=33368",
-      "https://news.hada.io/topic?id=33369",
-      "https://news.hada.io/topic?id=33370",
       "https://news.hada.io/topic?id=33341",
       "https://news.hada.io/topic?id=33364",
       "https://news.hada.io/topic?id=33365",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=33763",
       "https://news.hada.io/topic?id=33764",
       "https://news.hada.io/topic?id=33765",
-      "https://news.hada.io/topic?id=33766"
+      "https://news.hada.io/topic?id=33766",
+      "https://news.hada.io/topic?id=33773",
+      "https://news.hada.io/topic?id=33774",
+      "https://news.hada.io/topic?id=33777",
+      "https://news.hada.io/topic?id=33778",
+      "https://news.hada.io/topic?id=33779"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49604637",
-      "https://news.ycombinator.com/item?id=49604150",
-      "https://news.ycombinator.com/item?id=49604861",
-      "https://news.ycombinator.com/item?id=49605691",
       "https://news.ycombinator.com/item?id=49605767",
       "https://news.ycombinator.com/item?id=49605915",
       "https://news.ycombinator.com/item?id=49605246",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=49713024",
       "https://news.ycombinator.com/item?id=49717605",
       "https://news.ycombinator.com/item?id=49718822",
-      "https://news.ycombinator.com/item?id=49718928"
+      "https://news.ycombinator.com/item?id=49718928",
+      "https://news.ycombinator.com/item?id=49693971",
+      "https://news.ycombinator.com/item?id=49715927",
+      "https://news.ycombinator.com/item?id=49719938",
+      "https://news.ycombinator.com/item?id=49721322"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -447,7 +447,8 @@
       "https://toss.tech/article/technical-writing-2-eng",
       "https://toss.tech/article/52631",
       "https://toss.tech/article/52999",
-      "https://toss.tech/article/gpu-native-cluster"
+      "https://toss.tech/article/gpu-native-cluster",
+      "https://toss.tech/article/toss-benchmark"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -979,7 +980,13 @@
       "https://www.fsc.go.kr/no010101/87711",
       "https://www.fsc.go.kr/no010101/87714",
       "https://www.fsc.go.kr/no010101/87715",
-      "https://www.fsc.go.kr/no010101/87716"
+      "https://www.fsc.go.kr/no010101/87716",
+      "https://www.fsc.go.kr/no010101/87721",
+      "https://www.fsc.go.kr/no010101/87722",
+      "https://www.fsc.go.kr/no010101/87726",
+      "https://www.fsc.go.kr/no010101/87727",
+      "https://www.fsc.go.kr/no010101/87728",
+      "https://www.fsc.go.kr/no010101/87729"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1432,7 +1439,8 @@
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
       "CBMiWkFVX3lxTFBoaWUzd1dvOVItV1dkOGhvcVhacnJWRkxCMFFvUUthdWVZTXlRaTd3RjV0ZmRkZDBqUFNBZTB6bTZyTFl6TmlBdURxd1BncXVMOURiZUVBWTNBQQ",
       "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
-      "CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw"
+      "CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw",
+      "CBMiWkFVX3lxTE5wRm80UkRTSC14YXk3ZFh4ZlRhU2ZPYTVRMWRKcGVkeG11RFl3d25IeUluOXJ4MkIzQlFHYkthQnZYdmZWWU5WWnJ0aDJMbFVNZ2Yyb1FhMm8yZw"
     ]
   },
   "pending": {
@@ -1484,6 +1492,18 @@
         "title": "직접 돌려본 오픈 웨이트 모델, 어떻게 선택해야 할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+        "link": "https://toss.tech/article/toss-benchmark",
+        "summary": "Toss의 AI 기반 서비스에 적합한 LLM이 무엇인지 평가하는 Toss Benchmark 구축기"
+      },
+      {
+        "source": "요즘IT",
+        "title": "사수 없는 디자이너는 어떻게 성장해야 할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wRm80UkRTSC14YXk3ZFh4ZlRhU2ZPYTVRMWRKcGVkeG11RFl3d25IeUluOXJ4MkIzQlFHYkthQnZYdmZWWU5WWnJ0aDJMbFVNZ2Yyb1FhMm8yZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1516,6 +1536,42 @@
         "title": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담",
         "link": "https://www.fsc.go.kr/no010101/87716",
         "summary": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담 󰋻 한·독 금융시장·정책 동향 공유 및 양국 금융협력 강화 등 논의 이억원 금융위원장 은 9월 15일(화) 오후 4시 정부서울청사에서 독일 연방 하원 재정위원회 (Finance Committee) 크리스티안 괴르케 ( Christian Görke) 위원장 을 비롯한 하원의원 7명 과 면담하였다. 독일 연방하원 (Bundestag) 은 법률제정 , 연방정부에 대한 견제 · 감독 , 연방예산 심의 · 의결 및 연방총리 선출 등의 권한을 갖는…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융위원장-카자흐 ARDFM 청장 면담 및 한-카자흐 금융협력세미나 개최",
+        "link": "https://www.fsc.go.kr/no010101/87721",
+        "summary": "금융위원장-카자흐 ARDFM 청장 면담 및 한-카자흐 금융협력세미나 개최 금융위원회 이억원 위원장 은 9.16일(수) 오전 아빌카시모바 마디나 예라실로브나 (Abylkassymova Madina Yerassylovna) 카자흐스탄 금융시장규제·발전청 (ARDFM: Agency o f Regulation and Development of the Financial Market) 청장 을 만나 한국-카자흐스탄 간 금융협력 강화 방안을 논의하였다. 아빌카시모바 청장 은 ｢제1차 한-중앙아시아…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "신용정보법 과징금 산정의 투명성과 합리성을 높이도록 하겠습니다.  - 신용정보법 과징금 산정기준 개선을 위한 T/F 회의 개최",
+        "link": "https://www.fsc.go.kr/no010101/87722",
+        "summary": "신용정보법 과징금 산정의 투명성과 합리성을 높이도록 하겠습니다. - 신용정보법 과징금 산정기준 개선을 위한 T/F 회의 개최 - ✓ 국내외 유사 입법례 및 신용정보 법 특성에 맞는 과징금 산정기준 개선안 논의 Ⅰ. 회의개요 금융위원회는 ’26.9.16일 유영준 디지털금융정책관 주재로 ｢신용정보의 이 용 및 보호에 관한 법률｣(이하 ‘신용정보법’)에 따른 과징금 산정기준 개선 을 위 한 T/F 회의를 개최하여, 금융감독원 및 금융협회와 신용정보법 과징금 제 도의 현황과 문제점 에 대한 인식을…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "10월 7일부터  청년미래적금 2차 가입 신청을 받습니다.",
+        "link": "https://www.fsc.go.kr/no010101/87726",
+        "summary": "10월 7일부터 청년미래적금 2차 가입 신청을 받습니다. √ 10월 7일~16일 가입신청 , 심사를 거쳐 11월 16일부터 계좌개설 √ 청년도약계좌 가입자의 청년미래적금 ‘갈아타기’ 기회 추가 제공 √ ‘27년 청년미래적금 개편 예산안 의 국회 통과 시, 기존 청년미래 적금 가입자 에게도 상향된 우대형 기여금 을 소급하여 지급 예정 √ 가입심사 시스템 을 개선 하고, 절차별 사전안내 및 지원체계 강화 를 통한 신청자 편의성 제고 금융위원회와 서민금융진흥원 등 관계기관은 청년들의 자산형성 기회를…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다.  - 프런티어 AI 보안위협 금융권 상황대응반 제6차 회의 개최",
+        "link": "https://www.fsc.go.kr/no010101/87727",
+        "summary": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다. - 프런티어 AI 보안위협 금융권 상황대응반 제6차 회의 개최- ▸ 최근 PG사 침해사고를 계기로 PG업권 보안 리스크·대응체계 점검 ▸ PG·카드사 등 관계기관 간 신속한 정보공유·협조를 통한 소비자 피해 예방 강조 ▸ AI를 활용한 보안역량 강화를 위해 추진중인 정부 정책 적극 참여 당부 ▸ PG업권 보안·소비자 보호 강화를 위한 제도개선 과제 적극 발굴·검토 [ 개요 ] ’ 26.9.16.(수) 금융위원회는…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "「국가 자금세탁·테러자금조달·확산금융방지 전략 및 정책 운영방향」 발표",
+        "link": "https://www.fsc.go.kr/no010101/87728",
+        "summary": "「국가 자금세탁·테러자금조달·확산금융방지 전략 및 정책 운영방향」 발표 5대 전략 하에 12개 추진 과제 를 충실히 이행 하여 국가 자금세탁·테러자금조달·확산금융방지 (AML/CFT/CPF) 시스템 을 선진화 하고, 국제자금세탁방지기구 (FATF) 의 상호평가 를 성공적으로 수검 하여 범죄로부터 안전한 국가 로 재도약 하겠습니다. 금융위원회 금융정보분석원 은 국내외 변화하는 자금세탁·테러자금조달· 확산금융 (AML/CFT/CPF) 환경 에 효과적으로 대응 하고, 2028년 예정된 자금…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발·통보 및 과징금 부과(4건)     - 제16차 증권선물위원회(9.16.) 의결",
+        "link": "https://www.fsc.go.kr/no010101/87729",
+        "summary": "내부자 등 미공개중요정보를 이용 한 행위자에 대한 검찰 고발·통보 및 과징금 부과 (4건) - 제16차 증권선물위원회(9.16.) 의결 - [ 조치개요 ] 증권선물위원회 는 제16차 정례회의( ’ 26.9.16.)에서, (1)공개매수예정회사의 임 직원 및 정보수령자, (2)신기술사업금융전문회사 경영진, (3)상장회사의 주 식 및 경영권 인수에 참여한 재무적 투자자, (4)제조 업체 주식 대량취득자의 대리인 등이 「자본시장과 금융투자업에 관한 법률」상 금지된 미공개중요정보 이용행위 (제174조)…"
       }
     ]
   }
