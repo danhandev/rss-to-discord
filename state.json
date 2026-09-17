@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33445",
-      "https://news.hada.io/topic?id=33446",
-      "https://news.hada.io/topic?id=33448",
-      "https://news.hada.io/topic?id=33449",
-      "https://news.hada.io/topic?id=33450",
       "https://news.hada.io/topic?id=33453",
       "https://news.hada.io/topic?id=33454",
       "https://news.hada.io/topic?id=33455",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33818",
       "https://news.hada.io/topic?id=33819",
       "https://news.hada.io/topic?id=33820",
-      "https://news.hada.io/topic?id=33821"
+      "https://news.hada.io/topic?id=33821",
+      "https://news.hada.io/topic?id=33824",
+      "https://news.hada.io/topic?id=33825",
+      "https://news.hada.io/topic?id=33827",
+      "https://news.hada.io/topic?id=33828",
+      "https://news.hada.io/topic?id=33831"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49617255",
-      "https://news.ycombinator.com/item?id=49617581",
-      "https://news.ycombinator.com/item?id=49546964",
-      "https://news.ycombinator.com/item?id=49575914",
-      "https://news.ycombinator.com/item?id=49579443",
       "https://news.ycombinator.com/item?id=49619227",
       "https://news.ycombinator.com/item?id=49622042",
       "https://news.ycombinator.com/item?id=49624394",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49724881",
       "https://news.ycombinator.com/item?id=49732513",
       "https://news.ycombinator.com/item?id=49732931",
-      "https://news.ycombinator.com/item?id=49734171"
+      "https://news.ycombinator.com/item?id=49734171",
+      "https://news.ycombinator.com/item?id=49700153",
+      "https://news.ycombinator.com/item?id=49711424",
+      "https://news.ycombinator.com/item?id=49733726",
+      "https://news.ycombinator.com/item?id=49734264",
+      "https://news.ycombinator.com/item?id=49735930"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1445,7 +1445,10 @@
       "CBMiWkFVX3lxTE81Z19NMkhmOFc1YXJKNllLczMzQlB0aFh1VlNCdDh2RHhuZHJ6T244bHd2ZzVhUXYzeHZYRHNONzJKY1N3Q1FfY0s2MlBIQVFxYm9vVXhPZkhNUQ",
       "CBMiWkFVX3lxTE04N2F4OEJHbjFzYl9TLTZMa2xVUmhOb3N1VjZxeElhUmRkaDkwRnQ5UnFaNFdHRWNWYVdOUUY1Z3FTRkN6cGlNTWdpcGNid1N3NHFONGF4TGxwQQ",
       "CBMiWkFVX3lxTE15TUhsamx5dmFHZlV2Qkc2cmoyWWwyRUpKVEJJdEk5Q3hNb1lfRWpOSC01aXZyQTNFYTJ4UjhLN0dRWW1XY1pRd0tpencxa3FTc01TZ2gwWHJoZw",
-      "CBMiVkFVX3lxTE5qcXhNLU1kNXNJdUx4RDZyNXAtclNpelRsQ3NWejVxMVB0bmwzRjU5UDdFSkJHOWxKR3NyOUZXb0dCTm55UENEVU9zYTNjOE56NW9GNXBn"
+      "CBMiVkFVX3lxTE5qcXhNLU1kNXNJdUx4RDZyNXAtclNpelRsQ3NWejVxMVB0bmwzRjU5UDdFSkJHOWxKR3NyOUZXb0dCTm55UENEVU9zYTNjOE56NW9GNXBn",
+      "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
+      "CBMiWkFVX3lxTE5TUzg5T196djBqcFFhaC1NRHZUYm5fVWhhYTdaVV9YZXpVOFhqVklfNHhpMWNmTzg2cGlPNjM1anJ1MmxDTFNLeHppV3puZlExb2lJY1JqQ1lsQQ",
+      "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw"
     ]
   },
   "pending": {
@@ -1538,6 +1541,24 @@
         "source": "요즘IT",
         "title": "지상 최강의 개발자 쥬니니 작가의 페이지",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qcXhNLU1kNXNJdUx4RDZyNXAtclNpelRsQ3NWejVxMVB0bmwzRjU5UDdFSkJHOWxKR3NyOUZXb0dCTm55UENEVU9zYTNjOE56NW9GNXBn?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 쓰는데 왜 생산성은 10%밖에 늘지 않을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "바이브코더를 위한 기초 보안 A to Z",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUzg5T196djBqcFFhaC1NRHZUYm5fVWhhYTdaVV9YZXpVOFhqVklfNHhpMWNmTzg2cGlPNjM1anJ1MmxDTFNLeHppV3puZlExb2lJY1JqQ1lsQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "손 코딩은 죽었는가?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw?oc=5",
         "summary": ""
       }
     ],
