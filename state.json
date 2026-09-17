@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33453",
-      "https://news.hada.io/topic?id=33454",
-      "https://news.hada.io/topic?id=33455",
-      "https://news.hada.io/topic?id=33456",
-      "https://news.hada.io/topic?id=33457",
       "https://news.hada.io/topic?id=33463",
       "https://news.hada.io/topic?id=33464",
       "https://news.hada.io/topic?id=33465",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33825",
       "https://news.hada.io/topic?id=33827",
       "https://news.hada.io/topic?id=33828",
-      "https://news.hada.io/topic?id=33831"
+      "https://news.hada.io/topic?id=33831",
+      "https://news.hada.io/topic?id=33837",
+      "https://news.hada.io/topic?id=33838",
+      "https://news.hada.io/topic?id=33840",
+      "https://news.hada.io/topic?id=33841",
+      "https://news.hada.io/topic?id=33842"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49619227",
-      "https://news.ycombinator.com/item?id=49622042",
-      "https://news.ycombinator.com/item?id=49624394",
-      "https://news.ycombinator.com/item?id=49624603",
-      "https://news.ycombinator.com/item?id=49624823",
       "https://news.ycombinator.com/item?id=49624856",
       "https://news.ycombinator.com/item?id=49626190",
       "https://news.ycombinator.com/item?id=49623754",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49711424",
       "https://news.ycombinator.com/item?id=49733726",
       "https://news.ycombinator.com/item?id=49734264",
-      "https://news.ycombinator.com/item?id=49735930"
+      "https://news.ycombinator.com/item?id=49735930",
+      "https://news.ycombinator.com/item?id=49737787",
+      "https://news.ycombinator.com/item?id=49737849",
+      "https://news.ycombinator.com/item?id=49737922",
+      "https://news.ycombinator.com/item?id=49738879",
+      "https://news.ycombinator.com/item?id=49740507"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -986,7 +986,12 @@
       "https://www.fsc.go.kr/no010101/87726",
       "https://www.fsc.go.kr/no010101/87727",
       "https://www.fsc.go.kr/no010101/87728",
-      "https://www.fsc.go.kr/no010101/87729"
+      "https://www.fsc.go.kr/no010101/87729",
+      "https://www.fsc.go.kr/no010101/87731",
+      "https://www.fsc.go.kr/no010101/87735",
+      "https://www.fsc.go.kr/no010101/87738",
+      "https://www.fsc.go.kr/no010101/87741",
+      "https://www.fsc.go.kr/no010101/87742"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1448,7 +1453,8 @@
       "CBMiVkFVX3lxTE5qcXhNLU1kNXNJdUx4RDZyNXAtclNpelRsQ3NWejVxMVB0bmwzRjU5UDdFSkJHOWxKR3NyOUZXb0dCTm55UENEVU9zYTNjOE56NW9GNXBn",
       "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
       "CBMiWkFVX3lxTE5TUzg5T196djBqcFFhaC1NRHZUYm5fVWhhYTdaVV9YZXpVOFhqVklfNHhpMWNmTzg2cGlPNjM1anJ1MmxDTFNLeHppV3puZlExb2lJY1JqQ1lsQQ",
-      "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw"
+      "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw",
+      "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw"
     ]
   },
   "pending": {
@@ -1560,6 +1566,12 @@
         "title": "손 코딩은 죽었는가?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "10분 만에 온톨로지(Ontology) 이해하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1628,6 +1640,36 @@
         "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발·통보 및 과징금 부과(4건)     - 제16차 증권선물위원회(9.16.) 의결",
         "link": "https://www.fsc.go.kr/no010101/87729",
         "summary": "내부자 등 미공개중요정보를 이용 한 행위자에 대한 검찰 고발·통보 및 과징금 부과 (4건) - 제16차 증권선물위원회(9.16.) 의결 - [ 조치개요 ] 증권선물위원회 는 제16차 정례회의( ’ 26.9.16.)에서, (1)공개매수예정회사의 임 직원 및 정보수령자, (2)신기술사업금융전문회사 경영진, (3)상장회사의 주 식 및 경영권 인수에 참여한 재무적 투자자, (4)제조 업체 주식 대량취득자의 대리인 등이 「자본시장과 금융투자업에 관한 법률」상 금지된 미공개중요정보 이용행위 (제174조)…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제16차 증권선물위원회(‘26.9.16.) 조치 의결",
+        "link": "https://www.fsc.go.kr/no010101/87731",
+        "summary": "사업보고서 등에 대한 조사·감리결과 조치 - 제16차 증권선물위원회(‘26.9.16.) 조치 의결 증 권선물위원회 (위원장: 권대영) 는 9월 16일 제16차 회의에서 , 회계처리기준을 위반 하여 재무제표를 작성·공시한 해태제과식품㈜ 에 대하여 감사인지정 등의 조치를 의결 하였습니다. ※ (붙임) 조사·감리결과 지적사항 및 조치내역"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "“투자자와 벤처기업, 전문가의 의견을 균형있게 청취하였습니다.”  - 신기술금융업권 제3자 연대책임 관련 간담회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87735",
+        "summary": "“ 투자자와 벤처기업, 전문가의 의견을 균형있게 청취하였습니다. ” - 신기술금융업권 제3자 연대책임 관련 간담회 개최 - I. 회의개요 ’ 26.9.16.(수) 금융위원회 김진홍 금융산업국장은 최근 부각된 신 기술금 융업계 의 연대책임 이슈 와 관련하여, 투자자의 책임 있는 투자 를 활성화하는 한편 창업·기술기업에 대한 원활한 자금공급 과 건전한 투자환경 을 조성하기 위해 간담회를 개최하였다. 아울러 투자기업에 과도한 부담을 초래할 수 있는 투자계약 관행 은 없는지 살펴보고, 투자활성화와…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "부실사업장 정상화를 통한 신속한 주택공급 권대영 금융위 부위원장, 캠코펀드 사업장 방문",
+        "link": "https://www.fsc.go.kr/no010101/87738",
+        "summary": "부실사업장 정상화를 통한 신속한 주택공급 권대영 금융위 부위원장, 캠코펀드 사업장 방문 ◈ 캠코 ｢ PF사업장 정상화 지원펀드 ｣를 통해 부실사업장 을 정상화 하여 원활한 사업 이 진행 되고 있는 사업장 방문 및 현장간담회 진행 ㅇ 해당 사업장은 금리인상 및 공사비 상승 등으로 사업중단 위기 에 처했으나, 캠코펀드 투자 이후 용도변경 (도시형생활주택→아파트) , 시공사 선정 등 재구조화 를 거쳐 정상화 되어 ’28.12월 준공예정 (178호 공급) ◈ 신속한 주택공급 을 위해 이미 사업의 틀 을…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "청소년에서 군 장병까지, 도박문제 예방·치유 안전망 확대",
+        "link": "https://www.fsc.go.kr/no010101/87741",
+        "summary": "청소년에서 군 장병까지, 도박문제 예방·치유 안전망 확대 - 제18회 도박중독 추방의 날 기념식 개최 - 사감위·국방부·금융위·금감원·예방치유원, 군 장병 도박문제 공동 대응 - 예방교육부터 조기발견, 상담·치유, 금융·채무 지원까지 기관 간 연계 강화 사행산업통합감독위원회(위원장 최병환, 이하 ‘사감위’)는 9월 17일 서울 국립중앙도서관 국제회의장에서 ‘제18회 도박중독 추방의 날 기념식’을 개최하고, 관계기관과 함께 군 장병 도박문제 예방과 치유·회복을 위한 협력체계를 구축했다. 사감위는…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "국민성장펀드에 더 많은 전문가들이 참여하여의사결정의 객관성과 투명성을 강화합니다. - 9월 기금운용심의회, 약 1조원 규모 5건 사업도 함께 승인의결",
+        "link": "https://www.fsc.go.kr/no010101/87742",
+        "summary": "국민성장펀드에 더 많은 전문가들이 참여하여 의사결정의 객관성과 투명성을 강화합니다. - 9월 기금운용심의회, 약 1조원 규모 5건 사업도 함께 승인의결 • 국민성장펀드 리스크관리위원회·사후관리위원회 를 신설, 10월부터 본격 가동 ㅇ 외부 전문가 및 산업은행 전문가로 이뤄진 리스크관리위원회를 통해 리스크 요인 사전 심의, 사후관리위원회 는 승인 이후 집행 및 자금회수 등 검토 ㅇ 국민성장펀드에 대한 관심 증가, 외형확대에 걸맞는 객관성·투명성 제고 • 기금운용심의회 는 ‘ 야월해상풍력 발전사업…"
       }
     ]
   }
