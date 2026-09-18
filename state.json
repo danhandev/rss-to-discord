@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33496",
-      "https://news.hada.io/topic?id=33497",
-      "https://news.hada.io/topic?id=33498",
-      "https://news.hada.io/topic?id=33499",
-      "https://news.hada.io/topic?id=33500",
       "https://news.hada.io/topic?id=33510",
       "https://news.hada.io/topic?id=33511",
       "https://news.hada.io/topic?id=33512",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33880",
       "https://news.hada.io/topic?id=33881",
       "https://news.hada.io/topic?id=33884",
-      "https://news.hada.io/topic?id=33885"
+      "https://news.hada.io/topic?id=33885",
+      "https://news.hada.io/topic?id=33890",
+      "https://news.hada.io/topic?id=33891",
+      "https://news.hada.io/topic?id=33892",
+      "https://news.hada.io/topic?id=33893",
+      "https://news.hada.io/topic?id=33894"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49638353",
-      "https://news.ycombinator.com/item?id=49639090",
-      "https://news.ycombinator.com/item?id=49599992",
-      "https://news.ycombinator.com/item?id=49623398",
-      "https://news.ycombinator.com/item?id=49640646",
       "https://news.ycombinator.com/item?id=49641215",
       "https://news.ycombinator.com/item?id=49643982",
       "https://news.ycombinator.com/item?id=49645437",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49747925",
       "https://news.ycombinator.com/item?id=49749656",
       "https://news.ycombinator.com/item?id=49750094",
-      "https://news.ycombinator.com/item?id=49750152"
+      "https://news.ycombinator.com/item?id=49750152",
+      "https://news.ycombinator.com/item?id=49752056",
+      "https://news.ycombinator.com/item?id=49752422",
+      "https://news.ycombinator.com/item?id=49752614",
+      "https://news.ycombinator.com/item?id=49753179",
+      "https://news.ycombinator.com/item?id=49753211"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -995,7 +995,8 @@
       "https://www.fsc.go.kr/no010101/87735",
       "https://www.fsc.go.kr/no010101/87738",
       "https://www.fsc.go.kr/no010101/87741",
-      "https://www.fsc.go.kr/no010101/87742"
+      "https://www.fsc.go.kr/no010101/87742",
+      "https://www.fsc.go.kr/no010101/87745"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1114,7 +1115,8 @@
       "CBMiTEFVX3lxTE5WODNaTFNvTFZSSlRtUFBJSEN6X2dyUkhnSGJGMENwU3BRQ3BTd3hCeFdESVNqN21yYnlsWEpkMU11M2hnQVJjVG0wRmg",
       "CBMiTEFVX3lxTE5BN2ktazdxbWFxUDFnRUhJRVZXTHdmcVVyZ3Z6RnBHTmEtMVlnaHdVS3cwVlNRMTNHYlpEWnZ6c2o0VDNaRzZkNnN3bHU",
       "CBMiS0FVX3lxTE84elo4bGd2NGhKMkRONVNDVm4zdmRxbWlXR1dmVzFCZTREYWFZVXFFQkNGWVNxbzN0UEJhUmttaXFWRURSY3RPSU5WYw",
-      "CBMiS0FVX3lxTE44TU1RUTlXWHUxb2QwcFNPTXpCOVNEU19XaTlpNUgtRHh2T1dycGQzeVZpTmVRb25ZSjBTdEg1bDh2Ym9LMHVHdkk5NA"
+      "CBMiS0FVX3lxTE44TU1RUTlXWHUxb2QwcFNPTXpCOVNEU19XaTlpNUgtRHh2T1dycGQzeVZpTmVRb25ZSjBTdEg1bDh2Ym9LMHVHdkk5NA",
+      "CBMiTEFVX3lxTE9xLUVhZVBqYm4wakQ2QVZSOEFtMVViWlI4a1lUQmVhNkZ5eVdaQ0pRYS1kR0cxenVBMXpqWHhvMEFnandDd2lCUU5LNUc"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1461,7 +1463,8 @@
       "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw",
       "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw",
       "CBMiWkFVX3lxTE1Zc28tYnR2dUtQenhoWGh5VFBlLUNId25QdG8tYllkYzJxaGotT1VqcmJDbnVsYW9QUFdxSnB1NG9PR2hOYlNQWVlySDZnX0w5alpQMXRuZUdzUQ",
-      "CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ"
+      "CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ",
+      "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ"
     ]
   },
   "pending": {
@@ -1621,6 +1624,18 @@
         "title": "AI 시대에 진짜 사진임을 증명하는 애플의 기술",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "한 번 성공하니 다음도 쉬울 줄 알았다: 최소주문금액바 4번의 A/B실험",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xLUVhZVBqYm4wakQ2QVZSOEFtMVViWlI4a1lUQmVhNkZ5eVdaQ0pRYS1kR0cxenVBMXpqWHhvMEFnandDd2lCUU5LNUc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "중소·중견 AX는 만든 사람이 떠난 뒤에 시작된다 (위시켓 AIDP FDE)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1719,6 +1734,12 @@
         "title": "국민성장펀드에 더 많은 전문가들이 참여하여의사결정의 객관성과 투명성을 강화합니다. - 9월 기금운용심의회, 약 1조원 규모 5건 사업도 함께 승인의결",
         "link": "https://www.fsc.go.kr/no010101/87742",
         "summary": "국민성장펀드에 더 많은 전문가들이 참여하여 의사결정의 객관성과 투명성을 강화합니다. - 9월 기금운용심의회, 약 1조원 규모 5건 사업도 함께 승인의결 • 국민성장펀드 리스크관리위원회·사후관리위원회 를 신설, 10월부터 본격 가동 ㅇ 외부 전문가 및 산업은행 전문가로 이뤄진 리스크관리위원회를 통해 리스크 요인 사전 심의, 사후관리위원회 는 승인 이후 집행 및 자금회수 등 검토 ㅇ 국민성장펀드에 대한 관심 증가, 외형확대에 걸맞는 객관성·투명성 제고 • 기금운용심의회 는 ‘ 야월해상풍력 발전사업…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융정보분석원, 타지키스탄 국립은행과  정보교환 협력을 위한 양해각서(MOU) 체결",
+        "link": "https://www.fsc.go.kr/no010101/87745",
+        "summary": "금융정보분석원, 타지키스탄 국립은행과 정보교환 협력을 위한 양해각서(MOU) 체결 “한-타지키스탄 간 의심거래정보 교환을 통해 국경을 넘는 자금세탁·불법자금 흐름에 대한 공동 대응 역량을 강화한다.” 금융위원회 금융정보분석원 은 9월 17일 (목) 정부서울청사에서 타지키스탄 국립은행 산하 금융모니터링국 (FIU) 과 자금세탁방지 및 테러자금조달 대응을 위한 금융정보교환 협력 양해 각서 (MOU) 를 체결 하였다고 밝혔다. 이번 MOU 체결 은 한-중앙아시아 정상회담 계기 에 추진된 것 으로,…"
       }
     ]
   }
