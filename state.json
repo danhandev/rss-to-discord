@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33562",
-      "https://news.hada.io/topic?id=33563",
-      "https://news.hada.io/topic?id=33569",
-      "https://news.hada.io/topic?id=33571",
-      "https://news.hada.io/topic?id=33573",
       "https://news.hada.io/topic?id=33576",
       "https://news.hada.io/topic?id=33577",
       "https://news.hada.io/topic?id=33578",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=33936",
       "https://news.hada.io/topic?id=33943",
       "https://news.hada.io/topic?id=33944",
-      "https://news.hada.io/topic?id=33945"
+      "https://news.hada.io/topic?id=33945",
+      "https://news.hada.io/topic?id=33949",
+      "https://news.hada.io/topic?id=33950",
+      "https://news.hada.io/topic?id=33951",
+      "https://news.hada.io/topic?id=33952",
+      "https://news.hada.io/topic?id=33953"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49663373",
-      "https://news.ycombinator.com/item?id=49662020",
-      "https://news.ycombinator.com/item?id=49662214",
-      "https://news.ycombinator.com/item?id=49662767",
-      "https://news.ycombinator.com/item?id=49663054",
       "https://news.ycombinator.com/item?id=49666735",
       "https://news.ycombinator.com/item?id=49649789",
       "https://news.ycombinator.com/item?id=49652105",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49734131",
       "https://news.ycombinator.com/item?id=49744704",
       "https://news.ycombinator.com/item?id=49762687",
-      "https://news.ycombinator.com/item?id=49766637"
+      "https://news.ycombinator.com/item?id=49766637",
+      "https://news.ycombinator.com/item?id=49720143",
+      "https://news.ycombinator.com/item?id=49734467",
+      "https://news.ycombinator.com/item?id=49766611",
+      "https://news.ycombinator.com/item?id=49766676",
+      "https://news.ycombinator.com/item?id=49767937"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1464,7 +1464,8 @@
       "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw",
       "CBMiWkFVX3lxTE1Zc28tYnR2dUtQenhoWGh5VFBlLUNId25QdG8tYllkYzJxaGotT1VqcmJDbnVsYW9QUFdxSnB1NG9PR2hOYlNQWVlySDZnX0w5alpQMXRuZUdzUQ",
       "CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ",
-      "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ"
+      "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ",
+      "CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ"
     ]
   },
   "pending": {
@@ -1635,6 +1636,12 @@
         "source": "요즘IT",
         "title": "중소·중견 AX는 만든 사람이 떠난 뒤에 시작된다 (위시켓 AIDP FDE)",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "핀테크 앱 UX 분석: 1자산 연결",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ?oc=5",
         "summary": ""
       }
     ],
