@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33605",
-      "https://news.hada.io/topic?id=33606",
-      "https://news.hada.io/topic?id=33607",
-      "https://news.hada.io/topic?id=33608",
-      "https://news.hada.io/topic?id=33609",
       "https://news.hada.io/topic?id=33603",
       "https://news.hada.io/topic?id=33604",
       "https://news.hada.io/topic?id=33611",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=33998",
       "https://news.hada.io/topic?id=33999",
       "https://news.hada.io/topic?id=34000",
-      "https://news.hada.io/topic?id=34001"
+      "https://news.hada.io/topic?id=34001",
+      "https://news.hada.io/topic?id=34005",
+      "https://news.hada.io/topic?id=34006",
+      "https://news.hada.io/topic?id=34007",
+      "https://news.hada.io/topic?id=34009",
+      "https://news.hada.io/topic?id=34010"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49601138",
-      "https://news.ycombinator.com/item?id=49622406",
-      "https://news.ycombinator.com/item?id=49624456",
-      "https://news.ycombinator.com/item?id=49668777",
       "https://news.ycombinator.com/item?id=49665502",
       "https://news.ycombinator.com/item?id=49672510",
       "https://news.ycombinator.com/item?id=49673098",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=49771966",
       "https://news.ycombinator.com/item?id=49735159",
       "https://news.ycombinator.com/item?id=49767242",
-      "https://news.ycombinator.com/item?id=49774329"
+      "https://news.ycombinator.com/item?id=49774329",
+      "https://news.ycombinator.com/item?id=49772532",
+      "https://news.ycombinator.com/item?id=49772677",
+      "https://news.ycombinator.com/item?id=49775499",
+      "https://news.ycombinator.com/item?id=49776699"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1466,7 +1466,8 @@
       "CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ",
       "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ",
       "CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ",
-      "CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ"
+      "CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ",
+      "CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ"
     ]
   },
   "pending": {
@@ -1649,6 +1650,12 @@
         "source": "요즘IT",
         "title": "SI 회사는 가면 안되나요?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "비개발자가 클로드 코드로 업무 생산성 10배 늘린 방법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ?oc=5",
         "summary": ""
       }
     ],
