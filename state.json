@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33598",
-      "https://news.hada.io/topic?id=33599",
-      "https://news.hada.io/topic?id=33600",
-      "https://news.hada.io/topic?id=33601",
-      "https://news.hada.io/topic?id=33602",
       "https://news.hada.io/topic?id=33605",
       "https://news.hada.io/topic?id=33606",
       "https://news.hada.io/topic?id=33607",
@@ -200,12 +195,14 @@
       "https://news.hada.io/topic?id=33986",
       "https://news.hada.io/topic?id=33987",
       "https://news.hada.io/topic?id=33988",
-      "https://news.hada.io/topic?id=33989"
+      "https://news.hada.io/topic?id=33989",
+      "https://news.hada.io/topic?id=33997",
+      "https://news.hada.io/topic?id=33998",
+      "https://news.hada.io/topic?id=33999",
+      "https://news.hada.io/topic?id=34000",
+      "https://news.hada.io/topic?id=34001"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49670032",
-      "https://news.ycombinator.com/item?id=49671329",
-      "https://news.ycombinator.com/item?id=49595505",
       "https://news.ycombinator.com/item?id=49601138",
       "https://news.ycombinator.com/item?id=49622406",
       "https://news.ycombinator.com/item?id=49624456",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=49768833",
       "https://news.ycombinator.com/item?id=49769944",
       "https://news.ycombinator.com/item?id=49770256",
-      "https://news.ycombinator.com/item?id=49771966"
+      "https://news.ycombinator.com/item?id=49771966",
+      "https://news.ycombinator.com/item?id=49735159",
+      "https://news.ycombinator.com/item?id=49767242",
+      "https://news.ycombinator.com/item?id=49774329"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1465,7 +1465,8 @@
       "CBMiWkFVX3lxTE1Zc28tYnR2dUtQenhoWGh5VFBlLUNId25QdG8tYllkYzJxaGotT1VqcmJDbnVsYW9QUFdxSnB1NG9PR2hOYlNQWVlySDZnX0w5alpQMXRuZUdzUQ",
       "CBMiWkFVX3lxTE5Yek1Wa3M5b3lfaUlaalhIMVloNXJUMWVoWmZiYmdkY0FUMFNGcVB0TDdCVVlsRWs5MmRvemZrUU1QQm9BRHZpN2NQRlpKUUZramRMMVRPZGF6QQ",
       "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ",
-      "CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ"
+      "CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ",
+      "CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ"
     ]
   },
   "pending": {
@@ -1642,6 +1643,12 @@
         "source": "요즘IT",
         "title": "핀테크 앱 UX 분석: 1자산 연결",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "SI 회사는 가면 안되나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ?oc=5",
         "summary": ""
       }
     ],
