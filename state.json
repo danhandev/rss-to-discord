@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33603",
-      "https://news.hada.io/topic?id=33604",
-      "https://news.hada.io/topic?id=33611",
-      "https://news.hada.io/topic?id=33612",
-      "https://news.hada.io/topic?id=33613",
       "https://news.hada.io/topic?id=33620",
       "https://news.hada.io/topic?id=33621",
       "https://news.hada.io/topic?id=33622",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34006",
       "https://news.hada.io/topic?id=34007",
       "https://news.hada.io/topic?id=34009",
-      "https://news.hada.io/topic?id=34010"
+      "https://news.hada.io/topic?id=34010",
+      "https://news.hada.io/topic?id=34002",
+      "https://news.hada.io/topic?id=34003",
+      "https://news.hada.io/topic?id=34004",
+      "https://news.hada.io/topic?id=34011",
+      "https://news.hada.io/topic?id=34012"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49665502",
-      "https://news.ycombinator.com/item?id=49672510",
-      "https://news.ycombinator.com/item?id=49673098",
-      "https://news.ycombinator.com/item?id=49674050",
-      "https://news.ycombinator.com/item?id=49676085",
       "https://news.ycombinator.com/item?id=49625056",
       "https://news.ycombinator.com/item?id=49645480",
       "https://news.ycombinator.com/item?id=49675902",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49772532",
       "https://news.ycombinator.com/item?id=49772677",
       "https://news.ycombinator.com/item?id=49775499",
-      "https://news.ycombinator.com/item?id=49776699"
+      "https://news.ycombinator.com/item?id=49776699",
+      "https://news.ycombinator.com/item?id=49775082",
+      "https://news.ycombinator.com/item?id=49776627",
+      "https://news.ycombinator.com/item?id=49776717",
+      "https://news.ycombinator.com/item?id=49776729",
+      "https://news.ycombinator.com/item?id=49778029"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1467,7 +1467,8 @@
       "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ",
       "CBMiWkFVX3lxTE1iYUNfX0NRYndUeUVKdjNwMDc2ajdoY0JHcm9CckVMWEdZdU5NY040anA1ZEtJSEJVZHJvcHpQVG4wUUhYcXpkRnJHQUFMVlNVSHh3bEk1emdLQQ",
       "CBMiWkFVX3lxTE1UWGNjME1GcXBTUktzb1N0aDlvQjBXbzUzQWlEN0d6d0hBMUdMRl9Cd3hFQk1oTGM2U3ZwUlpUTDlUQ3RYeWtBQVlpREtaWTl6LWVqYUUxMnBFUQ",
-      "CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ"
+      "CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ",
+      "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw"
     ]
   },
   "pending": {
@@ -1656,6 +1657,12 @@
         "source": "요즘IT",
         "title": "비개발자가 클로드 코드로 업무 생산성 10배 늘린 방법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.”",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw?oc=5",
         "summary": ""
       }
     ],
