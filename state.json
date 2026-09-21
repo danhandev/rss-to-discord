@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33661",
-      "https://news.hada.io/topic?id=33662",
-      "https://news.hada.io/topic?id=33664",
-      "https://news.hada.io/topic?id=33665",
-      "https://news.hada.io/topic?id=33667",
       "https://news.hada.io/topic?id=33652",
       "https://news.hada.io/topic?id=33658",
       "https://news.hada.io/topic?id=33659",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34038",
       "https://news.hada.io/topic?id=34039",
       "https://news.hada.io/topic?id=34049",
-      "https://news.hada.io/topic?id=34050"
+      "https://news.hada.io/topic?id=34050",
+      "https://news.hada.io/topic?id=34058",
+      "https://news.hada.io/topic?id=34059",
+      "https://news.hada.io/topic?id=34060",
+      "https://news.hada.io/topic?id=34061",
+      "https://news.hada.io/topic?id=34062"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49677450",
-      "https://news.ycombinator.com/item?id=49681152",
-      "https://news.ycombinator.com/item?id=49681545",
-      "https://news.ycombinator.com/item?id=49682319",
-      "https://news.ycombinator.com/item?id=49640913",
       "https://news.ycombinator.com/item?id=49679643",
       "https://news.ycombinator.com/item?id=49683262",
       "https://news.ycombinator.com/item?id=49684393",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49775104",
       "https://news.ycombinator.com/item?id=49777467",
       "https://news.ycombinator.com/item?id=49778162",
-      "https://news.ycombinator.com/item?id=49778195"
+      "https://news.ycombinator.com/item?id=49778195",
+      "https://news.ycombinator.com/item?id=49771218",
+      "https://news.ycombinator.com/item?id=49772961",
+      "https://news.ycombinator.com/item?id=49778022",
+      "https://news.ycombinator.com/item?id=49779329",
+      "https://news.ycombinator.com/item?id=49783495"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -996,7 +996,10 @@
       "https://www.fsc.go.kr/no010101/87738",
       "https://www.fsc.go.kr/no010101/87741",
       "https://www.fsc.go.kr/no010101/87742",
-      "https://www.fsc.go.kr/no010101/87745"
+      "https://www.fsc.go.kr/no010101/87745",
+      "https://www.fsc.go.kr/no010101/87751",
+      "https://www.fsc.go.kr/no010101/87752",
+      "https://www.fsc.go.kr/no010101/87753"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1475,6 +1478,25 @@
   },
   "pending": {
     "weekly-tech": [],
-    "weekly-finance": []
+    "weekly-finance": [
+      {
+        "source": "금융위 보도자료",
+        "title": "정책금융이 스타트업과 소상공인을 더욱 든든히 지원하겠습니다.    - 제14차 정책금융지원협의회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87751",
+        "summary": "정책금융이 스타트업과 소상공인을 더욱 든든히 지원하겠습니다. - 제14차 정책금융지원협의회 개최 - ◇ 신용보증기금-중소기업은행 간 ｢초기 혁신스타트업 성장사다리 구축 MOU｣ 체결 및 ｢스타트업 빌드업 프로그램｣ 출시 ㅇ 기술력과 성장성 있는 초기 스타트업 에 대한 정책금융기관 보증 문턱 을 낮춘 “스타트업 빌드업 프로그램” 을 출시 하여 창업 초기자금 확보 지원 ◇ 이후 관계부처 및 정책금융기관이 참여하는 제14차 정책금융지원협의회 를 통해 스타트업‧소상공인‧중소기업 지원방안 을 논의 ㅇ…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "「미리 만나는 2027 금융위 청년 사업」 행사 개최",
+        "link": "https://www.fsc.go.kr/no010101/87752",
+        "summary": "「미리 만나는 2027 금융위 청년 사업」 행사 개최  이억원 금융위원장 , 한양대에서 청년들과 마주앉아 2027년 금융위 청년 사업 을 소개 하고, 현장 청년 들의 생생한 목소리 를 청취  청년의 성장단계 에 따라 자산형성, 취·창업, 주거 등 다양한 분야 에 걸친 금융 사다리 를 구축 하여, 촘촘 하게 지원  청년 대표 단체 와 사업 대상 청년 등이 참여하는 ‘ 가칭 청년 금융정책 자문단’ 을 구성 하여 정책 전 과정 에서 청년 의 의견 을 수렴 Ⅰ. 행사 개요 금융위원회 (이하…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "이억원 금융위원장, 추석 맞이 전통시장 방문",
+        "link": "https://www.fsc.go.kr/no010101/87753",
+        "summary": "이억원 금융위원장, 추석 맞이 전통시장 방문 - 종로구 통인시장을 방문하여 자영업자·소상공인 애로사항 청취 및 격려 - 지속가능한 맞춤형 소상공인 금융지원 방안 등을 통한 정책적 노력 지속 이억원 금융위원장 은 ’26.9.21.(월) 추석 명절 을 앞두고 전통시장 (종로구 통인시장)을 방문해 민생현장 을 살폈다. 이 위원장은 고기, 한과, 송편 등을 구입하며, 시장상인 들로부터 최근 전통시장 경기 와 애로사항 을 청취 하였다. 현장에서 시장상인 등 소상공인 부담 을 경감 하기 위해 금융위가…"
+      }
+    ]
   }
 }
