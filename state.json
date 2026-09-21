@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33652",
-      "https://news.hada.io/topic?id=33658",
-      "https://news.hada.io/topic?id=33659",
-      "https://news.hada.io/topic?id=33660",
-      "https://news.hada.io/topic?id=33670",
       "https://news.hada.io/topic?id=33680",
       "https://news.hada.io/topic?id=33681",
       "https://news.hada.io/topic?id=33682",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34059",
       "https://news.hada.io/topic?id=34060",
       "https://news.hada.io/topic?id=34061",
-      "https://news.hada.io/topic?id=34062"
+      "https://news.hada.io/topic?id=34062",
+      "https://news.hada.io/topic?id=34069",
+      "https://news.hada.io/topic?id=34070",
+      "https://news.hada.io/topic?id=34071",
+      "https://news.hada.io/topic?id=34072",
+      "https://news.hada.io/topic?id=34073"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49679643",
-      "https://news.ycombinator.com/item?id=49683262",
-      "https://news.ycombinator.com/item?id=49684393",
-      "https://news.ycombinator.com/item?id=49685253",
-      "https://news.ycombinator.com/item?id=49684356",
       "https://news.ycombinator.com/item?id=49686445",
       "https://news.ycombinator.com/item?id=49686697",
       "https://news.ycombinator.com/item?id=49686766",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49772961",
       "https://news.ycombinator.com/item?id=49778022",
       "https://news.ycombinator.com/item?id=49779329",
-      "https://news.ycombinator.com/item?id=49783495"
+      "https://news.ycombinator.com/item?id=49783495",
+      "https://news.ycombinator.com/item?id=49784336",
+      "https://news.ycombinator.com/item?id=49784706",
+      "https://news.ycombinator.com/item?id=49787436",
+      "https://news.ycombinator.com/item?id=49787523",
+      "https://news.ycombinator.com/item?id=49787767"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -449,7 +449,8 @@
       "https://toss.tech/article/52999",
       "https://toss.tech/article/gpu-native-cluster",
       "https://toss.tech/article/toss-benchmark",
-      "https://toss.tech/article/lockbank"
+      "https://toss.tech/article/lockbank",
+      "https://toss.tech/article/remittance_transfer"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1119,7 +1120,8 @@
       "CBMiTEFVX3lxTE5BN2ktazdxbWFxUDFnRUhJRVZXTHdmcVVyZ3Z6RnBHTmEtMVlnaHdVS3cwVlNRMTNHYlpEWnZ6c2o0VDNaRzZkNnN3bHU",
       "CBMiS0FVX3lxTE84elo4bGd2NGhKMkRONVNDVm4zdmRxbWlXR1dmVzFCZTREYWFZVXFFQkNGWVNxbzN0UEJhUmttaXFWRURSY3RPSU5WYw",
       "CBMiS0FVX3lxTE44TU1RUTlXWHUxb2QwcFNPTXpCOVNEU19XaTlpNUgtRHh2T1dycGQzeVZpTmVRb25ZSjBTdEg1bDh2Ym9LMHVHdkk5NA",
-      "CBMiTEFVX3lxTE9xLUVhZVBqYm4wakQ2QVZSOEFtMVViWlI4a1lUQmVhNkZ5eVdaQ0pRYS1kR0cxenVBMXpqWHhvMEFnandDd2lCUU5LNUc"
+      "CBMiTEFVX3lxTE9xLUVhZVBqYm4wakQ2QVZSOEFtMVViWlI4a1lUQmVhNkZ5eVdaQ0pRYS1kR0cxenVBMXpqWHhvMEFnandDd2lCUU5LNUc",
+      "CBMiS0FVX3lxTE03RDZqbjBTSTVKMWM4Rk9oempzY1Q3SDFIVS0xdGlaZXBuWlBDQ2c2YVhiUjFYNElNWnByU2pfQ1c3TGJTYndEVE0xRQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1473,11 +1475,38 @@
       "CBMiWkFVX3lxTE9YZ0hDTldkeXFKcTVkRWctSlAyYTdjc2IxR0xLRHZXUEtkcmJGSHNTYmwtRERIN0d6OXBObjBGdU11UUdxeFRDck1ZQThEb3VhdWFlcFl4LU5vQQ",
       "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw",
       "CBMiWkFVX3lxTE9ueThnLUlQWGdJc3VSZ3RPTWhHWmlfcDZncEM2YWcwclhkcHlWMXZ1WWpoYVFHVzMwTG5ScGVxYTFXZnJFR1FlX2xzNG5nWlJGYzlxWk1UYXl5UQ",
-      "CBMiWkFVX3lxTE5lQVpESTFGOU9QTk9mQUZwQWRyblBKQjcyZmZXWjVpQnhHMVdyQXNFY1BDdzFiVzczN2ZzZjNIMWhoOGlKMVFmMWl4dmNJZWhZeXFRdEo2bE1uZw"
+      "CBMiWkFVX3lxTE5lQVpESTFGOU9QTk9mQUZwQWRyblBKQjcyZmZXWjVpQnhHMVdyQXNFY1BDdzFiVzczN2ZzZjNIMWhoOGlKMVFmMWl4dmNJZWhZeXFRdEo2bE1uZw",
+      "CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw",
+      "CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "토스테크",
+        "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+        "link": "https://toss.tech/article/remittance_transfer",
+        "summary": "은행 지식이 없던 디자이너가 규제가 가득한 도메인에서 어떻게 팀의 기준을 바꿨는지 이야기해 보려고 해요."
+      },
+      {
+        "source": "우아한형제들",
+        "title": "aop를 이용한 oauth2 캐시 적용하기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03RDZqbjBTSTVKMWM4Rk9oempzY1Q3SDFIVS0xdGlaZXBuWlBDQ2c2YVhiUjFYNElNWnByU2pfQ1c3TGJTYndEVE0xRQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자는 ChatGPT 이렇게 활용하면 좋습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "탐욕 알고리즘과 허프만 코딩 구현 방법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": [
       {
         "source": "금융위 보도자료",
