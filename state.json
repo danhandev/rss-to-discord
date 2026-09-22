@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33711",
-      "https://news.hada.io/topic?id=33712",
-      "https://news.hada.io/topic?id=33713",
-      "https://news.hada.io/topic?id=33714",
-      "https://news.hada.io/topic?id=33715",
       "https://news.hada.io/topic?id=33721",
       "https://news.hada.io/topic?id=33723",
       "https://news.hada.io/topic?id=33724",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34105",
       "https://news.hada.io/topic?id=34106",
       "https://news.hada.io/topic?id=34109",
-      "https://news.hada.io/topic?id=34111"
+      "https://news.hada.io/topic?id=34111",
+      "https://news.hada.io/topic?id=34115",
+      "https://news.hada.io/topic?id=34116",
+      "https://news.hada.io/topic?id=34118",
+      "https://news.hada.io/topic?id=34119",
+      "https://news.hada.io/topic?id=34120"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49691343",
-      "https://news.ycombinator.com/item?id=49693610",
-      "https://news.ycombinator.com/item?id=49693613",
-      "https://news.ycombinator.com/item?id=49695409",
-      "https://news.ycombinator.com/item?id=49695829",
       "https://news.ycombinator.com/item?id=49696125",
       "https://news.ycombinator.com/item?id=49699159",
       "https://news.ycombinator.com/item?id=49699297",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49791125",
       "https://news.ycombinator.com/item?id=49791647",
       "https://news.ycombinator.com/item?id=49791997",
-      "https://news.ycombinator.com/item?id=49794615"
+      "https://news.ycombinator.com/item?id=49794615",
+      "https://news.ycombinator.com/item?id=49796660",
+      "https://news.ycombinator.com/item?id=49797323",
+      "https://news.ycombinator.com/item?id=49797982",
+      "https://news.ycombinator.com/item?id=49798204",
+      "https://news.ycombinator.com/item?id=49799083"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -451,7 +451,8 @@
       "https://toss.tech/article/toss-benchmark",
       "https://toss.tech/article/lockbank",
       "https://toss.tech/article/remittance_transfer",
-      "https://toss.tech/article/toss-doctor"
+      "https://toss.tech/article/toss-doctor",
+      "https://toss.tech/article/asset_management"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1001,7 +1002,8 @@
       "https://www.fsc.go.kr/no010101/87745",
       "https://www.fsc.go.kr/no010101/87751",
       "https://www.fsc.go.kr/no010101/87752",
-      "https://www.fsc.go.kr/no010101/87753"
+      "https://www.fsc.go.kr/no010101/87753",
+      "https://www.fsc.go.kr/no010101/87766"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1279,7 +1281,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
       "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw",
       "CBMiWkFVX3lxTFBXVEVPczBnOVJ2MlppQlgyWk1BYnNhSDJibDljaEl3TmRkT2NDbGdlN243X01PRUxkZzRXVTRNNUQyYnV6R2V1blppTFFRUXlrdi1MWTRlaV8ydw",
       "CBMiWkFVX3lxTE9BYzN4MUc2dk9CZy01VnB3RjZyejVGRXUyb1A5VjJzc3hadGhPN081MXd4NjAxS0YwbWV2cTROUlFnMHY5N0NRbDQtWkhwcGR1OG5SeEJabzktZw",
@@ -1478,7 +1479,8 @@
       "CBMiWkFVX3lxTE9ueThnLUlQWGdJc3VSZ3RPTWhHWmlfcDZncEM2YWcwclhkcHlWMXZ1WWpoYVFHVzMwTG5ScGVxYTFXZnJFR1FlX2xzNG5nWlJGYzlxWk1UYXl5UQ",
       "CBMiWkFVX3lxTE5lQVpESTFGOU9QTk9mQUZwQWRyblBKQjcyZmZXWjVpQnhHMVdyQXNFY1BDdzFiVzczN2ZzZjNIMWhoOGlKMVFmMWl4dmNJZWhZeXFRdEo2bE1uZw",
       "CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw",
-      "CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw"
+      "CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw",
+      "CBMiWkFVX3lxTE5wczZVdXhZbDJIOEpSY2pJd25hSlg4MnhGc01jLWFUVmRua2x0QTgyb0paU0ZwY2NhTXh3Qm80N3JtUUsxRkRzZTI5bXV0R19QbHpvQVRVbzQ2QQ"
     ]
   },
   "pending": {
@@ -1512,6 +1514,18 @@
         "title": "쉼 없이 도는 테스트, 사람이 어디까지 돌봐야 할까요? - 토스닥터(Toss Doctor)",
         "link": "https://toss.tech/article/toss-doctor",
         "summary": "스스로 만들고 고치는 자동화, 토스닥터 V2를 다시 만든 이야기"
+      },
+      {
+        "source": "토스테크",
+        "title": "방해하지 않고, 눈에 띌 수 있을까",
+        "link": "https://toss.tech/article/asset_management",
+        "summary": "CVR을 3배 높이면서도 사용자 경험을 놓치지 않기 위해 고민한 과정을 들려드려요."
+      },
+      {
+        "source": "요즘IT",
+        "title": "돈 걱정 않고 AI 쓴다면: 월 30만 원부터 시작하는 AI 구독 가이드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wczZVdXhZbDJIOEpSY2pJd25hSlg4MnhGc01jLWFUVmRua2x0QTgyb0paU0ZwY2NhTXh3Qm80N3JtUUsxRkRzZTI5bXV0R19QbHpvQVRVbzQ2QQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1532,6 +1546,12 @@
         "title": "이억원 금융위원장, 추석 맞이 전통시장 방문",
         "link": "https://www.fsc.go.kr/no010101/87753",
         "summary": "이억원 금융위원장, 추석 맞이 전통시장 방문 - 종로구 통인시장을 방문하여 자영업자·소상공인 애로사항 청취 및 격려 - 지속가능한 맞춤형 소상공인 금융지원 방안 등을 통한 정책적 노력 지속 이억원 금융위원장 은 ’26.9.21.(월) 추석 명절 을 앞두고 전통시장 (종로구 통인시장)을 방문해 민생현장 을 살폈다. 이 위원장은 고기, 한과, 송편 등을 구입하며, 시장상인 들로부터 최근 전통시장 경기 와 애로사항 을 청취 하였다. 현장에서 시장상인 등 소상공인 부담 을 경감 하기 위해 금융위가…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다.",
+        "link": "https://www.fsc.go.kr/no010101/87766",
+        "summary": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다 . 국민참여형 국민성장펀드 (이하 ‘국민참여 성장펀드’) 가 지난 5월 출시 되어 조기에 완판 됨에 따라, 보다 많은 국민들께 참여 기회 를 드리기 위하여 제2차 국민참여성장 펀드 를 곧 출시 합니다. 2차 펀드의 국민 대상 모집금액 은 1차와 동일 한 6,000억원 이며, 9월 30일 (수) 부터 10월 15일 (목) 까지 10영업일 동안 물량 소진시까지 판매 됩니다. 보다 많은 국민에게 혜택을 드리고자 1차 국민참여성장펀드에 가입한…"
       }
     ]
   }
