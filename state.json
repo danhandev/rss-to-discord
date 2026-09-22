@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33702",
-      "https://news.hada.io/topic?id=33703",
-      "https://news.hada.io/topic?id=33704",
-      "https://news.hada.io/topic?id=33705",
-      "https://news.hada.io/topic?id=33706",
       "https://news.hada.io/topic?id=33711",
       "https://news.hada.io/topic?id=33712",
       "https://news.hada.io/topic?id=33713",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34087",
       "https://news.hada.io/topic?id=34088",
       "https://news.hada.io/topic?id=34089",
-      "https://news.hada.io/topic?id=34090"
+      "https://news.hada.io/topic?id=34090",
+      "https://news.hada.io/topic?id=34104",
+      "https://news.hada.io/topic?id=34105",
+      "https://news.hada.io/topic?id=34106",
+      "https://news.hada.io/topic?id=34109",
+      "https://news.hada.io/topic?id=34111"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49686380",
-      "https://news.ycombinator.com/item?id=49688259",
-      "https://news.ycombinator.com/item?id=49690174",
-      "https://news.ycombinator.com/item?id=49690260",
-      "https://news.ycombinator.com/item?id=49690554",
       "https://news.ycombinator.com/item?id=49691343",
       "https://news.ycombinator.com/item?id=49693610",
       "https://news.ycombinator.com/item?id=49693613",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49792067",
       "https://news.ycombinator.com/item?id=49792342",
       "https://news.ycombinator.com/item?id=49793322",
-      "https://news.ycombinator.com/item?id=49794330"
+      "https://news.ycombinator.com/item?id=49794330",
+      "https://news.ycombinator.com/item?id=49789228",
+      "https://news.ycombinator.com/item?id=49791125",
+      "https://news.ycombinator.com/item?id=49791647",
+      "https://news.ycombinator.com/item?id=49791997",
+      "https://news.ycombinator.com/item?id=49794615"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -450,7 +450,8 @@
       "https://toss.tech/article/gpu-native-cluster",
       "https://toss.tech/article/toss-benchmark",
       "https://toss.tech/article/lockbank",
-      "https://toss.tech/article/remittance_transfer"
+      "https://toss.tech/article/remittance_transfer",
+      "https://toss.tech/article/toss-doctor"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1505,6 +1506,12 @@
         "title": "탐욕 알고리즘과 허프만 코딩 구현 방법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "쉼 없이 도는 테스트, 사람이 어디까지 돌봐야 할까요? - 토스닥터(Toss Doctor)",
+        "link": "https://toss.tech/article/toss-doctor",
+        "summary": "스스로 만들고 고치는 자동화, 토스닥터 V2를 다시 만든 이야기"
       }
     ],
     "weekly-finance": [
