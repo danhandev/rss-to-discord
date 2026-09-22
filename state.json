@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33731",
-      "https://news.hada.io/topic?id=33732",
-      "https://news.hada.io/topic?id=33733",
-      "https://news.hada.io/topic?id=33734",
-      "https://news.hada.io/topic?id=33735",
       "https://news.hada.io/topic?id=33740",
       "https://news.hada.io/topic?id=33741",
       "https://news.hada.io/topic?id=33742",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34134",
       "https://news.hada.io/topic?id=34135",
       "https://news.hada.io/topic?id=34136",
-      "https://news.hada.io/topic?id=34137"
+      "https://news.hada.io/topic?id=34137",
+      "https://news.hada.io/topic?id=34131",
+      "https://news.hada.io/topic?id=34138",
+      "https://news.hada.io/topic?id=34139",
+      "https://news.hada.io/topic?id=34140",
+      "https://news.hada.io/topic?id=34141"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49701004",
-      "https://news.ycombinator.com/item?id=49698607",
-      "https://news.ycombinator.com/item?id=49698699",
-      "https://news.ycombinator.com/item?id=49699158",
-      "https://news.ycombinator.com/item?id=49699489",
       "https://news.ycombinator.com/item?id=49704008",
       "https://news.ycombinator.com/item?id=49697893",
       "https://news.ycombinator.com/item?id=49699648",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49801939",
       "https://news.ycombinator.com/item?id=49802161",
       "https://news.ycombinator.com/item?id=49802871",
-      "https://news.ycombinator.com/item?id=49803892"
+      "https://news.ycombinator.com/item?id=49803892",
+      "https://news.ycombinator.com/item?id=49803959",
+      "https://news.ycombinator.com/item?id=49804316",
+      "https://news.ycombinator.com/item?id=49804683",
+      "https://news.ycombinator.com/item?id=49805509",
+      "https://news.ycombinator.com/item?id=49806430"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1282,7 +1282,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBXVEVPczBnOVJ2MlppQlgyWk1BYnNhSDJibDljaEl3TmRkT2NDbGdlN243X01PRUxkZzRXVTRNNUQyYnV6R2V1blppTFFRUXlrdi1MWTRlaV8ydw",
       "CBMiWkFVX3lxTE9BYzN4MUc2dk9CZy01VnB3RjZyejVGRXUyb1A5VjJzc3hadGhPN081MXd4NjAxS0YwbWV2cTROUlFnMHY5N0NRbDQtWkhwcGR1OG5SeEJabzktZw",
       "CBMiWkFVX3lxTFBmX3g2NUMxaFdGQTU2cDVaSHpTWTlKSE5DN1gxR3B3X3luTDJaVUl6aEJiRUpZYmo4dUlPakpFemxOb2o5aGdfTWE3RmRPMkN6Mi13R3Q3RWtOUQ",
       "CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ",
@@ -1481,7 +1480,8 @@
       "CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw",
       "CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw",
       "CBMiWkFVX3lxTE5wczZVdXhZbDJIOEpSY2pJd25hSlg4MnhGc01jLWFUVmRua2x0QTgyb0paU0ZwY2NhTXh3Qm80N3JtUUsxRkRzZTI5bXV0R19QbHpvQVRVbzQ2QQ",
-      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw"
+      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
+      "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw"
     ]
   },
   "pending": {
@@ -1532,6 +1532,12 @@
         "source": "요즘IT",
         "title": "페이블, 앤트로픽 엔지니어가 알려주는 활용 가이드",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw?oc=5",
         "summary": ""
       }
     ],
