@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33754",
-      "https://news.hada.io/topic?id=33755",
-      "https://news.hada.io/topic?id=33756",
-      "https://news.hada.io/topic?id=33757",
-      "https://news.hada.io/topic?id=33758",
       "https://news.hada.io/topic?id=33760",
       "https://news.hada.io/topic?id=33763",
       "https://news.hada.io/topic?id=33764",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34157",
       "https://news.hada.io/topic?id=34158",
       "https://news.hada.io/topic?id=34159",
-      "https://news.hada.io/topic?id=34160"
+      "https://news.hada.io/topic?id=34160",
+      "https://news.hada.io/topic?id=34163",
+      "https://news.hada.io/topic?id=34164",
+      "https://news.hada.io/topic?id=34166",
+      "https://news.hada.io/topic?id=34167",
+      "https://news.hada.io/topic?id=34168"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49710253",
-      "https://news.ycombinator.com/item?id=49711544",
-      "https://news.ycombinator.com/item?id=49712041",
-      "https://news.ycombinator.com/item?id=49712102",
-      "https://news.ycombinator.com/item?id=49712278",
       "https://news.ycombinator.com/item?id=49715113",
       "https://news.ycombinator.com/item?id=49714547",
       "https://news.ycombinator.com/item?id=49715947",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49794478",
       "https://news.ycombinator.com/item?id=49795686",
       "https://news.ycombinator.com/item?id=49796379",
-      "https://news.ycombinator.com/item?id=49801324"
+      "https://news.ycombinator.com/item?id=49801324",
+      "https://news.ycombinator.com/item?id=49800574",
+      "https://news.ycombinator.com/item?id=49807003",
+      "https://news.ycombinator.com/item?id=49811065",
+      "https://news.ycombinator.com/item?id=49811484",
+      "https://news.ycombinator.com/item?id=49812769"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -453,7 +453,8 @@
       "https://toss.tech/article/lockbank",
       "https://toss.tech/article/remittance_transfer",
       "https://toss.tech/article/toss-doctor",
-      "https://toss.tech/article/asset_management"
+      "https://toss.tech/article/asset_management",
+      "https://toss.tech/article/AI_chatbot"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -472,7 +473,8 @@
       "https://tech.kakao.com/posts/834",
       "https://tech.kakao.com/posts/833",
       "https://tech.kakao.com/posts/835",
-      "https://tech.kakao.com/posts/836"
+      "https://tech.kakao.com/posts/836",
+      "https://tech.kakao.com/posts/837"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1007,7 +1009,11 @@
       "https://www.fsc.go.kr/no010101/87766",
       "https://www.fsc.go.kr/no010101/87770",
       "https://www.fsc.go.kr/no010101/87771",
-      "https://www.fsc.go.kr/no010101/87776"
+      "https://www.fsc.go.kr/no010101/87776",
+      "https://www.fsc.go.kr/no010101/87778",
+      "https://www.fsc.go.kr/no010101/87781",
+      "https://www.fsc.go.kr/no010101/87782",
+      "https://www.fsc.go.kr/no010101/87783"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1285,8 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9BYzN4MUc2dk9CZy01VnB3RjZyejVGRXUyb1A5VjJzc3hadGhPN081MXd4NjAxS0YwbWV2cTROUlFnMHY5N0NRbDQtWkhwcGR1OG5SeEJabzktZw",
-      "CBMiWkFVX3lxTFBmX3g2NUMxaFdGQTU2cDVaSHpTWTlKSE5DN1gxR3B3X3luTDJaVUl6aEJiRUpZYmo4dUlPakpFemxOb2o5aGdfTWE3RmRPMkN6Mi13R3Q3RWtOUQ",
       "CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ",
       "CBMiWkFVX3lxTFBmZ254VU9lY2Z1YkFnNndyMG52bnI1Q3g4Mzk5dElhamppX0xOdk5CTE1zckxabUNpY2NBYnQ3bDRDNFRESmZSMDJjSXdMSXdaMUFLSDh6THNFZw",
       "CBMiWkFVX3lxTFA3UGQ1b0NaLXM1YmtFYTdGWUZIVFh4el9UX1VTN0txN0FBNTUxMjdlcHZvUm5FRHVWX3lydkVKWkF0enVWX1RRVWRuNXY2RGkydnE3YzhiNUZBdw",
@@ -1484,7 +1488,9 @@
       "CBMiWkFVX3lxTE9WTlhJOGRRbllZLVZlT09ldkFUb0kwajBoc1NIdGZPOW9nc2V0WllnZUo2YWlQXzdScUl6MFlVZi1wWDhxel9qUE14enc3MVNfeVNoR1FPVTZzZw",
       "CBMiWkFVX3lxTE5wczZVdXhZbDJIOEpSY2pJd25hSlg4MnhGc01jLWFUVmRua2x0QTgyb0paU0ZwY2NhTXh3Qm80N3JtUUsxRkRzZTI5bXV0R19QbHpvQVRVbzQ2QQ",
       "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
-      "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw"
+      "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw",
+      "CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw",
+      "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ"
     ]
   },
   "pending": {
@@ -1542,6 +1548,30 @@
         "title": "선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "연 300시간을 아낀 AI 상담 서비스",
+        "link": "https://toss.tech/article/AI_chatbot",
+        "summary": "전화 문의를 줄이려다 사용자의 경험에서 답을 찾은 이야기예요."
+      },
+      {
+        "source": "카카오",
+        "title": "개인화 추천을 위한 랭킹 모델 개발기",
+        "link": "https://tech.kakao.com/posts/837",
+        "summary": "안녕하세요! 카카오에서 유저 편의성을 높이는 데 관심이 많은 토리입니다. 카카오에는 정말 다양한 서비스와 그 안에 쌓이는 방대한 데이터가 있습니다. 이 많은 콘텐츠와 유저를 잘 이어주는 역할을 하는 것이 바로 추천이고, 그중에서도 \"얼마나 이 유저에게 맞는 콘텐츠를 보여주는가\"는 서비스 체류시간과 만족도에 직결되는 핵심 문제입니다. 그래서 세그먼트 단위로 동작하던 추천 로직을, 유저 개인의 히스토리를 반영하는 개인화 랭킹 모델로 교체하는 프로젝트를 진행..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "2022년 디자인 직무 소개",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "와이어 프레임 제작할 때 참고하기 좋은 서비스 2가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1586,6 +1616,30 @@
         "title": "Korea Premium Weeks 2026      Gateway to Asia's Most Dynamic Capital Market   -아시아에서 가장 역동적인 자본시장을 향한 관문",
         "link": "https://www.fsc.go.kr/no010101/87776",
         "summary": "Korea Premium Weeks 2026 Gateway to Asia's Most Dynamic Capital Market -아시아에서 가장 역동적인 자본시장을 향한 관문- CORE WEEK : 2026.09.28.(월) - 10.02.(금) FULL SCHEDULE : 2026.09.28.(월) - 10.16.(금)"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소  - 제16차 금융위원회(‘26.9.23.) 조치 의결",
+        "link": "https://www.fsc.go.kr/no010101/87778",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "기업의 가치를 보다 정확히 보여주기 위해 기업의 토지 ‘공시지가’가 주석에 공시됩니다.",
+        "link": "https://www.fsc.go.kr/no010101/87781",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "메리츠증권㈜에 대한  종합금융투자사업자 지정 및 단기금융업 인가   ✓ 자기자본 4조원 이상의 종투사 지정 및 단기금융업 인가로 메리츠증권㈜은 발행어음 업무영위 예정",
+        "link": "https://www.fsc.go.kr/no010101/87782",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "가상자산시장 불공정거래 혐의자 수사기관 고발·통보 - 제16차 금융위원회 정례회의(’26.9.23.) 의결 -",
+        "link": "https://www.fsc.go.kr/no010101/87783",
+        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
       }
     ]
   }
