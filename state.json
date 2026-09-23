@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33749",
-      "https://news.hada.io/topic?id=33750",
-      "https://news.hada.io/topic?id=33751",
-      "https://news.hada.io/topic?id=33752",
-      "https://news.hada.io/topic?id=33753",
       "https://news.hada.io/topic?id=33754",
       "https://news.hada.io/topic?id=33755",
       "https://news.hada.io/topic?id=33756",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34130",
       "https://news.hada.io/topic?id=34142",
       "https://news.hada.io/topic?id=34143",
-      "https://news.hada.io/topic?id=34144"
+      "https://news.hada.io/topic?id=34144",
+      "https://news.hada.io/topic?id=34155",
+      "https://news.hada.io/topic?id=34157",
+      "https://news.hada.io/topic?id=34158",
+      "https://news.hada.io/topic?id=34159",
+      "https://news.hada.io/topic?id=34160"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49706223",
-      "https://news.ycombinator.com/item?id=49707473",
-      "https://news.ycombinator.com/item?id=49707627",
-      "https://news.ycombinator.com/item?id=49708431",
-      "https://news.ycombinator.com/item?id=49708993",
       "https://news.ycombinator.com/item?id=49710253",
       "https://news.ycombinator.com/item?id=49711544",
       "https://news.ycombinator.com/item?id=49712041",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49805278",
       "https://news.ycombinator.com/item?id=49805748",
       "https://news.ycombinator.com/item?id=49806335",
-      "https://news.ycombinator.com/item?id=49808023"
+      "https://news.ycombinator.com/item?id=49808023",
+      "https://news.ycombinator.com/item?id=49780622",
+      "https://news.ycombinator.com/item?id=49794478",
+      "https://news.ycombinator.com/item?id=49795686",
+      "https://news.ycombinator.com/item?id=49796379",
+      "https://news.ycombinator.com/item?id=49801324"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1004,7 +1004,10 @@
       "https://www.fsc.go.kr/no010101/87751",
       "https://www.fsc.go.kr/no010101/87752",
       "https://www.fsc.go.kr/no010101/87753",
-      "https://www.fsc.go.kr/no010101/87766"
+      "https://www.fsc.go.kr/no010101/87766",
+      "https://www.fsc.go.kr/no010101/87770",
+      "https://www.fsc.go.kr/no010101/87771",
+      "https://www.fsc.go.kr/no010101/87776"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1565,6 +1568,24 @@
         "title": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다.",
         "link": "https://www.fsc.go.kr/no010101/87766",
         "summary": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다 . 국민참여형 국민성장펀드 (이하 ‘국민참여 성장펀드’) 가 지난 5월 출시 되어 조기에 완판 됨에 따라, 보다 많은 국민들께 참여 기회 를 드리기 위하여 제2차 국민참여성장 펀드 를 곧 출시 합니다. 2차 펀드의 국민 대상 모집금액 은 1차와 동일 한 6,000억원 이며, 9월 30일 (수) 부터 10월 15일 (목) 까지 10영업일 동안 물량 소진시까지 판매 됩니다. 보다 많은 국민에게 혜택을 드리고자 1차 국민참여성장펀드에 가입한…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "금융위원장, 「피지컬 AI 지역거점 발전 포럼」 참석, 피지컬 AI 지역거점 지원 의지 강조",
+        "link": "https://www.fsc.go.kr/no010101/87770",
+        "summary": "금융위원장, 「피지컬 AI 지역거점 발전 포럼」 참석, 피지컬 AI 지역거점 지원 의지 강조 - 이억원 금융위원장 , 축사를 통해 “대한민국은 세계 최고 수준 제조업 경 쟁력과 생산 인프라를 갖추고 있는 만큼, 피지컬 AI 경쟁에서 유리한 출발점에 있다” 고 강조하고, - “ 전북 · 경북 · 경남 은 대한 민국을 대표하는 제조업 기반이 자리 잡고 있는 만큼 각 지역 이 피지컬 AI 산업 거점으로 성장할 수 있으며, 금융위도 지역이 피지컬 AI 핵심거점으로 거듭나도록 적극 뒷받침 하겠다”고 강조…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "온라인투자연계금융업의  포용금융 역할 강화와 신뢰 회복을 지원하겠습니다. - 중저신용자 자금공급 활성화를 위한 간담회 개최",
+        "link": "https://www.fsc.go.kr/no010101/87771",
+        "summary": "온라인투자연계금융업의 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다. - 중저신용자 자금공급 활성화를 위한 간담회 개최 -  ➊ 중저신용자 개인·개인사업자 자금중개 기능 확대, ➋ 차입자 편의 제고를 위한 인프라 개선, ➌ 온투업계 신뢰도 제고 등 3대 전략, 8대 과제 발표 Ⅰ. 간담회 개요 금융위원회 는 ’26.9.22.(화) 권대영 부위원장 주재 로 ｢ 중저신용자 자금공급 활성화를 위한 온라인투자연계금융업계 간담회 ｣를 개최하였다. 이번 간담회는 온라인투자연계금융업 (이하 ‘온투업’)…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "Korea Premium Weeks 2026      Gateway to Asia's Most Dynamic Capital Market   -아시아에서 가장 역동적인 자본시장을 향한 관문",
+        "link": "https://www.fsc.go.kr/no010101/87776",
+        "summary": "Korea Premium Weeks 2026 Gateway to Asia's Most Dynamic Capital Market -아시아에서 가장 역동적인 자본시장을 향한 관문- CORE WEEK : 2026.09.28.(월) - 10.02.(금) FULL SCHEDULE : 2026.09.28.(월) - 10.16.(금)"
       }
     ]
   }
