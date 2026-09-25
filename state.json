@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33848",
-      "https://news.hada.io/topic?id=33849",
-      "https://news.hada.io/topic?id=33850",
-      "https://news.hada.io/topic?id=33851",
-      "https://news.hada.io/topic?id=33852",
       "https://news.hada.io/topic?id=33858",
       "https://news.hada.io/topic?id=33859",
       "https://news.hada.io/topic?id=33860",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34248",
       "https://news.hada.io/topic?id=34249",
       "https://news.hada.io/topic?id=34250",
-      "https://news.hada.io/topic?id=34251"
+      "https://news.hada.io/topic?id=34251",
+      "https://news.hada.io/topic?id=34253",
+      "https://news.hada.io/topic?id=34254",
+      "https://news.hada.io/topic?id=34255",
+      "https://news.hada.io/topic?id=34256",
+      "https://news.hada.io/topic?id=34259"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49700153",
-      "https://news.ycombinator.com/item?id=49711424",
-      "https://news.ycombinator.com/item?id=49733726",
-      "https://news.ycombinator.com/item?id=49734264",
-      "https://news.ycombinator.com/item?id=49735930",
       "https://news.ycombinator.com/item?id=49737787",
       "https://news.ycombinator.com/item?id=49737849",
       "https://news.ycombinator.com/item?id=49737922",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49830606",
       "https://news.ycombinator.com/item?id=49836374",
       "https://news.ycombinator.com/item?id=49836419",
-      "https://news.ycombinator.com/item?id=49837006"
+      "https://news.ycombinator.com/item?id=49837006",
+      "https://news.ycombinator.com/item?id=49805344",
+      "https://news.ycombinator.com/item?id=49815370",
+      "https://news.ycombinator.com/item?id=49821835",
+      "https://news.ycombinator.com/item?id=49835531",
+      "https://news.ycombinator.com/item?id=49835996"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,8 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5",
-      "CBMiWkFVX3lxTE9Hdzk4ZHFMalY3R3VyNDMtNmdBeFNnQVBwRmQzYnpqT0hnWTVQM095YWI2VUlXa1RhTjZGQUpFTWYwOVQ1X2ZhbWJnUHNlb0FqZmVRRXY3ZlpDZw",
       "CBMiWkFVX3lxTE9MZFhHLWh0eU1kZHVRMFNvMnNPRnlzWXM2YVBkd1cydjVfc01Td0RJbWZwOUhsRjk1NGJuRXI4N0NZNTJYNGREODhrcklJTU1IamNsLVk3TW9Rdw",
       "CBMiWkFVX3lxTE1zeHd4Yk9zNzhQZDJ3Nmh0MEthSXJNN0hPbE9ieXNNa1hRZS1IeTFYaWZoaDg4SnFHYWUyMEo4RXo4X2dQLTBKV0locUh4Ml9wLVp3WXQwdi1UZw",
       "CBMiWkFVX3lxTFA3REtaNEtvNU5CRTV0bV9vZ3RtRlFISXltYWp2YVF2SGtRVTZ5T3F4OTJyd2tmQVZzOWtRa2lqUGxUY2UwTlQxb0FNaU9XN2wzTXNjU3pCLXNPUQ",
@@ -1490,7 +1488,9 @@
       "CBMiWkFVX3lxTE1jNG1WSkV2eWNLbHBwTkdfdTUwRldNdXVLRlg1eWhFTkpocmw5MmZQOWVzZTN5eUdjb3BOa09jYkd4VV9NV3BUNlZDUHNzVlhhN1VfLTBwUnF4Zw",
       "CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ",
       "CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ",
-      "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw"
+      "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw",
+      "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4",
+      "CBMiWkFVX3lxTFBEYTVPV2hzUmFjcnQzTU5yWU92NFpuRk1vMkVlTlp0a2RXLV8yNHBOU3U3RlZwZ1V6N2ZPZGpyNHVUWVlvUEhUbVVFd1hnZ1hmaFd0MkhUajljdw"
     ]
   },
   "pending": {
@@ -1727,6 +1727,18 @@
         "source": "요즘IT",
         "title": "아마존·쿠팡의 AB 테스트 성공 방정식",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "유저 스토리는 무엇인가?",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "테스트 코드는 왜 만들까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEYTVPV2hzUmFjcnQzTU5yWU92NFpuRk1vMkVlTlp0a2RXLV8yNHBOU3U3RlZwZ1V6N2ZPZGpyNHVUWVlvUEhUbVVFd1hnZ1hmaFd0MkhUajljdw?oc=5",
         "summary": ""
       }
     ],
