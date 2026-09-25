@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33837",
-      "https://news.hada.io/topic?id=33838",
-      "https://news.hada.io/topic?id=33840",
-      "https://news.hada.io/topic?id=33841",
-      "https://news.hada.io/topic?id=33842",
       "https://news.hada.io/topic?id=33848",
       "https://news.hada.io/topic?id=33849",
       "https://news.hada.io/topic?id=33850",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34242",
       "https://news.hada.io/topic?id=34243",
       "https://news.hada.io/topic?id=34244",
-      "https://news.hada.io/topic?id=34245"
+      "https://news.hada.io/topic?id=34245",
+      "https://news.hada.io/topic?id=34247",
+      "https://news.hada.io/topic?id=34248",
+      "https://news.hada.io/topic?id=34249",
+      "https://news.hada.io/topic?id=34250",
+      "https://news.hada.io/topic?id=34251"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49719596",
-      "https://news.ycombinator.com/item?id=49724881",
-      "https://news.ycombinator.com/item?id=49732513",
-      "https://news.ycombinator.com/item?id=49732931",
-      "https://news.ycombinator.com/item?id=49734171",
       "https://news.ycombinator.com/item?id=49700153",
       "https://news.ycombinator.com/item?id=49711424",
       "https://news.ycombinator.com/item?id=49733726",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49823738",
       "https://news.ycombinator.com/item?id=49828731",
       "https://news.ycombinator.com/item?id=49832938",
-      "https://news.ycombinator.com/item?id=49833867"
+      "https://news.ycombinator.com/item?id=49833867",
+      "https://news.ycombinator.com/item?id=49817680",
+      "https://news.ycombinator.com/item?id=49830606",
+      "https://news.ycombinator.com/item?id=49836374",
+      "https://news.ycombinator.com/item?id=49836419",
+      "https://news.ycombinator.com/item?id=49837006"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,10 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw",
-      "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4",
-      "CBMiWkFVX3lxTE5XOTZ5VjNqakJST0hCcFFtWUN6QlpPWkU5X196WU1JbU8wSHIzYzNIQVVHR2JRS3hVOGF3cWE2cXV4NllMOXJsWUxZWEppVHdJMlRNNFNsdDBIUQ",
-      "CBMiWkFVX3lxTFBEYTVPV2hzUmFjcnQzTU5yWU92NFpuRk1vMkVlTlp0a2RXLV8yNHBOU3U3RlZwZ1V6N2ZPZGpyNHVUWVlvUEhUbVVFd1hnZ1hmaFd0MkhUajljdw",
       "CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5",
       "CBMiWkFVX3lxTE9Hdzk4ZHFMalY3R3VyNDMtNmdBeFNnQVBwRmQzYnpqT0hnWTVQM095YWI2VUlXa1RhTjZGQUpFTWYwOVQ1X2ZhbWJnUHNlb0FqZmVRRXY3ZlpDZw",
       "CBMiWkFVX3lxTE9MZFhHLWh0eU1kZHVRMFNvMnNPRnlzWXM2YVBkd1cydjVfc01Td0RJbWZwOUhsRjk1NGJuRXI4N0NZNTJYNGREODhrcklJTU1IamNsLVk3TW9Rdw",
@@ -1490,7 +1486,11 @@
       "CBMiWkFVX3lxTFBwLVpseDdmY1NoaGoyeTFuOXlJeGtWRU4yanFmU3VZT0tFYzBaRDVPa0J4X1lfd3I4Y29NX1MxU0tFOTVnbG5OenQyeGFua3NIbTBaaWxHNVVCQQ",
       "CBMiWkFVX3lxTE1aOUt6YkxpUUpTUDJ2ZUxXRFF0Vk5zOW1VQzQxME4zekVDVVVhZFhpTFlROG41aDg0UWFrODZ1TlRtSkt3M21FSnV1WWFFeENPcHdOb0ZlQkpPUQ",
       "CBMiWkFVX3lxTE1hcEsyS1JyWmlBc2hoc2g4Z1JkR094b1JsSzRxazBNdXFPclpUdVBQSzNLZU05d2d3UnFHVnZRSVkwVFp0ZmZIYWVfa0kta2FDcHhYamxzS1VSQQ",
-      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ"
+      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ",
+      "CBMiWkFVX3lxTE1jNG1WSkV2eWNLbHBwTkdfdTUwRldNdXVLRlg1eWhFTkpocmw5MmZQOWVzZTN5eUdjb3BOa09jYkd4VV9NV3BUNlZDUHNzVlhhN1VfLTBwUnF4Zw",
+      "CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ",
+      "CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ",
+      "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw"
     ]
   },
   "pending": {
@@ -1703,6 +1703,30 @@
         "source": "요즘IT",
         "title": "요즘 글로벌 빅테크는 왜 데이터 시각화 전문가를 채용할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "RxJS 한번 배워보실래요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jNG1WSkV2eWNLbHBwTkdfdTUwRldNdXVLRlg1eWhFTkpocmw5MmZQOWVzZTN5eUdjb3BOa09jYkd4VV9NV3BUNlZDUHNzVlhhN1VfLTBwUnF4Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "기획자가 직접 99개의 서비스를 만들며 배운 것들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "아마존·쿠팡의 AB 테스트 성공 방정식",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw?oc=5",
         "summary": ""
       }
     ],
