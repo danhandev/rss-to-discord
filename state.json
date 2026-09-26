@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33899",
-      "https://news.hada.io/topic?id=33902",
-      "https://news.hada.io/topic?id=33903",
-      "https://news.hada.io/topic?id=33904",
-      "https://news.hada.io/topic?id=33905",
       "https://news.hada.io/topic?id=33908",
       "https://news.hada.io/topic?id=33909",
       "https://news.hada.io/topic?id=33910",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34299",
       "https://news.hada.io/topic?id=34300",
       "https://news.hada.io/topic?id=34302",
-      "https://news.hada.io/topic?id=34303"
+      "https://news.hada.io/topic?id=34303",
+      "https://news.hada.io/topic?id=34306",
+      "https://news.hada.io/topic?id=34308",
+      "https://news.hada.io/topic?id=34309",
+      "https://news.hada.io/topic?id=34310",
+      "https://news.hada.io/topic?id=34311"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49746618",
-      "https://news.ycombinator.com/item?id=49747070",
-      "https://news.ycombinator.com/item?id=49747925",
-      "https://news.ycombinator.com/item?id=49749656",
-      "https://news.ycombinator.com/item?id=49750094",
       "https://news.ycombinator.com/item?id=49750152",
       "https://news.ycombinator.com/item?id=49752056",
       "https://news.ycombinator.com/item?id=49752422",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49849141",
       "https://news.ycombinator.com/item?id=49849832",
       "https://news.ycombinator.com/item?id=49849985",
-      "https://news.ycombinator.com/item?id=49850305"
+      "https://news.ycombinator.com/item?id=49850305",
+      "https://news.ycombinator.com/item?id=49844896",
+      "https://news.ycombinator.com/item?id=49848955",
+      "https://news.ycombinator.com/item?id=49852065",
+      "https://news.ycombinator.com/item?id=49852302",
+      "https://news.ycombinator.com/item?id=49852717"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,9 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiVkFVX3lxTFBsQ1hHbVJUZTFFX1RkV3p6N0NhUmRqR2V5WDlCREJOcXNjd0dvLWh5b2tLUW5mV3JWUkNZOGVFQ2s0dEhYcGYwNVEydXBHRVpXRnFQbklR",
-      "CBMiWkFVX3lxTE10ZTgzWXFrblNHY1dUN2FST2FVS01VMG5iSzY0TGRXaWVMSXI1eENrYUY1aEo0RGQxUE81M0s3VXlwRy1XUEhsMTYzcnF2aHpYMjJJaFlqV3YzUQ",
-      "CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw",
       "CBMiWkFVX3lxTE5HQm1vaG9ob1RTV0hXRlhvNzlOcWpYbEk4aWsxUTlldVNyVnpEdTRreFkzcS1qOVE3NjNvQzJpenZXOUdoa2N4WENia3A0WTlCZUNqUVFBajRsQQ",
       "CBMiWkFVX3lxTE9rcVdQZk1YNkVNbTM1WGxhcGVGd1QxRTdiVDNiYVQzekJQY0N0VjFPYVg0bHRiXzctczJLZXJYNUdPZkdsOEtmU3RlbjQwejUxX0g4Ml9ha25Fdw",
       "CBMiWkFVX3lxTE5FdkFjbVNyT2VpbEJublZFWUk0ZGNudDRuUE1rVGF4Rlp5bjc4V2NPVXFUZnB0amx6S1hXMjJZeS1ycUdkNWh3Rmw5QUpzanZjUk53Tk1kY1FYdw",
@@ -1490,7 +1487,10 @@
       "CBMiWkFVX3lxTFBycnlZUTViOTZJN3pJcFBSWC1uemhFNDNYV3h3emFMY1ZsT0VQRHBGOXY1MlZRMUhCQm9LNjAtX2hnUVYycFRDU25OckZFTlg3NzBGRnJyNEtOUQ",
       "CBMiWkFVX3lxTFA1elpGWkNuODdEdXhyNGllZlRPbm8zNDBTTEk0cThhaXZ3X1d6LWtMTXdYNEZTSWZ0elNRNWNBUUhzN2Y1b01qYkZSQ3JvZVBYWVdNT2hnTUlkQQ",
       "CBMiWkFVX3lxTE1DeFl2dFJIR0g0YktYb2hNSUZYSHZYbk93eU5BY2Vidm9kZjdUdFBUMUw2SmlzNEtsbzZPRjU0Q0ZXbHRxQ3V0WjRnWUJBMHBSRl9LTmVaUDVzZw",
-      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw"
+      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw",
+      "CBMiWkFVX3lxTE9GYkNzWXVXdVVMYXZHTE85bnRYRlJRM05ySmNMMXZ6NFdERllWWGZmWHA0NUYxNkh5Nzk1eHZ6T0pHb2VnNnkxU1VXWEtDQTNXMDloQlE2bmtSZw",
+      "CBMiWkFVX3lxTE5oRGNjb3o0N0NwR1lnU2lNQWJfWGlWLTFzZXZ6bmMzVklMeWMwdWdveWlIY1RDTWZJMUZBcnNRNjhTMU9sV25EMjZNd1RIdTZwdGw0bXkzMjh2dw",
+      "CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ"
     ]
   },
   "pending": {
@@ -1811,6 +1811,24 @@
         "source": "요즘IT",
         "title": "담당자 퇴사하면 업무 못 하는 회사를 위한 AX는?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자에게 물어봤습니다: 1 함께 일하고 싶은 개발자",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GYkNzWXVXdVVMYXZHTE85bnRYRlJRM05ySmNMMXZ6NFdERllWWGZmWHA0NUYxNkh5Nzk1eHZ6T0pHb2VnNnkxU1VXWEtDQTNXMDloQlE2bmtSZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹 디자이너가 PX대신 REM을 사용해야 하는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRGNjb3o0N0NwR1lnU2lNQWJfWGlWLTFzZXZ6bmMzVklMeWMwdWdveWlIY1RDTWZJMUZBcnNRNjhTMU9sV25EMjZNd1RIdTZwdGw0bXkzMjh2dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "데이터 시각화 101: 2직관적인 데이터 시각화 만들기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ?oc=5",
         "summary": ""
       }
     ],
