@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33908",
-      "https://news.hada.io/topic?id=33909",
-      "https://news.hada.io/topic?id=33910",
-      "https://news.hada.io/topic?id=33911",
-      "https://news.hada.io/topic?id=33912",
       "https://news.hada.io/topic?id=33926",
       "https://news.hada.io/topic?id=33927",
       "https://news.hada.io/topic?id=33928",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34308",
       "https://news.hada.io/topic?id=34309",
       "https://news.hada.io/topic?id=34310",
-      "https://news.hada.io/topic?id=34311"
+      "https://news.hada.io/topic?id=34311",
+      "https://news.hada.io/topic?id=34316",
+      "https://news.hada.io/topic?id=34317",
+      "https://news.hada.io/topic?id=34318",
+      "https://news.hada.io/topic?id=34319",
+      "https://news.hada.io/topic?id=34320"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49750152",
-      "https://news.ycombinator.com/item?id=49752056",
-      "https://news.ycombinator.com/item?id=49752422",
-      "https://news.ycombinator.com/item?id=49752614",
-      "https://news.ycombinator.com/item?id=49753179",
       "https://news.ycombinator.com/item?id=49753211",
       "https://news.ycombinator.com/item?id=49752041",
       "https://news.ycombinator.com/item?id=49753878",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49848955",
       "https://news.ycombinator.com/item?id=49852065",
       "https://news.ycombinator.com/item?id=49852302",
-      "https://news.ycombinator.com/item?id=49852717"
+      "https://news.ycombinator.com/item?id=49852717",
+      "https://news.ycombinator.com/item?id=49840054",
+      "https://news.ycombinator.com/item?id=49853175",
+      "https://news.ycombinator.com/item?id=49854693",
+      "https://news.ycombinator.com/item?id=49855018",
+      "https://news.ycombinator.com/item?id=49855315"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,8 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5HQm1vaG9ob1RTV0hXRlhvNzlOcWpYbEk4aWsxUTlldVNyVnpEdTRreFkzcS1qOVE3NjNvQzJpenZXOUdoa2N4WENia3A0WTlCZUNqUVFBajRsQQ",
-      "CBMiWkFVX3lxTE9rcVdQZk1YNkVNbTM1WGxhcGVGd1QxRTdiVDNiYVQzekJQY0N0VjFPYVg0bHRiXzctczJLZXJYNUdPZkdsOEtmU3RlbjQwejUxX0g4Ml9ha25Fdw",
       "CBMiWkFVX3lxTE5FdkFjbVNyT2VpbEJublZFWUk0ZGNudDRuUE1rVGF4Rlp5bjc4V2NPVXFUZnB0amx6S1hXMjJZeS1ycUdkNWh3Rmw5QUpzanZjUk53Tk1kY1FYdw",
       "CBMiWkFVX3lxTE9oa3ZPa3V0RUFtV0FWcHdJbElialZsdEZjQ1dvUTg3cmc0MFNCLV9ZaVZrN05JWFBXVjdncGNheWxqNVRsUDVNbms1Q3hQNjc5QXdqRmQtdWRnZw",
       "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ",
@@ -1490,7 +1488,9 @@
       "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw",
       "CBMiWkFVX3lxTE9GYkNzWXVXdVVMYXZHTE85bnRYRlJRM05ySmNMMXZ6NFdERllWWGZmWHA0NUYxNkh5Nzk1eHZ6T0pHb2VnNnkxU1VXWEtDQTNXMDloQlE2bmtSZw",
       "CBMiWkFVX3lxTE5oRGNjb3o0N0NwR1lnU2lNQWJfWGlWLTFzZXZ6bmMzVklMeWMwdWdveWlIY1RDTWZJMUZBcnNRNjhTMU9sV25EMjZNd1RIdTZwdGw0bXkzMjh2dw",
-      "CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ"
+      "CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ",
+      "CBMiWkFVX3lxTE10ZTgzWXFrblNHY1dUN2FST2FVS01VMG5iSzY0TGRXaWVMSXI1eENrYUY1aEo0RGQxUE81M0s3VXlwRy1XUEhsMTYzcnF2aHpYMjJJaFlqV3YzUQ",
+      "CBMiWkFVX3lxTE5NWHBYcFdjYmN3dlBZTXBaVWFERTJwS2JCNlVDU1FBSlhPS2stRHRZcVBWaFJEVU9ZUzNHTTNna2Q2VVdmMzZaMnRUTkx6TEZQVmhaZzN2ampNdw"
     ]
   },
   "pending": {
@@ -1829,6 +1829,18 @@
         "source": "요즘IT",
         "title": "데이터 시각화 101: 2직관적인 데이터 시각화 만들기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Spring Boot와 Redis로 캐싱 구현하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ZTgzWXFrblNHY1dUN2FST2FVS01VMG5iSzY0TGRXaWVMSXI1eENrYUY1aEo0RGQxUE81M0s3VXlwRy1XUEhsMTYzcnF2aHpYMjJJaFlqV3YzUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "안녕하세요, UX Writing은 처음입니다만",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NWHBYcFdjYmN3dlBZTXBaVWFERTJwS2JCNlVDU1FBSlhPS2stRHRZcVBWaFJEVU9ZUzNHTTNna2Q2VVdmMzZaMnRUTkx6TEZQVmhaZzN2ampNdw?oc=5",
         "summary": ""
       }
     ],
