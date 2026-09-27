@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33921",
-      "https://news.hada.io/topic?id=33922",
-      "https://news.hada.io/topic?id=33934",
-      "https://news.hada.io/topic?id=33954",
-      "https://news.hada.io/topic?id=33955",
       "https://news.hada.io/topic?id=33967",
       "https://news.hada.io/topic?id=33968",
       "https://news.hada.io/topic?id=33969",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34363",
       "https://news.hada.io/topic?id=34364",
       "https://news.hada.io/topic?id=34365",
-      "https://news.hada.io/topic?id=34366"
+      "https://news.hada.io/topic?id=34366",
+      "https://news.hada.io/topic?id=34373",
+      "https://news.hada.io/topic?id=34374",
+      "https://news.hada.io/topic?id=34375",
+      "https://news.hada.io/topic?id=34376",
+      "https://news.hada.io/topic?id=34377"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49763928",
-      "https://news.ycombinator.com/item?id=49763987",
-      "https://news.ycombinator.com/item?id=49764791",
-      "https://news.ycombinator.com/item?id=49765348",
-      "https://news.ycombinator.com/item?id=49730069",
       "https://news.ycombinator.com/item?id=49734131",
       "https://news.ycombinator.com/item?id=49744704",
       "https://news.ycombinator.com/item?id=49762687",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49853137",
       "https://news.ycombinator.com/item?id=49854219",
       "https://news.ycombinator.com/item?id=49857656",
-      "https://news.ycombinator.com/item?id=49864642"
+      "https://news.ycombinator.com/item?id=49864642",
+      "https://news.ycombinator.com/item?id=49867486",
+      "https://news.ycombinator.com/item?id=49867553",
+      "https://news.ycombinator.com/item?id=49868083",
+      "https://news.ycombinator.com/item?id=49868830",
+      "https://news.ycombinator.com/item?id=49868831"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,7 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1JUXRnenVqYkVRT0ZoUjNWbS1hR0szMDNIMUZuRVFnZjE5b1dyN0EtcTdXVWYtY2VoblR2NlFVczVuYnE4NXNBcW1IaHUwSTRiQUl2RnNPbzR6QQ",
       "CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw",
       "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
       "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw",
@@ -1490,7 +1489,8 @@
       "CBMiWkFVX3lxTE4wTENWdUdCR3pJQkM4S1dyelFma0lpcXZ0cHpaaTUydFRvcFlGSk1vWXplU0w5RnVWSHd0bTc1d04tLVhCX0puS000b0M2WjFqNVh5WWw2bVpMQQ",
       "CBMiWkFVX3lxTE4zTG0teWdBbEJRT2tSc3p4YjdnbjZxLV9PMUlaOWVydm04dmo5eGV3ZWdHLU1KYk94WHc0YVROMFdvakFJMXE4YTVna2xVUzJOcnlTS3otYU9zdw",
       "CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw",
-      "CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw"
+      "CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw",
+      "CBMiWkFVX3lxTE04U3V0dTRKNi1GWlMwN0V3RGRONHZPc1U0NXJiQzhrOGtsSWhHT0hRNW8yZ2F4djU1NmZpcTh2MTJsbjVfQ3FTQl9ldTU0ekMzaGF1MGJ5YzkxUQ"
     ]
   },
   "pending": {
@@ -1913,6 +1913,12 @@
         "source": "요즘IT",
         "title": "디자인 핸드오프에서 지켜야 할 3가지",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "내가 일부러 AI에게 맡기지 않은 것들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04U3V0dTRKNi1GWlMwN0V3RGRONHZPc1U0NXJiQzhrOGtsSWhHT0hRNW8yZ2F4djU1NmZpcTh2MTJsbjVfQ3FTQl9ldTU0ekMzaGF1MGJ5YzkxUQ?oc=5",
         "summary": ""
       }
     ],
