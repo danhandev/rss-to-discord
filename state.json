@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=33937",
-      "https://news.hada.io/topic?id=33939",
-      "https://news.hada.io/topic?id=33940",
-      "https://news.hada.io/topic?id=33941",
-      "https://news.hada.io/topic?id=33942",
       "https://news.hada.io/topic?id=33935",
       "https://news.hada.io/topic?id=33936",
       "https://news.hada.io/topic?id=33943",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34334",
       "https://news.hada.io/topic?id=34335",
       "https://news.hada.io/topic?id=34336",
-      "https://news.hada.io/topic?id=34337"
+      "https://news.hada.io/topic?id=34337",
+      "https://news.hada.io/topic?id=34342",
+      "https://news.hada.io/topic?id=34343",
+      "https://news.hada.io/topic?id=34344",
+      "https://news.hada.io/topic?id=34345",
+      "https://news.hada.io/topic?id=34347"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49760187",
-      "https://news.ycombinator.com/item?id=49749724",
-      "https://news.ycombinator.com/item?id=49750694",
-      "https://news.ycombinator.com/item?id=49755533",
-      "https://news.ycombinator.com/item?id=49757050",
       "https://news.ycombinator.com/item?id=49758419",
       "https://news.ycombinator.com/item?id=49748553",
       "https://news.ycombinator.com/item?id=49749369",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49836579",
       "https://news.ycombinator.com/item?id=49854875",
       "https://news.ycombinator.com/item?id=49857572",
-      "https://news.ycombinator.com/item?id=49858513"
+      "https://news.ycombinator.com/item?id=49858513",
+      "https://news.ycombinator.com/item?id=49832768",
+      "https://news.ycombinator.com/item?id=49844657",
+      "https://news.ycombinator.com/item?id=49844663",
+      "https://news.ycombinator.com/item?id=49857729",
+      "https://news.ycombinator.com/item?id=49859112"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1291,8 +1291,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE4zTG0teWdBbEJRT2tSc3p4YjdnbjZxLV9PMUlaOWVydm04dmo5eGV3ZWdHLU1KYk94WHc0YVROMFdvakFJMXE4YTVna2xVUzJOcnlTS3otYU9zdw",
-      "CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw",
       "CBMiWkFVX3lxTFBKSm1uQkZlWlNHRmFkOS0wQmdWMVgzbkdlUl9CazFxYnR2MnlsWU9YWS11YlJhZHdfYW9iZWotUHliNWtEdTVGQjUzdWNXcGMxRl9mQmt6Z1Q3UQ",
       "CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw",
       "CBMiWkFVX3lxTFBmZ3FUTnctZ0dkamtOYVdhS2dJZWlTS2RVcE1aS3ZSWmdLVEJRM3I4emRGbGhkU0JUZjJoSTg1WFg0UGp2ajQ1MDh0OUNReWJENjdQd1M5ekJZUQ",
@@ -1490,7 +1488,9 @@
       "CBMiWkFVX3lxTE05TlR0QjFWM0xCMzluY2xlMkZBRjNxWmloYkFtZ0hpQUY1MW10X2JRSmZta0ZSMjRoUFBuNFYzQUpoYmpoT1l2bUNoTncwUjN6Z2t0WjdOcEM2Zw",
       "CBMiWkFVX3lxTE5FdkFjbVNyT2VpbEJublZFWUk0ZGNudDRuUE1rVGF4Rlp5bjc4V2NPVXFUZnB0amx6S1hXMjJZeS1ycUdkNWh3Rmw5QUpzanZjUk53Tk1kY1FYdw",
       "CBMiWkFVX3lxTE9oa3ZPa3V0RUFtV0FWcHdJbElialZsdEZjQ1dvUTg3cmc0MFNCLV9ZaVZrN05JWFBXVjdncGNheWxqNVRsUDVNbms1Q3hQNjc5QXdqRmQtdWRnZw",
-      "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ"
+      "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ",
+      "CBMiWkFVX3lxTE5tRm9YWWdZNE1IZEpEZWpnYzRIcnR3MjRSR3BZM2tqWU9fbzF0djgzNWMwYnREbElEMWo4d0ZsWk9mRjVOdlNxdzdGNW5mcWV3c0hkeDR4d0Zrdw",
+      "CBMiWkFVX3lxTE4wTENWdUdCR3pJQkM4S1dyelFma0lpcXZ0cHpaaTUydFRvcFlGSk1vWXplU0w5RnVWSHd0bTc1d04tLVhCX0puS000b0M2WjFqNVh5WWw2bVpMQQ"
     ]
   },
   "pending": {
@@ -1883,6 +1883,18 @@
         "source": "요즘IT",
         "title": "왜 신뢰할 수 있는 AI 개발에는 데이터 시각화가 필요할까",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "좋은 개발 리더가 되기 위해 고민해 본 것들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRm9YWWdZNE1IZEpEZWpnYzRIcnR3MjRSR3BZM2tqWU9fbzF0djgzNWMwYnREbElEMWo4d0ZsWk9mRjVOdlNxdzdGNW5mcWV3c0hkeDR4d0Zrdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "프로그래밍의 종말",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTENWdUdCR3pJQkM4S1dyelFma0lpcXZ0cHpaaTUydFRvcFlGSk1vWXplU0w5RnVWSHd0bTc1d04tLVhCX0puS000b0M2WjFqNVh5WWw2bVpMQQ?oc=5",
         "summary": ""
       }
     ],
