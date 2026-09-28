@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34002",
-      "https://news.hada.io/topic?id=34003",
-      "https://news.hada.io/topic?id=34004",
-      "https://news.hada.io/topic?id=34011",
-      "https://news.hada.io/topic?id=34012",
       "https://news.hada.io/topic?id=33991",
       "https://news.hada.io/topic?id=33993",
       "https://news.hada.io/topic?id=33994",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34417",
       "https://news.hada.io/topic?id=34418",
       "https://news.hada.io/topic?id=34419",
-      "https://news.hada.io/topic?id=34420"
+      "https://news.hada.io/topic?id=34420",
+      "https://news.hada.io/topic?id=34441",
+      "https://news.hada.io/topic?id=34442",
+      "https://news.hada.io/topic?id=34443",
+      "https://news.hada.io/topic?id=34444",
+      "https://news.hada.io/topic?id=34445"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49771966",
-      "https://news.ycombinator.com/item?id=49735159",
-      "https://news.ycombinator.com/item?id=49767242",
-      "https://news.ycombinator.com/item?id=49774329",
-      "https://news.ycombinator.com/item?id=49772532",
       "https://news.ycombinator.com/item?id=49772677",
       "https://news.ycombinator.com/item?id=49775499",
       "https://news.ycombinator.com/item?id=49776699",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49869773",
       "https://news.ycombinator.com/item?id=49870070",
       "https://news.ycombinator.com/item?id=49870295",
-      "https://news.ycombinator.com/item?id=49873241"
+      "https://news.ycombinator.com/item?id=49873241",
+      "https://news.ycombinator.com/item?id=49879697",
+      "https://news.ycombinator.com/item?id=49880036",
+      "https://news.ycombinator.com/item?id=49880312",
+      "https://news.ycombinator.com/item?id=49881747",
+      "https://news.ycombinator.com/item?id=49881850"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1296,7 +1296,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
       "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw",
       "CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ",
       "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
@@ -1495,7 +1494,8 @@
       "CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw",
       "CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw",
       "CBMiWkFVX3lxTE04U3V0dTRKNi1GWlMwN0V3RGRONHZPc1U0NXJiQzhrOGtsSWhHT0hRNW8yZ2F4djU1NmZpcTh2MTJsbjVfQ3FTQl9ldTU0ekMzaGF1MGJ5YzkxUQ",
-      "CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ"
+      "CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ",
+      "CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw"
     ]
   },
   "pending": {
@@ -1504,6 +1504,12 @@
         "source": "요즘IT",
         "title": "[참가 모집] AI 고수들의 로컬앱/자동화 구경오세요!",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "UX 디자인과 정보구조 설계: 1 정보구조(IA)의 개념과 종류",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw?oc=5",
         "summary": ""
       }
     ],
