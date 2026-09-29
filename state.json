@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34040",
-      "https://news.hada.io/topic?id=34041",
-      "https://news.hada.io/topic?id=34044",
-      "https://news.hada.io/topic?id=34046",
-      "https://news.hada.io/topic?id=34047",
       "https://news.hada.io/topic?id=34037",
       "https://news.hada.io/topic?id=34038",
       "https://news.hada.io/topic?id=34039",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34456",
       "https://news.hada.io/topic?id=34457",
       "https://news.hada.io/topic?id=34458",
-      "https://news.hada.io/topic?id=34459"
+      "https://news.hada.io/topic?id=34459",
+      "https://news.hada.io/topic?id=34473",
+      "https://news.hada.io/topic?id=34474",
+      "https://news.hada.io/topic?id=34475",
+      "https://news.hada.io/topic?id=34478",
+      "https://news.hada.io/topic?id=34479"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49776717",
-      "https://news.ycombinator.com/item?id=49776729",
-      "https://news.ycombinator.com/item?id=49778029",
-      "https://news.ycombinator.com/item?id=49768347",
-      "https://news.ycombinator.com/item?id=49777106",
       "https://news.ycombinator.com/item?id=49779432",
       "https://news.ycombinator.com/item?id=49780064",
       "https://news.ycombinator.com/item?id=49777539",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49883471",
       "https://news.ycombinator.com/item?id=49883760",
       "https://news.ycombinator.com/item?id=49883844",
-      "https://news.ycombinator.com/item?id=49884363"
+      "https://news.ycombinator.com/item?id=49884363",
+      "https://news.ycombinator.com/item?id=49879883",
+      "https://news.ycombinator.com/item?id=49880411",
+      "https://news.ycombinator.com/item?id=49883536",
+      "https://news.ycombinator.com/item?id=49883539",
+      "https://news.ycombinator.com/item?id=49886195"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1018,7 +1018,9 @@
       "https://www.fsc.go.kr/no010101/87789",
       "https://www.fsc.go.kr/no010101/87793",
       "https://www.fsc.go.kr/no010101/87797",
-      "https://www.fsc.go.kr/no010101/87800"
+      "https://www.fsc.go.kr/no010101/87800",
+      "https://www.fsc.go.kr/no010101/87805",
+      "https://www.fsc.go.kr/no010101/87807"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1296,7 +1298,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ",
       "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
       "CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ",
       "CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw",
@@ -1495,7 +1496,8 @@
       "CBMiWkFVX3lxTE04U3V0dTRKNi1GWlMwN0V3RGRONHZPc1U0NXJiQzhrOGtsSWhHT0hRNW8yZ2F4djU1NmZpcTh2MTJsbjVfQ3FTQl9ldTU0ekMzaGF1MGJ5YzkxUQ",
       "CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ",
       "CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw",
-      "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw"
+      "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
+      "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw"
     ]
   },
   "pending": {
@@ -1517,6 +1519,12 @@
         "title": "뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper'",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "컴포넌트 스터디: 1팝업, 바텀시트, 스낵바",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1537,6 +1545,18 @@
         "title": "이억원 금융위원장,  유엔 책임투자원칙(PRI) 이사회 의장 면담",
         "link": "https://www.fsc.go.kr/no010101/87800",
         "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "이억원 금융위원장 일본 금융청장 면담  - 한-일 금융시장 정책‧동향을 공유하고,     양국 간 지속적인 금융 협력 강화를 약속",
+        "link": "https://www.fsc.go.kr/no010101/87805",
+        "summary": "[코리아 프리미엄 위크 2026] 이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속 - 이억원 금융위원장 은 9월 29일(화) 이토 유타카 (Ito Yutaka) 일본 금융청장 과 면담 하였다. 이토 금융청장 은 전일 코리아 프리미엄 위크 개막식 에 참석 하여 그간 한국 정부 가 자본시장 체질 개선 을 위해 지속 해 온 다각 적인 정책 노력 을 생생히 확인 할 수 있었다고 말하며, 앞으로도 양국 에서 추진 중 인 자본시장…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
+        "link": "https://www.fsc.go.kr/no010101/87807",
+        "summary": "합동대응단은 명문대 경영동아리 출신 정보카르텔 을 적발 하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다. - 금융위·금감원·거래소 ｢주가조작 근절 합동대응단｣ (단장 황선오) 은 상장사 공개매수 등 지배구조 개편 또는 M&A 정보 를 이용 하여 200 억원 이상 의 부당이득을 취한 미공개정보 이용세력 을 적발 하였습니다. - 본 사건의 핵심 혐의자들은 명문대 경영동아리 , 글로벌 컨설팅회사 출신 으로 일종의 ‘ 정보카르텔 ’을 형성 하고, 상장사 내부정보 를 공유 하며 가족 ･ 지인 들을…"
       }
     ]
   }
