@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34058",
-      "https://news.hada.io/topic?id=34059",
-      "https://news.hada.io/topic?id=34060",
-      "https://news.hada.io/topic?id=34061",
-      "https://news.hada.io/topic?id=34062",
       "https://news.hada.io/topic?id=34069",
       "https://news.hada.io/topic?id=34070",
       "https://news.hada.io/topic?id=34071",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34489",
       "https://news.hada.io/topic?id=34490",
       "https://news.hada.io/topic?id=34491",
-      "https://news.hada.io/topic?id=34492"
+      "https://news.hada.io/topic?id=34492",
+      "https://news.hada.io/topic?id=34500",
+      "https://news.hada.io/topic?id=34501",
+      "https://news.hada.io/topic?id=34502",
+      "https://news.hada.io/topic?id=34503",
+      "https://news.hada.io/topic?id=34504"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49780797",
-      "https://news.ycombinator.com/item?id=49780820",
-      "https://news.ycombinator.com/item?id=49774521",
-      "https://news.ycombinator.com/item?id=49775104",
-      "https://news.ycombinator.com/item?id=49777467",
       "https://news.ycombinator.com/item?id=49778162",
       "https://news.ycombinator.com/item?id=49778195",
       "https://news.ycombinator.com/item?id=49771218",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49891295",
       "https://news.ycombinator.com/item?id=49891480",
       "https://news.ycombinator.com/item?id=49891550",
-      "https://news.ycombinator.com/item?id=49892245"
+      "https://news.ycombinator.com/item?id=49892245",
+      "https://news.ycombinator.com/item?id=49895304",
+      "https://news.ycombinator.com/item?id=49896050",
+      "https://news.ycombinator.com/item?id=49896586",
+      "https://news.ycombinator.com/item?id=49896604",
+      "https://news.ycombinator.com/item?id=49896712"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -413,7 +413,8 @@
       "https://spring.io/blog/2026/09/01/this-week-in-spring-september-1-2026",
       "https://spring.io/blog/2026/09/08/this-week-in-spring-september-8th-2026",
       "https://spring.io/blog/2026/09/15/this-week-in-spring-september-15th-2026",
-      "https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026"
+      "https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026",
+      "https://spring.io/blog/2026/09/29/this-week-in-spring-september-29th-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
@@ -1299,8 +1300,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw",
-      "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
       "CBMiWkFVX3lxTE5hcy1HOFU5VUl4cDBrdEk1ZUpzc2I3ek5EeVBLTWhIdFVYU2ZjXzNuRGZ4NThnT0Z6elZTT3ZjSTJKZzI1ckRGMUFWN1RIakRCX1dDdHB2S1R3UQ",
       "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
       "CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw",
@@ -1498,7 +1497,9 @@
       "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
       "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw",
       "CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ",
-      "CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw"
+      "CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw",
+      "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
+      "CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ"
     ]
   },
   "pending": {
@@ -1543,6 +1544,18 @@
         "source": "요즘IT",
         "title": "클로드로 PPT 만들기: 템플릿 스킬 제작 4단계",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "사이드 프로젝트 도전기: 1팀 결성부터 서비스 런칭까지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "야놀자vs여기어때, 국내 숙박 앱 강자는?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ?oc=5",
         "summary": ""
       }
     ],
