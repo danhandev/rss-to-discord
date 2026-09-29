@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34037",
-      "https://news.hada.io/topic?id=34038",
-      "https://news.hada.io/topic?id=34039",
-      "https://news.hada.io/topic?id=34049",
-      "https://news.hada.io/topic?id=34050",
       "https://news.hada.io/topic?id=34058",
       "https://news.hada.io/topic?id=34059",
       "https://news.hada.io/topic?id=34060",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34474",
       "https://news.hada.io/topic?id=34475",
       "https://news.hada.io/topic?id=34478",
-      "https://news.hada.io/topic?id=34479"
+      "https://news.hada.io/topic?id=34479",
+      "https://news.hada.io/topic?id=34485",
+      "https://news.hada.io/topic?id=34489",
+      "https://news.hada.io/topic?id=34490",
+      "https://news.hada.io/topic?id=34491",
+      "https://news.hada.io/topic?id=34492"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49779432",
-      "https://news.ycombinator.com/item?id=49780064",
-      "https://news.ycombinator.com/item?id=49777539",
-      "https://news.ycombinator.com/item?id=49779253",
-      "https://news.ycombinator.com/item?id=49780630",
       "https://news.ycombinator.com/item?id=49780797",
       "https://news.ycombinator.com/item?id=49780820",
       "https://news.ycombinator.com/item?id=49774521",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49880411",
       "https://news.ycombinator.com/item?id=49883536",
       "https://news.ycombinator.com/item?id=49883539",
-      "https://news.ycombinator.com/item?id=49886195"
+      "https://news.ycombinator.com/item?id=49886195",
+      "https://news.ycombinator.com/item?id=49891290",
+      "https://news.ycombinator.com/item?id=49891295",
+      "https://news.ycombinator.com/item?id=49891480",
+      "https://news.ycombinator.com/item?id=49891550",
+      "https://news.ycombinator.com/item?id=49892245"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -580,7 +580,8 @@
       "https://d2.naver.com/helloworld/7337586",
       "https://d2.naver.com/helloworld/4452165",
       "https://d2.naver.com/news/3092933",
-      "https://d2.naver.com/news/7360495"
+      "https://d2.naver.com/news/7360495",
+      "https://d2.naver.com/helloworld/7314597"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1298,8 +1299,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
-      "CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ",
       "CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw",
       "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
       "CBMiWkFVX3lxTE5hcy1HOFU5VUl4cDBrdEk1ZUpzc2I3ek5EeVBLTWhIdFVYU2ZjXzNuRGZ4NThnT0Z6elZTT3ZjSTJKZzI1ckRGMUFWN1RIakRCX1dDdHB2S1R3UQ",
@@ -1497,7 +1496,9 @@
       "CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ",
       "CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw",
       "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
-      "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw"
+      "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw",
+      "CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ",
+      "CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw"
     ]
   },
   "pending": {
@@ -1524,6 +1525,24 @@
         "source": "요즘IT",
         "title": "컴포넌트 스터디: 1팝업, 바텀시트, 스낵바",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기",
+        "link": "https://d2.naver.com/helloworld/7314597",
+        "summary": "TApplicationException · UNKNOWN_METHOD Invalid method name: 'get_table' 이 글은 네이버의 Hadoop 플랫폼인 C3의 Metastore를 Apache Hive 4.2로 올리는 과정에서 Spark 잡(job)이 실패한 현상과 그 원인을 추적해, Metastore Thrift 인터페이스에서 조용히 사라졌던 RPC 하나를 복원하기까지의 과정을 다룹니다. 코드 변경 자체는 IDL 두 줄과 서버 구현 몇 줄이 전부지만, 그 이면에는 Thrift…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "5 Whys로 '진짜' 문제 찾기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "클로드로 PPT 만들기: 템플릿 스킬 제작 4단계",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw?oc=5",
         "summary": ""
       }
     ],
