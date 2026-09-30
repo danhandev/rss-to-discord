@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34082",
-      "https://news.hada.io/topic?id=34083",
-      "https://news.hada.io/topic?id=34084",
-      "https://news.hada.io/topic?id=34085",
-      "https://news.hada.io/topic?id=34086",
       "https://news.hada.io/topic?id=34081",
       "https://news.hada.io/topic?id=34087",
       "https://news.hada.io/topic?id=34088",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34513",
       "https://news.hada.io/topic?id=34515",
       "https://news.hada.io/topic?id=34516",
-      "https://news.hada.io/topic?id=34517"
+      "https://news.hada.io/topic?id=34517",
+      "https://news.hada.io/topic?id=34530",
+      "https://news.hada.io/topic?id=34531",
+      "https://news.hada.io/topic?id=34532",
+      "https://news.hada.io/topic?id=34533",
+      "https://news.hada.io/topic?id=34534"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49779329",
-      "https://news.ycombinator.com/item?id=49783495",
-      "https://news.ycombinator.com/item?id=49784336",
-      "https://news.ycombinator.com/item?id=49784706",
-      "https://news.ycombinator.com/item?id=49787436",
       "https://news.ycombinator.com/item?id=49787523",
       "https://news.ycombinator.com/item?id=49787767",
       "https://news.ycombinator.com/item?id=49789224",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49893157",
       "https://news.ycombinator.com/item?id=49893509",
       "https://news.ycombinator.com/item?id=49899090",
-      "https://news.ycombinator.com/item?id=49901736"
+      "https://news.ycombinator.com/item?id=49901736",
+      "https://news.ycombinator.com/item?id=49893002",
+      "https://news.ycombinator.com/item?id=49894351",
+      "https://news.ycombinator.com/item?id=49897993",
+      "https://news.ycombinator.com/item?id=49898050",
+      "https://news.ycombinator.com/item?id=49898778"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -455,7 +455,8 @@
       "https://toss.tech/article/remittance_transfer",
       "https://toss.tech/article/toss-doctor",
       "https://toss.tech/article/asset_management",
-      "https://toss.tech/article/AI_chatbot"
+      "https://toss.tech/article/AI_chatbot",
+      "https://toss.tech/article/chipmunk"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -582,7 +583,8 @@
       "https://d2.naver.com/helloworld/4452165",
       "https://d2.naver.com/news/3092933",
       "https://d2.naver.com/news/7360495",
-      "https://d2.naver.com/helloworld/7314597"
+      "https://d2.naver.com/helloworld/7314597",
+      "https://d2.naver.com/helloworld/8118359"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -655,7 +657,8 @@
       "https://medium.com/p/3fa344b4391b",
       "https://medium.com/p/34dd50abbfb7",
       "https://medium.com/p/db1aa92af5e4",
-      "https://medium.com/p/a50dd4b7b44c"
+      "https://medium.com/p/a50dd4b7b44c",
+      "https://medium.com/p/097551289b2a"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -1300,8 +1303,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
-      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ",
       "CBMiWkFVX3lxTFA0Q1diU0xTd1RtTF9MTzJEQmJKcjRUdndJV1ptVWI4NXdhUUpsS0hXY0x5SFlObzhQUGpKQjItWnMybEpNdjZhMkxNaW80eFFKa0tKTVlHaVpMdw",
       "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw",
       "CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw",
@@ -1499,7 +1500,9 @@
       "CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ",
       "CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw",
       "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
-      "CBMiWkFVX3lxTE9WcTJMbXVid0RKVjNHNHlRQXpPZE5NQzhDaWxEa19OQ2g1LXVwYU5oRnR4N0ozWlRGb3UzWFZoVXJRTm9rOXZQQ19pazdNdWluTXNiN25SM0NLdw"
+      "CBMiWkFVX3lxTE9WcTJMbXVid0RKVjNHNHlRQXpPZE5NQzhDaWxEa19OQ2g1LXVwYU5oRnR4N0ozWlRGb3UzWFZoVXJRTm9rOXZQQ19pazdNdWluTXNiN25SM0NLdw",
+      "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
+      "CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw"
     ]
   },
   "pending": {
@@ -1574,6 +1577,36 @@
         "source": "요즘IT",
         "title": "클로드 코드 hook 재귀 루프 사고로 토큰 60M 날리고 배운 것",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcTJMbXVid0RKVjNHNHlRQXpPZE5NQzhDaWxEa19OQ2g1LXVwYU5oRnR4N0ozWlRGb3UzWFZoVXJRTm9rOXZQQ19pazdNdWluTXNiN25SM0NLdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
+        "link": "https://toss.tech/article/chipmunk",
+        "summary": "가입하고 한 번도 열어보지 않던 적금을, 매일 열어보게 만들었어요."
+      },
+      {
+        "source": "NAVER D2",
+        "title": "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
+        "link": "https://d2.naver.com/helloworld/8118359",
+        "summary": "네이버 사내 Tech Meetup에서 발표되었던 인기 세션을 공유합니다. ​ 에이전트를 개발하다 보면 같은 개념을 서로 다른 뜻으로 쓰고 있어서 논의가 겉도는 경험, 한 번쯤 해보셨을 것 같습니다. ​ \"이거 에이전트인가요?\" \"하네스를 만들어야죠\" — 그런데 하네스가 정확히 무엇인가요? \"Context 에 넣어두면 되죠\" \"그건 Memory 아닌가요?\" \"그건 MCP 인가요 A2A 인가요? 기존 REST API 랑 뭐가 다른가요?\" ​ 사실 이 개념들은 사외에서도 정리가 덜 된 것들입니다.…"
+      },
+      {
+        "source": "당근",
+        "title": "당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기",
+        "link": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%8F%99%EB%84%A4%EA%B1%B7%EA%B8%B0-%EC%9C%84%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-097551289b2a?source=rss----4505f82a2dbd---4",
+        "summary": "들어가며 안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 카멜(진나영)이에요. 당근 동네걷기 는 걸음 수를 기록하고 보상을 제공하는 서비스예요. 그런데 모달, 바텀시트, OS 권한 팝업이 각기 다른 조건에서 열리다 보니, 한 화면에 여러 UI가 겹쳐 나타나는 문제 가 있었어요. 이 글은 제가 이 복잡도를 어떻게 풀었는지에 대한 기록이에요. 다만 “이렇게 만들었습니다” 보다는, 어떻게 문제를 정의하고 고민하며 해결해나갔는지 서술해보려고 해요. 이런 분들이 읽으면 재미있을…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "GPT-5.6 ‘제한 공개’ 사건의 전말",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "JavaScript 번들러로 본 조선시대 붕당의 이해",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw?oc=5",
         "summary": ""
       }
     ],
