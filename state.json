@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34081",
-      "https://news.hada.io/topic?id=34087",
-      "https://news.hada.io/topic?id=34088",
-      "https://news.hada.io/topic?id=34089",
-      "https://news.hada.io/topic?id=34090",
       "https://news.hada.io/topic?id=34104",
       "https://news.hada.io/topic?id=34105",
       "https://news.hada.io/topic?id=34106",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34531",
       "https://news.hada.io/topic?id=34532",
       "https://news.hada.io/topic?id=34533",
-      "https://news.hada.io/topic?id=34534"
+      "https://news.hada.io/topic?id=34534",
+      "https://news.hada.io/topic?id=34541",
+      "https://news.hada.io/topic?id=34542",
+      "https://news.hada.io/topic?id=34545",
+      "https://news.hada.io/topic?id=34546",
+      "https://news.hada.io/topic?id=34547"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49787523",
-      "https://news.ycombinator.com/item?id=49787767",
-      "https://news.ycombinator.com/item?id=49789224",
-      "https://news.ycombinator.com/item?id=49790409",
-      "https://news.ycombinator.com/item?id=49791509",
       "https://news.ycombinator.com/item?id=49791939",
       "https://news.ycombinator.com/item?id=49792730",
       "https://news.ycombinator.com/item?id=49791378",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49894351",
       "https://news.ycombinator.com/item?id=49897993",
       "https://news.ycombinator.com/item?id=49898050",
-      "https://news.ycombinator.com/item?id=49898778"
+      "https://news.ycombinator.com/item?id=49898778",
+      "https://news.ycombinator.com/item?id=49895864",
+      "https://news.ycombinator.com/item?id=49903862",
+      "https://news.ycombinator.com/item?id=49905487",
+      "https://news.ycombinator.com/item?id=49906637",
+      "https://news.ycombinator.com/item?id=49907057"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1025,7 +1025,14 @@
       "https://www.fsc.go.kr/no010101/87797",
       "https://www.fsc.go.kr/no010101/87800",
       "https://www.fsc.go.kr/no010101/87805",
-      "https://www.fsc.go.kr/no010101/87807"
+      "https://www.fsc.go.kr/no010101/87807",
+      "https://www.fsc.go.kr/no010101/87812",
+      "https://www.fsc.go.kr/no010101/87818",
+      "https://www.fsc.go.kr/no010101/87819",
+      "https://www.fsc.go.kr/no010101/87820",
+      "https://www.fsc.go.kr/no010101/87821",
+      "https://www.fsc.go.kr/no010101/87824",
+      "https://www.fsc.go.kr/no010101/87825"
     ],
     "https://news.google.com/rss/search?q=site:techblog.woowahan.com&hl=ko&gl=KR&ceid=KR:ko": [
       "CBMiS0FVX3lxTFBBaU9PUFJsSFgtd2dtOHhzQTQ4cGZ1YjV2cmtzSzhFa1FxaTFGOGIzRWpoeE9XUGtTQjhybXlmd0xtclIxc3JUZzRTQQ",
@@ -1303,9 +1310,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFA0Q1diU0xTd1RtTF9MTzJEQmJKcjRUdndJV1ptVWI4NXdhUUpsS0hXY0x5SFlObzhQUGpKQjItWnMybEpNdjZhMkxNaW80eFFKa0tKTVlHaVpMdw",
-      "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw",
-      "CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw",
       "CBMiWkFVX3lxTE5xVkwzM1o3SDhXaF81aWJJQXJoRG9YUl9kTXhGLUhmNUJvVnBWOEY4RWpRQ2VlcGJIZXpSajdmbUd3MFREMWxIQkhjZjlQRi1SRWRDMkJuMElYQQ",
       "CBMiWkFVX3lxTE5NY1d2aEhqb3VHeUd3MnhzX2YzZWs3NjBtNzJDYUw1bnNwNDJTZHRpOUdSNVBpQk9OVXBRbU1HcEp6TXlpSk5VZXFoN0o2NlNhX2xqN0pBQktodw",
       "CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw",
@@ -1502,7 +1506,10 @@
       "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
       "CBMiWkFVX3lxTE9WcTJMbXVid0RKVjNHNHlRQXpPZE5NQzhDaWxEa19OQ2g1LXVwYU5oRnR4N0ozWlRGb3UzWFZoVXJRTm9rOXZQQ19pazdNdWluTXNiN25SM0NLdw",
       "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
-      "CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw"
+      "CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw",
+      "CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5",
+      "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
+      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ"
     ]
   },
   "pending": {
@@ -1608,6 +1615,24 @@
         "title": "JavaScript 번들러로 본 조선시대 붕당의 이해",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "디논 작가의 페이지",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "커뮤니티 서비스 만들지 마세요, 어차피 실패합니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
@@ -1640,6 +1665,48 @@
         "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
         "link": "https://www.fsc.go.kr/no010101/87807",
         "summary": "합동대응단은 명문대 경영동아리 출신 정보카르텔 을 적발 하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다. - 금융위·금감원·거래소 ｢주가조작 근절 합동대응단｣ (단장 황선오) 은 상장사 공개매수 등 지배구조 개편 또는 M&A 정보 를 이용 하여 200 억원 이상 의 부당이득을 취한 미공개정보 이용세력 을 적발 하였습니다. - 본 사건의 핵심 혐의자들은 명문대 경영동아리 , 글로벌 컨설팅회사 출신 으로 일종의 ‘ 정보카르텔 ’을 형성 하고, 상장사 내부정보 를 공유 하며 가족 ･ 지인 들을…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "이억원 금융위원장, 글로벌 증시 핵심 인프라 기관  美 나스닥(Nasdaq), 美 DTCC*, 홍콩거래소(HKEX) 면담",
+        "link": "https://www.fsc.go.kr/no010101/87812",
+        "summary": "[코리아 프리미엄 위크 2026] 이억원 금융위원장, 글로벌 증시 핵심 인프라 기관 美 나스닥 (Nasdaq) , 美 DTCC * , 홍콩거래소 (HKEX) 면담 * 美 증권예탁결제원(Depository Trust & Clearing Corporation) - 토큰증권 발전방향 , 결제주기 단축 (T+1일) 등 미래 자본시장 과제와, 세그먼트 분리 , 상장폐지 등 시장 역동성 제고 를 위한 주요 정책 에 대한 美 ‧ 홍콩 의 경험과 동향 을 공유하고 향후 협력 방안 을 논의 이억원 금융위원장 은…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다.",
+        "link": "https://www.fsc.go.kr/no010101/87818",
+        "summary": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다. ◈ 소비자가 앱으로 요청 하면 병원 이 실손보험금 청구서류 를 보험회사로 자동 으로 보내주는 실손보험 청구전산화 시행 (‘24.10.25일) 2년 이 경과 ㅇ 매년 수천억원 에 달하는 未청구 실손보험금 을 국민께 돌려드릴 수 있는 제도로, 현재 전국 약 5만개 병·의원 및 약국 에서 사용 가능 * 현재 전체 의료기관 105,643개 중 50,340개(47.7%) 연계 (9.28일 기준) ◈ 연말 까지 병·의원의 실손24 연계율 80~90%…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "권대영 부위원장,제2차 국민참여성장펀드 출시 첫날펀드가입 및 현장점검",
+        "link": "https://www.fsc.go.kr/no010101/87819",
+        "summary": "권대영 부위원장, 제2차 국민참여성장펀드 출시 첫날 펀드가입 및 현장점검 권대영 금융위 부위원장 은 9월 30일(수), 제2차 국민참여형 국민성장펀드 (이하 ‘ 국민참여성장펀드 ’) 판매처 중 하나인 NH농협은행 정부서울청사지 점을 방문해 펀드에 가입 하였다. ※ 국민참여성장펀드 주요내용은 <붙임> 참조 권 부위원장 은 일반 국민들이 펀드 가입 시 거치게 되는 투자자 성향 분석 , 펀드 중요사항 확인 (투자설명서, 약관 등) 등 펀드 가입 과정의 전반 을 직접 경험 하며, 가입 절차상의 편의성과…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전  달라진 절차와 주요일정을 확인하세요.",
+        "link": "https://www.fsc.go.kr/no010101/87820",
+        "summary": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전 달라진 절차와 주요일정을 확인하세요. ▪ 10월 7~16일 (토·일·공휴일 제외) 까지 가입신청 , 가입심사 통과자 는 11월 16~27일 (토·일 제외) 중 계좌개설 ▪ 소상공인으로 가입신청 을 하는 경우, 운영 중인 모든 사업장 의 ‘ 소상공인확인서 ’를 청년미래적금 가입신청 전 에 발급할 필요 ▪ 청년도약계좌 가입자 의 청년미래적금 ‘갈아타기’ 기회 추가 제공 ▪ 신청단계에서 가입유형 을 직접 선택 하고, 사전심사 결과 안내 및…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "전남광주에서 서민·취약계층과 소상공인을 위한  희망사다리를 놓겠습니다  - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식  및 지역 소상공인 현장 간담회 참석",
+        "link": "https://www.fsc.go.kr/no010101/87821",
+        "summary": "전남광주 에서 서민·취약계층과 소상공인 을 위한 희망사다리 를 놓겠습니다 - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 및 지역 소상공인 현장 간담회 참석 -  민·관 협업 을 통해 금융-고용-복지 복합지원과 지역 민간 금 융 을 한 곳에서 아우르는 「서민금융 복합지원센터」를 전국 2번째 로 전남광주 에서 개소 - 광주은행과 협업 하여 복합지원 이용 주민과 소상공인 대상 금리 우대 등 특화 대출·적금 상품 (전남광주 희망사다리) 출시 및 찾아가는 복합지원 활성화 - 아울러,…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "은행업감독규정 규정변경예고 실시  ※예고기간 ‘26.9.30일 ~ 11.9일",
+        "link": "https://www.fsc.go.kr/no010101/87824",
+        "summary": "은행업감독규정 규정변경예고 실시 ※ 예고기간 ‘26.9.30일 ~ 11.9일 ✓ ➊ 인터넷은행 대면업무 범위 의 합리적 조정, ➋ 외화결제계좌 의 신용공여 제외 , ➌ 부동산PF 신용공여한도 도입, ➍ 특수은행 경영실태평가 개편 등을 위한 은행업감독규정 개정 추진 ✓ 규정변경예고 (’26.9.30일~11.9일)를 통해 의견수렴 후 금융위원회 의결 (’26.12.2일 잠정 )을 거쳐 시행 * * 부동산PF 신용공여한도 규제는 ’27.1.1일 시행(3년 경과조치 부과) ’26.9.30.(수)…"
+      },
+      {
+        "source": "금융위 보도자료",
+        "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(9.30일)",
+        "link": "https://www.fsc.go.kr/no010101/87825",
+        "summary": "*자세한 내용은 첨부파일을 확인하세요"
       }
     ]
   }
