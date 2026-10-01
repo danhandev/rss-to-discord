@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34129",
-      "https://news.hada.io/topic?id=34130",
-      "https://news.hada.io/topic?id=34142",
-      "https://news.hada.io/topic?id=34143",
-      "https://news.hada.io/topic?id=34144",
       "https://news.hada.io/topic?id=34155",
       "https://news.hada.io/topic?id=34157",
       "https://news.hada.io/topic?id=34158",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34612",
       "https://news.hada.io/topic?id=34613",
       "https://news.hada.io/topic?id=34614",
-      "https://news.hada.io/topic?id=34615"
+      "https://news.hada.io/topic?id=34615",
+      "https://news.hada.io/topic?id=34636",
+      "https://news.hada.io/topic?id=34637",
+      "https://news.hada.io/topic?id=34638",
+      "https://news.hada.io/topic?id=34639",
+      "https://news.hada.io/topic?id=34640"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49802871",
-      "https://news.ycombinator.com/item?id=49803892",
-      "https://news.ycombinator.com/item?id=49803959",
-      "https://news.ycombinator.com/item?id=49804316",
-      "https://news.ycombinator.com/item?id=49804683",
       "https://news.ycombinator.com/item?id=49805509",
       "https://news.ycombinator.com/item?id=49806430",
       "https://news.ycombinator.com/item?id=49803635",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49920896",
       "https://news.ycombinator.com/item?id=49920932",
       "https://news.ycombinator.com/item?id=49921050",
-      "https://news.ycombinator.com/item?id=49921118"
+      "https://news.ycombinator.com/item?id=49921118",
+      "https://news.ycombinator.com/item?id=49923466",
+      "https://news.ycombinator.com/item?id=49923692",
+      "https://news.ycombinator.com/item?id=49925969",
+      "https://news.ycombinator.com/item?id=49926069",
+      "https://news.ycombinator.com/item?id=49926628"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1311,7 +1311,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFByYXU2Q05sdlgwY200emJvcUtiNDBKVjVUaEZSYUQwNWREQ1pJaXlKcUVYSjBpOHEtbU5xWG11VkRKSHAtT28wNDllN21saU4yN0s1Wkh4RVo5UQ",
       "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
       "CBMiWkFVX3lxTE0ycFJiVW5SamgydXhNaDViQ2VDX2Y1MHdLZmFqbXdUUThTUGpyZkNJQjVseTFkaHdwMVJWSFByTERiLXo2TVJyNlRIcGNRaWhwTG1xNFloOU1PQQ",
       "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ",
@@ -1510,7 +1509,8 @@
       "CBMiWkFVX3lxTFBPdURHa1hMWTE2R3hINEphSExaeVB0Q1F6UUtrSUJJSU0tX25Pc1JOOElNemJYbXZoZHo2eTI0Z2hrSUprVFZxQk9yM2ZlRDBkRzNtTzdkN3Nfdw",
       "CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ",
       "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
-      "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw"
+      "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw",
+      "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ"
     ]
   },
   "pending": {
@@ -1717,6 +1717,12 @@
         "source": "요즘IT",
         "title": "스마트하게 머신러닝 적용하는 법: 2AutoML의 한계와 미래",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2024년 UX/UI 디자인 트렌드 훑어보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ?oc=5",
         "summary": ""
       }
     ],
