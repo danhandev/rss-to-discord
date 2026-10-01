@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34133",
-      "https://news.hada.io/topic?id=34134",
-      "https://news.hada.io/topic?id=34135",
-      "https://news.hada.io/topic?id=34136",
-      "https://news.hada.io/topic?id=34137",
       "https://news.hada.io/topic?id=34131",
       "https://news.hada.io/topic?id=34138",
       "https://news.hada.io/topic?id=34139",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34573",
       "https://news.hada.io/topic?id=34575",
       "https://news.hada.io/topic?id=34576",
-      "https://news.hada.io/topic?id=34577"
+      "https://news.hada.io/topic?id=34577",
+      "https://news.hada.io/topic?id=34589",
+      "https://news.hada.io/topic?id=34590",
+      "https://news.hada.io/topic?id=34591",
+      "https://news.hada.io/topic?id=34592",
+      "https://news.hada.io/topic?id=34593"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49791997",
-      "https://news.ycombinator.com/item?id=49794615",
-      "https://news.ycombinator.com/item?id=49796660",
-      "https://news.ycombinator.com/item?id=49797323",
-      "https://news.ycombinator.com/item?id=49797982",
       "https://news.ycombinator.com/item?id=49798204",
       "https://news.ycombinator.com/item?id=49799083",
       "https://news.ycombinator.com/item?id=49801329",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49912444",
       "https://news.ycombinator.com/item?id=49912955",
       "https://news.ycombinator.com/item?id=49913192",
-      "https://news.ycombinator.com/item?id=49915082"
+      "https://news.ycombinator.com/item?id=49915082",
+      "https://news.ycombinator.com/item?id=49906432",
+      "https://news.ycombinator.com/item?id=49909056",
+      "https://news.ycombinator.com/item?id=49912792",
+      "https://news.ycombinator.com/item?id=49913350",
+      "https://news.ycombinator.com/item?id=49915126"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -456,7 +456,8 @@
       "https://toss.tech/article/toss-doctor",
       "https://toss.tech/article/asset_management",
       "https://toss.tech/article/AI_chatbot",
-      "https://toss.tech/article/chipmunk"
+      "https://toss.tech/article/chipmunk",
+      "https://toss.tech/article/53545"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1310,10 +1311,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWEFVX3lxTE1NQ0pIUGVTenFiMjM3U1BGZHRaODZyc0xhQU5EQ2thNlpTMnpDVnB3eVBObFp1Sm9yazNGa2l6OHR5U19tVXh4NmhJVk9EMkRMRmRKbXlDZWM",
-      "CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ",
-      "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
-      "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw",
       "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ",
       "CBMiWEFVX3lxTFBqREU5cWFRbzB2bGVYdW9lRF9RYm9TZ1haX1VzWlJmel9QZVo3WUNJUWNEd1U0VHJEdmhiS1pLcFVmM1RfVEJGV2h0RnVQa3NpQzdKd3h4c3E",
       "CBMiWkFVX3lxTE43TC1oc1J0MTZRRnFLVEwtX2ZBRXhBUkM2U0xpYnFkbmdGSkd3YVVvU3Qyd2FEVjllRUo3c0s1eTlLa0M0M3JZZnBQaFdIYzMyWG5oSVFZYUZNdw",
@@ -1509,7 +1506,11 @@
       "CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw",
       "CBMiWkFVX3lxTE5xVkwzM1o3SDhXaF81aWJJQXJoRG9YUl9kTXhGLUhmNUJvVnBWOEY4RWpRQ2VlcGJIZXpSajdmbUd3MFREMWxIQkhjZjlQRi1SRWRDMkJuMElYQQ",
       "CBMiWkFVX3lxTE5NY1d2aEhqb3VHeUd3MnhzX2YzZWs3NjBtNzJDYUw1bnNwNDJTZHRpOUdSNVBpQk9OVXBRbU1HcEp6TXlpSk5VZXFoN0o2NlNhX2xqN0pBQktodw",
-      "CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw"
+      "CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw",
+      "CBMiWkFVX3lxTFBpX0dvelpSaTZUTUJaZDZVUW94dnJPeFF4TFRMZ284bWdRY0M0ZmNqXzhyV0E1LWdFRDNudURhYi1mdEg4akF5ck80Q2hIR1NGc0lsa2ZiU2Y2UQ",
+      "CBMiWkFVX3lxTE5PVy1HZzVoQ1dSYWhDU2wxRjltQXl1ZFR5YzY2N1BxSmdQdnZuREt2NWZ1RTBYVTBWc1kwdF80YjM5YlpzbVg0WFRXNFlKTU9lQmEtd0FwOExGZw",
+      "CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ",
+      "CBMiWkFVX3lxTFBPdURHa1hMWTE2R3hINEphSExaeVB0Q1F6UUtrSUJJSU0tX25Pc1JOOElNemJYbXZoZHo2eTI0Z2hrSUprVFZxQk9yM2ZlRDBkRzNtTzdkN3Nfdw"
     ]
   },
   "pending": {
@@ -1668,6 +1669,36 @@
         "source": "요즘IT",
         "title": "기획자들이 알아야 할 UI 기본 용어",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
+        "link": "https://toss.tech/article/53545",
+        "summary": "TopK를 감이 아닌 최적화로 정한 이야기"
+      },
+      {
+        "source": "요즘IT",
+        "title": "자바스크립트 Proxy와 Reflect, 객체를 다루는 새로운 방법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpX0dvelpSaTZUTUJaZDZVUW94dnJPeFF4TFRMZ284bWdRY0M0ZmNqXzhyV0E1LWdFRDNudURhYi1mdEg4akF5ck80Q2hIR1NGc0lsa2ZiU2Y2UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "챗GPT 연계 이후 돈 잘 버는 AI 서비스 3곳",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVy1HZzVoQ1dSYWhDU2wxRjltQXl1ZFR5YzY2N1BxSmdQdnZuREt2NWZ1RTBYVTBWc1kwdF80YjM5YlpzbVg0WFRXNFlKTU9lQmEtd0FwOExGZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "[D-6] AI로 만든 업무 도구 자랑대회 얼른 신청하세요!",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPdURHa1hMWTE2R3hINEphSExaeVB0Q1F6UUtrSUJJSU0tX25Pc1JOOElNemJYbXZoZHo2eTI0Z2hrSUprVFZxQk9yM2ZlRDBkRzNtTzdkN3Nfdw?oc=5",
         "summary": ""
       }
     ],
