@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34176",
-      "https://news.hada.io/topic?id=34177",
-      "https://news.hada.io/topic?id=34179",
-      "https://news.hada.io/topic?id=34180",
-      "https://news.hada.io/topic?id=34181",
       "https://news.hada.io/topic?id=34191",
       "https://news.hada.io/topic?id=34192",
       "https://news.hada.io/topic?id=34193",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34661",
       "https://news.hada.io/topic?id=34662",
       "https://news.hada.io/topic?id=34663",
-      "https://news.hada.io/topic?id=34664"
+      "https://news.hada.io/topic?id=34664",
+      "https://news.hada.io/topic?id=34669",
+      "https://news.hada.io/topic?id=34670",
+      "https://news.hada.io/topic?id=34671",
+      "https://news.hada.io/topic?id=34672",
+      "https://news.hada.io/topic?id=34673"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49796379",
-      "https://news.ycombinator.com/item?id=49801324",
-      "https://news.ycombinator.com/item?id=49800574",
-      "https://news.ycombinator.com/item?id=49807003",
-      "https://news.ycombinator.com/item?id=49811065",
       "https://news.ycombinator.com/item?id=49811484",
       "https://news.ycombinator.com/item?id=49812769",
       "https://news.ycombinator.com/item?id=49758709",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49927760",
       "https://news.ycombinator.com/item?id=49929113",
       "https://news.ycombinator.com/item?id=49929489",
-      "https://news.ycombinator.com/item?id=49930047"
+      "https://news.ycombinator.com/item?id=49930047",
+      "https://news.ycombinator.com/item?id=49921798",
+      "https://news.ycombinator.com/item?id=49922569",
+      "https://news.ycombinator.com/item?id=49931031",
+      "https://news.ycombinator.com/item?id=49933235",
+      "https://news.ycombinator.com/item?id=49934784"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1313,7 +1313,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE0ycFJiVW5SamgydXhNaDViQ2VDX2Y1MHdLZmFqbXdUUThTUGpyZkNJQjVseTFkaHdwMVJWSFByTERiLXo2TVJyNlRIcGNRaWhwTG1xNFloOU1PQQ",
       "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ",
       "CBMiWkFVX3lxTE5PQm9mNzhLS3p1LXQzOUhJS3FmTnF3NzNoYlI2MnZQV3U5a1VMaVdNdnRQU1BnekRnT2lHMTRiZjQxenM2TFk2QnhHYTh6ZDJybDJ3V0JHdTBSZw",
       "CBMiWkFVX3lxTE8wT2dUS3kxUXRZQUV4RDc5QkQ0UEh2eFFwd3Vydlk4QkltVm9Ka0hrODMwaThmQ0o2Yl8zXzZTQl9lUTJTR3hXcFhvdzJSbDAwWHlEYWRCVXVXUQ",
@@ -1512,7 +1511,8 @@
       "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
       "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw",
       "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ",
-      "CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ"
+      "CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ",
+      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0"
     ]
   },
   "pending": {
@@ -1743,6 +1743,12 @@
         "source": "요즘IT",
         "title": "AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "인기",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0?oc=5",
         "summary": ""
       }
     ],
