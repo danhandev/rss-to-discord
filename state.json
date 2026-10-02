@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34163",
-      "https://news.hada.io/topic?id=34164",
-      "https://news.hada.io/topic?id=34166",
-      "https://news.hada.io/topic?id=34167",
-      "https://news.hada.io/topic?id=34168",
       "https://news.hada.io/topic?id=34176",
       "https://news.hada.io/topic?id=34177",
       "https://news.hada.io/topic?id=34179",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34649",
       "https://news.hada.io/topic?id=34650",
       "https://news.hada.io/topic?id=34651",
-      "https://news.hada.io/topic?id=34652"
+      "https://news.hada.io/topic?id=34652",
+      "https://news.hada.io/topic?id=34660",
+      "https://news.hada.io/topic?id=34661",
+      "https://news.hada.io/topic?id=34662",
+      "https://news.hada.io/topic?id=34663",
+      "https://news.hada.io/topic?id=34664"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49806335",
-      "https://news.ycombinator.com/item?id=49808023",
-      "https://news.ycombinator.com/item?id=49780622",
-      "https://news.ycombinator.com/item?id=49794478",
-      "https://news.ycombinator.com/item?id=49795686",
       "https://news.ycombinator.com/item?id=49796379",
       "https://news.ycombinator.com/item?id=49801324",
       "https://news.ycombinator.com/item?id=49800574",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49924179",
       "https://news.ycombinator.com/item?id=49924618",
       "https://news.ycombinator.com/item?id=49926536",
-      "https://news.ycombinator.com/item?id=49928121"
+      "https://news.ycombinator.com/item?id=49928121",
+      "https://news.ycombinator.com/item?id=49927212",
+      "https://news.ycombinator.com/item?id=49927760",
+      "https://news.ycombinator.com/item?id=49929113",
+      "https://news.ycombinator.com/item?id=49929489",
+      "https://news.ycombinator.com/item?id=49930047"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -477,7 +477,8 @@
       "https://tech.kakao.com/posts/833",
       "https://tech.kakao.com/posts/835",
       "https://tech.kakao.com/posts/836",
-      "https://tech.kakao.com/posts/837"
+      "https://tech.kakao.com/posts/837",
+      "https://tech.kakao.com/posts/838"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1312,7 +1313,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
       "CBMiWkFVX3lxTE0ycFJiVW5SamgydXhNaDViQ2VDX2Y1MHdLZmFqbXdUUThTUGpyZkNJQjVseTFkaHdwMVJWSFByTERiLXo2TVJyNlRIcGNRaWhwTG1xNFloOU1PQQ",
       "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ",
       "CBMiWkFVX3lxTE5PQm9mNzhLS3p1LXQzOUhJS3FmTnF3NzNoYlI2MnZQV3U5a1VMaVdNdnRQU1BnekRnT2lHMTRiZjQxenM2TFk2QnhHYTh6ZDJybDJ3V0JHdTBSZw",
@@ -1511,7 +1511,8 @@
       "CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ",
       "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
       "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw",
-      "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ"
+      "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ",
+      "CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ"
     ]
   },
   "pending": {
@@ -1731,6 +1732,18 @@
         "title": "LLM이 만든 SQL을 믿고 실행하기까지: A2A 기반의 대화형 BI 애플리케이션 개발기",
         "link": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
         "summary": "들어가며안녕하세요. Game Platform실의 이형중, 김민희, 정소영입니다. 저희 조직은 게임 퍼블리싱에 필요한 다양한 기능을 개발하고 운영하는 역할을 맡고 있습니다.저희는 ‘..."
+      },
+      {
+        "source": "카카오",
+        "title": "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+        "link": "https://tech.kakao.com/posts/838",
+        "summary": "LLM 에이전트는 목표를 받으면 필요한 정보를 찾고 적절한 도구를 선택해 실행하며, 그 결과를 관찰한 뒤 다음 행동을 결정합니다. Anthropic은 에이전트를 활용한 여러 실험을 공개했습니다. Claude Sonnet 4.5로 Claude.ai를 재현하는 실험 과 Claude Opus 4.6 기반 에이전트가 Rust로 Linux 6.9 커널을 빌드할 수 있는 C 컴파일러를 개발한 사례를 소개했습니다. 이처럼 모델의 성능이 높아지면서 에이전트가 자율적으..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": [
