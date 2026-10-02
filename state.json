@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34155",
-      "https://news.hada.io/topic?id=34157",
-      "https://news.hada.io/topic?id=34158",
-      "https://news.hada.io/topic?id=34159",
-      "https://news.hada.io/topic?id=34160",
       "https://news.hada.io/topic?id=34163",
       "https://news.hada.io/topic?id=34164",
       "https://news.hada.io/topic?id=34166",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34637",
       "https://news.hada.io/topic?id=34638",
       "https://news.hada.io/topic?id=34639",
-      "https://news.hada.io/topic?id=34640"
+      "https://news.hada.io/topic?id=34640",
+      "https://news.hada.io/topic?id=34648",
+      "https://news.hada.io/topic?id=34649",
+      "https://news.hada.io/topic?id=34650",
+      "https://news.hada.io/topic?id=34651",
+      "https://news.hada.io/topic?id=34652"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49805509",
-      "https://news.ycombinator.com/item?id=49806430",
-      "https://news.ycombinator.com/item?id=49803635",
-      "https://news.ycombinator.com/item?id=49805278",
-      "https://news.ycombinator.com/item?id=49805748",
       "https://news.ycombinator.com/item?id=49806335",
       "https://news.ycombinator.com/item?id=49808023",
       "https://news.ycombinator.com/item?id=49780622",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49923692",
       "https://news.ycombinator.com/item?id=49925969",
       "https://news.ycombinator.com/item?id=49926069",
-      "https://news.ycombinator.com/item?id=49926628"
+      "https://news.ycombinator.com/item?id=49926628",
+      "https://news.ycombinator.com/item?id=49922674",
+      "https://news.ycombinator.com/item?id=49924179",
+      "https://news.ycombinator.com/item?id=49924618",
+      "https://news.ycombinator.com/item?id=49926536",
+      "https://news.ycombinator.com/item?id=49928121"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -643,7 +643,8 @@
       "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
       "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
       "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
-      "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation"
+      "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
+      "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1724,6 +1725,12 @@
         "title": "2024년 UX/UI 디자인 트렌드 훑어보기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "LINE",
+        "title": "LLM이 만든 SQL을 믿고 실행하기까지: A2A 기반의 대화형 BI 애플리케이션 개발기",
+        "link": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+        "summary": "들어가며안녕하세요. Game Platform실의 이형중, 김민희, 정소영입니다. 저희 조직은 게임 퍼블리싱에 필요한 다양한 기능을 개발하고 운영하는 역할을 맡고 있습니다.저희는 ‘..."
       }
     ],
     "weekly-finance": [
