@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34230",
-      "https://news.hada.io/topic?id=34231",
-      "https://news.hada.io/topic?id=34232",
-      "https://news.hada.io/topic?id=34233",
-      "https://news.hada.io/topic?id=34234",
       "https://news.hada.io/topic?id=34241",
       "https://news.hada.io/topic?id=34242",
       "https://news.hada.io/topic?id=34243",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34706",
       "https://news.hada.io/topic?id=34707",
       "https://news.hada.io/topic?id=34708",
-      "https://news.hada.io/topic?id=34709"
+      "https://news.hada.io/topic?id=34709",
+      "https://news.hada.io/topic?id=34718",
+      "https://news.hada.io/topic?id=34719",
+      "https://news.hada.io/topic?id=34720",
+      "https://news.hada.io/topic?id=34721",
+      "https://news.hada.io/topic?id=34722"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49824268",
-      "https://news.ycombinator.com/item?id=49824686",
-      "https://news.ycombinator.com/item?id=49826221",
-      "https://news.ycombinator.com/item?id=49826565",
-      "https://news.ycombinator.com/item?id=49827794",
       "https://news.ycombinator.com/item?id=49828385",
       "https://news.ycombinator.com/item?id=49828409",
       "https://news.ycombinator.com/item?id=49829387",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49927747",
       "https://news.ycombinator.com/item?id=49927754",
       "https://news.ycombinator.com/item?id=49933230",
-      "https://news.ycombinator.com/item?id=49941091"
+      "https://news.ycombinator.com/item?id=49941091",
+      "https://news.ycombinator.com/item?id=49925974",
+      "https://news.ycombinator.com/item?id=49937540",
+      "https://news.ycombinator.com/item?id=49941447",
+      "https://news.ycombinator.com/item?id=49942706",
+      "https://news.ycombinator.com/item?id=49943034"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1313,7 +1313,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ",
       "CBMiWkFVX3lxTE5PQm9mNzhLS3p1LXQzOUhJS3FmTnF3NzNoYlI2MnZQV3U5a1VMaVdNdnRQU1BnekRnT2lHMTRiZjQxenM2TFk2QnhHYTh6ZDJybDJ3V0JHdTBSZw",
       "CBMiWkFVX3lxTE8wT2dUS3kxUXRZQUV4RDc5QkQ0UEh2eFFwd3Vydlk4QkltVm9Ka0hrODMwaThmQ0o2Yl8zXzZTQl9lUTJTR3hXcFhvdzJSbDAwWHlEYWRCVXVXUQ",
       "CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ",
@@ -1512,7 +1511,8 @@
       "CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw",
       "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ",
       "CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ",
-      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0"
+      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
+      "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ"
     ]
   },
   "pending": {
@@ -1749,6 +1749,12 @@
         "source": "요즘IT",
         "title": "인기",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "육아하며 바이브 코딩으로 만든 앱, 앱스토어 1위까지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ?oc=5",
         "summary": ""
       }
     ],
