@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34306",
-      "https://news.hada.io/topic?id=34308",
-      "https://news.hada.io/topic?id=34309",
-      "https://news.hada.io/topic?id=34310",
-      "https://news.hada.io/topic?id=34311",
       "https://news.hada.io/topic?id=34316",
       "https://news.hada.io/topic?id=34317",
       "https://news.hada.io/topic?id=34318",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=34786",
       "https://news.hada.io/topic?id=34787",
       "https://news.hada.io/topic?id=34788",
-      "https://news.hada.io/topic?id=34789"
+      "https://news.hada.io/topic?id=34789",
+      "https://news.hada.io/topic?id=34800",
+      "https://news.hada.io/topic?id=34802",
+      "https://news.hada.io/topic?id=34803",
+      "https://news.hada.io/topic?id=34804",
+      "https://news.hada.io/topic?id=34805"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49842084",
-      "https://news.ycombinator.com/item?id=49845172",
-      "https://news.ycombinator.com/item?id=49848269",
-      "https://news.ycombinator.com/item?id=49848295",
       "https://news.ycombinator.com/item?id=49845998",
       "https://news.ycombinator.com/item?id=49849141",
       "https://news.ycombinator.com/item?id=49849832",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=49952111",
       "https://news.ycombinator.com/item?id=49917536",
       "https://news.ycombinator.com/item?id=49957068",
-      "https://news.ycombinator.com/item?id=49957116"
+      "https://news.ycombinator.com/item?id=49957116",
+      "https://news.ycombinator.com/item?id=49910465",
+      "https://news.ycombinator.com/item?id=49956681",
+      "https://news.ycombinator.com/item?id=49959869",
+      "https://news.ycombinator.com/item?id=49960084"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1517,339 +1517,7 @@
     ]
   },
   "pending": {
-    "weekly-tech": [
-      {
-        "source": "요즘IT",
-        "title": "[참가 모집] AI 고수들의 로컬앱/자동화 구경오세요!",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RDVEM0VmcUtkb3g2WjJ2NV8zVG1QTkNSVUg3bjBnMmVrOXhHY0prWkhQeTk5Vzlodk9FOGw4ekZHc3lOcDBjOTRhVXZfWnRfeDY4SU9Db1cxUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "UX 디자인과 정보구조 설계: 1 정보구조(IA)의 개념과 종류",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper'",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "컴포넌트 스터디: 1팝업, 바텀시트, 스낵바",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "NAVER D2",
-        "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기",
-        "link": "https://d2.naver.com/helloworld/7314597",
-        "summary": "TApplicationException · UNKNOWN_METHOD Invalid method name: 'get_table' 이 글은 네이버의 Hadoop 플랫폼인 C3의 Metastore를 Apache Hive 4.2로 올리는 과정에서 Spark 잡(job)이 실패한 현상과 그 원인을 추적해, Metastore Thrift 인터페이스에서 조용히 사라졌던 RPC 하나를 복원하기까지의 과정을 다룹니다. 코드 변경 자체는 IDL 두 줄과 서버 구현 몇 줄이 전부지만, 그 이면에는 Thrift…"
-      },
-      {
-        "source": "요즘IT",
-        "title": "5 Whys로 '진짜' 문제 찾기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "클로드로 PPT 만들기: 템플릿 스킬 제작 4단계",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUENZWXN2ZFg4aUVFd0plaWZoYnV1ZnBqeHBEOHpsT0lNaGtjUGlLa2d2eHhvLUUwYnBZbnZER3hmci1DV3FnZmV5amRpSzdnZVA2Y0poalkxZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "사이드 프로젝트 도전기: 1팀 결성부터 서비스 런칭까지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "야놀자vs여기어때, 국내 숙박 앱 강자는?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "어떤 노코드 툴을 써야 하나요?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "\"AI 도입하고 싶다\" 한마디가 8억 견적서 되는 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "클로드 코드 hook 재귀 루프 사고로 토큰 60M 날리고 배운 것",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcTJMbXVid0RKVjNHNHlRQXpPZE5NQzhDaWxEa19OQ2g1LXVwYU5oRnR4N0ozWlRGb3UzWFZoVXJRTm9rOXZQQ19pazdNdWluTXNiN25SM0NLdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
-        "link": "https://toss.tech/article/chipmunk",
-        "summary": "가입하고 한 번도 열어보지 않던 적금을, 매일 열어보게 만들었어요."
-      },
-      {
-        "source": "NAVER D2",
-        "title": "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
-        "link": "https://d2.naver.com/helloworld/8118359",
-        "summary": "네이버 사내 Tech Meetup에서 발표되었던 인기 세션을 공유합니다. ​ 에이전트를 개발하다 보면 같은 개념을 서로 다른 뜻으로 쓰고 있어서 논의가 겉도는 경험, 한 번쯤 해보셨을 것 같습니다. ​ \"이거 에이전트인가요?\" \"하네스를 만들어야죠\" — 그런데 하네스가 정확히 무엇인가요? \"Context 에 넣어두면 되죠\" \"그건 Memory 아닌가요?\" \"그건 MCP 인가요 A2A 인가요? 기존 REST API 랑 뭐가 다른가요?\" ​ 사실 이 개념들은 사외에서도 정리가 덜 된 것들입니다.…"
-      },
-      {
-        "source": "당근",
-        "title": "당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기",
-        "link": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%8F%99%EB%84%A4%EA%B1%B7%EA%B8%B0-%EC%9C%84%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-097551289b2a?source=rss----4505f82a2dbd---4",
-        "summary": "들어가며 안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 카멜(진나영)이에요. 당근 동네걷기 는 걸음 수를 기록하고 보상을 제공하는 서비스예요. 그런데 모달, 바텀시트, OS 권한 팝업이 각기 다른 조건에서 열리다 보니, 한 화면에 여러 UI가 겹쳐 나타나는 문제 가 있었어요. 이 글은 제가 이 복잡도를 어떻게 풀었는지에 대한 기록이에요. 다만 “이렇게 만들었습니다” 보다는, 어떻게 문제를 정의하고 고민하며 해결해나갔는지 서술해보려고 해요. 이런 분들이 읽으면 재미있을…"
-      },
-      {
-        "source": "요즘IT",
-        "title": "GPT-5.6 ‘제한 공개’ 사건의 전말",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "JavaScript 번들러로 본 조선시대 붕당의 이해",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RV1FzOTRBZnQzREhnQXh1VHhja0dUaUVvbjRsaW1KVzR6eDM2OUpTNjlsR0RLZ3kzcmg5Ti1hMzgzdzZReXdQXzJIVkR4OWtvMGRpbWxNU2NrZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "디논 작가의 페이지",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "커뮤니티 서비스 만들지 마세요, 어차피 실패합니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "[AI 빌더 스쿨] 멀티모달 RAG 실제 제품에 적용하려면? (w. 사이오닉AI)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsUmRzLU1ybVpGQ2s5bnp2SjdnWGk5SVFoV0VmSlJFUlZnVHNHTEFBLXFZLTY1eFdoTW5HUldKX1Z5dk1vVHlXX3k0Vm5JTW42UFRvNnpxYnZXQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "SSR 시작하기 전 알아야 할 것들 (feat. CSR)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Q1diU0xTd1RtTF9MTzJEQmJKcjRUdndJV1ptVWI4NXdhUUpsS0hXY0x5SFlObzhQUGpKQjItWnMybEpNdjZhMkxNaW80eFFKa0tKTVlHaVpMdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획자로서 알아야 하는 MVP 개발 방법론",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVkwzM1o3SDhXaF81aWJJQXJoRG9YUl9kTXhGLUhmNUJvVnBWOEY4RWpRQ2VlcGJIZXpSajdmbUd3MFREMWxIQkhjZjlQRi1SRWRDMkJuMElYQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "“솔직히 우리가 하는 것은 스크럼이 아닙니다!”",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NY1d2aEhqb3VHeUd3MnhzX2YzZWs3NjBtNzJDYUw1bnNwNDJTZHRpOUdSNVBpQk9OVXBRbU1HcEp6TXlpSk5VZXFoN0o2NlNhX2xqN0pBQktodw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획자들이 알아야 할 UI 기본 용어",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
-        "link": "https://toss.tech/article/53545",
-        "summary": "TopK를 감이 아닌 최적화로 정한 이야기"
-      },
-      {
-        "source": "요즘IT",
-        "title": "자바스크립트 Proxy와 Reflect, 객체를 다루는 새로운 방법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpX0dvelpSaTZUTUJaZDZVUW94dnJPeFF4TFRMZ284bWdRY0M0ZmNqXzhyV0E1LWdFRDNudURhYi1mdEg4akF5ck80Q2hIR1NGc0lsa2ZiU2Y2UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "챗GPT 연계 이후 돈 잘 버는 AI 서비스 3곳",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVy1HZzVoQ1dSYWhDU2wxRjltQXl1ZFR5YzY2N1BxSmdQdnZuREt2NWZ1RTBYVTBWc1kwdF80YjM5YlpzbVg0WFRXNFlKTU9lQmEtd0FwOExGZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "[D-6] AI로 만든 업무 도구 자랑대회 얼른 신청하세요!",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPdURHa1hMWTE2R3hINEphSExaeVB0Q1F6UUtrSUJJSU0tX25Pc1JOOElNemJYbXZoZHo2eTI0Z2hrSUprVFZxQk9yM2ZlRDBkRzNtTzdkN3Nfdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "토스가 유저의 리텐션을 높이는 법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "프리랜서 하시게요? 그럼 기획을 잘 하셔야겠네요?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "스마트하게 머신러닝 적용하는 법: 2AutoML의 한계와 미래",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6bnNUWHlmZmdPQkJrd1B6YWpwc3kyMHJMN2lBYVpjblk4NDBXUU5LY3FLNUg1UkMzeHd1Xy12LXI2cGlIVndUek5pOG1rdklqUlo1TnVGeVZpdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "2024년 UX/UI 디자인 트렌드 훑어보기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "LINE",
-        "title": "LLM이 만든 SQL을 믿고 실행하기까지: A2A 기반의 대화형 BI 애플리케이션 개발기",
-        "link": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
-        "summary": "들어가며안녕하세요. Game Platform실의 이형중, 김민희, 정소영입니다. 저희 조직은 게임 퍼블리싱에 필요한 다양한 기능을 개발하고 운영하는 역할을 맡고 있습니다.저희는 ‘..."
-      },
-      {
-        "source": "카카오",
-        "title": "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
-        "link": "https://tech.kakao.com/posts/838",
-        "summary": "LLM 에이전트는 목표를 받으면 필요한 정보를 찾고 적절한 도구를 선택해 실행하며, 그 결과를 관찰한 뒤 다음 행동을 결정합니다. Anthropic은 에이전트를 활용한 여러 실험을 공개했습니다. Claude Sonnet 4.5로 Claude.ai를 재현하는 실험 과 Claude Opus 4.6 기반 에이전트가 Rust로 Linux 6.9 커널을 빌드할 수 있는 C 컴파일러를 개발한 사례를 소개했습니다. 이처럼 모델의 성능이 높아지면서 에이전트가 자율적으..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI 에이전트 브라우저를 따로 써야 할까? ego(lite) 사용기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVWVTMDZtQUxlZzhvbzlRMkZKbWxhaF9sRW85MEhTbXBQQWRxMzVfWVZhMlowSGdlYkZ4WlFjOEFQZTg0MW01RkpYU0tYRlkzb3QyYWpWSUVjUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "인기",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "육아하며 바이브 코딩으로 만든 앱, 앱스토어 1위까지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "하네스 엔지니어링(harness engineering)으로 팀 맞춤형 AI 환경 구축하기",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpTnYzb2FnYkhWRDFqSVA1bm42aWxpb21QYlR2OVA0bDNSdUJXOWVJMEV2Mlp5T3h2a2xLWjI2RlZjWWtabndFZy1FVkM?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "웹과 모바일을 함께 기획할 때 고려하면 좋은 것들",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UU0NWYVpMN05nT29XNWM3RFpOZEJWaUxEUnlDMk81cWNjMWw5bGR6dUk0all1Qm5wcmJ0RXllbUl5c25kSWlVaV9qMnhEeEVKb1pRNk9qNE84QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "오픈AI DevDay에서 나온, 써볼 만한 ChatGPT 기능 3가지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw?oc=5",
-        "summary": ""
-      }
-    ],
-    "weekly-finance": [
-      {
-        "source": "금융위 보도자료",
-        "title": "골드만삭스, 블랙록, 日 금융청, UN PRI 등 글로벌 핵심 투자자‧기관 등 한 자리에... 「Korea Premium Weeks 2026」 성황리 개막  - 금융위원회‧한국거래소 공동으로 최초 개최,     3주간 K-자본시장 대표 IR 대장정 돌입 -",
-        "link": "https://www.fsc.go.kr/no010101/87793",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "이억원 금융위원장,  골드만삭스(Goldman Sachs) 아‧태 대표 및  블랙록(Blackrock) 글로벌 파트너스 공동 총괄 면담",
-        "link": "https://www.fsc.go.kr/no010101/87797",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "이억원 금융위원장,  유엔 책임투자원칙(PRI) 이사회 의장 면담",
-        "link": "https://www.fsc.go.kr/no010101/87800",
-        "summary": "자세한 내용은 첨부파일 참고 부탁드립니다."
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "이억원 금융위원장 일본 금융청장 면담  - 한-일 금융시장 정책‧동향을 공유하고,     양국 간 지속적인 금융 협력 강화를 약속",
-        "link": "https://www.fsc.go.kr/no010101/87805",
-        "summary": "[코리아 프리미엄 위크 2026] 이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속 - 이억원 금융위원장 은 9월 29일(화) 이토 유타카 (Ito Yutaka) 일본 금융청장 과 면담 하였다. 이토 금융청장 은 전일 코리아 프리미엄 위크 개막식 에 참석 하여 그간 한국 정부 가 자본시장 체질 개선 을 위해 지속 해 온 다각 적인 정책 노력 을 생생히 확인 할 수 있었다고 말하며, 앞으로도 양국 에서 추진 중 인 자본시장…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
-        "link": "https://www.fsc.go.kr/no010101/87807",
-        "summary": "합동대응단은 명문대 경영동아리 출신 정보카르텔 을 적발 하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다. - 금융위·금감원·거래소 ｢주가조작 근절 합동대응단｣ (단장 황선오) 은 상장사 공개매수 등 지배구조 개편 또는 M&A 정보 를 이용 하여 200 억원 이상 의 부당이득을 취한 미공개정보 이용세력 을 적발 하였습니다. - 본 사건의 핵심 혐의자들은 명문대 경영동아리 , 글로벌 컨설팅회사 출신 으로 일종의 ‘ 정보카르텔 ’을 형성 하고, 상장사 내부정보 를 공유 하며 가족 ･ 지인 들을…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "이억원 금융위원장, 글로벌 증시 핵심 인프라 기관  美 나스닥(Nasdaq), 美 DTCC*, 홍콩거래소(HKEX) 면담",
-        "link": "https://www.fsc.go.kr/no010101/87812",
-        "summary": "[코리아 프리미엄 위크 2026] 이억원 금융위원장, 글로벌 증시 핵심 인프라 기관 美 나스닥 (Nasdaq) , 美 DTCC * , 홍콩거래소 (HKEX) 면담 * 美 증권예탁결제원(Depository Trust & Clearing Corporation) - 토큰증권 발전방향 , 결제주기 단축 (T+1일) 등 미래 자본시장 과제와, 세그먼트 분리 , 상장폐지 등 시장 역동성 제고 를 위한 주요 정책 에 대한 美 ‧ 홍콩 의 경험과 동향 을 공유하고 향후 협력 방안 을 논의 이억원 금융위원장 은…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다.",
-        "link": "https://www.fsc.go.kr/no010101/87818",
-        "summary": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다. ◈ 소비자가 앱으로 요청 하면 병원 이 실손보험금 청구서류 를 보험회사로 자동 으로 보내주는 실손보험 청구전산화 시행 (‘24.10.25일) 2년 이 경과 ㅇ 매년 수천억원 에 달하는 未청구 실손보험금 을 국민께 돌려드릴 수 있는 제도로, 현재 전국 약 5만개 병·의원 및 약국 에서 사용 가능 * 현재 전체 의료기관 105,643개 중 50,340개(47.7%) 연계 (9.28일 기준) ◈ 연말 까지 병·의원의 실손24 연계율 80~90%…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "권대영 부위원장,제2차 국민참여성장펀드 출시 첫날펀드가입 및 현장점검",
-        "link": "https://www.fsc.go.kr/no010101/87819",
-        "summary": "권대영 부위원장, 제2차 국민참여성장펀드 출시 첫날 펀드가입 및 현장점검 권대영 금융위 부위원장 은 9월 30일(수), 제2차 국민참여형 국민성장펀드 (이하 ‘ 국민참여성장펀드 ’) 판매처 중 하나인 NH농협은행 정부서울청사지 점을 방문해 펀드에 가입 하였다. ※ 국민참여성장펀드 주요내용은 <붙임> 참조 권 부위원장 은 일반 국민들이 펀드 가입 시 거치게 되는 투자자 성향 분석 , 펀드 중요사항 확인 (투자설명서, 약관 등) 등 펀드 가입 과정의 전반 을 직접 경험 하며, 가입 절차상의 편의성과…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전  달라진 절차와 주요일정을 확인하세요.",
-        "link": "https://www.fsc.go.kr/no010101/87820",
-        "summary": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전 달라진 절차와 주요일정을 확인하세요. ▪ 10월 7~16일 (토·일·공휴일 제외) 까지 가입신청 , 가입심사 통과자 는 11월 16~27일 (토·일 제외) 중 계좌개설 ▪ 소상공인으로 가입신청 을 하는 경우, 운영 중인 모든 사업장 의 ‘ 소상공인확인서 ’를 청년미래적금 가입신청 전 에 발급할 필요 ▪ 청년도약계좌 가입자 의 청년미래적금 ‘갈아타기’ 기회 추가 제공 ▪ 신청단계에서 가입유형 을 직접 선택 하고, 사전심사 결과 안내 및…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "전남광주에서 서민·취약계층과 소상공인을 위한  희망사다리를 놓겠습니다  - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식  및 지역 소상공인 현장 간담회 참석",
-        "link": "https://www.fsc.go.kr/no010101/87821",
-        "summary": "전남광주 에서 서민·취약계층과 소상공인 을 위한 희망사다리 를 놓겠습니다 - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 및 지역 소상공인 현장 간담회 참석 -  민·관 협업 을 통해 금융-고용-복지 복합지원과 지역 민간 금 융 을 한 곳에서 아우르는 「서민금융 복합지원센터」를 전국 2번째 로 전남광주 에서 개소 - 광주은행과 협업 하여 복합지원 이용 주민과 소상공인 대상 금리 우대 등 특화 대출·적금 상품 (전남광주 희망사다리) 출시 및 찾아가는 복합지원 활성화 - 아울러,…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "은행업감독규정 규정변경예고 실시  ※예고기간 ‘26.9.30일 ~ 11.9일",
-        "link": "https://www.fsc.go.kr/no010101/87824",
-        "summary": "은행업감독규정 규정변경예고 실시 ※ 예고기간 ‘26.9.30일 ~ 11.9일 ✓ ➊ 인터넷은행 대면업무 범위 의 합리적 조정, ➋ 외화결제계좌 의 신용공여 제외 , ➌ 부동산PF 신용공여한도 도입, ➍ 특수은행 경영실태평가 개편 등을 위한 은행업감독규정 개정 추진 ✓ 규정변경예고 (’26.9.30일~11.9일)를 통해 의견수렴 후 금융위원회 의결 (’26.12.2일 잠정 )을 거쳐 시행 * * 부동산PF 신용공여한도 규제는 ’27.1.1일 시행(3년 경과조치 부과) ’26.9.30.(수)…"
-      },
-      {
-        "source": "금융위 보도자료",
-        "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(9.30일)",
-        "link": "https://www.fsc.go.kr/no010101/87825",
-        "summary": "*자세한 내용은 첨부파일을 확인하세요"
-      }
-    ]
+    "weekly-tech": [],
+    "weekly-finance": []
   }
 }
