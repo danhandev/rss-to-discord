@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34342",
-      "https://news.hada.io/topic?id=34343",
-      "https://news.hada.io/topic?id=34344",
-      "https://news.hada.io/topic?id=34345",
-      "https://news.hada.io/topic?id=34347",
       "https://news.hada.io/topic?id=34348",
       "https://news.hada.io/topic?id=34350",
       "https://news.hada.io/topic?id=34351",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34857",
       "https://news.hada.io/topic?id=34858",
       "https://news.hada.io/topic?id=34859",
-      "https://news.hada.io/topic?id=34860"
+      "https://news.hada.io/topic?id=34860",
+      "https://news.hada.io/topic?id=34876",
+      "https://news.hada.io/topic?id=34879",
+      "https://news.hada.io/topic?id=34880",
+      "https://news.hada.io/topic?id=34881",
+      "https://news.hada.io/topic?id=34882"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49842764",
-      "https://news.ycombinator.com/item?id=49854161",
-      "https://news.ycombinator.com/item?id=49854416",
-      "https://news.ycombinator.com/item?id=49857442",
-      "https://news.ycombinator.com/item?id=49857899",
       "https://news.ycombinator.com/item?id=49829202",
       "https://news.ycombinator.com/item?id=49836579",
       "https://news.ycombinator.com/item?id=49854875",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49965308",
       "https://news.ycombinator.com/item?id=49969183",
       "https://news.ycombinator.com/item?id=49970667",
-      "https://news.ycombinator.com/item?id=49971846"
+      "https://news.ycombinator.com/item?id=49971846",
+      "https://news.ycombinator.com/item?id=49971230",
+      "https://news.ycombinator.com/item?id=49971523",
+      "https://news.ycombinator.com/item?id=49971719",
+      "https://news.ycombinator.com/item?id=49971921",
+      "https://news.ycombinator.com/item?id=49973598"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -661,7 +661,8 @@
       "https://medium.com/p/34dd50abbfb7",
       "https://medium.com/p/db1aa92af5e4",
       "https://medium.com/p/a50dd4b7b44c",
-      "https://medium.com/p/097551289b2a"
+      "https://medium.com/p/097551289b2a",
+      "https://medium.com/p/5340546886b5"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -1314,7 +1315,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBCV0tCWWtoc2o4VFdCbVY0UVNWaUVZVUJvQm9YTm9BQVQtcFBjc3FKYy0wVzd3MnVRS1JveFp3V2w4akx3SU5FRHNqVkdyMV81aER2bTI4b2k0UQ",
       "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw",
       "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw",
       "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
@@ -1513,11 +1513,25 @@
       "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
       "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ",
       "CBMiWkFVX3lxTE9UU0NWYVpMN05nT29XNWM3RFpOZEJWaUxEUnlDMk81cWNjMWw5bGR6dUk0all1Qm5wcmJ0RXllbUl5c25kSWlVaV9qMnhEeEVKb1pRNk9qNE84QQ",
-      "CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw"
+      "CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw",
+      "CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "당근",
+        "title": "한 문장으로 앱을 테스트하기까지",
+        "link": "https://medium.com/daangn/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-5340546886b5?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요! 당근 모바일실에서 Test Automation Engineer로 일하고 있는 Lily예요. 모바일실은 여러 팀이 당근 앱을 더 빠르고 안정적으로 만들 수 있게 그 바탕이 되는 플랫폼을 만드는 곳이에요. 그 안에서 저는 테스트 자동화를 맡고 있어요. 실제 기기에서 테스트를 실행할 수 있는 기반을 만들고, 매일 안정적으로 돌아가도록 다듬고 있어요. 각 팀이 직접 품질을 확인할 수 있게 하는 게 목표예요. 이 글에서는 QAHub를 만들면서 풀었던 문제들을 이야기해보려고 해요. 한 문장으로…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 네이티브 팀은 저장소에 뭘 남길까? 딥시크 하네스 분석",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
