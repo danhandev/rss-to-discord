@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34373",
-      "https://news.hada.io/topic?id=34374",
-      "https://news.hada.io/topic?id=34375",
-      "https://news.hada.io/topic?id=34376",
-      "https://news.hada.io/topic?id=34377",
       "https://news.hada.io/topic?id=34384",
       "https://news.hada.io/topic?id=34385",
       "https://news.hada.io/topic?id=34386",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34903",
       "https://news.hada.io/topic?id=34904",
       "https://news.hada.io/topic?id=34905",
-      "https://news.hada.io/topic?id=34906"
+      "https://news.hada.io/topic?id=34906",
+      "https://news.hada.io/topic?id=34922",
+      "https://news.hada.io/topic?id=34923",
+      "https://news.hada.io/topic?id=34924",
+      "https://news.hada.io/topic?id=34925",
+      "https://news.hada.io/topic?id=34927"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49856988",
-      "https://news.ycombinator.com/item?id=49862809",
-      "https://news.ycombinator.com/item?id=49863864",
-      "https://news.ycombinator.com/item?id=49853137",
-      "https://news.ycombinator.com/item?id=49854219",
       "https://news.ycombinator.com/item?id=49857656",
       "https://news.ycombinator.com/item?id=49864642",
       "https://news.ycombinator.com/item?id=49867486",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49977531",
       "https://news.ycombinator.com/item?id=49980487",
       "https://news.ycombinator.com/item?id=49980715",
-      "https://news.ycombinator.com/item?id=49983703"
+      "https://news.ycombinator.com/item?id=49983703",
+      "https://news.ycombinator.com/item?id=49981905",
+      "https://news.ycombinator.com/item?id=49984025",
+      "https://news.ycombinator.com/item?id=49984716",
+      "https://news.ycombinator.com/item?id=49984923",
+      "https://news.ycombinator.com/item?id=49985664"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1318,7 +1318,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE8td3JQQno5Q2xZU09nc1Uzc1dZNjNkWnNFRVRBWWRCYTNXZ1JRQXJUV05aQTRkaHBRdUlQcWk2eUNyN01tU3gzU205Vmw4QVlUTXRIZlBkUGJDZw",
       "CBMiWkFVX3lxTE1OSjQyTFNYZ0N0bExJRUhzMnhrcHVVbUc5bHFoaGM0cndSekNzZ3dJQU1Ecy1ZTGpSUjdPZ0lKMkhDV2dsM2dhQ1RiSUJZYlVKYlhhNGY5OWZQdw",
       "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
       "CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw",
@@ -1517,7 +1516,8 @@
       "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ",
       "CBMiWkFVX3lxTE9UU0NWYVpMN05nT29XNWM3RFpOZEJWaUxEUnlDMk81cWNjMWw5bGR6dUk0all1Qm5wcmJ0RXllbUl5c25kSWlVaV9qMnhEeEVKb1pRNk9qNE84QQ",
       "CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw",
-      "CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ"
+      "CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ",
+      "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw"
     ]
   },
   "pending": {
@@ -1545,6 +1545,12 @@
         "title": "Aurora MySQL 인덱스 DDL이 Reader 버퍼풀을 비운다?",
         "link": "https://medium.com/daangn/aurora-mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-ddl%EC%9D%B4-reader-%EB%B2%84%ED%8D%BC%ED%92%80%EC%9D%84-%EB%B9%84%EC%9A%B4%EB%8B%A4-16c6328dea50?source=rss----4505f82a2dbd---4",
         "summary": "미사용 인덱스를 정리하다 만난 Aurora 엔진 결함, 그리고 3.14 릴리즈까지 안녕하세요. 당근 DB팀에서 근무하고 있는 Eden(이든)이에요. 당근 DB팀에서는 Aurora MySQL / Aurora PostgreSQL 및 MongoDB 를 운영하고 있어요. 이번에 Aurora MySQL 을 운영하며 경험했던 이슈를 소개해 드리려고 해요. “인덱스를 INVISIBLE 로 바꾸는 건 메타데이터만 건드리는 작업이니까 DB 에 부하를 주지 않는다.” DBA 라면 누구나 이렇게 말할 거예요. 저도…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "프로덕트 팀의 신뢰를 ‘자산’처럼 관리해야 하는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
