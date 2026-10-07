@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34399",
-      "https://news.hada.io/topic?id=34403",
-      "https://news.hada.io/topic?id=34404",
-      "https://news.hada.io/topic?id=34405",
-      "https://news.hada.io/topic?id=34406",
       "https://news.hada.io/topic?id=34395",
       "https://news.hada.io/topic?id=34396",
       "https://news.hada.io/topic?id=34397",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34936",
       "https://news.hada.io/topic?id=34938",
       "https://news.hada.io/topic?id=34939",
-      "https://news.hada.io/topic?id=34940"
+      "https://news.hada.io/topic?id=34940",
+      "https://news.hada.io/topic?id=34956",
+      "https://news.hada.io/topic?id=34957",
+      "https://news.hada.io/topic?id=34958",
+      "https://news.hada.io/topic?id=34959",
+      "https://news.hada.io/topic?id=34960"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49868830",
-      "https://news.ycombinator.com/item?id=49868831",
-      "https://news.ycombinator.com/item?id=49866515",
-      "https://news.ycombinator.com/item?id=49866951",
-      "https://news.ycombinator.com/item?id=49867067",
       "https://news.ycombinator.com/item?id=49869574",
       "https://news.ycombinator.com/item?id=49870367",
       "https://news.ycombinator.com/item?id=49849409",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49986862",
       "https://news.ycombinator.com/item?id=49987076",
       "https://news.ycombinator.com/item?id=49988230",
-      "https://news.ycombinator.com/item?id=49990224"
+      "https://news.ycombinator.com/item?id=49990224",
+      "https://news.ycombinator.com/item?id=49993857",
+      "https://news.ycombinator.com/item?id=49993914",
+      "https://news.ycombinator.com/item?id=49994443",
+      "https://news.ycombinator.com/item?id=49996425",
+      "https://news.ycombinator.com/item?id=49996437"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1163,7 +1163,8 @@
       "CBMiTEFVX3lxTE9xLUVhZVBqYm4wakQ2QVZSOEFtMVViWlI4a1lUQmVhNkZ5eVdaQ0pRYS1kR0cxenVBMXpqWHhvMEFnandDd2lCUU5LNUc",
       "CBMiS0FVX3lxTE03RDZqbjBTSTVKMWM4Rk9oempzY1Q3SDFIVS0xdGlaZXBuWlBDQ2c2YVhiUjFYNElNWnByU2pfQ1c3TGJTYndEVE0xRQ",
       "CBMiTEFVX3lxTFBpTnYzb2FnYkhWRDFqSVA1bm42aWxpb21QYlR2OVA0bDNSdUJXOWVJMEV2Mlp5T3h2a2xLWjI2RlZjWWtabndFZy1FVkM",
-      "CBMiTEFVX3lxTE1hSTFFYm5keU4tQl9GYTE2eVFXTTBRc3RlWEJqMHpfRkQ5R0YyblcweFZLaHozaE5xXzZNUlJfdEhxaVlwVC1wYVF3ejc"
+      "CBMiTEFVX3lxTE1hSTFFYm5keU4tQl9GYTE2eVFXTTBRc3RlWEJqMHpfRkQ5R0YyblcweFZLaHozaE5xXzZNUlJfdEhxaVlwVC1wYVF3ejc",
+      "CBMiTEFVX3lxTFBGSVJrT19DT3BRUHZmaF82ZDdzMTNyWk1NUjFobk56S19XNDR3UWtleEkyaTNTbHE5OVdMWEZkNEtuQUg1R2VTejRwY3c"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1565,6 +1566,12 @@
         "title": "FE News 26년 10월 소식을 전해드립니다.",
         "link": "https://d2.naver.com/news/8711937",
         "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번 공개한 API는 바꾸지 않는 원칙, TypeScript 서버에서 출발한 LSP, UI와 확장 호스트를…"
+      },
+      {
+        "source": "우아한형제들",
+        "title": "플랫폼 행성에 떨어진 서비스 개발자",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGSVJrT19DT3BRUHZmaF82ZDdzMTNyWk1NUjFobk56S19XNDR3UWtleEkyaTNTbHE5OVdMWEZkNEtuQUg1R2VTejRwY3c?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
