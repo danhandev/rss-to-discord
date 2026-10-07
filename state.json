@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34384",
-      "https://news.hada.io/topic?id=34385",
-      "https://news.hada.io/topic?id=34386",
-      "https://news.hada.io/topic?id=34387",
-      "https://news.hada.io/topic?id=34388",
       "https://news.hada.io/topic?id=34399",
       "https://news.hada.io/topic?id=34403",
       "https://news.hada.io/topic?id=34404",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=34923",
       "https://news.hada.io/topic?id=34924",
       "https://news.hada.io/topic?id=34925",
-      "https://news.hada.io/topic?id=34927"
+      "https://news.hada.io/topic?id=34927",
+      "https://news.hada.io/topic?id=34934",
+      "https://news.hada.io/topic?id=34936",
+      "https://news.hada.io/topic?id=34938",
+      "https://news.hada.io/topic?id=34939",
+      "https://news.hada.io/topic?id=34940"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49857656",
-      "https://news.ycombinator.com/item?id=49864642",
-      "https://news.ycombinator.com/item?id=49867486",
-      "https://news.ycombinator.com/item?id=49867553",
-      "https://news.ycombinator.com/item?id=49868083",
       "https://news.ycombinator.com/item?id=49868830",
       "https://news.ycombinator.com/item?id=49868831",
       "https://news.ycombinator.com/item?id=49866515",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49984025",
       "https://news.ycombinator.com/item?id=49984716",
       "https://news.ycombinator.com/item?id=49984923",
-      "https://news.ycombinator.com/item?id=49985664"
+      "https://news.ycombinator.com/item?id=49985664",
+      "https://news.ycombinator.com/item?id=49985643",
+      "https://news.ycombinator.com/item?id=49986862",
+      "https://news.ycombinator.com/item?id=49987076",
+      "https://news.ycombinator.com/item?id=49988230",
+      "https://news.ycombinator.com/item?id=49990224"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -587,7 +587,9 @@
       "https://d2.naver.com/news/3092933",
       "https://d2.naver.com/news/7360495",
       "https://d2.naver.com/helloworld/7314597",
-      "https://d2.naver.com/helloworld/8118359"
+      "https://d2.naver.com/helloworld/8118359",
+      "https://d2.naver.com/news/7193556",
+      "https://d2.naver.com/news/8711937"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1551,6 +1553,18 @@
         "title": "프로덕트 팀의 신뢰를 ‘자산’처럼 관리해야 하는 이유",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다.",
+        "link": "https://d2.naver.com/news/7193556",
+        "summary": "D2 Coding 은 한글과 영문, 숫자, 기호가 함께 있는 코드에서도 일정한 간격과 높은 가독성을 유지하도록 만든 코딩 전용 글꼴입니다. ​ 이번 1.4.0에서는 기존의 빗금이 들어간 숫자 0 대신 점이 들어간 0을 선택해서 사용할 수 있는 기능을 추가했습니다. 일부 크기에서 글자가 기준선보다 한 픽셀 위에 표시되던 문제도 수정했으며, 마침표의 의미를 다르게 보이게 할 수 있었던 리거처 네 종류를 제거했습니다. ​ 최근 공개한 1.3.4와 1.3.5의 개선 사항도 모두 포함되어 있습니다. 한글…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "FE News 26년 10월 소식을 전해드립니다.",
+        "link": "https://d2.naver.com/news/8711937",
+        "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번 공개한 API는 바꾸지 않는 원칙, TypeScript 서버에서 출발한 LSP, UI와 확장 호스트를…"
       }
     ],
     "weekly-finance": []
