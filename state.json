@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34441",
-      "https://news.hada.io/topic?id=34442",
-      "https://news.hada.io/topic?id=34443",
-      "https://news.hada.io/topic?id=34444",
-      "https://news.hada.io/topic?id=34445",
       "https://news.hada.io/topic?id=34455",
       "https://news.hada.io/topic?id=34456",
       "https://news.hada.io/topic?id=34457",
@@ -200,14 +195,14 @@
       "https://news.hada.io/article/sqlite-a-database-for-every-app",
       "https://news.hada.io/topic?id=34994",
       "https://news.hada.io/topic?id=34995",
-      "https://news.hada.io/topic?id=34996"
+      "https://news.hada.io/topic?id=34996",
+      "https://news.hada.io/topic?id=35001",
+      "https://news.hada.io/topic?id=35002",
+      "https://news.hada.io/topic?id=35003",
+      "https://news.hada.io/topic?id=35004",
+      "https://news.hada.io/topic?id=35005"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49869773",
-      "https://news.ycombinator.com/item?id=49870070",
-      "https://news.ycombinator.com/item?id=49870295",
-      "https://news.ycombinator.com/item?id=49873241",
-      "https://news.ycombinator.com/item?id=49879697",
       "https://news.ycombinator.com/item?id=49880036",
       "https://news.ycombinator.com/item?id=49880312",
       "https://news.ycombinator.com/item?id=49881747",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=49992257",
       "https://news.ycombinator.com/item?id=49993908",
       "https://news.ycombinator.com/item?id=49997073",
-      "https://news.ycombinator.com/item?id=49998066"
+      "https://news.ycombinator.com/item?id=49998066",
+      "https://news.ycombinator.com/item?id=49982445",
+      "https://news.ycombinator.com/item?id=49996406",
+      "https://news.ycombinator.com/item?id=49997718",
+      "https://news.ycombinator.com/item?id=50002008",
+      "https://news.ycombinator.com/item?id=50002426"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -589,7 +589,8 @@
       "https://d2.naver.com/helloworld/7314597",
       "https://d2.naver.com/helloworld/8118359",
       "https://d2.naver.com/news/7193556",
-      "https://d2.naver.com/news/8711937"
+      "https://d2.naver.com/news/8711937",
+      "https://d2.naver.com/helloworld/4149925"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1321,7 +1322,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
       "CBMiWkFVX3lxTE9NLTlaWTVPSURNaEFxZU9UN2pqc25uVVVsS1dpNlVrSHRUa2wtWnMtYlRfOThQd1diV3dQbjVBdTk5blRtSFVsQWZta01IMjVFcmE5SmxITFlpdw",
       "CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ",
       "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ",
@@ -1520,7 +1520,8 @@
       "CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw",
       "CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ",
       "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw",
-      "CBMiWkFVX3lxTE1BZ0sxMGlFRDhwWXZaM3E2UzZxU3RPQkg3VVpxMjFtVXh5WlFkWWMwMzc0TzRZTEd3Vng0UmpOdkU3dmZkQXJnNWNBWmxxZ3JCaGZ0dFJzUVhVZw"
+      "CBMiWkFVX3lxTE1BZ0sxMGlFRDhwWXZaM3E2UzZxU3RPQkg3VVpxMjFtVXh5WlFkWWMwMzc0TzRZTEd3Vng0UmpOdkU3dmZkQXJnNWNBWmxxZ3JCaGZ0dFJzUVhVZw",
+      "CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw"
     ]
   },
   "pending": {
@@ -1577,6 +1578,18 @@
         "source": "요즘IT",
         "title": "콘텐츠 열심히 만들어도 왜 AI는 우리 회사를 모를까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZ0sxMGlFRDhwWXZaM3E2UzZxU3RPQkg3VVpxMjFtVXh5WlFkWWMwMzc0TzRZTEd3Vng0UmpOdkU3dmZkQXJnNWNBWmxxZ3JCaGZ0dFJzUVhVZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
+        "link": "https://d2.naver.com/helloworld/4149925",
+        "summary": "Python의 멀티프로세싱과 Airflow의 task 동작 방식 - Python과 Airflow, 그리고 관련된 문제 해결기 1편 에서는 Airflow가 task를 실행할 때 요구되는 병렬성과 격리성을 살펴보고, 이를 만족하기 위해 Airflow가 task마다 만들었다 버리는 단기 프로세스와 만들어 두고 재사용하는 장기 프로세스를 모두 fork 방식으로 생성한다는 점을 확인했습니다. fork는 생성 속도와 메모리 효율 모두에서 spawn을 크게 앞섰지만, 두 가지 한계가 따라온다는 점도…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "Orca vs. Paseo vs. 순정: 에이전트 관리 도구 비교하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw?oc=5",
         "summary": ""
       }
     ],
