@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34530",
-      "https://news.hada.io/topic?id=34531",
-      "https://news.hada.io/topic?id=34532",
-      "https://news.hada.io/topic?id=34533",
-      "https://news.hada.io/topic?id=34534",
       "https://news.hada.io/topic?id=34541",
       "https://news.hada.io/topic?id=34542",
       "https://news.hada.io/topic?id=34545",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35066",
       "https://news.hada.io/topic?id=35069",
       "https://news.hada.io/topic?id=35070",
-      "https://news.hada.io/topic?id=35071"
+      "https://news.hada.io/topic?id=35071",
+      "https://news.hada.io/topic?id=35101",
+      "https://news.hada.io/topic?id=35102",
+      "https://news.hada.io/topic?id=35103",
+      "https://news.hada.io/topic?id=35104",
+      "https://news.hada.io/topic?id=35105"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49893157",
-      "https://news.ycombinator.com/item?id=49893509",
-      "https://news.ycombinator.com/item?id=49899090",
-      "https://news.ycombinator.com/item?id=49901736",
-      "https://news.ycombinator.com/item?id=49893002",
       "https://news.ycombinator.com/item?id=49894351",
       "https://news.ycombinator.com/item?id=49897993",
       "https://news.ycombinator.com/item?id=49898050",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50024499",
       "https://news.ycombinator.com/item?id=50024669",
       "https://news.ycombinator.com/item?id=50025935",
-      "https://news.ycombinator.com/item?id=50026555"
+      "https://news.ycombinator.com/item?id=50026555",
+      "https://news.ycombinator.com/item?id=50019911",
+      "https://news.ycombinator.com/item?id=50020533",
+      "https://news.ycombinator.com/item?id=50022292",
+      "https://news.ycombinator.com/item?id=50027118",
+      "https://news.ycombinator.com/item?id=50028275"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1322,7 +1322,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE8tb3JEOWNTTG5zSUlWVFpOUzd3QzlsbXNpTDJUTTVIVHctc0FLTVFOSkJPTFRoMldRN0lrMGN2UEw4VVlDR3gwNmktMkhnNVBIZWhIZk9GVld2QQ",
       "CBMiWkFVX3lxTFB2a0FkcXFfajlxekExaXVkNHphZHdVLVJzM3o0RG1Ba3hBUzFTcFZEVHNMYTRRcDM2N0tMbGZSM254WV9xRURaOW1rNVE4TG5IejVvYW5WU2V2QQ",
       "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
       "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ",
@@ -1521,7 +1520,8 @@
       "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw",
       "CBMiWkFVX3lxTE1BZ0sxMGlFRDhwWXZaM3E2UzZxU3RPQkg3VVpxMjFtVXh5WlFkWWMwMzc0TzRZTEd3Vng0UmpOdkU3dmZkQXJnNWNBWmxxZ3JCaGZ0dFJzUVhVZw",
       "CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw",
-      "CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw"
+      "CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw",
+      "CBMiWkFVX3lxTE1mc3RfOFZ0bEJVMG9VTkN4RmFURWhiYzB0Z3VQd1pTeGFYTGlscDRLYUxsZWlaTUhhTWZOTWZ1cjdHX1JkVXpBaTRPU2F4QktzVXNXb0l5OFd6UQ"
     ]
   },
   "pending": {
@@ -1596,6 +1596,12 @@
         "source": "요즘IT",
         "title": "이제 주니어 개발자는 없어지나요? AI 시대 개발자 생존법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 제품 기획: AI만 붙이면 성공할 줄 알았나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mc3RfOFZ0bEJVMG9VTkN4RmFURWhiYzB0Z3VQd1pTeGFYTGlscDRLYUxsZWlaTUhhTWZOTWZ1cjdHX1JkVXpBaTRPU2F4QktzVXNXb0l5OFd6UQ?oc=5",
         "summary": ""
       }
     ],
