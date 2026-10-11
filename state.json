@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34636",
-      "https://news.hada.io/topic?id=34637",
-      "https://news.hada.io/topic?id=34638",
-      "https://news.hada.io/topic?id=34639",
-      "https://news.hada.io/topic?id=34640",
       "https://news.hada.io/topic?id=34648",
       "https://news.hada.io/topic?id=34649",
       "https://news.hada.io/topic?id=34650",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35151",
       "https://news.hada.io/topic?id=35152",
       "https://news.hada.io/topic?id=35153",
-      "https://news.hada.io/topic?id=35154"
+      "https://news.hada.io/topic?id=35154",
+      "https://news.hada.io/topic?id=35173",
+      "https://news.hada.io/topic?id=35174",
+      "https://news.hada.io/topic?id=35175",
+      "https://news.hada.io/topic?id=35177",
+      "https://news.hada.io/topic?id=35178"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49920896",
-      "https://news.ycombinator.com/item?id=49920932",
-      "https://news.ycombinator.com/item?id=49921050",
-      "https://news.ycombinator.com/item?id=49921118",
-      "https://news.ycombinator.com/item?id=49923466",
       "https://news.ycombinator.com/item?id=49923692",
       "https://news.ycombinator.com/item?id=49925969",
       "https://news.ycombinator.com/item?id=49926069",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50021899",
       "https://news.ycombinator.com/item?id=50029830",
       "https://news.ycombinator.com/item?id=50033357",
-      "https://news.ycombinator.com/item?id=50037949"
+      "https://news.ycombinator.com/item?id=50037949",
+      "https://news.ycombinator.com/item?id=50041540",
+      "https://news.ycombinator.com/item?id=50041682",
+      "https://news.ycombinator.com/item?id=50042219",
+      "https://news.ycombinator.com/item?id=50043026",
+      "https://news.ycombinator.com/item?id=50043682"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1322,7 +1322,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
       "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ",
       "CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ",
       "CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ",
@@ -1521,7 +1520,8 @@
       "CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw",
       "CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw",
       "CBMiWkFVX3lxTE1mc3RfOFZ0bEJVMG9VTkN4RmFURWhiYzB0Z3VQd1pTeGFYTGlscDRLYUxsZWlaTUhhTWZOTWZ1cjdHX1JkVXpBaTRPU2F4QktzVXNXb0l5OFd6UQ",
-      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k"
+      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
+      "CBMiWEFVX3lxTE1CQ2pzclJqUVcwWVc5Z1BDVUllMkdwNTVxbVM5cG13ZFliMmlCU3VsbnhTUzFSZGFManQ4Skh0dUF6OVM5OWNrd1Q4TFc1akhneUE3MjMtMmg"
     ]
   },
   "pending": {
@@ -1608,6 +1608,12 @@
         "source": "요즘IT",
         "title": "API란 무엇인가요? (feat. 인터페이스)",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹 브라우저의 렌더링이란?",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CQ2pzclJqUVcwWVc5Z1BDVUllMkdwNTVxbVM5cG13ZFliMmlCU3VsbnhTUzFSZGFManQ4Skh0dUF6OVM5OWNrd1Q4TFc1akhneUE3MjMtMmg?oc=5",
         "summary": ""
       }
     ],
