@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34648",
-      "https://news.hada.io/topic?id=34649",
-      "https://news.hada.io/topic?id=34650",
-      "https://news.hada.io/topic?id=34651",
-      "https://news.hada.io/topic?id=34652",
       "https://news.hada.io/topic?id=34660",
       "https://news.hada.io/topic?id=34661",
       "https://news.hada.io/topic?id=34662",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35174",
       "https://news.hada.io/topic?id=35175",
       "https://news.hada.io/topic?id=35177",
-      "https://news.hada.io/topic?id=35178"
+      "https://news.hada.io/topic?id=35178",
+      "https://news.hada.io/topic?id=35192",
+      "https://news.hada.io/topic?id=35193",
+      "https://news.hada.io/topic?id=35194",
+      "https://news.hada.io/topic?id=35195",
+      "https://news.hada.io/topic?id=35196"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49923692",
-      "https://news.ycombinator.com/item?id=49925969",
-      "https://news.ycombinator.com/item?id=49926069",
-      "https://news.ycombinator.com/item?id=49926628",
-      "https://news.ycombinator.com/item?id=49922674",
       "https://news.ycombinator.com/item?id=49924179",
       "https://news.ycombinator.com/item?id=49924618",
       "https://news.ycombinator.com/item?id=49926536",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50041682",
       "https://news.ycombinator.com/item?id=50042219",
       "https://news.ycombinator.com/item?id=50043026",
-      "https://news.ycombinator.com/item?id=50043682"
+      "https://news.ycombinator.com/item?id=50043682",
+      "https://news.ycombinator.com/item?id=50042425",
+      "https://news.ycombinator.com/item?id=50043689",
+      "https://news.ycombinator.com/item?id=50045946",
+      "https://news.ycombinator.com/item?id=50045984",
+      "https://news.ycombinator.com/item?id=50047055"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1322,8 +1322,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE8yVUNXZnM5VUUxaTJxcU1za2p6VjUtTmdobFIwSFI1LUdtNm1UQ0IxWkRTYktoejBvQXY4NlJnRm1GcXlhSV8zQmZBOUFhUmk1U2xHQ1lKWGdaQQ",
-      "CBMiWkFVX3lxTFBkTHB2SWo3ZXJyaEpyU0U5a1AyZnROQ3NXZ0hxbllYblUzcnk3dXF6RmV3MGtOSzk1MDFoT3ZwYm5jNnhWWkNxU3VXYm5nXzNwcWgteldsUGdqQQ",
       "CBMiWkFVX3lxTE1SRmVQWl9GWEczWVQ1OFRZOXJqdDN1U2hqRldvWTBvOHJPaXpFQTRxUVREeFVnODNqc1J2dmdMTjJkc0NBY29oT2VnVEZzY3Nlak9uR3N1ZEFCQQ",
       "CBMiWkFVX3lxTE1LS2tRb1IzMHpGeHc1RERka01Ld19MWkZNbVRCT2pvU3g4dTJXX0ZLU0ZRMzduZldIRGtLS2JITU1ZeFRrS2kyakNwZmZlLWdxdExERkVWZlRVZw",
       "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
@@ -1521,7 +1519,9 @@
       "CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw",
       "CBMiWkFVX3lxTE1mc3RfOFZ0bEJVMG9VTkN4RmFURWhiYzB0Z3VQd1pTeGFYTGlscDRLYUxsZWlaTUhhTWZOTWZ1cjdHX1JkVXpBaTRPU2F4QktzVXNXb0l5OFd6UQ",
       "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
-      "CBMiWEFVX3lxTE1CQ2pzclJqUVcwWVc5Z1BDVUllMkdwNTVxbVM5cG13ZFliMmlCU3VsbnhTUzFSZGFManQ4Skh0dUF6OVM5OWNrd1Q4TFc1akhneUE3MjMtMmg"
+      "CBMiWEFVX3lxTE1CQ2pzclJqUVcwWVc5Z1BDVUllMkdwNTVxbVM5cG13ZFliMmlCU3VsbnhTUzFSZGFManQ4Skh0dUF6OVM5OWNrd1Q4TFc1akhneUE3MjMtMmg",
+      "CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw",
+      "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ"
     ]
   },
   "pending": {
@@ -1614,6 +1614,18 @@
         "source": "요즘IT",
         "title": "웹 브라우저의 렌더링이란?",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CQ2pzclJqUVcwWVc5Z1BDVUllMkdwNTVxbVM5cG13ZFliMmlCU3VsbnhTUzFSZGFManQ4Skh0dUF6OVM5OWNrd1Q4TFc1akhneUE3MjMtMmg?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 기업의 수익 모델과 트렌드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "피그마는 여러분을 나쁜 디자이너로 만들고 있습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ?oc=5",
         "summary": ""
       }
     ],
