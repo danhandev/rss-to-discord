@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34689",
-      "https://news.hada.io/topic?id=34690",
-      "https://news.hada.io/topic?id=34692",
-      "https://news.hada.io/topic?id=34693",
-      "https://news.hada.io/topic?id=34694",
       "https://news.hada.io/topic?id=34701",
       "https://news.hada.io/topic?id=34702",
       "https://news.hada.io/topic?id=34703",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35230",
       "https://news.hada.io/topic?id=35231",
       "https://news.hada.io/topic?id=35233",
-      "https://news.hada.io/topic?id=35234"
+      "https://news.hada.io/topic?id=35234",
+      "https://news.hada.io/topic?id=35250",
+      "https://news.hada.io/topic?id=35251",
+      "https://news.hada.io/topic?id=35252",
+      "https://news.hada.io/topic?id=35253",
+      "https://news.hada.io/topic?id=35254"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49928566",
-      "https://news.ycombinator.com/item?id=49929391",
-      "https://news.ycombinator.com/item?id=49932147",
-      "https://news.ycombinator.com/item?id=49933740",
-      "https://news.ycombinator.com/item?id=49937276",
       "https://news.ycombinator.com/item?id=49934620",
       "https://news.ycombinator.com/item?id=49936575",
       "https://news.ycombinator.com/item?id=49937504",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50046241",
       "https://news.ycombinator.com/item?id=50048522",
       "https://news.ycombinator.com/item?id=50049872",
-      "https://news.ycombinator.com/item?id=50051530"
+      "https://news.ycombinator.com/item?id=50051530",
+      "https://news.ycombinator.com/item?id=50059115",
+      "https://news.ycombinator.com/item?id=50059204",
+      "https://news.ycombinator.com/item?id=50059523",
+      "https://news.ycombinator.com/item?id=50060500",
+      "https://news.ycombinator.com/item?id=50060694"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1325,7 +1325,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
       "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw",
       "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw",
       "CBMiWkFVX3lxTFAwWjVvSWM1dk5oN0dscm40dlFiSVlSb01TM3UwN0liTkVtczkyVlVOMXdZODJTWWttdE0xS3BZLTBZNFhzZ194MlRINVFyVFRJMmlKaWNDNmRlZw",
@@ -1524,7 +1523,8 @@
       "CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw",
       "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
       "CBMiVkFVX3lxTE5VQ0pPd3ZNRjlZbzdvWVVMcWpiam5Id01xbFFsMU9NZF82MTNrbkZQUjlQREJYRWZ5X2xteHNlU1doSDZCZ2JYWERFWEo3N2w1UDc1allB",
-      "CBMiWkFVX3lxTFAwcTVrMVNtN2ttOWhLYkg4QVVpMUlESzBZc3dEdGF1d29CVlp3Y2xPa3pOcEtQcHlraWJpNHN5Y01ibTFFV1dYTXU2aFFqTUthbEY4akNmT0hGUQ"
+      "CBMiWkFVX3lxTFAwcTVrMVNtN2ttOWhLYkg4QVVpMUlESzBZc3dEdGF1d29CVlp3Y2xPa3pOcEtQcHlraWJpNHN5Y01ibTFFV1dYTXU2aFFqTUthbEY4akNmT0hGUQ",
+      "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw"
     ]
   },
   "pending": {
@@ -1540,6 +1540,12 @@
         "title": "if(kakao)26, 온라인 라이브로 함께해요!",
         "link": "https://tech.kakao.com/posts/839",
         "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "PM은 이미 끝났다? 제품 관리의 현실",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
