@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34680",
-      "https://news.hada.io/topic?id=34681",
-      "https://news.hada.io/topic?id=34682",
-      "https://news.hada.io/topic?id=34683",
-      "https://news.hada.io/topic?id=34684",
       "https://news.hada.io/topic?id=34689",
       "https://news.hada.io/topic?id=34690",
       "https://news.hada.io/topic?id=34692",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35221",
       "https://news.hada.io/topic?id=35222",
       "https://news.hada.io/topic?id=35223",
-      "https://news.hada.io/topic?id=35224"
+      "https://news.hada.io/topic?id=35224",
+      "https://news.hada.io/topic?id=35229",
+      "https://news.hada.io/topic?id=35230",
+      "https://news.hada.io/topic?id=35231",
+      "https://news.hada.io/topic?id=35233",
+      "https://news.hada.io/topic?id=35234"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49921798",
-      "https://news.ycombinator.com/item?id=49922569",
-      "https://news.ycombinator.com/item?id=49931031",
-      "https://news.ycombinator.com/item?id=49933235",
-      "https://news.ycombinator.com/item?id=49934784",
       "https://news.ycombinator.com/item?id=49928566",
       "https://news.ycombinator.com/item?id=49929391",
       "https://news.ycombinator.com/item?id=49932147",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50042362",
       "https://news.ycombinator.com/item?id=50048638",
       "https://news.ycombinator.com/item?id=50048642",
-      "https://news.ycombinator.com/item?id=50049411"
+      "https://news.ycombinator.com/item?id=50049411",
+      "https://news.ycombinator.com/item?id=50034206",
+      "https://news.ycombinator.com/item?id=50046241",
+      "https://news.ycombinator.com/item?id=50048522",
+      "https://news.ycombinator.com/item?id=50049872",
+      "https://news.ycombinator.com/item?id=50051530"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -459,7 +459,8 @@
       "https://toss.tech/article/AI_chatbot",
       "https://toss.tech/article/chipmunk",
       "https://toss.tech/article/53545",
-      "https://toss.tech/article/53795"
+      "https://toss.tech/article/53795",
+      "https://toss.tech/article/milvus-optimization-and-sizing"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -480,7 +481,8 @@
       "https://tech.kakao.com/posts/835",
       "https://tech.kakao.com/posts/836",
       "https://tech.kakao.com/posts/837",
-      "https://tech.kakao.com/posts/838"
+      "https://tech.kakao.com/posts/838",
+      "https://tech.kakao.com/posts/839"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1526,7 +1528,20 @@
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "토스테크",
+        "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+        "link": "https://toss.tech/article/milvus-optimization-and-sizing",
+        "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기"
+      },
+      {
+        "source": "카카오",
+        "title": "if(kakao)26, 온라인 라이브로 함께해요!",
+        "link": "https://tech.kakao.com/posts/839",
+        "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)..."
+      }
+    ],
     "weekly-finance": []
   }
 }
