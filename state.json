@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34701",
-      "https://news.hada.io/topic?id=34702",
-      "https://news.hada.io/topic?id=34703",
-      "https://news.hada.io/topic?id=34704",
-      "https://news.hada.io/topic?id=34705",
       "https://news.hada.io/topic?id=34700",
       "https://news.hada.io/topic?id=34706",
       "https://news.hada.io/topic?id=34707",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35251",
       "https://news.hada.io/topic?id=35252",
       "https://news.hada.io/topic?id=35253",
-      "https://news.hada.io/topic?id=35254"
+      "https://news.hada.io/topic?id=35254",
+      "https://news.hada.io/topic?id=35266",
+      "https://news.hada.io/topic?id=35267",
+      "https://news.hada.io/topic?id=35268",
+      "https://news.hada.io/topic?id=35269",
+      "https://news.hada.io/topic?id=35270"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49934620",
-      "https://news.ycombinator.com/item?id=49936575",
-      "https://news.ycombinator.com/item?id=49937504",
-      "https://news.ycombinator.com/item?id=49937631",
-      "https://news.ycombinator.com/item?id=49938521",
       "https://news.ycombinator.com/item?id=49933869",
       "https://news.ycombinator.com/item?id=49937916",
       "https://news.ycombinator.com/item?id=49940219",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50059204",
       "https://news.ycombinator.com/item?id=50059523",
       "https://news.ycombinator.com/item?id=50060500",
-      "https://news.ycombinator.com/item?id=50060694"
+      "https://news.ycombinator.com/item?id=50060694",
+      "https://news.ycombinator.com/item?id=50059096",
+      "https://news.ycombinator.com/item?id=50060269",
+      "https://news.ycombinator.com/item?id=50063138",
+      "https://news.ycombinator.com/item?id=50063427",
+      "https://news.ycombinator.com/item?id=50063831"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -460,7 +460,8 @@
       "https://toss.tech/article/chipmunk",
       "https://toss.tech/article/53545",
       "https://toss.tech/article/53795",
-      "https://toss.tech/article/milvus-optimization-and-sizing"
+      "https://toss.tech/article/milvus-optimization-and-sizing",
+      "https://toss.tech/article/ai-platform-foundation"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1546,6 +1547,12 @@
         "title": "PM은 이미 끝났다? 제품 관리의 현실",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+        "link": "https://toss.tech/article/ai-platform-foundation",
+        "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다."
       }
     ],
     "weekly-finance": []
