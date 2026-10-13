@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34700",
-      "https://news.hada.io/topic?id=34706",
-      "https://news.hada.io/topic?id=34707",
-      "https://news.hada.io/topic?id=34708",
-      "https://news.hada.io/topic?id=34709",
       "https://news.hada.io/topic?id=34718",
       "https://news.hada.io/topic?id=34719",
       "https://news.hada.io/topic?id=34720",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35267",
       "https://news.hada.io/topic?id=35268",
       "https://news.hada.io/topic?id=35269",
-      "https://news.hada.io/topic?id=35270"
+      "https://news.hada.io/topic?id=35270",
+      "https://news.hada.io/topic?id=35286",
+      "https://news.hada.io/topic?id=35287",
+      "https://news.hada.io/topic?id=35288",
+      "https://news.hada.io/topic?id=35289",
+      "https://news.hada.io/topic?id=35290"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49933869",
-      "https://news.ycombinator.com/item?id=49937916",
-      "https://news.ycombinator.com/item?id=49940219",
-      "https://news.ycombinator.com/item?id=49940394",
-      "https://news.ycombinator.com/item?id=49941114",
       "https://news.ycombinator.com/item?id=49926411",
       "https://news.ycombinator.com/item?id=49927747",
       "https://news.ycombinator.com/item?id=49927754",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50060269",
       "https://news.ycombinator.com/item?id=50063138",
       "https://news.ycombinator.com/item?id=50063427",
-      "https://news.ycombinator.com/item?id=50063831"
+      "https://news.ycombinator.com/item?id=50063831",
+      "https://news.ycombinator.com/item?id=50063417",
+      "https://news.ycombinator.com/item?id=50063717",
+      "https://news.ycombinator.com/item?id=50064536",
+      "https://news.ycombinator.com/item?id=50065692",
+      "https://news.ycombinator.com/item?id=50065932"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1326,7 +1326,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw",
       "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw",
       "CBMiWkFVX3lxTFAwWjVvSWM1dk5oN0dscm40dlFiSVlSb01TM3UwN0liTkVtczkyVlVOMXdZODJTWWttdE0xS3BZLTBZNFhzZ194MlRINVFyVFRJMmlKaWNDNmRlZw",
       "CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ",
@@ -1525,7 +1524,8 @@
       "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ",
       "CBMiVkFVX3lxTE5VQ0pPd3ZNRjlZbzdvWVVMcWpiam5Id01xbFFsMU9NZF82MTNrbkZQUjlQREJYRWZ5X2xteHNlU1doSDZCZ2JYWERFWEo3N2w1UDc1allB",
       "CBMiWkFVX3lxTFAwcTVrMVNtN2ttOWhLYkg4QVVpMUlESzBZc3dEdGF1d29CVlp3Y2xPa3pOcEtQcHlraWJpNHN5Y01ibTFFV1dYTXU2aFFqTUthbEY4akNmT0hGUQ",
-      "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw"
+      "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw",
+      "CBMiWkFVX3lxTFBpUUdrUWtVRWZNaG50U250bEFNcW9SbTVQVHYzSDJLVEU0VHAzZVdWSjBiRzZ5RGx2bzI2c1JxZS1DV3U5TlBuZHV6MGVaVlprLXZMRnNHbTFjUQ"
     ]
   },
   "pending": {
@@ -1553,6 +1553,12 @@
         "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
         "link": "https://toss.tech/article/ai-platform-foundation",
         "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다."
+      },
+      {
+        "source": "요즘IT",
+        "title": "12개 넘게 만든 자동화 도구, 지금도 살아 있을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUUdrUWtVRWZNaG50U250bEFNcW9SbTVQVHYzSDJLVEU0VHAzZVdWSjBiRzZ5RGx2bzI2c1JxZS1DV3U5TlBuZHV6MGVaVlprLXZMRnNHbTFjUQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
