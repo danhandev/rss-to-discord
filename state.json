@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34774",
-      "https://news.hada.io/topic?id=34775",
-      "https://news.hada.io/topic?id=34776",
-      "https://news.hada.io/topic?id=34777",
-      "https://news.hada.io/topic?id=34778",
       "https://news.hada.io/topic?id=34785",
       "https://news.hada.io/topic?id=34786",
       "https://news.hada.io/topic?id=34787",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35360",
       "https://news.hada.io/topic?id=35361",
       "https://news.hada.io/topic?id=35362",
-      "https://news.hada.io/topic?id=35363"
+      "https://news.hada.io/topic?id=35363",
+      "https://news.hada.io/topic?id=35366",
+      "https://news.hada.io/topic?id=35367",
+      "https://news.hada.io/topic?id=35368",
+      "https://news.hada.io/topic?id=35369",
+      "https://news.hada.io/topic?id=35370"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49945933",
-      "https://news.ycombinator.com/item?id=49946526",
-      "https://news.ycombinator.com/item?id=49953495",
-      "https://news.ycombinator.com/item?id=49954882",
-      "https://news.ycombinator.com/item?id=49930439",
       "https://news.ycombinator.com/item?id=49933461",
       "https://news.ycombinator.com/item?id=49947472",
       "https://news.ycombinator.com/item?id=49951218",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50090349",
       "https://news.ycombinator.com/item?id=50090369",
       "https://news.ycombinator.com/item?id=50091788",
-      "https://news.ycombinator.com/item?id=50092730"
+      "https://news.ycombinator.com/item?id=50092730",
+      "https://news.ycombinator.com/item?id=50093180",
+      "https://news.ycombinator.com/item?id=50093568",
+      "https://news.ycombinator.com/item?id=50094673",
+      "https://news.ycombinator.com/item?id=50094694",
+      "https://news.ycombinator.com/item?id=50094994"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1330,7 +1330,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBaNzZEeS1QMUx2MmNPUllhSmZiaFZDNkRpRXo2RE5KVEJabkZFMjJSeUM5WVd0d3J6bFV0ZzNZVERzNHE2bl9jM1lYOGtuLVctU1o3RG56amFJdw",
       "CBMiWkFVX3lxTE1mR0VqdnhDNTdadTIwWHp4M2RrcHBYNVNlSkVBYzFSSS1laE14UHNIWUd1QndON2ZSTFEybEo3WjN6NVBxVFlzWnhwaXh1TFpYSEMtRjZYaDIwQQ",
       "CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ",
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
@@ -1529,7 +1528,8 @@
       "CBMiWkFVX3lxTE1rcVBlZzNXSGNIdWZGd0ZzajVKS1NFRjZQa2VRaTRlRDNvRWVNd2VCaUZVZUtLellTRFF0cE9fNmFUU1F1aU1WSHRkajhkb3FMNkdwSjhhWWxkZw",
       "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
-      "CBMiWkFVX3lxTFBmZUR1azVaZnQ2R3BaMDdyRXV0bERMZjhYeGtfZXJ2eFNmOThMSHpocXRxX19xZVY2RVpjc2VLSGdjeXRnX3JfcXN2RERxbC1pYkNUVFdWRHBMUQ"
+      "CBMiWkFVX3lxTFBmZUR1azVaZnQ2R3BaMDdyRXV0bERMZjhYeGtfZXJ2eFNmOThMSHpocXRxX19xZVY2RVpjc2VLSGdjeXRnX3JfcXN2RERxbC1pYkNUVFdWRHBMUQ",
+      "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ"
     ]
   },
   "pending": {
@@ -1634,6 +1634,12 @@
         "source": "요즘IT",
         "title": "비개발자라면 이렇게 해보세요: 바이브 코딩 실전 가이드",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZUR1azVaZnQ2R3BaMDdyRXV0bERMZjhYeGtfZXJ2eFNmOThMSHpocXRxX19xZVY2RVpjc2VLSGdjeXRnX3JfcXN2RERxbC1pYkNUVFdWRHBMUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "하룻밤에 사라진 2조 원, 거래소가 당신의 코인을 지배하는 방식",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ?oc=5",
         "summary": ""
       }
     ],
