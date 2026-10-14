@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34734",
-      "https://news.hada.io/topic?id=34735",
-      "https://news.hada.io/topic?id=34736",
-      "https://news.hada.io/topic?id=34737",
-      "https://news.hada.io/topic?id=34738",
       "https://news.hada.io/topic?id=34747",
       "https://news.hada.io/topic?id=34748",
       "https://news.hada.io/topic?id=34749",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35310",
       "https://news.hada.io/topic?id=35311",
       "https://news.hada.io/topic?id=35312",
-      "https://news.hada.io/topic?id=35313"
+      "https://news.hada.io/topic?id=35313",
+      "https://news.hada.io/topic?id=35321",
+      "https://news.hada.io/topic?id=35322",
+      "https://news.hada.io/topic?id=35324",
+      "https://news.hada.io/topic?id=35326",
+      "https://news.hada.io/topic?id=35327"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49928361",
-      "https://news.ycombinator.com/item?id=49938399",
-      "https://news.ycombinator.com/item?id=49944912",
-      "https://news.ycombinator.com/item?id=49945323",
-      "https://news.ycombinator.com/item?id=49946403",
       "https://news.ycombinator.com/item?id=49923873",
       "https://news.ycombinator.com/item?id=49946393",
       "https://news.ycombinator.com/item?id=49946567",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50073221",
       "https://news.ycombinator.com/item?id=50073633",
       "https://news.ycombinator.com/item?id=50074869",
-      "https://news.ycombinator.com/item?id=50077020"
+      "https://news.ycombinator.com/item?id=50077020",
+      "https://news.ycombinator.com/item?id=50061659",
+      "https://news.ycombinator.com/item?id=50068036",
+      "https://news.ycombinator.com/item?id=50070302",
+      "https://news.ycombinator.com/item?id=50072286",
+      "https://news.ycombinator.com/item?id=50078141"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1328,11 +1328,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFAwWjVvSWM1dk5oN0dscm40dlFiSVlSb01TM3UwN0liTkVtczkyVlVOMXdZODJTWWttdE0xS3BZLTBZNFhzZ194MlRINVFyVFRJMmlKaWNDNmRlZw",
-      "CBMiWkFVX3lxTE5kY1Z6TkFjZW5HN2Q3WFZ1cXpEMm1XQTdsRXh5M3ktNktsRnFiQmhGLWhqbmx0b182LU5rY1RNT3BaQXg4aDhZVV9abnRVeUdhT0xRNm84Zl9fQQ",
-      "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
-      "CBMiWkFVX3lxTE9CVzQ1QjA2SnZTSDRYR1QtdUpCSmJ0T1hZcUlwNE4yMXpoS042RkxrYkk4aDBVcmlYbWlrdW9Md216bVZwSUNWRmNtNWQ2Y2d3Q0RuYnRlbVh5QQ",
-      "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
       "CBMiWkFVX3lxTE84Ukt3SE0tcDFyZmJENHlIWFUyZjhHOG9VVzlvMmttMnd2YTN2ZF9KVVYyWm9OakNOYmgxVmZMc2loRXJrSXJlQ3Btb2QzRnBBNzhjbU1sVjNQQQ",
       "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
@@ -1527,7 +1522,12 @@
       "CBMiWkFVX3lxTFAwcTVrMVNtN2ttOWhLYkg4QVVpMUlESzBZc3dEdGF1d29CVlp3Y2xPa3pOcEtQcHlraWJpNHN5Y01ibTFFV1dYTXU2aFFqTUthbEY4akNmT0hGUQ",
       "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw",
       "CBMiWkFVX3lxTFBpUUdrUWtVRWZNaG50U250bEFNcW9SbTVQVHYzSDJLVEU0VHAzZVdWSjBiRzZ5RGx2bzI2c1JxZS1DV3U5TlBuZHV6MGVaVlprLXZMRnNHbTFjUQ",
-      "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw"
+      "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw",
+      "CBMiWkFVX3lxTE5GdUN0Vnp2SF8wTDNaMXlQbnBvRmloUEk4ejVUOE1vZ3hWeWV4VGI4Rmd0YjlQYTJMMDNzeXpBWDd0a3JXUmpDMXBJWkVFaE5DUlVtRmc1NUtnZw",
+      "CBMiWkFVX3lxTE9OUUdEcF8ycU9PSklYbEx1RU1QaGhJX1FUV0NLVGVSY0xESTFGbjB2R1pLbUZyZlRodmpyUGFGZmZBUFpSQUw3SnpPc1dUMGZwWFh1N2RvaEFTUQ",
+      "CBMiWkFVX3lxTE1vbE5PbEJsTWp3SWUwQlVrOG9CV3cxcjY3bm5iZzBnemZaNFltc2FrYm8wZDhXck9KamxneEZTZUd0aXc2Ynh1dWpzUEZNZ1pMNV8xQVdVUFk0UQ",
+      "CBMiWkFVX3lxTE04MDlyMmt1U05wQnRmX1d0a1c2azNOZmpXbEF6U0R5MzN4M3VrUXVIb0NMRUVzUnJYRnJYQUttcWhHaG9GWE5oODVweUlkdDdIaExxbTFKM1FfUQ",
+      "CBMiWkFVX3lxTE1rcVBlZzNXSGNIdWZGd0ZzajVKS1NFRjZQa2VRaTRlRDNvRWVNd2VCaUZVZUtLellTRFF0cE9fNmFUU1F1aU1WSHRkajhkb3FMNkdwSjhhWWxkZw"
     ]
   },
   "pending": {
@@ -1578,6 +1578,36 @@
         "source": "요즘IT",
         "title": "실험 조직으로 거듭나기: 3 체계적으로 실험하기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Opus 5부터는 클로드를 다르게 써야 한다?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GdUN0Vnp2SF8wTDNaMXlQbnBvRmloUEk4ejVUOE1vZ3hWeWV4VGI4Rmd0YjlQYTJMMDNzeXpBWDd0a3JXUmpDMXBJWkVFaE5DUlVtRmc1NUtnZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "메타 첫 프론티어 모델 ‘뮤즈 원더(Muse Wonder)’",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUUdEcF8ycU9PSklYbEx1RU1QaGhJX1FUV0NLVGVSY0xESTFGbjB2R1pLbUZyZlRodmpyUGFGZmZBUFpSQUw3SnpPc1dUMGZwWFh1N2RvaEFTUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "정보 오류 줄이는 클로드 코드 메모리 관리법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbE5PbEJsTWp3SWUwQlVrOG9CV3cxcjY3bm5iZzBnemZaNFltc2FrYm8wZDhXck9KamxneEZTZUd0aXc2Ynh1dWpzUEZNZ1pMNV8xQVdVUFk0UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "앱 푸시 알림 하나 보내는 게 이렇게 복잡할 일인가요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04MDlyMmt1U05wQnRmX1d0a1c2azNOZmpXbEF6U0R5MzN4M3VrUXVIb0NMRUVzUnJYRnJYQUttcWhHaG9GWE5oODVweUlkdDdIaExxbTFKM1FfUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "GEO를 위한 온톨로지: 브랜드 지식 설계도 3단계(최윤희 아티언스 본부장)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rcVBlZzNXSGNIdWZGd0ZzajVKS1NFRjZQa2VRaTRlRDNvRWVNd2VCaUZVZUtLellTRFF0cE9fNmFUU1F1aU1WSHRkajhkb3FMNkdwSjhhWWxkZw?oc=5",
         "summary": ""
       }
     ],
