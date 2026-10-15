@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34785",
-      "https://news.hada.io/topic?id=34786",
-      "https://news.hada.io/topic?id=34787",
-      "https://news.hada.io/topic?id=34788",
-      "https://news.hada.io/topic?id=34789",
       "https://news.hada.io/topic?id=34800",
       "https://news.hada.io/topic?id=34802",
       "https://news.hada.io/topic?id=34803",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35367",
       "https://news.hada.io/topic?id=35368",
       "https://news.hada.io/topic?id=35369",
-      "https://news.hada.io/topic?id=35370"
+      "https://news.hada.io/topic?id=35370",
+      "https://news.hada.io/topic?id=35383",
+      "https://news.hada.io/topic?id=35384",
+      "https://news.hada.io/topic?id=35385",
+      "https://news.hada.io/topic?id=35386",
+      "https://news.hada.io/topic?id=35389"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49933461",
-      "https://news.ycombinator.com/item?id=49947472",
-      "https://news.ycombinator.com/item?id=49951218",
-      "https://news.ycombinator.com/item?id=49952111",
-      "https://news.ycombinator.com/item?id=49917536",
       "https://news.ycombinator.com/item?id=49957068",
       "https://news.ycombinator.com/item?id=49957116",
       "https://news.ycombinator.com/item?id=49910465",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50093568",
       "https://news.ycombinator.com/item?id=50094673",
       "https://news.ycombinator.com/item?id=50094694",
-      "https://news.ycombinator.com/item?id=50094994"
+      "https://news.ycombinator.com/item?id=50094994",
+      "https://news.ycombinator.com/item?id=50089921",
+      "https://news.ycombinator.com/item?id=50092470",
+      "https://news.ycombinator.com/item?id=50092664",
+      "https://news.ycombinator.com/item?id=50095353",
+      "https://news.ycombinator.com/item?id=50096142"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1173,7 +1173,11 @@
       "CBMiTEFVX3lxTFBpTnYzb2FnYkhWRDFqSVA1bm42aWxpb21QYlR2OVA0bDNSdUJXOWVJMEV2Mlp5T3h2a2xLWjI2RlZjWWtabndFZy1FVkM",
       "CBMiTEFVX3lxTE1hSTFFYm5keU4tQl9GYTE2eVFXTTBRc3RlWEJqMHpfRkQ5R0YyblcweFZLaHozaE5xXzZNUlJfdEhxaVlwVC1wYVF3ejc",
       "CBMiTEFVX3lxTFBGSVJrT19DT3BRUHZmaF82ZDdzMTNyWk1NUjFobk56S19XNDR3UWtleEkyaTNTbHE5OVdMWEZkNEtuQUg1R2VTejRwY3c",
-      "CBMiTEFVX3lxTFA3T1NiR2FwbngtMmN5c08zLUJ2Y2VQQXRvVEJBMUZHbFVUaUdGUmwxLUtQaDUwQzNNVnlJVWNJUU8yUDF1TlpqWE5tdkQ"
+      "CBMiTEFVX3lxTFA3T1NiR2FwbngtMmN5c08zLUJ2Y2VQQXRvVEJBMUZHbFVUaUdGUmwxLUtQaDUwQzNNVnlJVWNJUU8yUDF1TlpqWE5tdkQ",
+      "CBMiTEFVX3lxTE5YTnVURUpWNjgxQjVISzV6aWlISUY1MlFRUUJBSUtDRmxOUHNPakktNEJlSWR4d215ZnZoWktFV3V0RlNsbEFHRFdUTVc",
+      "CBMiS0FVX3lxTE44MmhwaGNZMVNwNjRBZEo2YmpITEtyc3hhSDRFR3JmNE1YMFpybmlfV05pMmJpWVRZQURwczhxS2RpWXpRUDY2RjJZbw",
+      "CBMiTEFVX3lxTE80Um4wVFhUZGdWTlNRRmticzdVWGZPcnRXM0ZRYlhZdlZncGJEMmxrdVFaNFFja0VNYkN1ZDlWZGVWMmVrZl83bDBDRTQ",
+      "CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1330,7 +1334,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1mR0VqdnhDNTdadTIwWHp4M2RrcHBYNVNlSkVBYzFSSS1laE14UHNIWUd1QndON2ZSTFEybEo3WjN6NVBxVFlzWnhwaXh1TFpYSEMtRjZYaDIwQQ",
       "CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ",
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
       "CBMiWkFVX3lxTE5uTkdVVTQ4N3ZNQjBWc1lNS0tiWkZnakRJamZzcHpQR25sYkVOZWdhb296VTVYWTVieHNRUUlReG9ROW1SSm9BaE5ULURvaXExSmpjT3NSMnV4QQ",
@@ -1529,7 +1532,8 @@
       "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
       "CBMiWkFVX3lxTFBmZUR1azVaZnQ2R3BaMDdyRXV0bERMZjhYeGtfZXJ2eFNmOThMSHpocXRxX19xZVY2RVpjc2VLSGdjeXRnX3JfcXN2RERxbC1pYkNUVFdWRHBMUQ",
-      "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ"
+      "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
+      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw"
     ]
   },
   "pending": {
@@ -1640,6 +1644,36 @@
         "source": "요즘IT",
         "title": "하룻밤에 사라진 2조 원, 거래소가 당신의 코인을 지배하는 방식",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "우리 서비스와 연결된 MCP Server 빠르게 구현해보기: MCP 해커톤 후기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YTnVURUpWNjgxQjVISzV6aWlISUY1MlFRUUJBSUtDRmxOUHNPakktNEJlSWR4d215ZnZoWktFV3V0RlNsbEFHRFdUTVc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "우아한형제들 기획자 소개와 개발자와의 협업문화 인터뷰",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44MmhwaGNZMVNwNjRBZEo2YmpITEtyc3hhSDRFR3JmNE1YMFpybmlfV05pMmJpWVRZQURwczhxS2RpWXpRUDY2RjJZbw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Server-Sent Events로 실시간 알림 전달하기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80Um4wVFhUZGdWTlNRRmticzdVWGZPcnRXM0ZRYlhZdlZncGJEMmxrdVFaNFFja0VNYkN1ZDlWZGVWMmVrZl83bDBDRTQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "스프링부트에서 DbUnit 을 이용하여 DB 테스트해 보기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "쿠팡은 디자인 시스템을 어떻게 구축했을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw?oc=5",
         "summary": ""
       }
     ],
