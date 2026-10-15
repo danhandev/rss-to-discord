@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34800",
-      "https://news.hada.io/topic?id=34802",
-      "https://news.hada.io/topic?id=34803",
-      "https://news.hada.io/topic?id=34804",
-      "https://news.hada.io/topic?id=34805",
       "https://news.hada.io/topic?id=34807",
       "https://news.hada.io/topic?id=34809",
       "https://news.hada.io/topic?id=34810",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35384",
       "https://news.hada.io/topic?id=35385",
       "https://news.hada.io/topic?id=35386",
-      "https://news.hada.io/topic?id=35389"
+      "https://news.hada.io/topic?id=35389",
+      "https://news.hada.io/topic?id=35393",
+      "https://news.hada.io/topic?id=35394",
+      "https://news.hada.io/topic?id=35395",
+      "https://news.hada.io/topic?id=35397",
+      "https://news.hada.io/topic?id=35398"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49957068",
-      "https://news.ycombinator.com/item?id=49957116",
-      "https://news.ycombinator.com/item?id=49910465",
-      "https://news.ycombinator.com/item?id=49956681",
-      "https://news.ycombinator.com/item?id=49959869",
       "https://news.ycombinator.com/item?id=49960084",
       "https://news.ycombinator.com/item?id=49932236",
       "https://news.ycombinator.com/item?id=49943637",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50092470",
       "https://news.ycombinator.com/item?id=50092664",
       "https://news.ycombinator.com/item?id=50095353",
-      "https://news.ycombinator.com/item?id=50096142"
+      "https://news.ycombinator.com/item?id=50096142",
+      "https://news.ycombinator.com/item?id=50054465",
+      "https://news.ycombinator.com/item?id=50083028",
+      "https://news.ycombinator.com/item?id=50089229",
+      "https://news.ycombinator.com/item?id=50093612",
+      "https://news.ycombinator.com/item?id=50097369"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -567,7 +567,8 @@
       "https://blog.banksalad.com/tech/aws-reinvent-2025/",
       "https://blog.banksalad.com/tech/banksalad-react-lottie/",
       "https://blog.banksalad.com/tech/banksalad-optimistic-lock/",
-      "https://blog.banksalad.com/pnc/banksalad-welcome-kit/"
+      "https://blog.banksalad.com/pnc/banksalad-welcome-kit/",
+      "https://blog.banksalad.com/tech/banksalad-ddd-in-ai-era/"
     ],
     "https://d2.naver.com/d2.atom": [
       "https://d2.naver.com/helloworld/4372269",
@@ -1675,6 +1676,12 @@
         "title": "쿠팡은 디자인 시스템을 어떻게 구축했을까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "AI 코딩 시대, DDD가 더 필요해진 이유",
+        "link": "https://blog.banksalad.com/tech/banksalad-ddd-in-ai-era/",
+        "summary": "Go 서비스에 DDD-lite와 Clean Architecture를 적용하면 뭐가 다를까? 안녕하세요, 금융쇼핑 PA 서버 Tech Lead 김지원입니다. 뱅크샐러드 서버는 대부분 Go…"
       }
     ],
     "weekly-finance": []
