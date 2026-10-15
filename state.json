@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34807",
-      "https://news.hada.io/topic?id=34809",
-      "https://news.hada.io/topic?id=34810",
-      "https://news.hada.io/topic?id=34811",
-      "https://news.hada.io/topic?id=34813",
       "https://news.hada.io/topic?id=34830",
       "https://news.hada.io/topic?id=34831",
       "https://news.hada.io/topic?id=34832",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35394",
       "https://news.hada.io/topic?id=35395",
       "https://news.hada.io/topic?id=35397",
-      "https://news.hada.io/topic?id=35398"
+      "https://news.hada.io/topic?id=35398",
+      "https://news.hada.io/topic?id=35414",
+      "https://news.hada.io/topic?id=35415",
+      "https://news.hada.io/topic?id=35416",
+      "https://news.hada.io/topic?id=35417",
+      "https://news.hada.io/topic?id=35418"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49960084",
-      "https://news.ycombinator.com/item?id=49932236",
-      "https://news.ycombinator.com/item?id=49943637",
-      "https://news.ycombinator.com/item?id=49953288",
-      "https://news.ycombinator.com/item?id=49957812",
       "https://news.ycombinator.com/item?id=49958569",
       "https://news.ycombinator.com/item?id=49963171",
       "https://news.ycombinator.com/item?id=49963366",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50083028",
       "https://news.ycombinator.com/item?id=50089229",
       "https://news.ycombinator.com/item?id=50093612",
-      "https://news.ycombinator.com/item?id=50097369"
+      "https://news.ycombinator.com/item?id=50097369",
+      "https://news.ycombinator.com/item?id=50050553",
+      "https://news.ycombinator.com/item?id=50053384",
+      "https://news.ycombinator.com/item?id=50070625",
+      "https://news.ycombinator.com/item?id=50070661",
+      "https://news.ycombinator.com/item?id=50103000"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -464,7 +464,8 @@
       "https://toss.tech/article/milvus-optimization-and-sizing",
       "https://toss.tech/article/ai-platform-foundation",
       "https://toss.tech/article/rpg-savings",
-      "https://toss.tech/article/spark-connect-on-kubernetes-2"
+      "https://toss.tech/article/spark-connect-on-kubernetes-2",
+      "https://toss.tech/article/package-management-1"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1335,7 +1336,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5pRlc4anhmTkZGRWZrU0xrVFlNREIyejFnNEp4N09hNTdNRUZhWjRoM0tucDNtcVhFTVVHRDhhYnVia2VMT0w1YlZ0QnQ3N3ZQWXFIX0FUQlBHQQ",
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
       "CBMiWkFVX3lxTE5uTkdVVTQ4N3ZNQjBWc1lNS0tiWkZnakRJamZzcHpQR25sYkVOZWdhb296VTVYWTVieHNRUUlReG9ROW1SSm9BaE5ULURvaXExSmpjT3NSMnV4QQ",
       "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
@@ -1534,7 +1534,8 @@
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
       "CBMiWkFVX3lxTFBmZUR1azVaZnQ2R3BaMDdyRXV0bERMZjhYeGtfZXJ2eFNmOThMSHpocXRxX19xZVY2RVpjc2VLSGdjeXRnX3JfcXN2RERxbC1pYkNUVFdWRHBMUQ",
       "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
-      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw"
+      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
+      "CBMiWkFVX3lxTE50cXdMRWIzVEFZb2R6bVo0dDgzUVJGejBERldmNU9aRGZybVlQaXY4cTBURV9oX09LYWdrRk1GYWtmMXJZQ1V1aS03alBYcWJMb09JV2d3VUozdw"
     ]
   },
   "pending": {
@@ -1682,6 +1683,18 @@
         "title": "AI 코딩 시대, DDD가 더 필요해진 이유",
         "link": "https://blog.banksalad.com/tech/banksalad-ddd-in-ai-era/",
         "summary": "Go 서비스에 DDD-lite와 Clean Architecture를 적용하면 뭐가 다를까? 안녕하세요, 금융쇼핑 PA 서버 Tech Lead 김지원입니다. 뱅크샐러드 서버는 대부분 Go…"
+      },
+      {
+        "source": "토스테크",
+        "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
+        "link": "https://toss.tech/article/package-management-1",
+        "summary": "ESM과 CJS를 함께 제공할 때 생길 수 있는 상태 분리와 타입 누락 문제를 살펴보고, 패키지를 ESM-only로 전환한 이유를 소개해요."
+      },
+      {
+        "source": "요즘IT",
+        "title": "3년만에 폐업한 서비스 기록에서 배운 것들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50cXdMRWIzVEFZb2R6bVo0dDgzUVJGejBERldmNU9aRGZybVlQaXY4cTBURV9oX09LYWdrRk1GYWtmMXJZQ1V1aS03alBYcWJMb09JV2d3VUozdw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
