@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34876",
-      "https://news.hada.io/topic?id=34879",
-      "https://news.hada.io/topic?id=34880",
-      "https://news.hada.io/topic?id=34881",
-      "https://news.hada.io/topic?id=34882",
       "https://news.hada.io/topic?id=34893",
       "https://news.hada.io/topic?id=34894",
       "https://news.hada.io/topic?id=34895",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35434",
       "https://news.hada.io/topic?id=35435",
       "https://news.hada.io/topic?id=35436",
-      "https://news.hada.io/topic?id=35437"
+      "https://news.hada.io/topic?id=35437",
+      "https://news.hada.io/topic?id=35453",
+      "https://news.hada.io/topic?id=35454",
+      "https://news.hada.io/topic?id=35455",
+      "https://news.hada.io/topic?id=35456",
+      "https://news.hada.io/topic?id=35458"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49971846",
-      "https://news.ycombinator.com/item?id=49971230",
-      "https://news.ycombinator.com/item?id=49971523",
-      "https://news.ycombinator.com/item?id=49971719",
-      "https://news.ycombinator.com/item?id=49971921",
       "https://news.ycombinator.com/item?id=49973598",
       "https://news.ycombinator.com/item?id=49977177",
       "https://news.ycombinator.com/item?id=49977588",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50106023",
       "https://news.ycombinator.com/item?id=50108872",
       "https://news.ycombinator.com/item?id=50109375",
-      "https://news.ycombinator.com/item?id=50109715"
+      "https://news.ycombinator.com/item?id=50109715",
+      "https://news.ycombinator.com/item?id=50103338",
+      "https://news.ycombinator.com/item?id=50104299",
+      "https://news.ycombinator.com/item?id=50104726",
+      "https://news.ycombinator.com/item?id=50108229",
+      "https://news.ycombinator.com/item?id=50112657"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -465,7 +465,8 @@
       "https://toss.tech/article/ai-platform-foundation",
       "https://toss.tech/article/rpg-savings",
       "https://toss.tech/article/spark-connect-on-kubernetes-2",
-      "https://toss.tech/article/package-management-1"
+      "https://toss.tech/article/package-management-1",
+      "https://toss.tech/article/package-management-2"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -658,7 +659,8 @@
       "https://techblog.lycorp.co.jp/ko/building-sre-observer-for-alert-root-cause-analysis",
       "https://techblog.lycorp.co.jp/ko/tech-verse-2026-ai-driven-development-review",
       "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
-      "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app"
+      "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+      "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1179,7 +1181,8 @@
       "CBMiTEFVX3lxTE5YTnVURUpWNjgxQjVISzV6aWlISUY1MlFRUUJBSUtDRmxOUHNPakktNEJlSWR4d215ZnZoWktFV3V0RlNsbEFHRFdUTVc",
       "CBMiS0FVX3lxTE44MmhwaGNZMVNwNjRBZEo2YmpITEtyc3hhSDRFR3JmNE1YMFpybmlfV05pMmJpWVRZQURwczhxS2RpWXpRUDY2RjJZbw",
       "CBMiTEFVX3lxTE80Um4wVFhUZGdWTlNRRmticzdVWGZPcnRXM0ZRYlhZdlZncGJEMmxrdVFaNFFja0VNYkN1ZDlWZGVWMmVrZl83bDBDRTQ",
-      "CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA"
+      "CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA",
+      "CBMiS0FVX3lxTE9URTlHUU1ZbXBBd3ZfTHR5b0pXMVpZY3c3SEw2N25ibE53TDY0akw5R00zbGJoNkJhSmpHMUxSd0tTY3lOTWc5WF9BVQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1336,10 +1339,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1BMVY1QTdBNDdOSVdYbzdlSkk5NHNSOFg5eHNVeVE4S09lcWRkSnR6N0ZoVEdNbGYxZWlXdjdIMWt3cXZTc2ctNlJ5ZG9hNjdwN04yVm1LZVdndw",
-      "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
-      "CBMiWEFVX3lxTE51LVVUWWJhTXQ1MkZWZjlxS2lnSzlhUkR2Sm1hd0RlUG1GQkZrUVAtcVVBMHFTd3lPZWpXNFpDN05yUkJpQ2g1Z0xJV3RYMFAtc2R5a2RURmw",
-      "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
       "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
       "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
@@ -1535,7 +1534,11 @@
       "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc",
       "CBMiWkFVX3lxTE5XZFdIZzY3LVhlMjA1TjV4TFdZSEJ4am5YYVV3Z3BteWhBWWNJOGxnZmlnN1ZmalhWUkc2eDZLNUVLRTd2NGRHYmdoMlF3V1JrdTBMb1hZeGM5Zw",
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
-      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc"
+      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
+      "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
+      "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw",
+      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
+      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ"
     ]
   },
   "pending": {
@@ -1856,6 +1859,48 @@
         "source": "요즘IT",
         "title": "IT 개발 이야기들",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
+        "link": "https://toss.tech/article/package-management-2",
+        "summary": "안정성, 예측 가능성, 디버깅 편의성. 패키지가 갖춰야 할 세 가지 기준과, 문법 변환과 번들링을 사용하는 서비스에 맡긴 이유를 소개해요."
+      },
+      {
+        "source": "우아한형제들",
+        "title": "장애와 관련된 XtraBackup 적용기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9URTlHUU1ZbXBBd3ZfTHR5b0pXMVpZY3c3SEw2N25ibE53TDY0akw5R00zbGJoNkJhSmpHMUxSd0tTY3lOTWc5WF9BVQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "LINE",
+        "title": "AI로 E2E 회귀 테스트 자동화하기: ‘딸깍’을 파이프라인으로 바꾸기까지",
+        "link": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+        "summary": "들어가며안녕하세요. LINE Plus에서 대만 Giftshop 서비스 QA를 담당하고 있는 김혜영입니다.최근 AI를 테스트 자동화에 활용하려는 다양한 시도와 실제 적용 사례를 접하..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI시대에 필요한 개발자, Product Engineer",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "소버린 AI와 자체 생태계를 가진 IT 강대국, 러시아를 가다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "아직도 1년 전 프롬프트를 그대로 쓰고 있나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ?oc=5",
         "summary": ""
       }
     ],
