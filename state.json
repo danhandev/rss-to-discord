@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34893",
-      "https://news.hada.io/topic?id=34894",
-      "https://news.hada.io/topic?id=34895",
-      "https://news.hada.io/topic?id=34897",
-      "https://news.hada.io/topic?id=34898",
       "https://news.hada.io/topic?id=34902",
       "https://news.hada.io/topic?id=34903",
       "https://news.hada.io/topic?id=34904",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35454",
       "https://news.hada.io/topic?id=35455",
       "https://news.hada.io/topic?id=35456",
-      "https://news.hada.io/topic?id=35458"
+      "https://news.hada.io/topic?id=35458",
+      "https://news.hada.io/topic?id=35465",
+      "https://news.hada.io/topic?id=35466",
+      "https://news.hada.io/topic?id=35467",
+      "https://news.hada.io/topic?id=35468",
+      "https://news.hada.io/topic?id=35469"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49973598",
-      "https://news.ycombinator.com/item?id=49977177",
-      "https://news.ycombinator.com/item?id=49977588",
-      "https://news.ycombinator.com/item?id=49977979",
-      "https://news.ycombinator.com/item?id=49978116",
       "https://news.ycombinator.com/item?id=49979306",
       "https://news.ycombinator.com/item?id=49976823",
       "https://news.ycombinator.com/item?id=49977531",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50104299",
       "https://news.ycombinator.com/item?id=50104726",
       "https://news.ycombinator.com/item?id=50108229",
-      "https://news.ycombinator.com/item?id=50112657"
+      "https://news.ycombinator.com/item?id=50112657",
+      "https://news.ycombinator.com/item?id=50102923",
+      "https://news.ycombinator.com/item?id=50105777",
+      "https://news.ycombinator.com/item?id=50111852",
+      "https://news.ycombinator.com/item?id=50112330",
+      "https://news.ycombinator.com/item?id=50112739"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -466,7 +466,8 @@
       "https://toss.tech/article/rpg-savings",
       "https://toss.tech/article/spark-connect-on-kubernetes-2",
       "https://toss.tech/article/package-management-1",
-      "https://toss.tech/article/package-management-2"
+      "https://toss.tech/article/package-management-2",
+      "https://toss.tech/article/dw-airflow-migration"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1339,9 +1340,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5Zazgwc3VsLVdzbnhnOTJ6bHhGMVdoWUhxa2F3NUt0aVJDUkQ5ODFLWnFmVzFCXzlCSUNLWXJxcTRKa0wwTWRmOHhsUTlJVjlvQW9US0s3bkpudw",
-      "CBMiWkFVX3lxTE0tbzZqR3U1RjRBV1lPd25hTl8yWkVjUzQtX0RJYS1sbWlWaU1kR2dQdDFuYTBsZmR2YU9QRzZiWTF1WVNUTjd2cWRyLU01UVZYV0E1Y25FQWx5Zw",
-      "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
       "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw",
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
       "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
@@ -1538,7 +1536,10 @@
       "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
       "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw",
       "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
-      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ"
+      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
+      "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
+      "CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4",
+      "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ"
     ]
   },
   "pending": {
@@ -1901,6 +1902,30 @@
         "source": "요즘IT",
         "title": "아직도 1년 전 프롬프트를 그대로 쓰고 있나요?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "실행은 도메인별로, 문맥은 한 레포에",
+        "link": "https://toss.tech/article/dw-airflow-migration",
+        "summary": "중앙 DW Airflow를 멈추지 않고 도메인별 DW로 나눈 9개월"
+      },
+      {
+        "source": "요즘IT",
+        "title": "사람마다 다른 썸네일이 나온다? GenUI의 빛과 어둠",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "프로덕트 트렌드 리포트 1. 클럽하우스와 카카오 음(mm)",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "7개월 만에 돌아온 구글, ‘제미나이 4 아르곤’은 어떨까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ?oc=5",
         "summary": ""
       }
     ],
