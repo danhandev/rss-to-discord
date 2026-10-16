@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34922",
-      "https://news.hada.io/topic?id=34923",
-      "https://news.hada.io/topic?id=34924",
-      "https://news.hada.io/topic?id=34925",
-      "https://news.hada.io/topic?id=34927",
       "https://news.hada.io/topic?id=34934",
       "https://news.hada.io/topic?id=34936",
       "https://news.hada.io/topic?id=34938",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35474",
       "https://news.hada.io/topic?id=35475",
       "https://news.hada.io/topic?id=35476",
-      "https://news.hada.io/topic?id=35477"
+      "https://news.hada.io/topic?id=35477",
+      "https://news.hada.io/topic?id=35481",
+      "https://news.hada.io/topic?id=35482",
+      "https://news.hada.io/topic?id=35483",
+      "https://news.hada.io/topic?id=35484",
+      "https://news.hada.io/topic?id=35485"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49980715",
-      "https://news.ycombinator.com/item?id=49983703",
-      "https://news.ycombinator.com/item?id=49981905",
-      "https://news.ycombinator.com/item?id=49984025",
-      "https://news.ycombinator.com/item?id=49984716",
       "https://news.ycombinator.com/item?id=49984923",
       "https://news.ycombinator.com/item?id=49985664",
       "https://news.ycombinator.com/item?id=49985643",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50065859",
       "https://news.ycombinator.com/item?id=50068203",
       "https://news.ycombinator.com/item?id=50077225",
-      "https://news.ycombinator.com/item?id=50114342"
+      "https://news.ycombinator.com/item?id=50114342",
+      "https://news.ycombinator.com/item?id=50118977",
+      "https://news.ycombinator.com/item?id=50119991",
+      "https://news.ycombinator.com/item?id=50120101",
+      "https://news.ycombinator.com/item?id=50120224",
+      "https://news.ycombinator.com/item?id=50121179"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1340,8 +1340,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9HR2lQUGxuNjV4R0tGVFJrYlBEZ3B2VjRCd1dRZlB2R2RrSWtQdjRMaFZBN0UyUFRobFpzWmhlbE8wUHpzV05yTnlXWVY3ZzV3bzMwR0Zwai1HQQ",
-      "CBMiWkFVX3lxTE9UVjNUTWRkZTRENFdfZHJBZjNQUTlkcHBWcjJuakp2ZFBKY0hra21hbnNaN1J5ZWp0NUh2SVVRSGpMU1lzemtkODNCR3RvWERIV3ZkcV91cVhHUQ",
       "CBMiWkFVX3lxTE9haXM3SDRuMTdJM3RBYm10VHdEVkpDV3hiUkdIdWlWYjQyOEFCVDZiYUMwQTVobG9oQ2ZBMUZRRlM1U0w1OUFxRW1iVFJoNFc4N2pVQXM2SHhHZw",
       "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
@@ -1539,7 +1537,9 @@
       "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
       "CBMiWkFVX3lxTE45R1lNOW5VVVR0aTZCT3ZCUjlqeW1WQ1NKRFN1bUxJQy1nWXo1bGNma3p3QkI2RmFWVVZiQ1VDYXZmaFlmaWRQaXNGbzBNNVdWY3hkalZyNXJXQQ",
-      "CBMiWkFVX3lxTE1wVXBrVDhwWW96Vlh5T3U3MXNoLV8tNUl1RjlfUWNhNHNGZzRDQkVic3o1NDE5eVRmVG5RUHVyWXh0aEtwRXJTWEk0V2xyeVM4Q3l1VGxUdHd3Zw"
+      "CBMiWkFVX3lxTE1wVXBrVDhwWW96Vlh5T3U3MXNoLV8tNUl1RjlfUWNhNHNGZzRDQkVic3o1NDE5eVRmVG5RUHVyWXh0aEtwRXJTWEk0V2xyeVM4Q3l1VGxUdHd3Zw",
+      "CBMiWkFVX3lxTE82YWtzTGcyc0VMcTBRVEdTcnlDMUJHbkZjYl8zRUNaeTJiMjNtVjNyVC1mbVNKU1lXSi1JVjJXV2FPZ1lrWWFqQ3I3ZGY0MDYyY0MzMzRqSENZdw",
+      "CBMiWkFVX3lxTFByWHB2RkxJbENjck40TUJ5SXhvRVhJN05SaVRjZlFZOG5kbEtaUjhYWVg0cTllTGRvbmhnNjl0a0x1TGl6cEl3anoxVnYya2V5b243TzVqS0dYdw"
     ]
   },
   "pending": {
@@ -1944,6 +1944,18 @@
         "source": "요즘IT",
         "title": "10분 만에 Jev 이해하기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVXBrVDhwWW96Vlh5T3U3MXNoLV8tNUl1RjlfUWNhNHNGZzRDQkVic3o1NDE5eVRmVG5RUHVyWXh0aEtwRXJTWEk0V2xyeVM4Q3l1VGxUdHd3Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "일주일 만에 GitHub 스타 20만 개, 앱 뜯어보는 AI 도구 REA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YWtzTGcyc0VMcTBRVEdTcnlDMUJHbkZjYl8zRUNaeTJiMjNtVjNyVC1mbVNKU1lXSi1JVjJXV2FPZ1lrWWFqQ3I3ZGY0MDYyY0MzMzRqSENZdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "회사 기록을 모으는 것만으로 업무 관리가 달라질까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByWHB2RkxJbENjck40TUJ5SXhvRVhJN05SaVRjZlFZOG5kbEtaUjhYWVg0cTllTGRvbmhnNjl0a0x1TGl6cEl3anoxVnYya2V5b243TzVqS0dYdw?oc=5",
         "summary": ""
       }
     ],
