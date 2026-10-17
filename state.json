@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=34989",
-      "https://news.hada.io/article/sqlite-a-database-for-every-app",
-      "https://news.hada.io/topic?id=34994",
-      "https://news.hada.io/topic?id=34995",
-      "https://news.hada.io/topic?id=34996",
       "https://news.hada.io/topic?id=35001",
       "https://news.hada.io/topic?id=35002",
       "https://news.hada.io/topic?id=35003",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35517",
       "https://news.hada.io/topic?id=35518",
       "https://news.hada.io/topic?id=35519",
-      "https://news.hada.io/topic?id=35520"
+      "https://news.hada.io/topic?id=35520",
+      "https://news.hada.io/topic?id=35514",
+      "https://news.hada.io/topic?id=35523",
+      "https://news.hada.io/topic?id=35524",
+      "https://news.hada.io/topic?id=35525",
+      "https://news.hada.io/topic?id=35526"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=49997161",
-      "https://news.ycombinator.com/item?id=49998895",
-      "https://news.ycombinator.com/item?id=49992125",
-      "https://news.ycombinator.com/item?id=49992257",
-      "https://news.ycombinator.com/item?id=49993908",
       "https://news.ycombinator.com/item?id=49997073",
       "https://news.ycombinator.com/item?id=49998066",
       "https://news.ycombinator.com/item?id=49982445",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50117746",
       "https://news.ycombinator.com/item?id=50118320",
       "https://news.ycombinator.com/item?id=50118688",
-      "https://news.ycombinator.com/item?id=50127274"
+      "https://news.ycombinator.com/item?id=50127274",
+      "https://news.ycombinator.com/item?id=50076089",
+      "https://news.ycombinator.com/item?id=50079280",
+      "https://news.ycombinator.com/item?id=50127979",
+      "https://news.ycombinator.com/item?id=50129045",
+      "https://news.ycombinator.com/item?id=50129121"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1341,7 +1341,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE43cU51Vk9iV25HZUpxNFlTZHFQYy1yZFM5c3ZmYUd2c1F0eHFmZU5vR3FwemRKSTAtWDhDaU9JMXBRd1VhdXFiTTBwQUx6ek1OOWMtYm5qOWRNQQ",
       "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
@@ -1540,7 +1539,8 @@
       "CBMiWkFVX3lxTFByWHB2RkxJbENjck40TUJ5SXhvRVhJN05SaVRjZlFZOG5kbEtaUjhYWVg0cTllTGRvbmhnNjl0a0x1TGl6cEl3anoxVnYya2V5b243TzVqS0dYdw",
       "CBMiWkFVX3lxTFBPYzdFaHVGNlFaU0ZJUExXMnpFTnVxbFY1M01IRGE4U01fMzV1RWlRd2wxczNTNXF2MW51bktFemFRVHZvTjk2UmZUSzFzNHlTZl9iU05fR3JiZw",
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
-      "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw"
+      "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
+      "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4"
     ]
   },
   "pending": {
@@ -1981,6 +1981,12 @@
         "source": "요즘IT",
         "title": "이미 전국민이 경험해본 블록체인 기술 DID란?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "UX측면에서 잘 만들어진 B2C사례: 2부, 토스와 기업은행 아이원뱅킹",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4?oc=5",
         "summary": ""
       }
     ],
