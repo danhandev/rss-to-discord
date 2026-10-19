@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35173",
-      "https://news.hada.io/topic?id=35174",
-      "https://news.hada.io/topic?id=35175",
-      "https://news.hada.io/topic?id=35177",
-      "https://news.hada.io/topic?id=35178",
       "https://news.hada.io/topic?id=35192",
       "https://news.hada.io/topic?id=35193",
       "https://news.hada.io/topic?id=35194",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35631",
       "https://news.hada.io/topic?id=35633",
       "https://news.hada.io/topic?id=35634",
-      "https://news.hada.io/topic?id=35635"
+      "https://news.hada.io/topic?id=35635",
+      "https://news.hada.io/topic?id=35644",
+      "https://news.hada.io/topic?id=35645",
+      "https://news.hada.io/topic?id=35646",
+      "https://news.hada.io/topic?id=35647",
+      "https://news.hada.io/topic?id=35648"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50034081",
-      "https://news.ycombinator.com/item?id=50017247",
-      "https://news.ycombinator.com/item?id=50029487",
-      "https://news.ycombinator.com/item?id=50035530",
-      "https://news.ycombinator.com/item?id=50035886",
       "https://news.ycombinator.com/item?id=50036864",
       "https://news.ycombinator.com/item?id=50005743",
       "https://news.ycombinator.com/item?id=50021899",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50145715",
       "https://news.ycombinator.com/item?id=50146625",
       "https://news.ycombinator.com/item?id=50148452",
-      "https://news.ycombinator.com/item?id=50149392"
+      "https://news.ycombinator.com/item?id=50149392",
+      "https://news.ycombinator.com/item?id=50150434",
+      "https://news.ycombinator.com/item?id=50150809",
+      "https://news.ycombinator.com/item?id=50150927",
+      "https://news.ycombinator.com/item?id=50151928",
+      "https://news.ycombinator.com/item?id=50152307"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1342,7 +1342,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
       "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
       "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
@@ -1541,11 +1540,19 @@
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
       "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
-      "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ"
+      "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ",
+      "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "요즘IT",
+        "title": "네이버 검색 알고리즘은 구글과 왜 다른가: 키워드 1,000개로 본 차이",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
