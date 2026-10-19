@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35130",
-      "https://news.hada.io/topic?id=35131",
-      "https://news.hada.io/topic?id=35133",
-      "https://news.hada.io/topic?id=35134",
-      "https://news.hada.io/topic?id=35135",
       "https://news.hada.io/topic?id=35138",
       "https://news.hada.io/topic?id=35139",
       "https://news.hada.io/topic?id=35140",
@@ -200,12 +195,14 @@
       "https://news.hada.io/topic?id=35599",
       "https://news.hada.io/topic?id=35600",
       "https://news.hada.io/topic?id=35601",
-      "https://news.hada.io/topic?id=35602"
+      "https://news.hada.io/topic?id=35602",
+      "https://news.hada.io/topic?id=35613",
+      "https://news.hada.io/topic?id=35614",
+      "https://news.hada.io/topic?id=35615",
+      "https://news.hada.io/topic?id=35617",
+      "https://news.hada.io/topic?id=35619"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50029982",
-      "https://news.ycombinator.com/item?id=50031269",
-      "https://news.ycombinator.com/item?id=50027853",
       "https://news.ycombinator.com/item?id=50028027",
       "https://news.ycombinator.com/item?id=50031614",
       "https://news.ycombinator.com/item?id=50031653",
@@ -402,7 +399,10 @@
       "https://news.ycombinator.com/item?id=50136150",
       "https://news.ycombinator.com/item?id=50144005",
       "https://news.ycombinator.com/item?id=50144066",
-      "https://news.ycombinator.com/item?id=50145337"
+      "https://news.ycombinator.com/item?id=50145337",
+      "https://news.ycombinator.com/item?id=50096110",
+      "https://news.ycombinator.com/item?id=50118165",
+      "https://news.ycombinator.com/item?id=50136979"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -467,7 +467,8 @@
       "https://toss.tech/article/spark-connect-on-kubernetes-2",
       "https://toss.tech/article/package-management-1",
       "https://toss.tech/article/package-management-2",
-      "https://toss.tech/article/dw-airflow-migration"
+      "https://toss.tech/article/dw-airflow-migration",
+      "https://toss.tech/article/nic-interrupt-bottleneck"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1341,7 +1342,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE0tNDVnTkJ0Qzc4Mkhsb28zNXB2aHRQbU5iRlVYRnBFemYyWkNQZjBVb1pZSmJ4WEdKVWhSdFJNS2xmZzNOTjhsUnNqZE5XdXpmeU9IYXYzOUpNZw",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBCWko3NWZOWTRlVjBCQTJGT3NQS1dra1hpYTA3bmxZeGthN3ctQlRualNNTUctNVg1aGRkemtfb3NrbWhKU1NoTWpzRXlxTXJjLUh6TmEyeVZwQQ",
       "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
@@ -1540,7 +1540,8 @@
       "CBMiWkFVX3lxTFBPYzdFaHVGNlFaU0ZJUExXMnpFTnVxbFY1M01IRGE4U01fMzV1RWlRd2wxczNTNXF2MW51bktFemFRVHZvTjk2UmZUSzFzNHlTZl9iU05fR3JiZw",
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
       "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
-      "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4"
+      "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
+      "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ"
     ]
   },
   "pending": {
@@ -1987,6 +1988,18 @@
         "source": "요즘IT",
         "title": "UX측면에서 잘 만들어진 B2C사례: 2부, 토스와 기업은행 아이원뱅킹",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "평균 CPU는 여유로운데, 커밋은 왜 느릴까?",
+        "link": "https://toss.tech/article/nic-interrupt-bottleneck",
+        "summary": "NIC 인터럽트에서 찾은 병목"
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘IT 빌더나잇 후기: 배포는 안 했지만 매일 쓰는 도구 이야기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ?oc=5",
         "summary": ""
       }
     ],
