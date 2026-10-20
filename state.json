@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35250",
-      "https://news.hada.io/topic?id=35251",
-      "https://news.hada.io/topic?id=35252",
-      "https://news.hada.io/topic?id=35253",
-      "https://news.hada.io/topic?id=35254",
       "https://news.hada.io/topic?id=35266",
       "https://news.hada.io/topic?id=35267",
       "https://news.hada.io/topic?id=35268",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35704",
       "https://news.hada.io/topic?id=35707",
       "https://news.hada.io/topic?id=35708",
-      "https://news.hada.io/topic?id=35709"
+      "https://news.hada.io/topic?id=35709",
+      "https://news.hada.io/topic?id=35720",
+      "https://news.hada.io/topic?id=35721",
+      "https://news.hada.io/topic?id=35722",
+      "https://news.hada.io/topic?id=35723",
+      "https://news.hada.io/topic?id=35724"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50048312",
-      "https://news.ycombinator.com/item?id=50042362",
-      "https://news.ycombinator.com/item?id=50048638",
-      "https://news.ycombinator.com/item?id=50048642",
-      "https://news.ycombinator.com/item?id=50049411",
       "https://news.ycombinator.com/item?id=50034206",
       "https://news.ycombinator.com/item?id=50046241",
       "https://news.ycombinator.com/item?id=50048522",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50159245",
       "https://news.ycombinator.com/item?id=50162177",
       "https://news.ycombinator.com/item?id=50163277",
-      "https://news.ycombinator.com/item?id=50163961"
+      "https://news.ycombinator.com/item?id=50163961",
+      "https://news.ycombinator.com/item?id=50166794",
+      "https://news.ycombinator.com/item?id=50167028",
+      "https://news.ycombinator.com/item?id=50167536",
+      "https://news.ycombinator.com/item?id=50168190",
+      "https://news.ycombinator.com/item?id=50168396"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -416,7 +416,8 @@
       "https://spring.io/blog/2026/09/22/this-week-in-spring-september-22-2026",
       "https://spring.io/blog/2026/09/29/this-week-in-spring-september-29th-2026",
       "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
-      "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026"
+      "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026",
+      "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
@@ -1343,7 +1344,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
       "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
       "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw",
       "CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ",
@@ -1542,7 +1542,8 @@
       "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw",
-      "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ"
+      "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ",
+      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ"
     ]
   },
   "pending": {
@@ -1575,6 +1576,12 @@
         "source": "요즘IT",
         "title": "기획서가 사라진 개발팀은 어떻게 일해야 할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "어이 신입, 탈출각이다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ?oc=5",
         "summary": ""
       }
     ],
