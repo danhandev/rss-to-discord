@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35266",
-      "https://news.hada.io/topic?id=35267",
-      "https://news.hada.io/topic?id=35268",
-      "https://news.hada.io/topic?id=35269",
-      "https://news.hada.io/topic?id=35270",
       "https://news.hada.io/topic?id=35286",
       "https://news.hada.io/topic?id=35287",
       "https://news.hada.io/topic?id=35288",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35721",
       "https://news.hada.io/topic?id=35722",
       "https://news.hada.io/topic?id=35723",
-      "https://news.hada.io/topic?id=35724"
+      "https://news.hada.io/topic?id=35724",
+      "https://news.hada.io/topic?id=35727",
+      "https://news.hada.io/topic?id=35728",
+      "https://news.hada.io/topic?id=35730",
+      "https://news.hada.io/topic?id=35731",
+      "https://news.hada.io/topic?id=35732"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50034206",
-      "https://news.ycombinator.com/item?id=50046241",
-      "https://news.ycombinator.com/item?id=50048522",
-      "https://news.ycombinator.com/item?id=50049872",
-      "https://news.ycombinator.com/item?id=50051530",
       "https://news.ycombinator.com/item?id=50059115",
       "https://news.ycombinator.com/item?id=50059204",
       "https://news.ycombinator.com/item?id=50059523",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50167028",
       "https://news.ycombinator.com/item?id=50167536",
       "https://news.ycombinator.com/item?id=50168190",
-      "https://news.ycombinator.com/item?id=50168396"
+      "https://news.ycombinator.com/item?id=50168396",
+      "https://news.ycombinator.com/item?id=50168096",
+      "https://news.ycombinator.com/item?id=50168357",
+      "https://news.ycombinator.com/item?id=50169053",
+      "https://news.ycombinator.com/item?id=50169707",
+      "https://news.ycombinator.com/item?id=50170593"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1187,7 +1187,8 @@
       "CBMiTEFVX3lxTE80Um4wVFhUZGdWTlNRRmticzdVWGZPcnRXM0ZRYlhZdlZncGJEMmxrdVFaNFFja0VNYkN1ZDlWZGVWMmVrZl83bDBDRTQ",
       "CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA",
       "CBMiS0FVX3lxTE9URTlHUU1ZbXBBd3ZfTHR5b0pXMVpZY3c3SEw2N25ibE53TDY0akw5R00zbGJoNkJhSmpHMUxSd0tTY3lOTWc5WF9BVQ",
-      "CBMiTEFVX3lxTE1QYzhWQ2xDdExNTDRLbldQR1VnMFROTUt4LU1fNkd0ODV2Qm42RC13REFJTi1mSUViSVprRnl2X0E2bGpFaUxYZ2Z3VXQ"
+      "CBMiTEFVX3lxTE1QYzhWQ2xDdExNTDRLbldQR1VnMFROTUt4LU1fNkd0ODV2Qm42RC13REFJTi1mSUViSVprRnl2X0E2bGpFaUxYZ2Z3VXQ",
+      "CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1582,6 +1583,12 @@
         "source": "요즘IT",
         "title": "어이 신입, 탈출각이다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "메인 데이터베이스 IDC 탈출 성공기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ?oc=5",
         "summary": ""
       }
     ],
