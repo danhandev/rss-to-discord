@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35220",
-      "https://news.hada.io/topic?id=35221",
-      "https://news.hada.io/topic?id=35222",
-      "https://news.hada.io/topic?id=35223",
-      "https://news.hada.io/topic?id=35224",
       "https://news.hada.io/topic?id=35229",
       "https://news.hada.io/topic?id=35230",
       "https://news.hada.io/topic?id=35231",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35667",
       "https://news.hada.io/topic?id=35670",
       "https://news.hada.io/topic?id=35672",
-      "https://news.hada.io/topic?id=35673"
+      "https://news.hada.io/topic?id=35673",
+      "https://news.hada.io/topic?id=35688",
+      "https://news.hada.io/topic?id=35689",
+      "https://news.hada.io/topic?id=35690",
+      "https://news.hada.io/topic?id=35691",
+      "https://news.hada.io/topic?id=35692"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50043682",
-      "https://news.ycombinator.com/item?id=50042425",
-      "https://news.ycombinator.com/item?id=50043689",
-      "https://news.ycombinator.com/item?id=50045946",
-      "https://news.ycombinator.com/item?id=50045984",
       "https://news.ycombinator.com/item?id=50047055",
       "https://news.ycombinator.com/item?id=50042333",
       "https://news.ycombinator.com/item?id=50047091",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50150089",
       "https://news.ycombinator.com/item?id=50151036",
       "https://news.ycombinator.com/item?id=50152321",
-      "https://news.ycombinator.com/item?id=50158100"
+      "https://news.ycombinator.com/item?id=50158100",
+      "https://news.ycombinator.com/item?id=50158138",
+      "https://news.ycombinator.com/item?id=50158942",
+      "https://news.ycombinator.com/item?id=50159341",
+      "https://news.ycombinator.com/item?id=50159616",
+      "https://news.ycombinator.com/item?id=50160494"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -602,7 +602,8 @@
       "https://d2.naver.com/helloworld/8118359",
       "https://d2.naver.com/news/7193556",
       "https://d2.naver.com/news/8711937",
-      "https://d2.naver.com/helloworld/4149925"
+      "https://d2.naver.com/helloworld/4149925",
+      "https://d2.naver.com/helloworld/2675915"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1342,7 +1343,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
       "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
       "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
       "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw",
@@ -1541,7 +1541,8 @@
       "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ",
       "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
-      "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw"
+      "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw",
+      "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ"
     ]
   },
   "pending": {
@@ -1562,6 +1563,18 @@
         "source": "요즘IT",
         "title": "월 10달러 AI 코딩 플랜, 반복 작업에 써봤습니다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+        "link": "https://d2.naver.com/helloworld/2675915",
+        "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다. 달라진 것은 명세만이 아닙니다. 2020년에는 상상하기 어려웠던 방식으로 코드를 쓰는 사람이 늘었습니다.…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "기획서가 사라진 개발팀은 어떻게 일해야 할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ?oc=5",
         "summary": ""
       }
     ],
