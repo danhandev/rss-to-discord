@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35208",
-      "https://news.hada.io/topic?id=35210",
-      "https://news.hada.io/topic?id=35211",
-      "https://news.hada.io/topic?id=35212",
-      "https://news.hada.io/topic?id=35213",
       "https://news.hada.io/topic?id=35220",
       "https://news.hada.io/topic?id=35221",
       "https://news.hada.io/topic?id=35222",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35659",
       "https://news.hada.io/topic?id=35660",
       "https://news.hada.io/topic?id=35661",
-      "https://news.hada.io/topic?id=35662"
+      "https://news.hada.io/topic?id=35662",
+      "https://news.hada.io/topic?id=35665",
+      "https://news.hada.io/topic?id=35667",
+      "https://news.hada.io/topic?id=35670",
+      "https://news.hada.io/topic?id=35672",
+      "https://news.hada.io/topic?id=35673"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50037949",
-      "https://news.ycombinator.com/item?id=50041540",
-      "https://news.ycombinator.com/item?id=50041682",
-      "https://news.ycombinator.com/item?id=50042219",
-      "https://news.ycombinator.com/item?id=50043026",
       "https://news.ycombinator.com/item?id=50043682",
       "https://news.ycombinator.com/item?id=50042425",
       "https://news.ycombinator.com/item?id=50043689",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50154540",
       "https://news.ycombinator.com/item?id=50154624",
       "https://news.ycombinator.com/item?id=50155245",
-      "https://news.ycombinator.com/item?id=50156206"
+      "https://news.ycombinator.com/item?id=50156206",
+      "https://news.ycombinator.com/item?id=50147462",
+      "https://news.ycombinator.com/item?id=50150089",
+      "https://news.ycombinator.com/item?id=50151036",
+      "https://news.ycombinator.com/item?id=50152321",
+      "https://news.ycombinator.com/item?id=50158100"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1342,7 +1342,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9IQ3gtSEo3cURubU9YWnVrOGpJYkxOakMxVVZocVBQWDN1Y0ZWOTY1VzA2TWZXSUFUTVhaOXFab3JXTmk1NE8yMFR2Q3V2UHdPdGJmaXFUYXBaQQ",
       "CBMiWkFVX3lxTFAtNlJRQVNLZ083ZGJZQkxpZkNlbFpNazMtUzN6SE9CSWtOancyUEswdmtQTEZzQUJhMkxRelB3UUpXaUxPN2lSYlJSQUQ5dU5XWTQ1UVptc2lPZw",
       "CBMiWkFVX3lxTFAtOVJaTkxoNVQwRVE3OHk3YjdPSk9VZXlGT0N5TFFtVnFVY3FXekxKT2NiSElDZVdWYnVyd1NIR3YyckQtQTlXdjhQd0FDSGtfc25WTnVZSUx1UQ",
       "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
@@ -1541,7 +1540,8 @@
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
       "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ",
       "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ",
-      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ"
+      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
+      "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw"
     ]
   },
   "pending": {
@@ -1556,6 +1556,12 @@
         "source": "요즘IT",
         "title": "웹 접근성 명암비 기준, 꼭 지켜야 할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "월 10달러 AI 코딩 플랜, 반복 작업에 써봤습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw?oc=5",
         "summary": ""
       }
     ],
