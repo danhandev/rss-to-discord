@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35286",
-      "https://news.hada.io/topic?id=35287",
-      "https://news.hada.io/topic?id=35288",
-      "https://news.hada.io/topic?id=35289",
-      "https://news.hada.io/topic?id=35290",
       "https://news.hada.io/topic?id=35300",
       "https://news.hada.io/topic?id=35301",
       "https://news.hada.io/topic?id=35302",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35728",
       "https://news.hada.io/topic?id=35730",
       "https://news.hada.io/topic?id=35731",
-      "https://news.hada.io/topic?id=35732"
+      "https://news.hada.io/topic?id=35732",
+      "https://news.hada.io/topic?id=35734",
+      "https://news.hada.io/topic?id=35735",
+      "https://news.hada.io/topic?id=35736",
+      "https://news.hada.io/topic?id=35737",
+      "https://news.hada.io/topic?id=35739"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50059115",
-      "https://news.ycombinator.com/item?id=50059204",
-      "https://news.ycombinator.com/item?id=50059523",
-      "https://news.ycombinator.com/item?id=50060500",
-      "https://news.ycombinator.com/item?id=50060694",
       "https://news.ycombinator.com/item?id=50059096",
       "https://news.ycombinator.com/item?id=50060269",
       "https://news.ycombinator.com/item?id=50063138",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50168357",
       "https://news.ycombinator.com/item?id=50169053",
       "https://news.ycombinator.com/item?id=50169707",
-      "https://news.ycombinator.com/item?id=50170593"
+      "https://news.ycombinator.com/item?id=50170593",
+      "https://news.ycombinator.com/item?id=50166257",
+      "https://news.ycombinator.com/item?id=50166579",
+      "https://news.ycombinator.com/item?id=50170917",
+      "https://news.ycombinator.com/item?id=50172041",
+      "https://news.ycombinator.com/item?id=50173487"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -491,7 +491,8 @@
       "https://tech.kakao.com/posts/836",
       "https://tech.kakao.com/posts/837",
       "https://tech.kakao.com/posts/838",
-      "https://tech.kakao.com/posts/839"
+      "https://tech.kakao.com/posts/839",
+      "https://tech.kakao.com/posts/840"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1188,7 +1189,8 @@
       "CBMiS0FVX3lxTE5OeU1zcUFOT3kydjRSSkY2VlRwdV9oSDhwdzRGQkhoYndYTnVTV2dDb3Z0Ni1Ia2w3V1U0QTJnQ3RCc2VHTHY4bFBHMA",
       "CBMiS0FVX3lxTE9URTlHUU1ZbXBBd3ZfTHR5b0pXMVpZY3c3SEw2N25ibE53TDY0akw5R00zbGJoNkJhSmpHMUxSd0tTY3lOTWc5WF9BVQ",
       "CBMiTEFVX3lxTE1QYzhWQ2xDdExNTDRLbldQR1VnMFROTUt4LU1fNkd0ODV2Qm42RC13REFJTi1mSUViSVprRnl2X0E2bGpFaUxYZ2Z3VXQ",
-      "CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ"
+      "CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ",
+      "CBMiS0FVX3lxTE11VlJjRzFnSzJQeGd5WjkyU0U1Y1lkX3hjVk1lOUxPSTlORlZ3NFBkNFlmTmdudkVEc3luWlZ5alRaT3pXOXdZNEpUSQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1345,7 +1347,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE40QU1MOG5sek9fRmoyZm1xd2s3S1RrYlp4OFlfUEZYaXBock9IRk1wd2MyU1VISzlhMFVpc1d0Nk90bWtVQUFoMFpkcmIyemJDbG5WYkVjVmIydw",
       "CBMiWkFVX3lxTE1qbjlUUVNLZGpzTWM2MFRmOVN1b1M3RVppRFd0Y2dvWk5oOHpmWjB6aHJxcWswQWxHVVNqVXRQaS01RGNsemtBMmhYc3FuOWNwRFdsbFJ1R2ctdw",
       "CBMiWkFVX3lxTE9pTlV6SkxILWhMVzRva2lIYk5sclI3SXNyNEdZQzVKaEpBeU9SN3hsc0FwSXhMdEJQa1g4cUpobmFkWHBPX0lYYi13QXptZi1aRkx1Y1preExwUQ",
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
@@ -1544,7 +1545,8 @@
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw",
       "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ",
-      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ"
+      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
+      "CBMiWkFVX3lxTE9KMGxqZVNzRE9MZV9vdkdzQnZQYUNxUHZMX0hZaHZQdVYxYVNnNzVLVnhXc2tpcS1XQUpJMnljRi1UOHFFVUhNdnBtQXRMYTZtWVdlR0ZYRlhlQQ"
     ]
   },
   "pending": {
@@ -1589,6 +1591,24 @@
         "source": "우아한형제들",
         "title": "메인 데이터베이스 IDC 탈출 성공기",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Spring Batch와 Querydsl",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11VlJjRzFnSzJQeGd5WjkyU0U1Y1lkX3hjVk1lOUxPSTlORlZ3NFBkNFlmTmdudkVEc3luWlZ5alRaT3pXOXdZNEpUSQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "글로벌 최고 수준의 자체 비전 인코더, Kanana-2-vision-encoder 개발기",
+        "link": "https://tech.kakao.com/posts/840",
+        "summary": "안녕하세요. 카카오 Multimodal Model Training팀에서 카나나를 연구·개발하는 Polar(엄지환)입니다. 카카오가 자체 기술력만으로 밑바닥부터(from scratch) 개발한 독자 비전 인코더, Kanana-2-vision-encoder를 소개합니다. Kanana-2-vision-encoder는 카카오 언어모델 Kanana-2 LLM[1]의 가중치와 구조를 활용해 학습과 추론 모두에서 높은 효율성을 자랑합니다. 또한, 고해상도 이미지 ..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "국내 FDE 현황 조사 2026: FDE의 실제 모습을 묻습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMGxqZVNzRE9MZV9vdkdzQnZQYUNxUHZMX0hZaHZQdVYxYVNnNzVLVnhXc2tpcS1XQUpJMnljRi1UOHFFVUhNdnBtQXRMYTZtWVdlR0ZYRlhlQQ?oc=5",
         "summary": ""
       }
     ],
