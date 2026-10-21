@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35321",
-      "https://news.hada.io/topic?id=35322",
-      "https://news.hada.io/topic?id=35324",
-      "https://news.hada.io/topic?id=35326",
-      "https://news.hada.io/topic?id=35327",
       "https://news.hada.io/topic?id=35333",
       "https://news.hada.io/topic?id=35334",
       "https://news.hada.io/topic?id=35335",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35757",
       "https://news.hada.io/topic?id=35758",
       "https://news.hada.io/topic?id=35759",
-      "https://news.hada.io/topic?id=35760"
+      "https://news.hada.io/topic?id=35760",
+      "https://news.hada.io/topic?id=35765",
+      "https://news.hada.io/topic?id=35766",
+      "https://news.hada.io/topic?id=35767",
+      "https://news.hada.io/topic?id=35768",
+      "https://news.hada.io/topic?id=35770"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50070593",
-      "https://news.ycombinator.com/item?id=50071017",
-      "https://news.ycombinator.com/item?id=50071310",
-      "https://news.ycombinator.com/item?id=50072913",
-      "https://news.ycombinator.com/item?id=50073879",
       "https://news.ycombinator.com/item?id=50072994",
       "https://news.ycombinator.com/item?id=50073221",
       "https://news.ycombinator.com/item?id=50073633",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50179828",
       "https://news.ycombinator.com/item?id=50180836",
       "https://news.ycombinator.com/item?id=50180873",
-      "https://news.ycombinator.com/item?id=50180943"
+      "https://news.ycombinator.com/item?id=50180943",
+      "https://news.ycombinator.com/item?id=50181136",
+      "https://news.ycombinator.com/item?id=50181175",
+      "https://news.ycombinator.com/item?id=50182526",
+      "https://news.ycombinator.com/item?id=50182987",
+      "https://news.ycombinator.com/item?id=50184586"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1350,8 +1350,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
-      "CBMiWkFVX3lxTFBoaWUzd1dvOVItV1dkOGhvcVhacnJWRkxCMFFvUUthdWVZTXlRaTd3RjV0ZmRkZDBqUFNBZTB6bTZyTFl6TmlBdURxd1BncXVMOURiZUVBWTNBQQ",
       "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
       "CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw",
       "CBMiWkFVX3lxTE5wRm80UkRTSC14YXk3ZFh4ZlRhU2ZPYTVRMWRKcGVkeG11RFl3d25IeUluOXJ4MkIzQlFHYkthQnZYdmZWWU5WWnJ0aDJMbFVNZ2Yyb1FhMm8yZw",
@@ -1549,7 +1547,9 @@
       "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
       "CBMiWkFVX3lxTE9KMGxqZVNzRE9MZV9vdkdzQnZQYUNxUHZMX0hZaHZQdVYxYVNnNzVLVnhXc2tpcS1XQUpJMnljRi1UOHFFVUhNdnBtQXRMYTZtWVdlR0ZYRlhlQQ",
       "CBMiWkFVX3lxTE1JUXRnenVqYkVRT0ZoUjNWbS1hR0szMDNIMUZuRVFnZjE5b1dyN0EtcTdXVWYtY2VoblR2NlFVczVuYnE4NXNBcW1IaHUwSTRiQUl2RnNPbzR6QQ",
-      "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ"
+      "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ",
+      "CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ",
+      "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw"
     ]
   },
   "pending": {
@@ -1643,6 +1643,18 @@
         "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
         "link": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b?source=rss----4505f82a2dbd---4",
         "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "Opus 4.8 등장: 클로드는 빼앗긴 주도권을 찾아올까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "RAG 다음은 Knowledge Layer: 검색 뒤에 남는 4가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
