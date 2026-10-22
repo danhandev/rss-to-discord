@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35359",
-      "https://news.hada.io/topic?id=35360",
-      "https://news.hada.io/topic?id=35361",
-      "https://news.hada.io/topic?id=35362",
-      "https://news.hada.io/topic?id=35363",
       "https://news.hada.io/topic?id=35366",
       "https://news.hada.io/topic?id=35367",
       "https://news.hada.io/topic?id=35368",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35787",
       "https://news.hada.io/topic?id=35788",
       "https://news.hada.io/topic?id=35789",
-      "https://news.hada.io/topic?id=35790"
+      "https://news.hada.io/topic?id=35790",
+      "https://news.hada.io/topic?id=35798",
+      "https://news.hada.io/topic?id=35800",
+      "https://news.hada.io/topic?id=35805",
+      "https://news.hada.io/topic?id=35806",
+      "https://news.hada.io/topic?id=35807"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50074909",
-      "https://news.ycombinator.com/item?id=50079865",
-      "https://news.ycombinator.com/item?id=50080007",
-      "https://news.ycombinator.com/item?id=50082470",
-      "https://news.ycombinator.com/item?id=50083130",
       "https://news.ycombinator.com/item?id=50053487",
       "https://news.ycombinator.com/item?id=50054092",
       "https://news.ycombinator.com/item?id=50084240",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50181114",
       "https://news.ycombinator.com/item?id=50184820",
       "https://news.ycombinator.com/item?id=50188948",
-      "https://news.ycombinator.com/item?id=50189232"
+      "https://news.ycombinator.com/item?id=50189232",
+      "https://news.ycombinator.com/item?id=50162044",
+      "https://news.ycombinator.com/item?id=50173716",
+      "https://news.ycombinator.com/item?id=50190363",
+      "https://news.ycombinator.com/item?id=50190455",
+      "https://news.ycombinator.com/item?id=50191507"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -492,7 +492,8 @@
       "https://tech.kakao.com/posts/837",
       "https://tech.kakao.com/posts/838",
       "https://tech.kakao.com/posts/839",
-      "https://tech.kakao.com/posts/840"
+      "https://tech.kakao.com/posts/840",
+      "https://tech.kakao.com/posts/842"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1193,7 +1194,8 @@
       "CBMiTEFVX3lxTE1QYzhWQ2xDdExNTDRLbldQR1VnMFROTUt4LU1fNkd0ODV2Qm42RC13REFJTi1mSUViSVprRnl2X0E2bGpFaUxYZ2Z3VXQ",
       "CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ",
       "CBMiS0FVX3lxTE11VlJjRzFnSzJQeGd5WjkyU0U1Y1lkX3hjVk1lOUxPSTlORlZ3NFBkNFlmTmdudkVEc3luWlZ5alRaT3pXOXdZNEpUSQ",
-      "CBMiTEFVX3lxTFBlRzFOUXhmWkNuODdTb1Jkc2h4WnNDTlZtVk1fNGlTSS0wRTAyMFBFblNZY1hWMU5BNHRtOTZvWEtUcjFSdUNDUGdkbUE"
+      "CBMiTEFVX3lxTFBlRzFOUXhmWkNuODdTb1Jkc2h4WnNDTlZtVk1fNGlTSS0wRTAyMFBFblNZY1hWMU5BNHRtOTZvWEtUcjFSdUNDUGdkbUE",
+      "CBMiS0FVX3lxTE9vQnJEUTA5bHFUV180UEo1MHZjaFpoQU5lVVoxZzV1b2NjajRVLXdwTHJ2TkVVbGo2WnY0ak9pUHRvcTZOSlliUmpNOA"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1661,6 +1663,18 @@
         "title": "Next.js 모바일 웹을 일주일 만에 앱으로 바꾼 방법 ①",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "크롬 익스텐션에서 데이터를 어떻게 다룰 것인가? (피트스탑과제 – 크롬 익스텐션 개발기)",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vQnJEUTA5bHFUV180UEo1MHZjaFpoQU5lVVoxZzV1b2NjajRVLXdwTHJ2TkVVbGo2WnY0ak9pUHRvcTZOSlliUmpNOA?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "카카오 AI 돛 Summit 26 다시보기 공개 — AI 인프라부터 서비스 적용, 개발과 창업까지",
+        "link": "https://tech.kakao.com/posts/842",
+        "summary": "지난 9월 29일 부산에서 약 800명의 참가자와 함께한 ‘카카오 AI 돛 Summit 26’의 주요 세션 VOD를 공개합니다. 👉 카카오 AI 돛 Summit 26 세션 VOD 보러 가기 AI와 함께 개발하는 방식부터 실제 서비스에 AI를 적용하는 과정, 연구를 창업으로 연결하는 경험까지. 현장에 참석하지 못했거나 동시에 진행되어 놓쳤던 발표를 이제 온라인에서 만나보세요. 어떤 세션부터 볼지 고민된다면, 지금 여러분의 관심사와 가장 가까운 이야기부터..."
       }
     ],
     "weekly-finance": []
