@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35429",
-      "https://news.hada.io/topic?id=35430",
-      "https://news.hada.io/topic?id=35431",
-      "https://news.hada.io/topic?id=35432",
-      "https://news.hada.io/topic?id=35433",
       "https://news.hada.io/topic?id=35428",
       "https://news.hada.io/topic?id=35434",
       "https://news.hada.io/topic?id=35435",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=35846",
       "https://news.hada.io/topic?id=35847",
       "https://news.hada.io/topic?id=35848",
-      "https://news.hada.io/topic?id=35850"
+      "https://news.hada.io/topic?id=35850",
+      "https://news.hada.io/topic?id=35852",
+      "https://news.hada.io/topic?id=35855",
+      "https://news.hada.io/topic?id=35856",
+      "https://news.hada.io/topic?id=35857",
+      "https://news.hada.io/topic?id=35859"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50054465",
-      "https://news.ycombinator.com/item?id=50083028",
-      "https://news.ycombinator.com/item?id=50089229",
-      "https://news.ycombinator.com/item?id=50093612",
       "https://news.ycombinator.com/item?id=50097369",
       "https://news.ycombinator.com/item?id=50050553",
       "https://news.ycombinator.com/item?id=50053384",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=50199230",
       "https://news.ycombinator.com/item?id=50199389",
       "https://news.ycombinator.com/item?id=50202217",
-      "https://news.ycombinator.com/item?id=50202681"
+      "https://news.ycombinator.com/item?id=50202681",
+      "https://news.ycombinator.com/item?id=50200997",
+      "https://news.ycombinator.com/item?id=50201414",
+      "https://news.ycombinator.com/item?id=50202285",
+      "https://news.ycombinator.com/item?id=50203161"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1196,7 +1196,20 @@
       "CBMiS0FVX3lxTE5CTEtfektQNUVTQzFpSWI0U1BsVlNsT1lubEo0b3NmendpZWNEWVUyeGQyYzYyN0xtQlNvQzAyLU5WeEJRbDNlREJTTQ",
       "CBMiS0FVX3lxTE11VlJjRzFnSzJQeGd5WjkyU0U1Y1lkX3hjVk1lOUxPSTlORlZ3NFBkNFlmTmdudkVEc3luWlZ5alRaT3pXOXdZNEpUSQ",
       "CBMiTEFVX3lxTFBlRzFOUXhmWkNuODdTb1Jkc2h4WnNDTlZtVk1fNGlTSS0wRTAyMFBFblNZY1hWMU5BNHRtOTZvWEtUcjFSdUNDUGdkbUE",
-      "CBMiS0FVX3lxTE9vQnJEUTA5bHFUV180UEo1MHZjaFpoQU5lVVoxZzV1b2NjajRVLXdwTHJ2TkVVbGo2WnY0ak9pUHRvcTZOSlliUmpNOA"
+      "CBMiS0FVX3lxTE9vQnJEUTA5bHFUV180UEo1MHZjaFpoQU5lVVoxZzV1b2NjajRVLXdwTHJ2TkVVbGo2WnY0ak9pUHRvcTZOSlliUmpNOA",
+      "CBMiTEFVX3lxTE9VbHY0aktfOUEwSHhuVUd5VW1ubFg5MkJhYTJtendKTkMxeFdOWktYNFlOOE16LW42YUVXeG16VWlVcXNoc0VxcTdFaG8",
+      "CBMiTEFVX3lxTE14cVJNUnJSWjFPOEVwZWJBaHhxUUFfaC1vTEhxZTh3aGFjNDFuUmxBUFVXWlR1UzdzNk9sNFB4bF92M1JIUVBEdHZMMEw",
+      "CBMiTEFVX3lxTFBEQkZtNFAycFdMTXpaeDFDUVcxTGtNazRycXVaOUU2ZnJna2E0OU82M3VjSHFETEhwQ1hzS005aFVGV2xfWEZTNEhWRVY",
+      "CBMiTEFVX3lxTE5SVGZqLUY4TjJROGFpNWxEOFRLOGc0VXBtWW44cDZGT05VYU11TllxbnN0dlFLU0FqZzRUMjFFNFlUMFZjck9OVm1kLTk",
+      "CBMiTEFVX3lxTE5kTHhZbHdXQ0R6RWZ4Z0Z3N2ZKRXRhbGV4THRIX0J5alFidXV6VjYzZXV6cDZuZ1dNRE9wTTQzZ2FEVUx1ZW1WYjdtUzI",
+      "CBMiTEFVX3lxTE9Kem00WjlTdURqODd0WEFWUjJWUExPR2dTUWdMbTRfVjBQV3VTMGFMSGhqZTBNcmZFVjdlc0JxU1FZRk12TzM0X2RxY2o",
+      "CBMiTEFVX3lxTFBNbVZXOHJublN1VjNpT3RkbUJZdzc5bmdfV2F5R2hlbE41R0VCRUl1UDdBaWRIZ1pFenByVmFvS3lkajd6NDFfZDhaZWk",
+      "CBMiS0FVX3lxTE9EQ0RzbXh0MjB4MW16RlBHZUtvallwbUNkeXRQcG9Nb2s3a0lFaDhTMXBSUlJCTFFsRU5IcnNhd0VYOXBaUkRhSkYxNA",
+      "CBMiWkFVX3lxTE1uWDFyQ3FYano1ck1ocUwtUU81M1lDelg5LTlfNFJONXVNX252SEUtZ19FWlVteUFSeUtGM0R2YURheEhub3VSRkVKVzI0WUlIZ3Fjaml0ZXVUUQ",
+      "CBMiTEFVX3lxTE1ST2FuLVEtaWRCZWlwd3JlNHZSRDA5MVFIc0tHd2JoczEtSGFmcU5TUTFtMHljVFBKajZNb1c5ckx4TnROcGxUY3FMdnQ",
+      "CBMiS0FVX3lxTFA4LWNINldZbFpiWG14bmhpNHVKVGFHVUd5MHlCcmFzRFYxZDZuY3AtQ3Mya0Fyd2dFdHU3eU11WnE4TGI5ejFMZVF6Yw",
+      "CBMiS0FVX3lxTE1xU3gxT2tpTGlIcXotUTBSR2RtWklqR2p5bmdWX0lnMnp2OTVKRVdqWU9uUC0tUldHMGxESkpkYzlJV2NKM09kcTlqWQ",
+      "CBMiS0FVX3lxTFBBZ2pMVl84NDJLeHZTX3NJUkRLV2xMbmlobFBlX01wclZpODJ3cEo3NDNqUWNJcDZyRXFZdHZ4djItR3JDYy1lNnY0MA"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1687,6 +1700,84 @@
         "source": "요즘IT",
         "title": "[AX일지] 재고 안 맞는 유통사에서 AI가 할 수 있는 것",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "배민 앱 리뷰 품질을 향상시킨 방법은? 머신 러닝 X 네트워크 탐지 모델 도입",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VbHY0aktfOUEwSHhuVUd5VW1ubFg5MkJhYTJtendKTkMxeFdOWktYNFlOOE16LW42YUVXeG16VWlVcXNoc0VxcTdFaG8?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "B마트 OMS의 물류주문관리를 통한 출고 최적화",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14cVJNUnJSWjFPOEVwZWJBaHhxUUFfaC1vTEhxZTh3aGFjNDFuUmxBUFVXWlR1UzdzNk9sNFB4bF92M1JIUVBEdHZMMEw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "이 과제의 성과는 뭔가요? 지표 중심 커뮤니케이션이 불러온 변화",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEQkZtNFAycFdMTXpaeDFDUVcxTGtNazRycXVaOUU2ZnJna2E0OU82M3VjSHFETEhwQ1hzS005aFVGV2xfWEZTNEhWRVY?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "postgres_fdw로 마이그레이션 생산성 높이기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SVGZqLUY4TjJROGFpNWxEOFRLOGc0VXBtWW44cDZGT05VYU11TllxbnN0dlFLU0FqZzRUMjFFNFlUMFZjck9OVm1kLTk?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "사이드 프로젝트는 사이드가 아니다",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kTHhZbHdXQ0R6RWZ4Z0Z3N2ZKRXRhbGV4THRIX0J5alFidXV6VjYzZXV6cDZuZ1dNRE9wTTQzZ2FEVUx1ZW1WYjdtUzI?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "PM이 사용자가 아닌 서비스는 어떻게 만들까? : 배민외식업광장 ‘장사캘린더’ 오픈부터 개선까지",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Kem00WjlTdURqODd0WEFWUjJWUExPR2dTUWdMbTRfVjBQV3VTMGFMSGhqZTBNcmZFVjdlc0JxU1FZRk12TzM0X2RxY2o?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "제목은 안정적인 AI 서빙 시스템으로 하겠습니다. 근데 이제 자동화를 곁들인…",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNbVZXOHJublN1VjNpT3RkbUJZdzc5bmdfV2F5R2hlbE41R0VCRUl1UDdBaWRIZ1pFenByVmFvS3lkajd6NDFfZDhaZWk?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "React 개발자를 위한 피그마 플러그인 개발(feat. 온보딩)",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQ0RzbXh0MjB4MW16RlBHZUtvallwbUNkeXRQcG9Nb2s3a0lFaDhTMXBSUlJCTFFsRU5IcnNhd0VYOXBaUkRhSkYxNA?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "| 우아한형제들 기술블로그",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWDFyQ3FYano1ck1ocUwtUU81M1lDelg5LTlfNFJONXVNX252SEUtZ19FWlVteUFSeUtGM0R2YURheEhub3VSRkVKVzI0WUlIZ3Fjaml0ZXVUUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "요즘 협업 잘하는 팀은 이렇게 일합니다.",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ST2FuLVEtaWRCZWlwd3JlNHZSRDA5MVFIc0tHd2JoczEtSGFmcU5TUTFtMHljVFBKajZNb1c5ckx4TnROcGxUY3FMdnQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Thiiing(띠잉) iOS 앱 개발기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4LWNINldZbFpiWG14bmhpNHVKVGFHVUd5MHlCcmFzRFYxZDZuY3AtQ3Mya0Fyd2dFdHU3eU11WnE4TGI5ejFMZVF6Yw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "MySQL 환경의 스프링부트에 하이버네이트 배치 설정해 보기",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xU3gxT2tpTGlIcXotUTBSR2RtWklqR2p5bmdWX0lnMnp2OTVKRVdqWU9uUC0tUldHMGxESkpkYzlJV2NKM09kcTlqWQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "우아~한 장애대응",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBZ2pMVl84NDJLeHZTX3NJUkRLV2xMbmlobFBlX01wclZpODJ3cEo3NDNqUWNJcDZyRXFZdHZ4djItR3JDYy1lNnY0MA?oc=5",
         "summary": ""
       }
     ],
