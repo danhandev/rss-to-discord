@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35465",
-      "https://news.hada.io/topic?id=35466",
-      "https://news.hada.io/topic?id=35467",
-      "https://news.hada.io/topic?id=35468",
-      "https://news.hada.io/topic?id=35469",
       "https://news.hada.io/topic?id=35473",
       "https://news.hada.io/topic?id=35474",
       "https://news.hada.io/topic?id=35475",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35878",
       "https://news.hada.io/topic?id=35879",
       "https://news.hada.io/topic?id=35880",
-      "https://news.hada.io/topic?id=35881"
+      "https://news.hada.io/topic?id=35881",
+      "https://news.hada.io/topic?id=35876",
+      "https://news.hada.io/topic?id=35882",
+      "https://news.hada.io/topic?id=35883",
+      "https://news.hada.io/topic?id=35884",
+      "https://news.hada.io/topic?id=35885"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50107379",
-      "https://news.ycombinator.com/item?id=50105635",
-      "https://news.ycombinator.com/item?id=50106023",
-      "https://news.ycombinator.com/item?id=50108872",
-      "https://news.ycombinator.com/item?id=50109375",
       "https://news.ycombinator.com/item?id=50109715",
       "https://news.ycombinator.com/item?id=50103338",
       "https://news.ycombinator.com/item?id=50104299",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50206840",
       "https://news.ycombinator.com/item?id=50207910",
       "https://news.ycombinator.com/item?id=50211474",
-      "https://news.ycombinator.com/item?id=50212065"
+      "https://news.ycombinator.com/item?id=50212065",
+      "https://news.ycombinator.com/item?id=50169499",
+      "https://news.ycombinator.com/item?id=50195488",
+      "https://news.ycombinator.com/item?id=50212320",
+      "https://news.ycombinator.com/item?id=50213925",
+      "https://news.ycombinator.com/item?id=50214218"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
