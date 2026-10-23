@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35453",
-      "https://news.hada.io/topic?id=35454",
-      "https://news.hada.io/topic?id=35455",
-      "https://news.hada.io/topic?id=35456",
-      "https://news.hada.io/topic?id=35458",
       "https://news.hada.io/topic?id=35465",
       "https://news.hada.io/topic?id=35466",
       "https://news.hada.io/topic?id=35467",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35860",
       "https://news.hada.io/topic?id=35861",
       "https://news.hada.io/topic?id=35862",
-      "https://news.hada.io/topic?id=35863"
+      "https://news.hada.io/topic?id=35863",
+      "https://news.hada.io/topic?id=35877",
+      "https://news.hada.io/topic?id=35878",
+      "https://news.hada.io/topic?id=35879",
+      "https://news.hada.io/topic?id=35880",
+      "https://news.hada.io/topic?id=35881"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50103000",
-      "https://news.ycombinator.com/item?id=50105647",
-      "https://news.ycombinator.com/item?id=50105648",
-      "https://news.ycombinator.com/item?id=50106676",
-      "https://news.ycombinator.com/item?id=50106738",
       "https://news.ycombinator.com/item?id=50107379",
       "https://news.ycombinator.com/item?id=50105635",
       "https://news.ycombinator.com/item?id=50106023",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50207115",
       "https://news.ycombinator.com/item?id=50207405",
       "https://news.ycombinator.com/item?id=50208558",
-      "https://news.ycombinator.com/item?id=50208837"
+      "https://news.ycombinator.com/item?id=50208837",
+      "https://news.ycombinator.com/item?id=50202114",
+      "https://news.ycombinator.com/item?id=50206840",
+      "https://news.ycombinator.com/item?id=50207910",
+      "https://news.ycombinator.com/item?id=50211474",
+      "https://news.ycombinator.com/item?id=50212065"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,7 +1366,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5wczZVdXhZbDJIOEpSY2pJd25hSlg4MnhGc01jLWFUVmRua2x0QTgyb0paU0ZwY2NhTXh3Qm80N3JtUUsxRkRzZTI5bXV0R19QbHpvQVRVbzQ2QQ",
       "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
       "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw",
       "CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw",
@@ -1565,7 +1564,8 @@
       "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
       "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
-      "CBMiWkFVX3lxTE84MUZYZUtVLXRPM3hKeTJvYkg2RUlpbjllWVNUM09aR0lZTzR2TndtMExZM0FFSUJaZWZPemFLaFlicmttY0lqeE1qSTZobFZkT1hic1piVzJsQQ"
+      "CBMiWkFVX3lxTE84MUZYZUtVLXRPM3hKeTJvYkg2RUlpbjllWVNUM09aR0lZTzR2TndtMExZM0FFSUJaZWZPemFLaFlicmttY0lqeE1qSTZobFZkT1hic1piVzJsQQ",
+      "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw"
     ]
   },
   "pending": {
@@ -1898,6 +1898,12 @@
         "source": "요즘IT",
         "title": "사용자 대신 디지털 트윈에게 물어보기: ‘august’ 사용기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84MUZYZUtVLXRPM3hKeTJvYkg2RUlpbjllWVNUM09aR0lZTzR2TndtMExZM0FFSUJaZWZPemFLaFlicmttY0lqeE1qSTZobFZkT1hic1piVzJsQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.”",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw?oc=5",
         "summary": ""
       }
     ],
