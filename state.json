@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35414",
-      "https://news.hada.io/topic?id=35415",
-      "https://news.hada.io/topic?id=35416",
-      "https://news.hada.io/topic?id=35417",
-      "https://news.hada.io/topic?id=35418",
       "https://news.hada.io/topic?id=35429",
       "https://news.hada.io/topic?id=35430",
       "https://news.hada.io/topic?id=35431",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35831",
       "https://news.hada.io/topic?id=35832",
       "https://news.hada.io/topic?id=35833",
-      "https://news.hada.io/topic?id=35834"
+      "https://news.hada.io/topic?id=35834",
+      "https://news.hada.io/topic?id=35845",
+      "https://news.hada.io/topic?id=35846",
+      "https://news.hada.io/topic?id=35847",
+      "https://news.hada.io/topic?id=35848",
+      "https://news.hada.io/topic?id=35850"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50089921",
-      "https://news.ycombinator.com/item?id=50092470",
-      "https://news.ycombinator.com/item?id=50092664",
-      "https://news.ycombinator.com/item?id=50095353",
-      "https://news.ycombinator.com/item?id=50096142",
       "https://news.ycombinator.com/item?id=50054465",
       "https://news.ycombinator.com/item?id=50083028",
       "https://news.ycombinator.com/item?id=50089229",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50194009",
       "https://news.ycombinator.com/item?id=50195543",
       "https://news.ycombinator.com/item?id=50197313",
-      "https://news.ycombinator.com/item?id=50198675"
+      "https://news.ycombinator.com/item?id=50198675",
+      "https://news.ycombinator.com/item?id=50192536",
+      "https://news.ycombinator.com/item?id=50199230",
+      "https://news.ycombinator.com/item?id=50199389",
+      "https://news.ycombinator.com/item?id=50202217",
+      "https://news.ycombinator.com/item?id=50202681"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -469,7 +469,8 @@
       "https://toss.tech/article/package-management-1",
       "https://toss.tech/article/package-management-2",
       "https://toss.tech/article/dw-airflow-migration",
-      "https://toss.tech/article/nic-interrupt-bottleneck"
+      "https://toss.tech/article/nic-interrupt-bottleneck",
+      "https://toss.tech/article/dataops-log-definition-skill"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -1352,7 +1353,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1mblQxVVV0cy1MN2VjbHZzbVVldTlFX1J1eEhaLXpNWlVvT2NpT25kTnF5Y2M2N29uTVNFYVQ5RDMwY29GYzQ2elZSVlJaZFptbDEtTDVuSUtxdw",
       "CBMiWkFVX3lxTE5wRm80UkRTSC14YXk3ZFh4ZlRhU2ZPYTVRMWRKcGVkeG11RFl3d25IeUluOXJ4MkIzQlFHYkthQnZYdmZWWU5WWnJ0aDJMbFVNZ2Yyb1FhMm8yZw",
       "CBMiWkFVX3lxTE81Z19NMkhmOFc1YXJKNllLczMzQlB0aFh1VlNCdDh2RHhuZHJ6T244bHd2ZzVhUXYzeHZYRHNONzJKY1N3Q1FfY0s2MlBIQVFxYm9vVXhPZkhNUQ",
       "CBMiWkFVX3lxTE04N2F4OEJHbjFzYl9TLTZMa2xVUmhOb3N1VjZxeElhUmRkaDkwRnQ5UnFaNFdHRWNWYVdOUUY1Z3FTRkN6cGlNTWdpcGNid1N3NHFONGF4TGxwQQ",
@@ -1551,7 +1551,8 @@
       "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ",
       "CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ",
       "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw",
-      "CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ"
+      "CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ",
+      "CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ"
     ]
   },
   "pending": {
@@ -1675,6 +1676,18 @@
         "title": "카카오 AI 돛 Summit 26 다시보기 공개 — AI 인프라부터 서비스 적용, 개발과 창업까지",
         "link": "https://tech.kakao.com/posts/842",
         "summary": "지난 9월 29일 부산에서 약 800명의 참가자와 함께한 ‘카카오 AI 돛 Summit 26’의 주요 세션 VOD를 공개합니다. 👉 카카오 AI 돛 Summit 26 세션 VOD 보러 가기 AI와 함께 개발하는 방식부터 실제 서비스에 AI를 적용하는 과정, 연구를 창업으로 연결하는 경험까지. 현장에 참석하지 못했거나 동시에 진행되어 놓쳤던 발표를 이제 온라인에서 만나보세요. 어떤 세션부터 볼지 고민된다면, 지금 여러분의 관심사와 가장 가까운 이야기부터..."
+      },
+      {
+        "source": "토스테크",
+        "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+        "link": "https://toss.tech/article/dataops-log-definition-skill",
+        "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요"
+      },
+      {
+        "source": "요즘IT",
+        "title": "[AX일지] 재고 안 맞는 유통사에서 AI가 할 수 있는 것",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
