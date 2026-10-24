@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35516",
-      "https://news.hada.io/topic?id=35517",
-      "https://news.hada.io/topic?id=35518",
-      "https://news.hada.io/topic?id=35519",
-      "https://news.hada.io/topic?id=35520",
       "https://news.hada.io/topic?id=35514",
       "https://news.hada.io/topic?id=35523",
       "https://news.hada.io/topic?id=35524",
@@ -200,11 +195,14 @@
       "https://news.hada.io/topic?id=35925",
       "https://news.hada.io/topic?id=35926",
       "https://news.hada.io/topic?id=35927",
-      "https://news.hada.io/topic?id=35928"
+      "https://news.hada.io/topic?id=35928",
+      "https://news.hada.io/topic?id=35930",
+      "https://news.hada.io/topic?id=35931",
+      "https://news.hada.io/topic?id=35932",
+      "https://news.hada.io/topic?id=35933",
+      "https://news.hada.io/topic?id=35934"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50120101",
-      "https://news.ycombinator.com/item?id=50120224",
       "https://news.ycombinator.com/item?id=50121179",
       "https://news.ycombinator.com/item?id=50122112",
       "https://news.ycombinator.com/item?id=50122431",
@@ -402,7 +400,9 @@
       "https://news.ycombinator.com/item?id=50186450",
       "https://news.ycombinator.com/item?id=50217903",
       "https://news.ycombinator.com/item?id=50219177",
-      "https://news.ycombinator.com/item?id=50222133"
+      "https://news.ycombinator.com/item?id=50222133",
+      "https://news.ycombinator.com/item?id=50219700",
+      "https://news.ycombinator.com/item?id=50222622"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,7 +1366,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
       "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw",
       "CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw",
       "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ",
@@ -1565,7 +1564,8 @@
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
       "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
       "CBMiWkFVX3lxTE84MUZYZUtVLXRPM3hKeTJvYkg2RUlpbjllWVNUM09aR0lZTzR2TndtMExZM0FFSUJaZWZPemFLaFlicmttY0lqeE1qSTZobFZkT1hic1piVzJsQQ",
-      "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw"
+      "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw",
+      "CBMiWkFVX3lxTE1RcFBpdHRuM3lnei0tYlJQWmI3OWx1dEljWUY4WURobnVIYzNINjVNUExEQ3FlUm1kRGF5N1pITDFRUnFKRnRWM3NMUnR1ZjMzQXdaQW9Tei1hdw"
     ]
   },
   "pending": {
@@ -1904,6 +1904,12 @@
         "source": "요즘IT",
         "title": "“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.”",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2024년 가트너 10대 전략 기술 트렌드 톺아보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RcFBpdHRuM3lnei0tYlJQWmI3OWx1dEljWUY4WURobnVIYzNINjVNUExEQ3FlUm1kRGF5N1pITDFRUnFKRnRWM3NMUnR1ZjMzQXdaQW9Tei1hdw?oc=5",
         "summary": ""
       }
     ],
