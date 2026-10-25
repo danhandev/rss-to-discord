@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35530",
-      "https://news.hada.io/topic?id=35531",
-      "https://news.hada.io/topic?id=35532",
-      "https://news.hada.io/topic?id=35533",
-      "https://news.hada.io/topic?id=35534",
       "https://news.hada.io/topic?id=35540",
       "https://news.hada.io/topic?id=35541",
       "https://news.hada.io/topic?id=35542",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=35938",
       "https://news.hada.io/topic?id=35939",
       "https://news.hada.io/topic?id=35941",
-      "https://news.hada.io/topic?id=35942"
+      "https://news.hada.io/topic?id=35942",
+      "https://news.hada.io/topic?id=35947",
+      "https://news.hada.io/topic?id=35950",
+      "https://news.hada.io/topic?id=35951",
+      "https://news.hada.io/topic?id=35952",
+      "https://news.hada.io/topic?id=35955"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50122800",
-      "https://news.ycombinator.com/item?id=50122951",
-      "https://news.ycombinator.com/item?id=50124251",
-      "https://news.ycombinator.com/item?id=50121004",
       "https://news.ycombinator.com/item?id=50121939",
       "https://news.ycombinator.com/item?id=50122034",
       "https://news.ycombinator.com/item?id=50122878",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=50222622",
       "https://news.ycombinator.com/item?id=50224100",
       "https://news.ycombinator.com/item?id=50224463",
-      "https://news.ycombinator.com/item?id=50224916"
+      "https://news.ycombinator.com/item?id=50224916",
+      "https://news.ycombinator.com/item?id=50222927",
+      "https://news.ycombinator.com/item?id=50224422",
+      "https://news.ycombinator.com/item?id=50225695",
+      "https://news.ycombinator.com/item?id=50226419"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,7 +1366,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw",
       "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ",
       "CBMiWkFVX3lxTFBmX3g2NUMxaFdGQTU2cDVaSHpTWTlKSE5DN1gxR3B3X3luTDJaVUl6aEJiRUpZYmo4dUlPakpFemxOb2o5aGdfTWE3RmRPMkN6Mi13R3Q3RWtOUQ",
       "CBMiWkFVX3lxTE9WQWdTU2lpT0ZTcHA4VDRoQU1FVTEzdmZiM29OOEdBUlRCbkdKcEgxZkN1WEpOTzV4NkhiQjhZRjlJY2lxRzEtVnpZZVhoX3U4ZUNySVFjS0prdw",
@@ -1565,7 +1564,8 @@
       "CBMiWkFVX3lxTE84MUZYZUtVLXRPM3hKeTJvYkg2RUlpbjllWVNUM09aR0lZTzR2TndtMExZM0FFSUJaZWZPemFLaFlicmttY0lqeE1qSTZobFZkT1hic1piVzJsQQ",
       "CBMiWkFVX3lxTE9IaERNWXBTMUhFLURreU5xVEtfLTl6b0p4NmRFNnJqU2xwUno3U29renBWcWxZZ2F4TXdkUkJuUUhVTG13VkZiVURyUk45cHg0MmdGQXhjTDZOdw",
       "CBMiWkFVX3lxTE1RcFBpdHRuM3lnei0tYlJQWmI3OWx1dEljWUY4WURobnVIYzNINjVNUExEQ3FlUm1kRGF5N1pITDFRUnFKRnRWM3NMUnR1ZjMzQXdaQW9Tei1hdw",
-      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw"
+      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
+      "CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw"
     ]
   },
   "pending": {
@@ -1916,6 +1916,12 @@
         "source": "요즘IT",
         "title": "페이블, 앤트로픽 엔지니어가 알려주는 활용 가이드",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bejh0dWxlaDl6ek1pdF9EanBUV2pvMzRXUTVVSlpMWnJFOWJpaVNRaUJ1WW00VlhjREhWM1dYRHB3eUpvNDlRZG9KTnRjNGRjMnNCMFNFcmlSZw?oc=5",
         "summary": ""
       }
     ],
