@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35549",
-      "https://news.hada.io/topic?id=35562",
-      "https://news.hada.io/topic?id=35563",
-      "https://news.hada.io/topic?id=35564",
-      "https://news.hada.io/topic?id=35565",
       "https://news.hada.io/topic?id=35571",
       "https://news.hada.io/topic?id=35572",
       "https://news.hada.io/topic?id=35573",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35981",
       "https://news.hada.io/topic?id=35982",
       "https://news.hada.io/topic?id=35983",
-      "https://news.hada.io/topic?id=35984"
+      "https://news.hada.io/topic?id=35984",
+      "https://news.hada.io/topic?id=35989",
+      "https://news.hada.io/topic?id=35990",
+      "https://news.hada.io/topic?id=35991",
+      "https://news.hada.io/topic?id=35992",
+      "https://news.hada.io/topic?id=35993"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50125545",
-      "https://news.ycombinator.com/item?id=50129947",
-      "https://news.ycombinator.com/item?id=50131213",
-      "https://news.ycombinator.com/item?id=50131256",
-      "https://news.ycombinator.com/item?id=50100994",
       "https://news.ycombinator.com/item?id=50119315",
       "https://news.ycombinator.com/item?id=50133401",
       "https://news.ycombinator.com/item?id=50131189",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50229827",
       "https://news.ycombinator.com/item?id=50232312",
       "https://news.ycombinator.com/item?id=50233779",
-      "https://news.ycombinator.com/item?id=50233929"
+      "https://news.ycombinator.com/item?id=50233929",
+      "https://news.ycombinator.com/item?id=50233294",
+      "https://news.ycombinator.com/item?id=50233304",
+      "https://news.ycombinator.com/item?id=50234232",
+      "https://news.ycombinator.com/item?id=50234474",
+      "https://news.ycombinator.com/item?id=50235217"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,7 +1366,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9oa3ZPa3V0RUFtV0FWcHdJbElialZsdEZjQ1dvUTg3cmc0MFNCLV9ZaVZrN05JWFBXVjdncGNheWxqNVRsUDVNbms1Q3hQNjc5QXdqRmQtdWRnZw",
       "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ",
       "CBMiWkFVX3lxTE5tRm9YWWdZNE1IZEpEZWpnYzRIcnR3MjRSR3BZM2tqWU9fbzF0djgzNWMwYnREbElEMWo4d0ZsWk9mRjVOdlNxdzdGNW5mcWV3c0hkeDR4d0Zrdw",
       "CBMiWkFVX3lxTE4wTENWdUdCR3pJQkM4S1dyelFma0lpcXZ0cHpaaTUydFRvcFlGSk1vWXplU0w5RnVWSHd0bTc1d04tLVhCX0puS000b0M2WjFqNVh5WWw2bVpMQQ",
@@ -1565,7 +1564,8 @@
       "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw",
       "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4",
       "CBMiWEFVX3lxTE41bTFMakJxMVZjaEFTRllJcUVKYWIxQ0ZVMDJ5ell1b1FGNlB3a1VBZGFUek9ncVZreWNjNGRGLVg3VHhORnBvTlE4VXd4Y0NMWTktUEJhMjE",
-      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw"
+      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw",
+      "CBMiWkFVX3lxTE05TlR0QjFWM0xCMzluY2xlMkZBRjNxWmloYkFtZ0hpQUY1MW10X2JRSmZta0ZSMjRoUFBuNFYzQUpoYmpoT1l2bUNoTncwUjN6Z2t0WjdOcEM2Zw"
     ]
   },
   "pending": {
@@ -2228,6 +2228,12 @@
         "source": "요즘IT",
         "title": "담당자 퇴사하면 업무 못 하는 회사를 위한 AX는?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "취업이 힘들수록 질문하는 사람이 살아남는다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TlR0QjFWM0xCMzluY2xlMkZBRjNxWmloYkFtZ0hpQUY1MW10X2JRSmZta0ZSMjRoUFBuNFYzQUpoYmpoT1l2bUNoTncwUjN6Z2t0WjdOcEM2Zw?oc=5",
         "summary": ""
       }
     ],
