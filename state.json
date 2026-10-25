@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35550",
-      "https://news.hada.io/topic?id=35557",
-      "https://news.hada.io/topic?id=35558",
-      "https://news.hada.io/topic?id=35559",
-      "https://news.hada.io/topic?id=35561",
       "https://news.hada.io/topic?id=35549",
       "https://news.hada.io/topic?id=35562",
       "https://news.hada.io/topic?id=35563",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=35972",
       "https://news.hada.io/topic?id=35973",
       "https://news.hada.io/topic?id=35974",
-      "https://news.hada.io/topic?id=35975"
+      "https://news.hada.io/topic?id=35975",
+      "https://news.hada.io/topic?id=35980",
+      "https://news.hada.io/topic?id=35981",
+      "https://news.hada.io/topic?id=35982",
+      "https://news.hada.io/topic?id=35983",
+      "https://news.hada.io/topic?id=35984"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50079280",
-      "https://news.ycombinator.com/item?id=50127979",
-      "https://news.ycombinator.com/item?id=50129045",
-      "https://news.ycombinator.com/item?id=50129121",
-      "https://news.ycombinator.com/item?id=50103255",
       "https://news.ycombinator.com/item?id=50125545",
       "https://news.ycombinator.com/item?id=50129947",
       "https://news.ycombinator.com/item?id=50131213",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50226577",
       "https://news.ycombinator.com/item?id=50230181",
       "https://news.ycombinator.com/item?id=50230384",
-      "https://news.ycombinator.com/item?id=50230917"
+      "https://news.ycombinator.com/item?id=50230917",
+      "https://news.ycombinator.com/item?id=50193936",
+      "https://news.ycombinator.com/item?id=50229827",
+      "https://news.ycombinator.com/item?id=50232312",
+      "https://news.ycombinator.com/item?id=50233779",
+      "https://news.ycombinator.com/item?id=50233929"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1366,8 +1366,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE05TlR0QjFWM0xCMzluY2xlMkZBRjNxWmloYkFtZ0hpQUY1MW10X2JRSmZta0ZSMjRoUFBuNFYzQUpoYmpoT1l2bUNoTncwUjN6Z2t0WjdOcEM2Zw",
-      "CBMiWkFVX3lxTE5FdkFjbVNyT2VpbEJublZFWUk0ZGNudDRuUE1rVGF4Rlp5bjc4V2NPVXFUZnB0amx6S1hXMjJZeS1ycUdkNWh3Rmw5QUpzanZjUk53Tk1kY1FYdw",
       "CBMiWkFVX3lxTE9oa3ZPa3V0RUFtV0FWcHdJbElialZsdEZjQ1dvUTg3cmc0MFNCLV9ZaVZrN05JWFBXVjdncGNheWxqNVRsUDVNbms1Q3hQNjc5QXdqRmQtdWRnZw",
       "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ",
       "CBMiWkFVX3lxTE5tRm9YWWdZNE1IZEpEZWpnYzRIcnR3MjRSR3BZM2tqWU9fbzF0djgzNWMwYnREbElEMWo4d0ZsWk9mRjVOdlNxdzdGNW5mcWV3c0hkeDR4d0Zrdw",
@@ -1565,7 +1563,9 @@
       "CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ",
       "CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ",
       "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw",
-      "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4"
+      "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4",
+      "CBMiWEFVX3lxTE41bTFMakJxMVZjaEFTRllJcUVKYWIxQ0ZVMDJ5ell1b1FGNlB3a1VBZGFUek9ncVZreWNjNGRGLVg3VHhORnBvTlE4VXd4Y0NMWTktUEJhMjE",
+      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw"
     ]
   },
   "pending": {
@@ -2216,6 +2216,18 @@
         "source": "요즘IT",
         "title": "유저 스토리는 무엇인가?",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "반응형 웹, 개념 이해하기",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bTFMakJxMVZjaEFTRllJcUVKYWIxQ0ZVMDJ5ell1b1FGNlB3a1VBZGFUek9ncVZreWNjNGRGLVg3VHhORnBvTlE4VXd4Y0NMWTktUEJhMjE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "담당자 퇴사하면 업무 못 하는 회사를 위한 AX는?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw?oc=5",
         "summary": ""
       }
     ],
