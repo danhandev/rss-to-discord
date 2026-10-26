@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35613",
-      "https://news.hada.io/topic?id=35614",
-      "https://news.hada.io/topic?id=35615",
-      "https://news.hada.io/topic?id=35617",
-      "https://news.hada.io/topic?id=35619",
       "https://news.hada.io/topic?id=35607",
       "https://news.hada.io/topic?id=35608",
       "https://news.hada.io/topic?id=35609",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=36045",
       "https://news.hada.io/topic?id=36046",
       "https://news.hada.io/topic?id=36047",
-      "https://news.hada.io/topic?id=36049"
+      "https://news.hada.io/topic?id=36049",
+      "https://news.hada.io/topic?id=36063",
+      "https://news.hada.io/topic?id=36064",
+      "https://news.hada.io/topic?id=36065",
+      "https://news.hada.io/topic?id=36066",
+      "https://news.hada.io/topic?id=36067"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=50114758",
@@ -1369,10 +1369,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5iSkEyNlo4NV8zRGMwYTJQY2dBNVJUTGplZ2Z3QVpja0FZLVUyVlE3WExOTHppa05qcUVCdFVPWFc5cUlEMGVwajNVcTJZNFpGR09FM1o2XzVmdw",
-      "CBMiWkFVX3lxTE4zcGsxSE9QNWl6cFBzbEtIUHV4bV8wMk1SS1NueDE4aWJoVGhfWmU0NGZMRU16NTVkZi1xUEpOVUNJd3dVWF9nME9jMFRBbG1mN2pMTWNDd2pCQQ",
-      "CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw",
-      "CBMiWkFVX3lxTE1BZ0sxMGlFRDhwWXZaM3E2UzZxU3RPQkg3VVpxMjFtVXh5WlFkWWMwMzc0TzRZTEd3Vng0UmpOdkU3dmZkQXJnNWNBWmxxZ3JCaGZ0dFJzUVhVZw",
       "CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw",
       "CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw",
       "CBMiWkFVX3lxTE1mc3RfOFZ0bEJVMG9VTkN4RmFURWhiYzB0Z3VQd1pTeGFYTGlscDRLYUxsZWlaTUhhTWZOTWZ1cjdHX1JkVXpBaTRPU2F4QktzVXNXb0l5OFd6UQ",
@@ -1568,7 +1564,11 @@
       "CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw",
       "CBMiWkFVX3lxTE5PVy1HZzVoQ1dSYWhDU2wxRjltQXl1ZFR5YzY2N1BxSmdQdnZuREt2NWZ1RTBYVTBWc1kwdF80YjM5YlpzbVg0WFRXNFlKTU9lQmEtd0FwOExGZw",
       "CBMiWkFVX3lxTE9YNnNzekFDcTUxcHdMS082WG1FZzlOS1hreXVBQ2FDa2VCNXpPSVpERVUxQmRSMHJjbmsyN3BfVlh2WEVvaXhYYW8zOFdldjVuNmZpYTl2clEwZw",
-      "CBMiWkFVX3lxTE50M3U5OWtqd3NoSHBVQ1JpQ0x5a0RNeXBRc2R0bG02bENSZkxJb2ZFdHNia3ZLQ0Q4NEhId3NBcjZqOUVfSTJJQU5xUE10Y1FETmFsZkZMN3VWZw"
+      "CBMiWkFVX3lxTE50M3U5OWtqd3NoSHBVQ1JpQ0x5a0RNeXBRc2R0bG02bENSZkxJb2ZFdHNia3ZLQ0Q4NEhId3NBcjZqOUVfSTJJQU5xUE10Y1FETmFsZkZMN3VWZw",
+      "CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ",
+      "CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ",
+      "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
+      "CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ"
     ]
   },
   "pending": {
@@ -1685,6 +1685,30 @@
         "source": "요즘IT",
         "title": "\"이 자료 넣어도 될까?\" 엄격한 보안 환경에서 도구를 만드는 일",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50M3U5OWtqd3NoSHBVQ1JpQ0x5a0RNeXBRc2R0bG02bENSZkxJb2ZFdHNia3ZLQ0Q4NEhId3NBcjZqOUVfSTJJQU5xUE10Y1FETmFsZkZMN3VWZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "토스가 유저의 리텐션을 높이는 법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "프리랜서 하시게요? 그럼 기획을 잘 하셔야겠네요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2024년 UX/UI 디자인 트렌드 훑어보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ?oc=5",
         "summary": ""
       }
     ],
