@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35644",
-      "https://news.hada.io/topic?id=35645",
-      "https://news.hada.io/topic?id=35646",
-      "https://news.hada.io/topic?id=35647",
-      "https://news.hada.io/topic?id=35648",
       "https://news.hada.io/topic?id=35658",
       "https://news.hada.io/topic?id=35659",
       "https://news.hada.io/topic?id=35660",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36095",
       "https://news.hada.io/topic?id=36096",
       "https://news.hada.io/topic?id=36098",
-      "https://news.hada.io/topic?id=36099"
+      "https://news.hada.io/topic?id=36099",
+      "https://news.hada.io/topic?id=36106",
+      "https://news.hada.io/topic?id=36109",
+      "https://news.hada.io/topic?id=36110",
+      "https://news.hada.io/topic?id=36111",
+      "https://news.hada.io/topic?id=36113"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50142573",
-      "https://news.ycombinator.com/item?id=50142866",
-      "https://news.ycombinator.com/item?id=50124730",
-      "https://news.ycombinator.com/item?id=50136150",
-      "https://news.ycombinator.com/item?id=50144005",
       "https://news.ycombinator.com/item?id=50144066",
       "https://news.ycombinator.com/item?id=50145337",
       "https://news.ycombinator.com/item?id=50096110",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50247493",
       "https://news.ycombinator.com/item?id=50247928",
       "https://news.ycombinator.com/item?id=50252159",
-      "https://news.ycombinator.com/item?id=50255298"
+      "https://news.ycombinator.com/item?id=50255298",
+      "https://news.ycombinator.com/item?id=50257325",
+      "https://news.ycombinator.com/item?id=50257326",
+      "https://news.ycombinator.com/item?id=50257419",
+      "https://news.ycombinator.com/item?id=50257548",
+      "https://news.ycombinator.com/item?id=50259604"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1371,12 +1371,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBpUUdrUWtVRWZNaG50U250bEFNcW9SbTVQVHYzSDJLVEU0VHAzZVdWSjBiRzZ5RGx2bzI2c1JxZS1DV3U5TlBuZHV6MGVaVlprLXZMRnNHbTFjUQ",
-      "CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw",
-      "CBMiWkFVX3lxTE5GdUN0Vnp2SF8wTDNaMXlQbnBvRmloUEk4ejVUOE1vZ3hWeWV4VGI4Rmd0YjlQYTJMMDNzeXpBWDd0a3JXUmpDMXBJWkVFaE5DUlVtRmc1NUtnZw",
-      "CBMiWkFVX3lxTE9OUUdEcF8ycU9PSklYbEx1RU1QaGhJX1FUV0NLVGVSY0xESTFGbjB2R1pLbUZyZlRodmpyUGFGZmZBUFpSQUw3SnpPc1dUMGZwWFh1N2RvaEFTUQ",
-      "CBMiWkFVX3lxTE1vbE5PbEJsTWp3SWUwQlVrOG9CV3cxcjY3bm5iZzBnemZaNFltc2FrYm8wZDhXck9KamxneEZTZUd0aXc2Ynh1dWpzUEZNZ1pMNV8xQVdVUFk0UQ",
-      "CBMiWkFVX3lxTE04MDlyMmt1U05wQnRmX1d0a1c2azNOZmpXbEF6U0R5MzN4M3VrUXVIb0NMRUVzUnJYRnJYQUttcWhHaG9GWE5oODVweUlkdDdIaExxbTFKM1FfUQ",
       "CBMiWkFVX3lxTE1rcVBlZzNXSGNIdWZGd0ZzajVKS1NFRjZQa2VRaTRlRDNvRWVNd2VCaUZVZUtLellTRFF0cE9fNmFUU1F1aU1WSHRkajhkb3FMNkdwSjhhWWxkZw",
       "CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0",
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
@@ -1570,7 +1564,13 @@
       "CBMiWkFVX3lxTE12ZldFUEVNbFNrTWZTSXRyOFRvVzV5RHl3RG9GRmh1SGo4NnYzY2ZFczA1MEJQSjFhWlQwa0Qtek1TZE9rWWRhN2F4WlpuWUYxb3d5NTNzci15UQ",
       "CBMiWEFVX3lxTFB2TEdscU9uQ0VnSFpSZ3N5b0dwbHNURUoyNGFGZUttNU93ZTVaSUVuUUVMbU5VTHdhcExnS3B5R3RMVGJWYjRJem8tMi1OZDZ5NmM4RTJBSHc",
       "CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ",
-      "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ"
+      "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ",
+      "CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k",
+      "CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE",
+      "CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw",
+      "CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw",
+      "CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw",
+      "CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ"
     ]
   },
   "pending": {
@@ -1783,6 +1783,42 @@
         "source": "요즘IT",
         "title": "육아하며 바이브 코딩으로 만든 앱, 앱스토어 1위까지",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "API란 무엇인가요? (feat. 인터페이스)",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "wishket은 어떤 서비스야?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "PM은 이미 끝났다? 제품 관리의 현실",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Orca vs. Paseo vs. 순정: 에이전트 관리 도구 비교하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 기업의 수익 모델과 트렌드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "피그마는 여러분을 나쁜 디자이너로 만들고 있습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ?oc=5",
         "summary": ""
       }
     ],
