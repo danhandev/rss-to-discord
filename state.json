@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35756",
-      "https://news.hada.io/topic?id=35757",
-      "https://news.hada.io/topic?id=35758",
-      "https://news.hada.io/topic?id=35759",
-      "https://news.hada.io/topic?id=35760",
       "https://news.hada.io/topic?id=35765",
       "https://news.hada.io/topic?id=35766",
       "https://news.hada.io/topic?id=35767",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36224",
       "https://news.hada.io/topic?id=36225",
       "https://news.hada.io/topic?id=36227",
-      "https://news.hada.io/topic?id=36228"
+      "https://news.hada.io/topic?id=36228",
+      "https://news.hada.io/topic?id=36241",
+      "https://news.hada.io/topic?id=36242",
+      "https://news.hada.io/topic?id=36243",
+      "https://news.hada.io/topic?id=36244",
+      "https://news.hada.io/topic?id=36245"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50167536",
-      "https://news.ycombinator.com/item?id=50168190",
-      "https://news.ycombinator.com/item?id=50168396",
-      "https://news.ycombinator.com/item?id=50168096",
-      "https://news.ycombinator.com/item?id=50168357",
       "https://news.ycombinator.com/item?id=50169053",
       "https://news.ycombinator.com/item?id=50169707",
       "https://news.ycombinator.com/item?id=50170593",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50287919",
       "https://news.ycombinator.com/item?id=50288019",
       "https://news.ycombinator.com/item?id=50288867",
-      "https://news.ycombinator.com/item?id=50289418"
+      "https://news.ycombinator.com/item?id=50289418",
+      "https://news.ycombinator.com/item?id=50291054",
+      "https://news.ycombinator.com/item?id=50291945",
+      "https://news.ycombinator.com/item?id=50292233",
+      "https://news.ycombinator.com/item?id=50293047",
+      "https://news.ycombinator.com/item?id=50294702"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1218,7 +1218,8 @@
       "CBMiS0FVX3lxTE1xU3gxT2tpTGlIcXotUTBSR2RtWklqR2p5bmdWX0lnMnp2OTVKRVdqWU9uUC0tUldHMGxESkpkYzlJV2NKM09kcTlqWQ",
       "CBMiS0FVX3lxTFBBZ2pMVl84NDJLeHZTX3NJUkRLV2xMbmlobFBlX01wclZpODJ3cEo3NDNqUWNJcDZyRXFZdHZ4djItR3JDYy1lNnY0MA",
       "CBMiTEFVX3lxTE40R2IwRjJWd21sanhIOWxsUGJEYUJQRDBXWHdDZUVPOXdqS3VRTUZLVkUtMVdqclN3VkRFWWM4R3J4X1dxMF9TSnI0ZVA",
-      "CBMiTEFVX3lxTFBta2kyWHFYR1gwU0FVTHFfdFdHX2dsWjAwNE91MkZSTXpwZXNtRUd1YTV4NG5nb2ZlMFhxdG9rQXQ4Q1VqaV9INU9TSlU"
+      "CBMiTEFVX3lxTFBta2kyWHFYR1gwU0FVTHFfdFdHX2dsWjAwNE91MkZSTXpwZXNtRUd1YTV4NG5nb2ZlMFhxdG9rQXQ4Q1VqaV9INU9TSlU",
+      "CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1944,6 +1945,12 @@
         "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
         "link": "https://d2.naver.com/helloworld/2983631",
         "summary": "Kubernetes에서 서비스를 운영하다 보면 메인 컨테이너 옆에 사이드카(sidecar) 컨테이너를 붙이는 일이 흔합니다. 사이드카에는 로그와 메트릭 수집, 프록시처럼 주 기능은 아니지만 같은 Pod 안에서 함께 실행되어야 하는 기능이 포함됩니다. 저희 팀이 운영하는 관리형 데이터베이스 서비스도 DB 인스턴스를 Pod 단위로 실행하고, 그 Pod에 DB 컨테이너 외에 헬스 체크, 메트릭과 로그 수집 등을 위한 사이드카를 함께 둡니다. 이 사이드카들은 DB와 같은 데이터 볼륨에 접근해야 하므로…"
+      },
+      {
+        "source": "우아한형제들",
+        "title": "배달아~ 배달 가는길 알려줘!(단호함)",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
