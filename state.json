@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35734",
-      "https://news.hada.io/topic?id=35735",
-      "https://news.hada.io/topic?id=35736",
-      "https://news.hada.io/topic?id=35737",
-      "https://news.hada.io/topic?id=35739",
       "https://news.hada.io/topic?id=35745",
       "https://news.hada.io/topic?id=35746",
       "https://news.hada.io/topic?id=35747",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36196",
       "https://news.hada.io/topic?id=36197",
       "https://news.hada.io/topic?id=36200",
-      "https://news.hada.io/topic?id=36201"
+      "https://news.hada.io/topic?id=36201",
+      "https://news.hada.io/topic?id=36208",
+      "https://news.hada.io/topic?id=36209",
+      "https://news.hada.io/topic?id=36210",
+      "https://news.hada.io/topic?id=36211",
+      "https://news.hada.io/topic?id=36213"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50159341",
-      "https://news.ycombinator.com/item?id=50159616",
-      "https://news.ycombinator.com/item?id=50160494",
-      "https://news.ycombinator.com/item?id=50157865",
-      "https://news.ycombinator.com/item?id=50159245",
       "https://news.ycombinator.com/item?id=50162177",
       "https://news.ycombinator.com/item?id=50163277",
       "https://news.ycombinator.com/item?id=50163961",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50209269",
       "https://news.ycombinator.com/item?id=50273171",
       "https://news.ycombinator.com/item?id=50274251",
-      "https://news.ycombinator.com/item?id=50281044"
+      "https://news.ycombinator.com/item?id=50281044",
+      "https://news.ycombinator.com/item?id=50280974",
+      "https://news.ycombinator.com/item?id=50282454",
+      "https://news.ycombinator.com/item?id=50282544",
+      "https://news.ycombinator.com/item?id=50282838",
+      "https://news.ycombinator.com/item?id=50284255"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1374,8 +1374,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5JTWJmc0RuWHlOUUdWY0RsTFdGUXJqS0lJc1hEcGRqVTdlWjNPQWgwOWRISXpGR0xvOGs1TzdZREo5NTJaVkpGU21USHJhaFFHcmhkWWoydkFXZw",
-      "CBMiWkFVX3lxTFBSQVJVSjI3cC1xMmlHWTR4RlgySWI4ZS0tZUpPQlNHRnZfODZoNFVCXzJ1NUNXeGVaZVVPZmtGRUx2RENQelZwQ2tNaUl5WTVhbUxNb2d2NWVoZw",
       "CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ",
       "CBMiWkFVX3lxTE16OFUwbnkzdEpHRm1kR29tMC0teUJ5Q2dxRXRxWWxyNUp1eG93dDN6ME1YUUFDZ1VINzlzLURUY0FQR1liNmpmX01mS2NyeEJhMzRFOWx5SlowUQ",
       "CBMiWkFVX3lxTFBscDY1anowQTRSUWpoLXJVMHlDN29pb0ozNW8xVi1Zem13Q1FNTGxPb2kwb1lrT1RGaVRPMFJwYnQxOUZpT2VDX0hxN3NqeHF4a3VVYWxqOGllZw",
@@ -1573,7 +1571,9 @@
       "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
       "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
       "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
-      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0"
+      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
+      "CBMiWkFVX3lxTE43bjhhV19TUUxFM0cxQXZna2hXWmFobERDWGI5LTBycnFwV25hdTJWOGQ0YXoyeUdXNDY4dURTRGNMWkdPck5WcU1yN2lwb21jZ2J3aUZ4VGFYQQ",
+      "CBMiWkFVX3lxTE1YNE85M3Y1M1g2SjBjR1ViUU93ejJ6ekRrN2p0TEVfdG5xdWdWS2pxcTdzU29HLVdoMkgxQ0dQYjIzZUNjdVZ6dndlTVJUVVRfdjVqZHBIeHVDQQ"
     ]
   },
   "pending": {
@@ -1924,6 +1924,18 @@
         "source": "요즘IT",
         "title": "인기",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 에이전트 비용, 모델 라우팅으로 얼마나 줄까(Liner Router API 실측기)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bjhhV19TUUxFM0cxQXZna2hXWmFobERDWGI5LTBycnFwV25hdTJWOGQ0YXoyeUdXNDY4dURTRGNMWkdPck5WcU1yN2lwb21jZ2J3aUZ4VGFYQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 진단의 신뢰도를 높인 건 AI에게 덜 맡기는 것이었다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNE85M3Y1M1g2SjBjR1ViUU93ejJ6ekRrN2p0TEVfdG5xdWdWS2pxcTdzU29HLVdoMkgxQ0dQYjIzZUNjdVZ6dndlTVJUVVRfdjVqZHBIeHVDQQ?oc=5",
         "summary": ""
       }
     ],
