@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35798",
-      "https://news.hada.io/topic?id=35800",
-      "https://news.hada.io/topic?id=35805",
-      "https://news.hada.io/topic?id=35806",
-      "https://news.hada.io/topic?id=35807",
       "https://news.hada.io/topic?id=35809",
       "https://news.hada.io/topic?id=35813",
       "https://news.hada.io/topic?id=35814",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36289",
       "https://news.hada.io/topic?id=36290",
       "https://news.hada.io/topic?id=36291",
-      "https://news.hada.io/topic?id=36292"
+      "https://news.hada.io/topic?id=36292",
+      "https://news.hada.io/topic?id=36301",
+      "https://news.hada.io/topic?id=36302",
+      "https://news.hada.io/topic?id=36303",
+      "https://news.hada.io/topic?id=36304",
+      "https://news.hada.io/topic?id=36306"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50180836",
-      "https://news.ycombinator.com/item?id=50180873",
-      "https://news.ycombinator.com/item?id=50180943",
-      "https://news.ycombinator.com/item?id=50181136",
-      "https://news.ycombinator.com/item?id=50181175",
       "https://news.ycombinator.com/item?id=50182526",
       "https://news.ycombinator.com/item?id=50182987",
       "https://news.ycombinator.com/item?id=50184586",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50301854",
       "https://news.ycombinator.com/item?id=50302814",
       "https://news.ycombinator.com/item?id=50303172",
-      "https://news.ycombinator.com/item?id=50304419"
+      "https://news.ycombinator.com/item?id=50304419",
+      "https://news.ycombinator.com/item?id=50305693",
+      "https://news.ycombinator.com/item?id=50306442",
+      "https://news.ycombinator.com/item?id=50307190",
+      "https://news.ycombinator.com/item?id=50307219",
+      "https://news.ycombinator.com/item?id=50307723"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1377,9 +1377,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5NOU5rRWswdGYyWHo0R2xfMTZwbHRIY2xuaWNVdkFjMzR6bUhQbFl2c0E1NFk3ZklSQ0JNZVBIYTlVMVBya2taMnhfTGVtWGJ0ZDNtcG9kWGNtZw",
-      "CBMiWkFVX3lxTE9kWDBrWVByUWRVZ3RDbVpBSXNQSXk3RWZvenpyRUVpbHRaeS1IYXpUOXZmSnRtZWtSTzA4WHBQbmg1QlpNQWdOZkRNWTREaENiZFl6NzRtc1dndw",
-      "CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw",
       "CBMiWkFVX3lxTE9iWU9RYjAtZFZta1hPWk9hZm1waHIzNHd2bnJ2dHlqdlJsemN1SE4wcHZqNk1VcG1LdExyWlRTMTVjaVR1ajZEZEpYUTQzcDItZDJDN1RWWHBqQQ",
       "CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ",
       "CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw",
@@ -1576,7 +1573,10 @@
       "CBMiWkFVX3lxTE9TSnFsUmZVMHRkeUJmYXRnTnJNMXRWR1c1cGtpT2ltYjR4UTVLOXZjMmNiSmZUU29oVlAxLWVtUmNIeWVMRVJSTVFrTUlWWWFBTjViY19LeWtSdw",
       "CBMiWkFVX3lxTE4wQ1RUdE8zVFFnd3BvTEY4TXdfQWtVcEZLeE43U1hOd184VEExd1JHMmlaSjg2c3lfS2pYbVI2dEVYa0VhdmVPVFJacjlNaFZlV2hodnJGaFgwUQ",
       "CBMiWkFVX3lxTE5JTWJmc0RuWHlOUUdWY0RsTFdGUXJqS0lJc1hEcGRqVTdlWjNPQWgwOWRISXpGR0xvOGs1TzdZREo5NTJaVkpGU21USHJhaFFHcmhkWWoydkFXZw",
-      "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw"
+      "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw",
+      "CBMiWkFVX3lxTE5lVVQ2NW5KSEtsb1NwVVBaRUFYUTc4TGJ0MXQ4MXN1bmlYQWhGc1hwVGNFUEM0dGVKVFVnVm1ITEsxaVR0WmNpLVZ3bGFnemZEWU1HMlp2ci1LQQ",
+      "CBMiWkFVX3lxTE5ybk1va2NSWC13cWRxWVB3ZE1sblFKWTV3WkZIWEI1MWRzY1RQN0VHaWxNNVE4ZWExVWZIaE9EN3NPYTkwc1hxSHp5WkdvVkVqY0stdjVwYlltUQ",
+      "CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ"
     ]
   },
   "pending": {
@@ -1982,6 +1982,24 @@
         "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
         "link": "https://d2.naver.com/news/0907869",
         "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "설치 없이 SQL·Java·Git·AWS 연습하는 웹 서비스 개발기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lVVQ2NW5KSEtsb1NwVVBaRUFYUTc4TGJ0MXQ4MXN1bmlYQWhGc1hwVGNFUEM0dGVKVFVnVm1ITEsxaVR0WmNpLVZ3bGFnemZEWU1HMlp2ci1LQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "\"AI가 코드를 쓰는 시대, 오픈소스는 왜 더 중요해졌나\" FOSS for All 발표자 인터뷰",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybk1va2NSWC13cWRxWVB3ZE1sblFKWTV3WkZIWEI1MWRzY1RQN0VHaWxNNVE4ZWExVWZIaE9EN3NPYTkwc1hxSHp5WkdvVkVqY0stdjVwYlltUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "CLAUDE.md 이렇게 쓰면 정말 편합니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
