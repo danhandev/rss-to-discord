@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35771",
-      "https://news.hada.io/topic?id=35772",
-      "https://news.hada.io/topic?id=35773",
-      "https://news.hada.io/topic?id=35774",
-      "https://news.hada.io/topic?id=35775",
       "https://news.hada.io/topic?id=35785",
       "https://news.hada.io/topic?id=35787",
       "https://news.hada.io/topic?id=35788",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36253",
       "https://news.hada.io/topic?id=36254",
       "https://news.hada.io/topic?id=36255",
-      "https://news.hada.io/topic?id=36256"
+      "https://news.hada.io/topic?id=36256",
+      "https://news.hada.io/topic?id=36272",
+      "https://news.hada.io/topic?id=36273",
+      "https://news.hada.io/topic?id=36274",
+      "https://news.hada.io/topic?id=36277",
+      "https://news.hada.io/topic?id=36279"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50170917",
-      "https://news.ycombinator.com/item?id=50172041",
-      "https://news.ycombinator.com/item?id=50173487",
-      "https://news.ycombinator.com/item?id=50165953",
-      "https://news.ycombinator.com/item?id=50173891",
       "https://news.ycombinator.com/item?id=50174687",
       "https://news.ycombinator.com/item?id=50175059",
       "https://news.ycombinator.com/item?id=50175070",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50290912",
       "https://news.ycombinator.com/item?id=50295450",
       "https://news.ycombinator.com/item?id=50296470",
-      "https://news.ycombinator.com/item?id=50296486"
+      "https://news.ycombinator.com/item?id=50296486",
+      "https://news.ycombinator.com/item?id=50291421",
+      "https://news.ycombinator.com/item?id=50294506",
+      "https://news.ycombinator.com/item?id=50297089",
+      "https://news.ycombinator.com/item?id=50298436",
+      "https://news.ycombinator.com/item?id=50298964"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -614,7 +614,8 @@
       "https://d2.naver.com/helloworld/2675915",
       "https://d2.naver.com/helloworld/1443473",
       "https://d2.naver.com/helloworld/1975819",
-      "https://d2.naver.com/helloworld/2983631"
+      "https://d2.naver.com/helloworld/2983631",
+      "https://d2.naver.com/news/0907869"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1975,6 +1976,12 @@
         "title": "주니어 개발자를 위한, ‘웹’으로 알아보는 네트워크",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw?oc=5",
         "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+        "link": "https://d2.naver.com/news/0907869",
+        "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고…"
       }
     ],
     "weekly-finance": []
