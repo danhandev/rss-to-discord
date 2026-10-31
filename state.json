@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35825",
-      "https://news.hada.io/topic?id=35831",
-      "https://news.hada.io/topic?id=35832",
-      "https://news.hada.io/topic?id=35833",
-      "https://news.hada.io/topic?id=35834",
       "https://news.hada.io/topic?id=35845",
       "https://news.hada.io/topic?id=35846",
       "https://news.hada.io/topic?id=35847",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36309",
       "https://news.hada.io/topic?id=36317",
       "https://news.hada.io/topic?id=36318",
-      "https://news.hada.io/topic?id=36320"
+      "https://news.hada.io/topic?id=36320",
+      "https://news.hada.io/topic?id=36324",
+      "https://news.hada.io/topic?id=36325",
+      "https://news.hada.io/topic?id=36326",
+      "https://news.hada.io/topic?id=36327",
+      "https://news.hada.io/topic?id=36328"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50184820",
-      "https://news.ycombinator.com/item?id=50188948",
-      "https://news.ycombinator.com/item?id=50189232",
-      "https://news.ycombinator.com/item?id=50162044",
-      "https://news.ycombinator.com/item?id=50173716",
       "https://news.ycombinator.com/item?id=50190363",
       "https://news.ycombinator.com/item?id=50190455",
       "https://news.ycombinator.com/item?id=50191507",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50309314",
       "https://news.ycombinator.com/item?id=50310398",
       "https://news.ycombinator.com/item?id=50311686",
-      "https://news.ycombinator.com/item?id=50312756"
+      "https://news.ycombinator.com/item?id=50312756",
+      "https://news.ycombinator.com/item?id=50313661",
+      "https://news.ycombinator.com/item?id=50314085",
+      "https://news.ycombinator.com/item?id=50314654",
+      "https://news.ycombinator.com/item?id=50314666",
+      "https://news.ycombinator.com/item?id=50314699"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1377,7 +1377,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw",
       "CBMiWkFVX3lxTE44QTZhXzRkRlBVTlhWOGs1QTdldld1dk1NUFMzS3R5bzZxUThmMTJiTDdFcXNhRE8tbHpvaDNjeDVOZDlsZzRjOTl6WnRUai1idHd1MVhLcEkwUQ",
       "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw",
       "CBMiWkFVX3lxTE9CT2pOLW9YcWZ6N0lDT0JvNkZwWVN0VDRSYXBjTG40Unl1RkpjcXM5ZHM2emJfOEpDQ3VQNlVaMGlYRWt6RVFQSklJSzNjQjFVeFlrVVhNWUdaQQ",
@@ -1576,7 +1575,8 @@
       "CBMiWkFVX3lxTE5ybk1va2NSWC13cWRxWVB3ZE1sblFKWTV3WkZIWEI1MWRzY1RQN0VHaWxNNVE4ZWExVWZIaE9EN3NPYTkwc1hxSHp5WkdvVkVqY0stdjVwYlltUQ",
       "CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ",
       "CBMiWkFVX3lxTE5NOU5rRWswdGYyWHo0R2xfMTZwbHRIY2xuaWNVdkFjMzR6bUhQbFl2c0E1NFk3ZklSQ0JNZVBIYTlVMVBya2taMnhfTGVtWGJ0ZDNtcG9kWGNtZw",
-      "CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw"
+      "CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw",
+      "CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ"
     ]
   },
   "pending": {
@@ -2011,6 +2011,12 @@
         "source": "요즘IT",
         "title": "고객 여정에 따른 ‘AARRR’ 마케팅 용어 알아보기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "기획자가 알아야 할 데이터 분석 도구와 활용법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ?oc=5",
         "summary": ""
       }
     ],
