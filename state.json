@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35844",
-      "https://news.hada.io/topic?id=35860",
-      "https://news.hada.io/topic?id=35861",
-      "https://news.hada.io/topic?id=35862",
-      "https://news.hada.io/topic?id=35863",
       "https://news.hada.io/topic?id=35877",
       "https://news.hada.io/topic?id=35878",
       "https://news.hada.io/topic?id=35879",
@@ -200,13 +195,14 @@
       "https://news.hada.io/topic?id=36350",
       "https://news.hada.io/topic?id=36351",
       "https://news.hada.io/topic?id=36352",
-      "https://news.hada.io/topic?id=36353"
+      "https://news.hada.io/topic?id=36353",
+      "https://news.hada.io/topic?id=36363",
+      "https://news.hada.io/topic?id=36365",
+      "https://news.hada.io/topic?id=36366",
+      "https://news.hada.io/topic?id=36367",
+      "https://news.hada.io/topic?id=36368"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50196837",
-      "https://news.ycombinator.com/item?id=50197404",
-      "https://news.ycombinator.com/item?id=50197601",
-      "https://news.ycombinator.com/item?id=50193416",
       "https://news.ycombinator.com/item?id=50194009",
       "https://news.ycombinator.com/item?id=50195543",
       "https://news.ycombinator.com/item?id=50197313",
@@ -402,7 +398,11 @@
       "https://news.ycombinator.com/item?id=50316100",
       "https://news.ycombinator.com/item?id=50318871",
       "https://news.ycombinator.com/item?id=50319143",
-      "https://news.ycombinator.com/item?id=50319510"
+      "https://news.ycombinator.com/item?id=50319510",
+      "https://news.ycombinator.com/item?id=50318720",
+      "https://news.ycombinator.com/item?id=50319358",
+      "https://news.ycombinator.com/item?id=50320963",
+      "https://news.ycombinator.com/item?id=50320995"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1377,7 +1377,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE44QTZhXzRkRlBVTlhWOGs1QTdldld1dk1NUFMzS3R5bzZxUThmMTJiTDdFcXNhRE8tbHpvaDNjeDVOZDlsZzRjOTl6WnRUai1idHd1MVhLcEkwUQ",
       "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw",
       "CBMiWkFVX3lxTE9CT2pOLW9YcWZ6N0lDT0JvNkZwWVN0VDRSYXBjTG40Unl1RkpjcXM5ZHM2emJfOEpDQ3VQNlVaMGlYRWt6RVFQSklJSzNjQjFVeFlrVVhNWUdaQQ",
       "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc",
@@ -1576,7 +1575,8 @@
       "CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ",
       "CBMiWkFVX3lxTE5NOU5rRWswdGYyWHo0R2xfMTZwbHRIY2xuaWNVdkFjMzR6bUhQbFl2c0E1NFk3ZklSQ0JNZVBIYTlVMVBya2taMnhfTGVtWGJ0ZDNtcG9kWGNtZw",
       "CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw",
-      "CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ"
+      "CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ",
+      "CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw"
     ]
   },
   "pending": {
@@ -2017,6 +2017,12 @@
         "source": "요즘IT",
         "title": "기획자가 알아야 할 데이터 분석 도구와 활용법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "페이블 5 재개와 소넷 5 등장, 앤트로픽의 대반격",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw?oc=5",
         "summary": ""
       }
     ],
