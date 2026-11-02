@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35905",
-      "https://news.hada.io/topic?id=35906",
-      "https://news.hada.io/topic?id=35915",
-      "https://news.hada.io/topic?id=35918",
-      "https://news.hada.io/topic?id=35919",
       "https://news.hada.io/topic?id=35924",
       "https://news.hada.io/topic?id=35925",
       "https://news.hada.io/topic?id=35926",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36433",
       "https://news.hada.io/topic?id=36434",
       "https://news.hada.io/topic?id=36436",
-      "https://news.hada.io/topic?id=36440"
+      "https://news.hada.io/topic?id=36440",
+      "https://news.hada.io/topic?id=36426",
+      "https://news.hada.io/topic?id=36427",
+      "https://news.hada.io/topic?id=36428",
+      "https://news.hada.io/topic?id=36429",
+      "https://news.hada.io/topic?id=36430"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50207910",
-      "https://news.ycombinator.com/item?id=50211474",
-      "https://news.ycombinator.com/item?id=50212065",
-      "https://news.ycombinator.com/item?id=50169499",
-      "https://news.ycombinator.com/item?id=50195488",
       "https://news.ycombinator.com/item?id=50212320",
       "https://news.ycombinator.com/item?id=50213925",
       "https://news.ycombinator.com/item?id=50214218",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50325454",
       "https://news.ycombinator.com/item?id=50325694",
       "https://news.ycombinator.com/item?id=50328896",
-      "https://news.ycombinator.com/item?id=50331402"
+      "https://news.ycombinator.com/item?id=50331402",
+      "https://news.ycombinator.com/item?id=50290533",
+      "https://news.ycombinator.com/item?id=50299811",
+      "https://news.ycombinator.com/item?id=50308754",
+      "https://news.ycombinator.com/item?id=50312408",
+      "https://news.ycombinator.com/item?id=50314617"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -615,7 +615,8 @@
       "https://d2.naver.com/helloworld/1443473",
       "https://d2.naver.com/helloworld/1975819",
       "https://d2.naver.com/helloworld/2983631",
-      "https://d2.naver.com/news/0907869"
+      "https://d2.naver.com/news/0907869",
+      "https://d2.naver.com/helloworld/2265641"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1377,7 +1378,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5XZFdIZzY3LVhlMjA1TjV4TFdZSEJ4am5YYVV3Z3BteWhBWWNJOGxnZmlnN1ZmalhWUkc2eDZLNUVLRTd2NGRHYmdoMlF3V1JrdTBMb1hZeGM5Zw",
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
       "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
@@ -1576,474 +1576,12 @@
       "CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw",
       "CBMidkFVX3lxTE8xeW14ajVJVFQ0QWQxd0tTWUZEUFQ1d3VZUHNjS2FTLU91NTNUSzg0c1haTnN6NGpWVUVRWU5KM083cXJjSkNUWTZNek00MzlDRTNleHpESGFmeTA3dWs4SVM3ZVhiWnQydlU3YU1xZ2xXcGNRQWc",
       "CBMiWkFVX3lxTE1UNWN3OElPeTJ1NkdKdE9UQlA5SVo4UXJQaFhVWVFVSC1vNlRKYkVJTkl2YnIwZUV4SXJnMUE2TGlWdDhFRm8zUUF3dXFuX09Vd25EUW9abFgwZw",
-      "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw"
+      "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw",
+      "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc"
     ]
   },
   "pending": {
-    "weekly-tech": [
-      {
-        "source": "요즘IT",
-        "title": "ECMAScript 2022 살펴보기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BYzN4MUc2dk9CZy01VnB3RjZyejVGRXUyb1A5VjJzc3hadGhPN081MXd4NjAxS0YwbWV2cTROUlFnMHY5N0NRbDQtWkhwcGR1OG5SeEJabzktZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "디논 작가의 페이지",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "야놀자vs여기어때, 국내 숙박 앱 강자는?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "어떤 노코드 툴을 써야 하나요?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "\"AI 도입하고 싶다\" 한마디가 8억 견적서 되는 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "GPT-5.6 ‘제한 공개’ 사건의 전말",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "커뮤니티 서비스 만들지 마세요, 어차피 실패합니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "AI 전환, 우리가 도운 건 돕는 사람이었습니다",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40R2IwRjJWd21sanhIOWxsUGJEYUJQRDBXWHdDZUVPOXdqS3VRTUZLVkUtMVdqclN3VkRFWWM4R3J4X1dxMF9TSnI0ZVA?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "자바스크립트 Proxy와 Reflect, 객체를 다루는 새로운 방법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpX0dvelpSaTZUTUJaZDZVUW94dnJPeFF4TFRMZ284bWdRY0M0ZmNqXzhyV0E1LWdFRDNudURhYi1mdEg4akF5ck80Q2hIR1NGc0lsa2ZiU2Y2UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "우리회사는 왜 애자일 전환에 실패했을까?",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uM2ZyVG5TdldEYjFfWk1iSWJZUE9Yc1djNkd4Mlp6c3d2U1kycVhoaFNheTVzS3ZjSlZnV05kVkFpV0FTY1h6VkxIUHI1a0dFcnpnOHNya3Y?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "개발자는 ChatGPT 이렇게 활용하면 좋습니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "[AI 빌더 스쿨] 멀티모달 RAG 실제 제품에 적용하려면? (w. 사이오닉AI)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsUmRzLU1ybVpGQ2s5bnp2SjdnWGk5SVFoV0VmSlJFUlZnVHNHTEFBLXFZLTY1eFdoTW5HUldKX1Z5dk1vVHlXX3k0Vm5JTW42UFRvNnpxYnZXQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획자로서 알아야 하는 MVP 개발 방법론",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVkwzM1o3SDhXaF81aWJJQXJoRG9YUl9kTXhGLUhmNUJvVnBWOEY4RWpRQ2VlcGJIZXpSajdmbUd3MFREMWxIQkhjZjlQRi1SRWRDMkJuMElYQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "“솔직히 우리가 하는 것은 스크럼이 아닙니다!”",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NY1d2aEhqb3VHeUd3MnhzX2YzZWs3NjBtNzJDYUw1bnNwNDJTZHRpOUdSNVBpQk9OVXBRbU1HcEp6TXlpSk5VZXFoN0o2NlNhX2xqN0pBQktodw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획자들이 알아야 할 UI 기본 용어",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMUtFbS1YUldKUlVjWERuTldtdlBFQkRlLW5kMHZHQ0RxVnZtSmZnSnFLdkQzLURlV2t4T2dZbVpEY1VmRlc1Z3VvZEF1YzUtNVBLSGVWa19KZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "챗GPT 연계 이후 돈 잘 버는 AI 서비스 3곳",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVy1HZzVoQ1dSYWhDU2wxRjltQXl1ZFR5YzY2N1BxSmdQdnZuREt2NWZ1RTBYVTBWc1kwdF80YjM5YlpzbVg0WFRXNFlKTU9lQmEtd0FwOExGZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "VSCode를 사용하다가 Orca로 옮긴 후기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YNnNzekFDcTUxcHdMS082WG1FZzlOS1hreXVBQ2FDa2VCNXpPSVpERVUxQmRSMHJjbmsyN3BfVlh2WEVvaXhYYW8zOFdldjVuNmZpYTl2clEwZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "\"이 자료 넣어도 될까?\" 엄격한 보안 환경에서 도구를 만드는 일",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50M3U5OWtqd3NoSHBVQ1JpQ0x5a0RNeXBRc2R0bG02bENSZkxJb2ZFdHNia3ZLQ0Q4NEhId3NBcjZqOUVfSTJJQU5xUE10Y1FETmFsZkZMN3VWZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM3lPdFQ3T2lfMUxiTTh2VGhwYkZTQmVnVWxuVHBkT0ZjNXNkWWZtZ0QwZ2dJMjJvMUQtVG9IUEpaUWlMaWZ1S3ZYaFVXMzRJUUZITWIzRG5IQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "토스가 유저의 리텐션을 높이는 법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucGk2eEdua0dzcE5XLU5ZVGRPZWdaYjVVd3RsczEwYlQ1eU56RFk2bTRQamN5dllQNjNCRkxTWFczRDNDeFpRQzZOc2x0aTVlOS00S2UtbjFCUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "프리랜서 하시게요? 그럼 기획을 잘 하셔야겠네요?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "2024년 UX/UI 디자인 트렌드 훑어보기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SktZX0dZdmFURkRxcWdCZlBWWEJONUd5RU1xWkloT3pXeHZRd2YzOWw0Zm9UZU9tTzJwTzhha0lxNzFqMXg1YzJtYnJDekFYVUtwbVRIYzN4UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "NAVER D2",
-        "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
-        "link": "https://d2.naver.com/helloworld/1975819",
-        "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말 설문으로 질문을 받아 후속편을 작성했습니다. ​ 그동안 저도 경험과 지식을 더 쌓았습니다. 하지만 지금 학생…"
-      },
-      {
-        "source": "요즘IT",
-        "title": "프로덕트 팀의 신뢰를 ‘자산’처럼 관리해야 하는 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWnhXSTAzMzZvWE9uTDU2bXN1T0FZdUxranJzVl80SkcyNVFKeENiaDJjR1NibmtQZ3hVWW1OTG8yWFg4X3F0MnQyNUZLVlN1YXlCYklXSmZzdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "토스테크",
-        "title": "손가락 튕기기로 LLM 비용 줄이기",
-        "link": "https://toss.tech/article/snap-llm-cost-reduction",
-        "summary": "토스에서 늘어나는 LLM 비용을 빠르게 줄이는 방법을 소개합니다."
-      },
-      {
-        "source": "요즘IT",
-        "title": "LLM을 위한 자바스크립트 디버깅 ②: 페이지를 무너뜨리는 파일 찾기부터 AI처럼 접속해 보기까지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4N1hOSmx0U2hZU0lIeTdWdm1BTjNsblpBOHl6Z1o0RmxweUMzU0ZmeE5mclZRMll1M3lRQlJKWXRmcTJLOGttVlVkaTZUbFRiTTFvVlNzYTUwQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "비개발자라면 이렇게 해보세요: 클로드 코드와 친해지기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0RzZ4ak5WUExUSU81UGQzSEhsVEpySEkyV1d0cWNPNkR5MjVkdjdDbXBWWlAxNnF2c2VhWVd0TlA5OE5na3VoUmZqQVdGUVJxbm1jTkFDNUZ2QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "LLM을 위한 자바스크립트 디버깅 ①: 크롬 개발자 도구로 AI 가시성 점검하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ycUhRd2tyNmhGaVNsdFlRWTFGZ3pjOFVSUmJzdXJjVWIxZkdxUS1fMUw2TDF5YllRcmN3dUs0TkZGN0VmS0ttbWtvQm1YSnBZb2ZQUFJ5UDM1QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "LLM부터 MCP까지 ‘왜 필요한가’로 이해하는 AI 리터러시",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SQWlraHc5TllEc3dUdmUyTmpWdlZIUkFuOFlIdU1ZWjFHRDZUR2pNTUFiaUYwR09lYlJ4NmJkQ3Uxdk1qdV93Q3VaaWEyT3pmUXkzaXBqUlNCUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "밍키넷주소 알려줘",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieUJENkxBbmpKWW13QVpjTVdWUUo1T0tsZzBwcmZzT0FJQVVEZWhoODFkRW5QNVA0R281WG10U2M3bXczSkM1aEg5Rmd5WVpxYmdkRTJ4Z0dOSUJDcWZSXzFZZENybDRLd2RnZW9lbnQzWjhnemc?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "“화성에서 온 디자이너, 금성에서 온 개발자”를 넘어",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12ZldFUEVNbFNrTWZTSXRyOFRvVzV5RHl3RG9GRmh1SGo4NnYzY2ZFczA1MEJQSjFhWlQwa0Qtek1TZE9rWWRhN2F4WlpuWUYxb3d5NTNzci15UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "둘둘 작가의 페이지",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TEdscU9uQ0VnSFpSZ3N5b0dwbHNURUoyNGFGZUttNU93ZTVaSUVuUUVMbU5VTHdhcExnS3B5R3RMVGJWYjRJem8tMi1OZDZ5NmM4RTJBSHc?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "구글 14년차 엔지니어가 공유한, 직군 불문 교훈 14가지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "육아하며 바이브 코딩으로 만든 앱, 앱스토어 1위까지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "API란 무엇인가요? (feat. 인터페이스)",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kci1oQWdTWFJSR3Blb01FdEw5UmthNUJ4MTVpZW5UZ0pseUFrMkF5djh1RGtsMDg1RWswbjBtZ3pOdXFWYk1XdGRPX0toV25rUk9wQTlHd0k?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "wishket은 어떤 서비스야?",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aa3U3Q183ZHhRUDZGNi1nV2tIZ0x4U0UyVmhjcFRZaXdBN2swTFZLN2QteEFweDJtM3J0SDljMFptSkxLcmFlZkdNeHFYbjZpenhrUmFpLU5yWWdpVDRCS243bDBHWTJjcUJ4R0J6Z1hYZzBHclE?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "PM은 이미 끝났다? 제품 관리의 현실",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81ckZIdzUyZF9mblQwbm5nR21EV0FuTFd6SXZQUmdxT3F0eHEzbm5oX2FHR3FqRGt1SzFPZklrcGVsWERZcmtfamE4bTA2cFJ6SjdwdzRXbW9UZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "Orca vs. Paseo vs. 순정: 에이전트 관리 도구 비교하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1makJKQ1JVOHBpTkdwUkpEbllvdDVpUklQUExDYms5RVhrNlNGV2ltRmMzSmpIWjRZUUNiSXFZNHIxcFRVNWdnUWxXbEFydVlCS3FGLTRtc1I3dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "IT 기업의 수익 모델과 트렌드",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbXc5dkZxclZTYk1MNEFUSW5hbG9aajBPeVVaS0JqT0dDZUh2M0RPeGtBVWsxNGJhUmdSUGpIbzNHazlNS3VfVllHX2RjVDlHV0l3Rl8tWUgyZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "피그마는 여러분을 나쁜 디자이너로 만들고 있습니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSkhoNnhhM2ROdGtpN3dGX2Vxdlpoc3V4eTZOemZDWXNfWmhpX0tHemxVYjQ4TnNucGszT3ZLb2NrVGFkb3JHWlZVNWhwOTdodG5iSG1EbE5jUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "패스워드 없이 로그인을 쉽게 만드는 UX란?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMUNUV0k4VzhobzJ0cDIxVVpJbk93RnhXcXd1LVl6YnptUzY0UFdoR3YxYXh0OW1RNGhpNzVmZk9VZjZFTjFlYkx1NGtGbFA1RFVVVDZiX3BLUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "주니어 개발자를 위한 TCP/IP 주요 프로토콜 알아보기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMTRyUWZVTm1vUTd3NTlEd1VvenAxVXdIdjRlaC1RNTBiUmRmdVVvZ2N2M0N4VHRsZ0JIemFLbkJ2Rk1tSWpfOUdFcnRvdDVsd3FRUG5rSVI0dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "우아한형제들",
-        "title": "[배민스토어] 배민스토어에 이벤트 기반 아키텍처를 곁들인…",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBta2kyWHFYR1gwU0FVTHFfdFdHX2dsWjAwNE91MkZSTXpwZXNtRUd1YTV4NG5nb2ZlMFhxdG9rQXQ4Q1VqaV9INU9TSlU?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "실험 조직으로 거듭나기: 3 체계적으로 실험하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYTRqTVNVeE1ndnlPd19ZbkNqcnJHc0hiaG50Mkk4eW5CeFZyUXBOSkNrbHNjMldWSnRlU1dVMlZmc0twdWpSS3Q2NHJHUS1RcHdBODhJVmo1Zw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "카카오",
-        "title": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
-        "link": "https://tech.kakao.com/posts/844",
-        "summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서(CLAUDE.md)를 읽고 SQL을 작성해 기존 Hadoop 환경에서 실행한 뒤 집계 결과를 리포트로 완성합니다. 지난 글에서는 데이터 엔지니어, 분석가만 알고 있던 로그 데이터 접근 방법과 분석 기준을 AI를 통해 조회하는 사례를 소개했습..."
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI에게 처음부터 끝까지 개발을 맡겼습니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UTHVidUlBTUVzbTJHRU05UWJpVm9mWWdBSWZnNHB2RlFoSnFTa3FLTzFIYVpBbFlPYW4wTzJ1RE9fZE1aelJIRzNQZ1B3dWdKRmU4bFZRQy1HQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "세상에 나온 지 27년 된 책 '리팩터링'을 다시 펼치는 이유",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41bUhobU1YQ2hBNlVIYmRKYnVXbE04NVdBd1luN2p5Q3RCSE9zTjNoSi1QYVBzVEstdnlUZnVyaE9UMS05MzZjUXhleG9BLTVISjlaUVJIRjhIZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "둘둘 작가의 페이지",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcGZrdklXcnFtQk1jZzdLYklpX2tuS2hYdWtBT2tuNnltYlJuZDN6MkVseTliYVVPbFBlQ2NORWJzZkd2QmNQNi1JekpwNW1FanEyMFhMaVNhUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "A/B 테스트 결과, 이게 맞아?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSnZHMlp2RjZxN0lLQkNvVWZJMWxrZHoxZk8zUGJ4YTV0WFJkUksxX25KUlY4bUF2Y3BoenQ1dmp2bHhGc3R1NUowNGo3aF9xNjJSdFNVdWF3QQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획 용어 4부: 검색 기획/설계를 위한 기본 용어 알고 가기",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pa2lIMVZvYTNOMlhneUdtMlFuNnVxNWFRbFhZQkpxLVFaTUFpazVDTFlGYkMydHdfSno5Ulg5Z1hLeWhDYkNhSUxBelhoU3FHanlUQTdUTi0?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "클로드 코드로 만든 주식 분석 리포트: 하네스 분석하기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "쿠팡은 디자인 시스템을 어떻게 구축했을까?",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "하룻밤에 사라진 2조 원, 거래소가 당신의 코인을 지배하는 방식",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "GEO 시대의 글쓰기, SEO와 무엇이 같고 무엇이 다른가",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "인기",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI 에이전트 비용, 모델 라우팅으로 얼마나 줄까(Liner Router API 실측기)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bjhhV19TUUxFM0cxQXZna2hXWmFobERDWGI5LTBycnFwV25hdTJWOGQ0YXoyeUdXNDY4dURTRGNMWkdPck5WcU1yN2lwb21jZ2J3aUZ4VGFYQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "AI 진단의 신뢰도를 높인 건 AI에게 덜 맡기는 것이었다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNE85M3Y1M1g2SjBjR1ViUU93ejJ6ekRrN2p0TEVfdG5xdWdWS2pxcTdzU29HLVdoMkgxQ0dQYjIzZUNjdVZ6dndlTVJUVVRfdjVqZHBIeHVDQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "NAVER D2",
-        "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
-        "link": "https://d2.naver.com/helloworld/2983631",
-        "summary": "Kubernetes에서 서비스를 운영하다 보면 메인 컨테이너 옆에 사이드카(sidecar) 컨테이너를 붙이는 일이 흔합니다. 사이드카에는 로그와 메트릭 수집, 프록시처럼 주 기능은 아니지만 같은 Pod 안에서 함께 실행되어야 하는 기능이 포함됩니다. 저희 팀이 운영하는 관리형 데이터베이스 서비스도 DB 인스턴스를 Pod 단위로 실행하고, 그 Pod에 DB 컨테이너 외에 헬스 체크, 메트릭과 로그 수집 등을 위한 사이드카를 함께 둡니다. 이 사이드카들은 DB와 같은 데이터 볼륨에 접근해야 하므로…"
-      },
-      {
-        "source": "우아한형제들",
-        "title": "배달아~ 배달 가는길 알려줘!(단호함)",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "모델이 그렇게 좋다면 오픈AI는 왜 직접 회사를 차리지 않을까",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSnFsUmZVMHRkeUJmYXRnTnJNMXRWR1c1cGtpT2ltYjR4UTVLOXZjMmNiSmZUU29oVlAxLWVtUmNIeWVMRVJSTVFrTUlWWWFBTjViY19LeWtSdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "국내 FDE 현황 조사 2026: 현장 FDE에게 직접 묻습니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wQ1RUdE8zVFFnd3BvTEY4TXdfQWtVcEZLeE43U1hOd184VEExd1JHMmlaSjg2c3lfS2pYbVI2dEVYa0VhdmVPVFJacjlNaFZlV2hodnJGaFgwUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "사용자 ‘감성’ 챙기는 프로덕트 브랜딩이란? (feat. 토스)",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JTWJmc0RuWHlOUUdWY0RsTFdGUXJqS0lJc1hEcGRqVTdlWjNPQWgwOWRISXpGR0xvOGs1TzdZREo5NTJaVkpGU21USHJhaFFHcmhkWWoydkFXZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "주니어 개발자를 위한, ‘웹’으로 알아보는 네트워크",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "NAVER D2",
-        "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
-        "link": "https://d2.naver.com/news/0907869",
-        "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고…"
-      },
-      {
-        "source": "요즘IT",
-        "title": "설치 없이 SQL·Java·Git·AWS 연습하는 웹 서비스 개발기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lVVQ2NW5KSEtsb1NwVVBaRUFYUTc4TGJ0MXQ4MXN1bmlYQWhGc1hwVGNFUEM0dGVKVFVnVm1ITEsxaVR0WmNpLVZ3bGFnemZEWU1HMlp2ci1LQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "\"AI가 코드를 쓰는 시대, 오픈소스는 왜 더 중요해졌나\" FOSS for All 발표자 인터뷰",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybk1va2NSWC13cWRxWVB3ZE1sblFKWTV3WkZIWEI1MWRzY1RQN0VHaWxNNVE4ZWExVWZIaE9EN3NPYTkwc1hxSHp5WkdvVkVqY0stdjVwYlltUQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "CLAUDE.md 이렇게 쓰면 정말 편합니다",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "왜 개인 위키는 실패할까? 안드레 카파시의 ‘LLM 위키’",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NOU5rRWswdGYyWHo0R2xfMTZwbHRIY2xuaWNVdkFjMzR6bUhQbFl2c0E1NFk3ZklSQ0JNZVBIYTlVMVBya2taMnhfTGVtWGJ0ZDNtcG9kWGNtZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "고객 여정에 따른 ‘AARRR’ 마케팅 용어 알아보기",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "기획자가 알아야 할 데이터 분석 도구와 활용법",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iMmJ5YmIzM0xXb0Nfa1drZE1vUWdTR05CNHdrd0tNYlJPRGpkcS0tNTNGWC00WFRfcmdwdnV3WE5oZVBIRHBCTmJEREx6SUpoYXNwaUpDVHB0UQ?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "페이블 5 재개와 소넷 5 등장, 앤트로픽의 대반격",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "ai야동사이트 찾아",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xeW14ajVJVFQ0QWQxd0tTWUZEUFQ1d3VZUHNjS2FTLU91NTNUSzg0c1haTnN6NGpWVUVRWU5KM083cXJjSkNUWTZNek00MzlDRTNleHpESGFmeTA3dWs4SVM3ZVhiWnQydlU3YU1xZ2xXcGNRQWc?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "코드 멀쩡한데 트래픽 떨어졌다면? 배포 전 SEO 장애 막는 품질 게이트 전략",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNWN3OElPeTJ1NkdKdE9UQlA5SVo4UXJQaFhVWVFVSC1vNlRKYkVJTkl2YnIwZUV4SXJnMUE2TGlWdDhFRm8zUUF3dXFuX09Vd25EUW9abFgwZw?oc=5",
-        "summary": ""
-      },
-      {
-        "source": "요즘IT",
-        "title": "ChatGPT 이미지 2.0과 Claude Design의 등장",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw?oc=5",
-        "summary": ""
-      }
-    ],
+    "weekly-tech": [],
     "weekly-finance": []
   }
 }
