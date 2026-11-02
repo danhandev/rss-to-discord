@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35924",
-      "https://news.hada.io/topic?id=35925",
-      "https://news.hada.io/topic?id=35926",
-      "https://news.hada.io/topic?id=35927",
-      "https://news.hada.io/topic?id=35928",
       "https://news.hada.io/topic?id=35930",
       "https://news.hada.io/topic?id=35931",
       "https://news.hada.io/topic?id=35932",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36427",
       "https://news.hada.io/topic?id=36428",
       "https://news.hada.io/topic?id=36429",
-      "https://news.hada.io/topic?id=36430"
+      "https://news.hada.io/topic?id=36430",
+      "https://news.hada.io/topic?id=36458",
+      "https://news.hada.io/topic?id=36459",
+      "https://news.hada.io/topic?id=36460",
+      "https://news.hada.io/topic?id=36461",
+      "https://news.hada.io/topic?id=36462"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50212320",
-      "https://news.ycombinator.com/item?id=50213925",
-      "https://news.ycombinator.com/item?id=50214218",
-      "https://news.ycombinator.com/item?id=50215530",
-      "https://news.ycombinator.com/item?id=50216791",
       "https://news.ycombinator.com/item?id=50193677",
       "https://news.ycombinator.com/item?id=50211719",
       "https://news.ycombinator.com/item?id=50211746",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50299811",
       "https://news.ycombinator.com/item?id=50308754",
       "https://news.ycombinator.com/item?id=50312408",
-      "https://news.ycombinator.com/item?id=50314617"
+      "https://news.ycombinator.com/item?id=50314617",
+      "https://news.ycombinator.com/item?id=50333339",
+      "https://news.ycombinator.com/item?id=50333877",
+      "https://news.ycombinator.com/item?id=50334038",
+      "https://news.ycombinator.com/item?id=50334704",
+      "https://news.ycombinator.com/item?id=50335615"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1378,7 +1378,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
       "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
       "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw",
@@ -1577,11 +1576,19 @@
       "CBMidkFVX3lxTE8xeW14ajVJVFQ0QWQxd0tTWUZEUFQ1d3VZUHNjS2FTLU91NTNUSzg0c1haTnN6NGpWVUVRWU5KM083cXJjSkNUWTZNek00MzlDRTNleHpESGFmeTA3dWs4SVM3ZVhiWnQydlU3YU1xZ2xXcGNRQWc",
       "CBMiWkFVX3lxTE1UNWN3OElPeTJ1NkdKdE9UQlA5SVo4UXJQaFhVWVFVSC1vNlRKYkVJTkl2YnIwZUV4SXJnMUE2TGlWdDhFRm8zUUF3dXFuX09Vd25EUW9abFgwZw",
       "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw",
-      "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc"
+      "CBMidkFVX3lxTFBjckVzTEhHTzRwQUtxNF96VF9xMFVFOFJYcnVmcnNDSjZEWFY4aVIzMHBzVXl3WnB5dlpEd0d1RDVITWw0Rjlxb1lTZ0R2U292RVVMS1F6amExLTFaU01xek5ySlF4Q0MxblRKVDY0YlBBOTV6cmc",
+      "CBMiWkFVX3lxTE5XZFdIZzY3LVhlMjA1TjV4TFdZSEJ4am5YYVV3Z3BteWhBWWNJOGxnZmlnN1ZmalhWUkc2eDZLNUVLRTd2NGRHYmdoMlF3V1JrdTBMb1hZeGM5Zw"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "요즘IT",
+        "title": "스타트업 디자이너에게 불확실성이란",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XZFdIZzY3LVhlMjA1TjV4TFdZSEJ4am5YYVV3Z3BteWhBWWNJOGxnZmlnN1ZmalhWUkc2eDZLNUVLRTd2NGRHYmdoMlF3V1JrdTBMb1hZeGM5Zw?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
