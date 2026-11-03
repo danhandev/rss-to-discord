@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35937",
-      "https://news.hada.io/topic?id=35938",
-      "https://news.hada.io/topic?id=35939",
-      "https://news.hada.io/topic?id=35941",
-      "https://news.hada.io/topic?id=35942",
       "https://news.hada.io/topic?id=35947",
       "https://news.hada.io/topic?id=35950",
       "https://news.hada.io/topic?id=35951",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36484",
       "https://news.hada.io/topic?id=36485",
       "https://news.hada.io/topic?id=36487",
-      "https://news.hada.io/topic?id=36488"
+      "https://news.hada.io/topic?id=36488",
+      "https://news.hada.io/topic?id=36502",
+      "https://news.hada.io/topic?id=36504",
+      "https://news.hada.io/topic?id=36505",
+      "https://news.hada.io/topic?id=36506",
+      "https://news.hada.io/topic?id=36507"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50217495",
-      "https://news.ycombinator.com/item?id=50218195",
-      "https://news.ycombinator.com/item?id=50218430",
-      "https://news.ycombinator.com/item?id=50218633",
-      "https://news.ycombinator.com/item?id=50219666",
       "https://news.ycombinator.com/item?id=50172962",
       "https://news.ycombinator.com/item?id=50186450",
       "https://news.ycombinator.com/item?id=50217903",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50341174",
       "https://news.ycombinator.com/item?id=50341462",
       "https://news.ycombinator.com/item?id=50342284",
-      "https://news.ycombinator.com/item?id=50344181"
+      "https://news.ycombinator.com/item?id=50344181",
+      "https://news.ycombinator.com/item?id=50344919",
+      "https://news.ycombinator.com/item?id=50345924",
+      "https://news.ycombinator.com/item?id=50346153",
+      "https://news.ycombinator.com/item?id=50346164",
+      "https://news.ycombinator.com/item?id=50346981"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -498,7 +498,8 @@
       "https://tech.kakao.com/posts/840",
       "https://tech.kakao.com/posts/842",
       "https://tech.kakao.com/posts/843",
-      "https://tech.kakao.com/posts/844"
+      "https://tech.kakao.com/posts/844",
+      "https://tech.kakao.com/posts/845"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -580,7 +581,10 @@
       "https://blog.banksalad.com/tech/banksalad-react-lottie/",
       "https://blog.banksalad.com/tech/banksalad-optimistic-lock/",
       "https://blog.banksalad.com/pnc/banksalad-welcome-kit/",
-      "https://blog.banksalad.com/tech/banksalad-ddd-in-ai-era/"
+      "https://blog.banksalad.com/tech/banksalad-ddd-in-ai-era/",
+      "https://blog.banksalad.com/pnc/banksalad-icon-renewal-2/",
+      "https://blog.banksalad.com/pnc/banksalad-icon-renewal-3/",
+      "https://blog.banksalad.com/pnc/banksalad-icon-renewal-1/"
     ],
     "https://d2.naver.com/d2.atom": [
       "https://d2.naver.com/helloworld/4372269",
@@ -616,7 +620,8 @@
       "https://d2.naver.com/helloworld/1975819",
       "https://d2.naver.com/helloworld/2983631",
       "https://d2.naver.com/news/0907869",
-      "https://d2.naver.com/helloworld/2265641"
+      "https://d2.naver.com/helloworld/2265641",
+      "https://d2.naver.com/helloworld/9639872"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1343,7 +1348,8 @@
       "https://helloworld.kurly.com/blog/ai-orchestration-2/",
       "https://helloworld.kurly.com/blog/claude-code-redesign-my-day/",
       "https://helloworld.kurly.com/blog/image-based-misdelivery-detection/",
-      "https://helloworld.kurly.com/blog/2026-delivery-domain-rag/"
+      "https://helloworld.kurly.com/blog/2026-delivery-domain-rag/",
+      "https://helloworld.kurly.com/blog/recommend-ml-pipeline/"
     ],
     "https://tech.socarcorp.kr/rss.xml": [
       "https://tech.socar.kr/data/2023/02/01/nocode-tool",
@@ -1378,9 +1384,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
-      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
-      "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
       "CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4",
       "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
@@ -1577,7 +1580,10 @@
       "CBMiWkFVX3lxTE5XZFdIZzY3LVhlMjA1TjV4TFdZSEJ4am5YYVV3Z3BteWhBWWNJOGxnZmlnN1ZmalhWUkc2eDZLNUVLRTd2NGRHYmdoMlF3V1JrdTBMb1hZeGM5Zw",
       "CBMiWkFVX3lxTE90Z1NNTnpPRk5SWnV5cEhmWlhLYjFMUV96aXB2SzFHUGNhOEc0MDNGRWhBdzZpUjJWZGlDSTBDdWFaZHhrUk1Hb2VDR3lEejdKNENxU1FjSjE0dw",
       "CBMiWkFVX3lxTE44QTZhXzRkRlBVTlhWOGs1QTdldld1dk1NUFMzS3R5bzZxUThmMTJiTDdFcXNhRE8tbHpvaDNjeDVOZDlsZzRjOTl6WnRUai1idHd1MVhLcEkwUQ",
-      "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw"
+      "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
+      "CBMiWkFVX3lxTE9wUDN2UU5OUkZJV1R2MEVka284TS1xWDlwSnEtQ2hXVkVHTTA2Y1ByN1R6ZTMzMV9MaE5IaHJtdEZqVzZ3Z29LOUt1LUpLbGtvU0plbkpScHA4UQ",
+      "CBMiWkFVX3lxTE1zNHEzQnlRZGhkUDBVVy0ySzcxQ1VNV3BXVFhFd1BHTEVsd2xRN2p5dE1rU202eVZCaXBUeXp1ZkFQUlZQLUJHN0Fjd2lDQTJKZ00zMnFRZWI2UQ",
+      "CBMiVkFVX3lxTFBYSExKQlFCRE4wM255bzdHMTBYbVAtSWpvaG1XYjFyUUFBYUgteUdLU2lvUk9kTFllTzBDUDdPNzBpTDJaVmh6elgwQ1ZRcmVIT3dwRll3"
     ]
   },
   "pending": {
@@ -1604,6 +1610,60 @@
         "source": "요즘IT",
         "title": "‘사고 근육’을 지켜주는 AI 글쓰기 방법 5가지",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "옮기는 것보다 증명이 어렵다",
+        "link": "https://tech.kakao.com/posts/845",
+        "summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발행되지 않은 변경이 색인에 반영되지 않았고, 건의 체류 시간을 계산하는 기준시각이 무관한 필드 수정에 갱신되는 문제가 있었습니다. 전환보다 어려웠던 작업은 새 색인이 맞다는 것을 보이는 일이었습니다. 누락·값·지연 세 축으로 대조한 결과, 보..."
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "700여개의 아이콘을 하나로 묶는 법 - 뱅샐 아이콘 개편기 2편",
+        "link": "https://blog.banksalad.com/pnc/banksalad-icon-renewal-2/",
+        "summary": "안녕하세요. 뱅크샐러드 브랜드 디자이너 홍승재예요. 앞선 1편에서는 뱅크샐러드 아이콘 2.…"
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "사용자를 위한 아이콘이란 무엇일까? - 뱅샐 아이콘 개편기 3편",
+        "link": "https://blog.banksalad.com/pnc/banksalad-icon-renewal-3/",
+        "summary": "안녕하세요. 뱅크샐러드 브랜드 디자이너 홍승재예요. 앞선 1, 2편에서는 기존 아이콘의 아웃라인을 과감하게 걷어내고, 색채학과 조형 규칙을 세워 뱅크샐러드만의 새로운 시각적 언어를 만드는 과정을 소개했어요. 하지만 70…"
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "선을 지우고 명료함을 채우다 - 뱅샐 아이콘 개편기 1편",
+        "link": "https://blog.banksalad.com/pnc/banksalad-icon-renewal-1/",
+        "summary": "…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "딸깍으로 안되는 Multi-interest 개발기",
+        "link": "https://d2.naver.com/helloworld/9639872",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 딸깍으로 안되는 Multi-interest 개발기 NAVER D2 | 딸깍으로 안되는 Multi-interest 개발기 naver.me ​ 발표 내용 다양한 관심사 추천 모델인 Multi-interest를 여러 지면에 적용하며 겪었던 문제를 해결했던 과정을 공유합니다. ​ 주제: Multi-interest 추천 모델(MINER)의 KREAM 실서비스 적용 사례 문제: 인기 상품…"
+      },
+      {
+        "source": "컬리",
+        "title": "Argo Workflows와 SageMaker로 추천 ML 파이프라인 구축기",
+        "link": "https://helloworld.kurly.com/blog/recommend-ml-pipeline/",
+        "summary": "추천 모델과 임베딩, 검색 인덱스를 한 세대로 묶어 매일 안전하게 교체하는 파이프라인 구축기"
+      },
+      {
+        "source": "요즘IT",
+        "title": "인하우스 IT 기획자가 AI로 대시보드 만들며 배운 4가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wUDN2UU5OUkZJV1R2MEVka284TS1xWDlwSnEtQ2hXVkVHTTA2Y1ByN1R6ZTMzMV9MaE5IaHJtdEZqVzZ3Z29LOUt1LUpLbGtvU0plbkpScHA4UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "직접 만든 Claude 비서 3주, Duet과 뭐가 다를까",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zNHEzQnlRZGhkUDBVVy0ySzcxQ1VNV3BXVFhFd1BHTEVsd2xRN2p5dE1rU202eVZCaXBUeXp1ZkFQUlZQLUJHN0Fjd2lDQTJKZ00zMnFRZWI2UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "하치 작가의 페이지",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYSExKQlFCRE4wM255bzdHMTBYbVAtSWpvaG1XYjFyUUFBYUgteUdLU2lvUk9kTFllTzBDUDdPNzBpTDJaVmh6elgwQ1ZRcmVIT3dwRll3?oc=5",
         "summary": ""
       }
     ],
