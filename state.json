@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35947",
-      "https://news.hada.io/topic?id=35950",
-      "https://news.hada.io/topic?id=35951",
-      "https://news.hada.io/topic?id=35952",
-      "https://news.hada.io/topic?id=35955",
       "https://news.hada.io/topic?id=35961",
       "https://news.hada.io/topic?id=35962",
       "https://news.hada.io/topic?id=35963",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36504",
       "https://news.hada.io/topic?id=36505",
       "https://news.hada.io/topic?id=36506",
-      "https://news.hada.io/topic?id=36507"
+      "https://news.hada.io/topic?id=36507",
+      "https://news.hada.io/topic?id=36516",
+      "https://news.hada.io/topic?id=36517",
+      "https://news.hada.io/topic?id=36518",
+      "https://news.hada.io/topic?id=36519",
+      "https://news.hada.io/topic?id=36520"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50172962",
-      "https://news.ycombinator.com/item?id=50186450",
-      "https://news.ycombinator.com/item?id=50217903",
-      "https://news.ycombinator.com/item?id=50219177",
-      "https://news.ycombinator.com/item?id=50222133",
       "https://news.ycombinator.com/item?id=50219700",
       "https://news.ycombinator.com/item?id=50222622",
       "https://news.ycombinator.com/item?id=50224100",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50345924",
       "https://news.ycombinator.com/item?id=50346153",
       "https://news.ycombinator.com/item?id=50346164",
-      "https://news.ycombinator.com/item?id=50346981"
+      "https://news.ycombinator.com/item?id=50346981",
+      "https://news.ycombinator.com/item?id=50346849",
+      "https://news.ycombinator.com/item?id=50348962",
+      "https://news.ycombinator.com/item?id=50349276",
+      "https://news.ycombinator.com/item?id=50350004",
+      "https://news.ycombinator.com/item?id=50351111"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -418,7 +418,8 @@
       "https://spring.io/blog/2026/10/06/this-week-in-spring-october-6th-2026",
       "https://spring.io/blog/2026/10/13/this-week-in-spring-october-13th-2026",
       "https://spring.io/blog/2026/10/20/this-week-in-spring-october-20th-2026",
-      "https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026"
+      "https://spring.io/blog/2026/10/27/this-week-in-spring-october-27th-2026",
+      "https://spring.io/blog/2026/11/03/this-week-in-spring-november-3rd-2026"
     ],
     "https://toss.tech/rss.xml": [
       "https://toss.tech/article/tues",
@@ -701,7 +702,8 @@
       "https://medium.com/p/097551289b2a",
       "https://medium.com/p/5340546886b5",
       "https://medium.com/p/16c6328dea50",
-      "https://medium.com/p/5ae60ab5108b"
+      "https://medium.com/p/5ae60ab5108b",
+      "https://medium.com/p/8dea7fe41c07"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -1226,7 +1228,8 @@
       "CBMiS0FVX3lxTFBBZ2pMVl84NDJLeHZTX3NJUkRLV2xMbmlobFBlX01wclZpODJ3cEo3NDNqUWNJcDZyRXFZdHZ4djItR3JDYy1lNnY0MA",
       "CBMiTEFVX3lxTE40R2IwRjJWd21sanhIOWxsUGJEYUJQRDBXWHdDZUVPOXdqS3VRTUZLVkUtMVdqclN3VkRFWWM4R3J4X1dxMF9TSnI0ZVA",
       "CBMiTEFVX3lxTFBta2kyWHFYR1gwU0FVTHFfdFdHX2dsWjAwNE91MkZSTXpwZXNtRUd1YTV4NG5nb2ZlMFhxdG9rQXQ4Q1VqaV9INU9TSlU",
-      "CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA"
+      "CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA",
+      "CBMiTEFVX3lxTFAxVlpKQVpPeWxNYW1MSTl1d2VJY21ycnlCUkpOZXRyaGs5ckM3ZTNTUGZaRkdUV0wtRW9kREZsWHp1a2xZMEhqRUxsdjI"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1349,7 +1352,8 @@
       "https://helloworld.kurly.com/blog/claude-code-redesign-my-day/",
       "https://helloworld.kurly.com/blog/image-based-misdelivery-detection/",
       "https://helloworld.kurly.com/blog/2026-delivery-domain-rag/",
-      "https://helloworld.kurly.com/blog/recommend-ml-pipeline/"
+      "https://helloworld.kurly.com/blog/recommend-ml-pipeline/",
+      "https://helloworld.kurly.com/blog/ai-qa-from-spec-to-defect/"
     ],
     "https://tech.socarcorp.kr/rss.xml": [
       "https://tech.socar.kr/data/2023/02/01/nocode-tool",
@@ -1384,14 +1388,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWEFVX3lxTE1FbTZoQVNtcUFETjQ4M3NKY3JLZ3I4MlcxR1phbTlhbVRaQThIOEwxZm1pUzJUa0p6anJ4Q0xvWFczSkZsTGFENi1kbnVJWnFzOVU5QWtMTU4",
-      "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ",
-      "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
-      "CBMiWkFVX3lxTE45R1lNOW5VVVR0aTZCT3ZCUjlqeW1WQ1NKRFN1bUxJQy1nWXo1bGNma3p3QkI2RmFWVVZiQ1VDYXZmaFlmaWRQaXNGbzBNNVdWY3hkalZyNXJXQQ",
-      "CBMiWkFVX3lxTE1wVXBrVDhwWW96Vlh5T3U3MXNoLV8tNUl1RjlfUWNhNHNGZzRDQkVic3o1NDE5eVRmVG5RUHVyWXh0aEtwRXJTWEk0V2xyeVM4Q3l1VGxUdHd3Zw",
-      "CBMiWkFVX3lxTE82YWtzTGcyc0VMcTBRVEdTcnlDMUJHbkZjYl8zRUNaeTJiMjNtVjNyVC1mbVNKU1lXSi1JVjJXV2FPZ1lrWWFqQ3I3ZGY0MDYyY0MzMzRqSENZdw",
-      "CBMiWkFVX3lxTFByWHB2RkxJbENjck40TUJ5SXhvRVhJN05SaVRjZlFZOG5kbEtaUjhYWVg0cTllTGRvbmhnNjl0a0x1TGl6cEl3anoxVnYya2V5b243TzVqS0dYdw",
-      "CBMiWkFVX3lxTFBPYzdFaHVGNlFaU0ZJUExXMnpFTnVxbFY1M01IRGE4U01fMzV1RWlRd2wxczNTNXF2MW51bktFemFRVHZvTjk2UmZUSzFzNHlTZl9iU05fR3JiZw",
       "CBMiWkFVX3lxTE5JbGs4ckJ2enhYOFVRSVZucTRXYkRqaV9DVTVRckdoQ1dEUmNDRzBvdjhEaGRlSXNlYnpJOEV6REdodEhpb2xJQjFic2Uwc29LUFY1U01Eb3JYdw",
       "CBMiWkFVX3lxTE84aV9FdW5ZdTJGYjg1SWhwNG45blhwdGZSUXdTV1VWTHc0U3BDVks3M2cxRmtobEZqUGpNYTBiX0h1N1NuUXdaeTBxTkdRZ0xVaVNCLXBENHdLZw",
       "CBMiWEFVX3lxTE14d2c4T1hyWGR0RmpweXhPQ3QwVEZVZDZBNkxGMEtVV3FQQkZhMm5YQlJiTGpBV1c0WEVzYXBrWHhTWGhjcVpHVHFoSWxkaEI3SEFQNUZ3am4",
@@ -1583,7 +1579,15 @@
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiWkFVX3lxTE9wUDN2UU5OUkZJV1R2MEVka284TS1xWDlwSnEtQ2hXVkVHTTA2Y1ByN1R6ZTMzMV9MaE5IaHJtdEZqVzZ3Z29LOUt1LUpLbGtvU0plbkpScHA4UQ",
       "CBMiWkFVX3lxTE1zNHEzQnlRZGhkUDBVVy0ySzcxQ1VNV3BXVFhFd1BHTEVsd2xRN2p5dE1rU202eVZCaXBUeXp1ZkFQUlZQLUJHN0Fjd2lDQTJKZ00zMnFRZWI2UQ",
-      "CBMiVkFVX3lxTFBYSExKQlFCRE4wM255bzdHMTBYbVAtSWpvaG1XYjFyUUFBYUgteUdLU2lvUk9kTFllTzBDUDdPNzBpTDJaVmh6elgwQ1ZRcmVIT3dwRll3"
+      "CBMiVkFVX3lxTFBYSExKQlFCRE4wM255bzdHMTBYbVAtSWpvaG1XYjFyUUFBYUgteUdLU2lvUk9kTFllTzBDUDdPNzBpTDJaVmh6elgwQ1ZRcmVIT3dwRll3",
+      "CBMiWkFVX3lxTE15TUhsamx5dmFHZlV2Qkc2cmoyWWwyRUpKVEJJdEk5Q3hNb1lfRWpOSC01aXZyQTNFYTJ4UjhLN0dRWW1XY1pRd0tpencxa3FTc01TZ2gwWHJoZw",
+      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
+      "CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ",
+      "CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw",
+      "CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ",
+      "CBMiWkFVX3lxTE5Cdl84YnQzRTJlQVpzNjFVdnlDYkxCSEp3NE1DeXlCMXU2OWtSc2JoUUNrcldWZWRMWHkwZE1mblRYQ05nS3dKLUFaUk1xTUNwU3lwRVRibl9pdw",
+      "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
+      "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ"
     ]
   },
   "pending": {
@@ -1664,6 +1668,72 @@
         "source": "요즘IT",
         "title": "하치 작가의 페이지",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYSExKQlFCRE4wM255bzdHMTBYbVAtSWpvaG1XYjFyUUFBYUgteUdLU2lvUk9kTFllTzBDUDdPNzBpTDJaVmh6elgwQ1ZRcmVIT3dwRll3?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "AI와 함께하는 테스트 자동화: 플러그인 개발기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxVlpKQVpPeWxNYW1MSTl1d2VJY21ycnlCUkpOZXRyaGs5ckM3ZTNTUGZaRkdUV0wtRW9kREZsWHp1a2xZMEhqRUxsdjI?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "당근",
+        "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+        "link": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI…"
+      },
+      {
+        "source": "컬리",
+        "title": "기획서 하나로 결함 등록까지, QA AI Hub를 만들며 배운 것",
+        "link": "https://helloworld.kurly.com/blog/ai-qa-from-spec-to-defect/",
+        "summary": "TC 작성에 쓰던 시간을 AI로 줄이려다, QA의 일을 다시 나누게 된 9개월의 기록"
+      },
+      {
+        "source": "요즘IT",
+        "title": "피그잼 모르는 사람 없게 해주세요!",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15TUhsamx5dmFHZlV2Qkc2cmoyWWwyRUpKVEJJdEk5Q3hNb1lfRWpOSC01aXZyQTNFYTJ4UjhLN0dRWW1XY1pRd0tpencxa3FTc01TZ2gwWHJoZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 개발 이야기들",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WUkhvMTZQUjBST3dKYVMtVlQ3eERXblY0d0NwdHJLYllITFQxd2NhM09qTUJjTFhTLVk4eF8tREp1Qmw2R0lIRFVDWmoxWGJVMW1sR1NzRU1TUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI시대에 필요한 개발자, Product Engineer",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nejY2dzh6NHBQWGxhaXRHRlBIeE9jNk41MHZyZk0wTFJ3M2VLNk1fQTJLbmloY3ZseGpvQ1htTFRhbXZyWEJQZlNLNmZURE1vYUVyMlBnejdUZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "사람마다 다른 썸네일이 나온다? GenUI의 빛과 어둠",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUUdKQlc4U3d2Z2xhMGo3eEZ3U0VBT2V1aVZlRlBFOHpTd25WbjltQ2RnTGx5RTNvd2p1aUNVejl3V2F3T3NuQXY5NzlsakJOdU04RkIzZFNpUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "RAG 기반 '사내 지식 챗봇' 이렇게 구축했습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Cdl84YnQzRTJlQVpzNjFVdnlDYkxCSEp3NE1DeXlCMXU2OWtSc2JoUUNrcldWZWRMWHkwZE1mblRYQ05nS3dKLUFaUk1xTUNwU3lwRVRibl9pdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "소버린 AI와 자체 생태계를 가진 IT 강대국, 러시아를 가다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "아직도 1년 전 프롬프트를 그대로 쓰고 있나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ?oc=5",
         "summary": ""
       }
     ],
