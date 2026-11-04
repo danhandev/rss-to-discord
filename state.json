@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35989",
-      "https://news.hada.io/topic?id=35990",
-      "https://news.hada.io/topic?id=35991",
-      "https://news.hada.io/topic?id=35992",
-      "https://news.hada.io/topic?id=35993",
       "https://news.hada.io/topic?id=36010",
       "https://news.hada.io/topic?id=36011",
       "https://news.hada.io/topic?id=36012",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36572",
       "https://news.hada.io/topic?id=36573",
       "https://news.hada.io/topic?id=36575",
-      "https://news.hada.io/topic?id=36576"
+      "https://news.hada.io/topic?id=36576",
+      "https://news.hada.io/topic?id=36594",
+      "https://news.hada.io/topic?id=36595",
+      "https://news.hada.io/topic?id=36596",
+      "https://news.hada.io/topic?id=36597",
+      "https://news.hada.io/topic?id=36598"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50226577",
-      "https://news.ycombinator.com/item?id=50230181",
-      "https://news.ycombinator.com/item?id=50230384",
-      "https://news.ycombinator.com/item?id=50230917",
-      "https://news.ycombinator.com/item?id=50193936",
       "https://news.ycombinator.com/item?id=50229827",
       "https://news.ycombinator.com/item?id=50232312",
       "https://news.ycombinator.com/item?id=50233779",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50352758",
       "https://news.ycombinator.com/item?id=50355767",
       "https://news.ycombinator.com/item?id=50360164",
-      "https://news.ycombinator.com/item?id=50361268"
+      "https://news.ycombinator.com/item?id=50361268",
+      "https://news.ycombinator.com/item?id=50364336",
+      "https://news.ycombinator.com/item?id=50365755",
+      "https://news.ycombinator.com/item?id=50366522",
+      "https://news.ycombinator.com/item?id=50366999",
+      "https://news.ycombinator.com/item?id=50367125"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1390,8 +1390,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ",
-      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
       "CBMiWkFVX3lxTE9KMGxqZVNzRE9MZV9vdkdzQnZQYUNxUHZMX0hZaHZQdVYxYVNnNzVLVnhXc2tpcS1XQUpJMnljRi1UOHFFVUhNdnBtQXRMYTZtWVdlR0ZYRlhlQQ",
       "CBMiWkFVX3lxTE1JUXRnenVqYkVRT0ZoUjNWbS1hR0szMDNIMUZuRVFnZjE5b1dyN0EtcTdXVWYtY2VoblR2NlFVczVuYnE4NXNBcW1IaHUwSTRiQUl2RnNPbzR6QQ",
       "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ",
@@ -1589,7 +1587,9 @@
       "CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw",
       "CBMiWkFVX3lxTE5qREdOcThDN1l5RVpMWWxHQmJEVWpCZ3hxMU8xNEVLV0ZIbzdheUZoOEtqNkRXbVBVUjFjUTM4Q1lHbW5icU81b0Q3Y0RDQnVRQ1pKdmVKQUlqZw",
       "CBMiWkFVX3lxTE5xMEc4cU9QakRSLVRSRXEydjhJZXhHMVZ3Z0dLZmRnM21EU1ZlOS1IVUVvUmNnTGp4ZUVJRDFIUGhSRU5QMzMtbENhMDNrM1VZVjBPeUdSQjdpdw",
-      "CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ"
+      "CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ",
+      "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw",
+      "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ"
     ]
   },
   "pending": {
@@ -1790,6 +1790,18 @@
         "source": "요즘IT",
         "title": "하치 작가의 페이지",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 실무와 정보, 무엇이든 물어보세요! | 물어봐 AI",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "와이어 프레임 제작할 때 참고하기 좋은 서비스 2가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ?oc=5",
         "summary": ""
       }
     ],
