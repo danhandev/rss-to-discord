@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35971",
-      "https://news.hada.io/topic?id=35972",
-      "https://news.hada.io/topic?id=35973",
-      "https://news.hada.io/topic?id=35974",
-      "https://news.hada.io/topic?id=35975",
       "https://news.hada.io/topic?id=35980",
       "https://news.hada.io/topic?id=35981",
       "https://news.hada.io/topic?id=35982",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36538",
       "https://news.hada.io/topic?id=36539",
       "https://news.hada.io/topic?id=36540",
-      "https://news.hada.io/topic?id=36541"
+      "https://news.hada.io/topic?id=36541",
+      "https://news.hada.io/topic?id=36550",
+      "https://news.hada.io/topic?id=36551",
+      "https://news.hada.io/topic?id=36552",
+      "https://news.hada.io/topic?id=36553",
+      "https://news.hada.io/topic?id=36554"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50222927",
-      "https://news.ycombinator.com/item?id=50224422",
-      "https://news.ycombinator.com/item?id=50225695",
-      "https://news.ycombinator.com/item?id=50226419",
-      "https://news.ycombinator.com/item?id=50223777",
       "https://news.ycombinator.com/item?id=50224210",
       "https://news.ycombinator.com/item?id=50225674",
       "https://news.ycombinator.com/item?id=50227356",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50354336",
       "https://news.ycombinator.com/item?id=50354358",
       "https://news.ycombinator.com/item?id=50354960",
-      "https://news.ycombinator.com/item?id=50355251"
+      "https://news.ycombinator.com/item?id=50355251",
+      "https://news.ycombinator.com/item?id=50356994",
+      "https://news.ycombinator.com/item?id=50358422",
+      "https://news.ycombinator.com/item?id=50358562",
+      "https://news.ycombinator.com/item?id=50358582",
+      "https://news.ycombinator.com/item?id=50358702"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -622,7 +622,8 @@
       "https://d2.naver.com/helloworld/2983631",
       "https://d2.naver.com/news/0907869",
       "https://d2.naver.com/helloworld/2265641",
-      "https://d2.naver.com/helloworld/9639872"
+      "https://d2.naver.com/helloworld/9639872",
+      "https://d2.naver.com/news/1095957"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1388,7 +1389,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5nTGQ3UnVISlhGdGE1dU5pa3pycm5ZMzduVzlFVlg2VVYtajBybTlEWkJ6OVI1SnZoYXhSS0pDUVdrdUxtR3VtVjR4MUVBejR4NjRrR3JtMlNjQQ",
       "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ",
       "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
       "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw",
@@ -1587,7 +1587,8 @@
       "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
       "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
-      "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ"
+      "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
+      "CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw"
     ]
   },
   "pending": {
@@ -1752,6 +1753,18 @@
         "source": "요즘IT",
         "title": "사이드 프로젝트 도전기: 1팀 결성부터 서비스 런칭까지",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "FE News 26년 11월 소식을 전해드립니다.",
+        "link": "https://d2.naver.com/news/1095957",
+        "summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속 MIT 라이선스로 남고 Tailwind 팀이 Shopify의 지원을 받아 유지보수를 이어 가므로, 이미 쓰고 있는 팀이 당장 바꿀 것은 없다. 대신 유료 컴포넌트·템플릿 모음…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "한 번 연결한 MCP, 다른 환경에서도 그대로 쓸 수 있을까? Liner Actions 일주일 사용기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw?oc=5",
         "summary": ""
       }
     ],
