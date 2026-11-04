@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=35980",
-      "https://news.hada.io/topic?id=35981",
-      "https://news.hada.io/topic?id=35982",
-      "https://news.hada.io/topic?id=35983",
-      "https://news.hada.io/topic?id=35984",
       "https://news.hada.io/topic?id=35989",
       "https://news.hada.io/topic?id=35990",
       "https://news.hada.io/topic?id=35991",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36551",
       "https://news.hada.io/topic?id=36552",
       "https://news.hada.io/topic?id=36553",
-      "https://news.hada.io/topic?id=36554"
+      "https://news.hada.io/topic?id=36554",
+      "https://news.hada.io/topic?id=36571",
+      "https://news.hada.io/topic?id=36572",
+      "https://news.hada.io/topic?id=36573",
+      "https://news.hada.io/topic?id=36575",
+      "https://news.hada.io/topic?id=36576"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50224210",
-      "https://news.ycombinator.com/item?id=50225674",
-      "https://news.ycombinator.com/item?id=50227356",
-      "https://news.ycombinator.com/item?id=50229587",
-      "https://news.ycombinator.com/item?id=50225663",
       "https://news.ycombinator.com/item?id=50226577",
       "https://news.ycombinator.com/item?id=50230181",
       "https://news.ycombinator.com/item?id=50230384",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50358422",
       "https://news.ycombinator.com/item?id=50358562",
       "https://news.ycombinator.com/item?id=50358582",
-      "https://news.ycombinator.com/item?id=50358702"
+      "https://news.ycombinator.com/item?id=50358702",
+      "https://news.ycombinator.com/item?id=50346755",
+      "https://news.ycombinator.com/item?id=50352758",
+      "https://news.ycombinator.com/item?id=50355767",
+      "https://news.ycombinator.com/item?id=50360164",
+      "https://news.ycombinator.com/item?id=50361268"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -623,7 +623,8 @@
       "https://d2.naver.com/news/0907869",
       "https://d2.naver.com/helloworld/2265641",
       "https://d2.naver.com/helloworld/9639872",
-      "https://d2.naver.com/news/1095957"
+      "https://d2.naver.com/news/1095957",
+      "https://d2.naver.com/helloworld/7134499"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1389,9 +1390,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5uMzFZMHhGZGFvb0tXTHpNcFcyUFhFOU1sSmFwUW52RUhjcGNKVWNUWHhxSmFVampMRzFJRi1wX0VPRkJ2UFViWlZ0UzhuN0pQVFBBT3ZWLVQwUQ",
-      "CBMiWkFVX3lxTE45R25CYVNidnlDU0JNbnBSMWdEdlozbDZvU0VFMkFaaGFWTXplaGNyMVBSYXA1anRnN2ZlM1ZDTGdIWm5vc1B6bF90NmJyMk9RQk9wOEp4Z25JUQ",
-      "CBMiWkFVX3lxTFBDOGt3MzZCZ3hoeUlaSklSbG55RTBpQ3daU01pVzZkUktheWpxVnFaZ2J2c0xRRjNVc3RHWVBMOGN2SmFaSXVWa0V6blRLTmNCVjFmektVUHZHdw",
       "CBMiWkFVX3lxTE1BZWljQm02ZGJTSFN1bXM5TGswU19UMmVqaXNYSFBzWl90SVJnOWtDS1JyclNiVUN1XzQ1UVdmaFJEcUhXWFBpcVc0dGNLQXgycUlvR1FCOXJfQQ",
       "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
       "CBMiWkFVX3lxTE9KMGxqZVNzRE9MZV9vdkdzQnZQYUNxUHZMX0hZaHZQdVYxYVNnNzVLVnhXc2tpcS1XQUpJMnljRi1UOHFFVUhNdnBtQXRMYTZtWVdlR0ZYRlhlQQ",
@@ -1588,7 +1586,10 @@
       "CBMiWkFVX3lxTE1fQ3pBNkpOMWFZTGY0bFVzV21JNWtGVllRbW00YWN1VGZnd1BRUzh2Uk5CbUlsXzJFZzFHZ05PazZzcTJicnhWNy0tdk5RVWhCbmV5eWhPc1c5UQ",
       "CBMiWkFVX3lxTE80T3RiNG5heDZYQkZvV0ZqaUQwdXgzc185RUJlb0lNUU9hQmNsanJEQVJpR2xJa19NYXFNa2xjQVJObUIxR0hHRE5BQkotczVtMFVJWWZTZXlldw",
       "CBMiWkFVX3lxTE00YUl2bjJyakxkQ24xaHJtX0FVaDdpMEhPLW9DRVZpclFRWmhNVDZwQnN3bVJIQmFWTW5HVGs5dFdqdWs3VVpWTnV0cU9PYjk2amp5R2YwMU40UQ",
-      "CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw"
+      "CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw",
+      "CBMiWkFVX3lxTE5qREdOcThDN1l5RVpMWWxHQmJEVWpCZ3hxMU8xNEVLV0ZIbzdheUZoOEtqNkRXbVBVUjFjUTM4Q1lHbW5icU81b0Q3Y0RDQnVRQ1pKdmVKQUlqZw",
+      "CBMiWkFVX3lxTE5xMEc4cU9QakRSLVRSRXEydjhJZXhHMVZ3Z0dLZmRnM21EU1ZlOS1IVUVvUmNnTGp4ZUVJRDFIUGhSRU5QMzMtbENhMDNrM1VZVjBPeUdSQjdpdw",
+      "CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ"
     ]
   },
   "pending": {
@@ -1765,6 +1766,30 @@
         "source": "요즘IT",
         "title": "한 번 연결한 MCP, 다른 환경에서도 그대로 쓸 수 있을까? Liner Actions 일주일 사용기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wZTZOU0U3Y3dpZnhUSENCNXlOVUFxYWpxYUdGd09ZS0w0MGxtdkxrOURyOU1SOWtFbjA1LVRDSGlkWWFyMERRR2JFMnZ3REFPNVk2QUxRekxhdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?",
+        "link": "https://d2.naver.com/helloworld/7134499",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? NAVER D2 | 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? naver.me ​ 발표 내용 여러 엔티티를 한 공간에 담은 통합 임베딩과 범용 리트리벌이 크림 추천 곳곳에 쓰이는 방식, 운영하며 드러난 한계를 v2에서 해결한 과정, 그리고 확장 방향을 공유합니다. ​…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "A2A는 스펙대로 동작할까? 12개 항목 직접 확인해 보니",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qREdOcThDN1l5RVpMWWxHQmJEVWpCZ3hxMU8xNEVLV0ZIbzdheUZoOEtqNkRXbVBVUjFjUTM4Q1lHbW5icU81b0Q3Y0RDQnVRQ1pKdmVKQUlqZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "A2A 도입 전에 확인할 것 7가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMEc4cU9QakRSLVRSRXEydjhJZXhHMVZ3Z0dLZmRnM21EU1ZlOS1IVUVvUmNnTGp4ZUVJRDFIUGhSRU5QMzMtbENhMDNrM1VZVjBPeUdSQjdpdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "하치 작가의 페이지",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ?oc=5",
         "summary": ""
       }
     ],
