@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36028",
-      "https://news.hada.io/topic?id=36030",
-      "https://news.hada.io/topic?id=36031",
-      "https://news.hada.io/topic?id=36032",
-      "https://news.hada.io/topic?id=36033",
       "https://news.hada.io/topic?id=36044",
       "https://news.hada.io/topic?id=36045",
       "https://news.hada.io/topic?id=36046",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36623",
       "https://news.hada.io/topic?id=36625",
       "https://news.hada.io/topic?id=36628",
-      "https://news.hada.io/topic?id=36631"
+      "https://news.hada.io/topic?id=36631",
+      "https://news.hada.io/topic?id=36647",
+      "https://news.hada.io/topic?id=36648",
+      "https://news.hada.io/topic?id=36652",
+      "https://news.hada.io/topic?id=36653",
+      "https://news.hada.io/topic?id=36654"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50231166",
-      "https://news.ycombinator.com/item?id=50235017",
-      "https://news.ycombinator.com/item?id=50235738",
-      "https://news.ycombinator.com/item?id=50236102",
-      "https://news.ycombinator.com/item?id=50185534",
       "https://news.ycombinator.com/item?id=50235780",
       "https://news.ycombinator.com/item?id=50237712",
       "https://news.ycombinator.com/item?id=50238088",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50370654",
       "https://news.ycombinator.com/item?id=50372929",
       "https://news.ycombinator.com/item?id=50372945",
-      "https://news.ycombinator.com/item?id=50373308"
+      "https://news.ycombinator.com/item?id=50373308",
+      "https://news.ycombinator.com/item?id=50372164",
+      "https://news.ycombinator.com/item?id=50375354",
+      "https://news.ycombinator.com/item?id=50377078",
+      "https://news.ycombinator.com/item?id=50377221",
+      "https://news.ycombinator.com/item?id=50378228"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1392,7 +1392,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ",
       "CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ",
       "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw",
       "CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ",
@@ -1591,7 +1590,8 @@
       "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw",
       "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ",
       "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
-      "CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw"
+      "CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw",
+      "CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw"
     ]
   },
   "pending": {
@@ -1828,6 +1828,12 @@
         "source": "요즘IT",
         "title": "오픈소스 컴퓨터 유즈 cua-driver 써보니: GUI 시나리오 5개 막힌 곳과 우회법",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "커서 엔지니어가 한 달 PR 2,500개 머지한 방법(내 저장소에 붙여 보니)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw?oc=5",
         "summary": ""
       }
     ],
