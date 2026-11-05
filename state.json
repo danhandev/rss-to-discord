@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36004",
-      "https://news.hada.io/topic?id=36005",
-      "https://news.hada.io/topic?id=36006",
-      "https://news.hada.io/topic?id=36009",
-      "https://news.hada.io/topic?id=36015",
       "https://news.hada.io/topic?id=36028",
       "https://news.hada.io/topic?id=36030",
       "https://news.hada.io/topic?id=36031",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36611",
       "https://news.hada.io/topic?id=36612",
       "https://news.hada.io/topic?id=36613",
-      "https://news.hada.io/topic?id=36615"
+      "https://news.hada.io/topic?id=36615",
+      "https://news.hada.io/topic?id=36622",
+      "https://news.hada.io/topic?id=36623",
+      "https://news.hada.io/topic?id=36625",
+      "https://news.hada.io/topic?id=36628",
+      "https://news.hada.io/topic?id=36631"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50233304",
-      "https://news.ycombinator.com/item?id=50234232",
-      "https://news.ycombinator.com/item?id=50234474",
-      "https://news.ycombinator.com/item?id=50235217",
-      "https://news.ycombinator.com/item?id=50197108",
       "https://news.ycombinator.com/item?id=50231166",
       "https://news.ycombinator.com/item?id=50235017",
       "https://news.ycombinator.com/item?id=50235738",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50369925",
       "https://news.ycombinator.com/item?id=50370610",
       "https://news.ycombinator.com/item?id=50371246",
-      "https://news.ycombinator.com/item?id=50371508"
+      "https://news.ycombinator.com/item?id=50371508",
+      "https://news.ycombinator.com/item?id=50369895",
+      "https://news.ycombinator.com/item?id=50370654",
+      "https://news.ycombinator.com/item?id=50372929",
+      "https://news.ycombinator.com/item?id=50372945",
+      "https://news.ycombinator.com/item?id=50373308"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -624,7 +624,9 @@
       "https://d2.naver.com/helloworld/2265641",
       "https://d2.naver.com/helloworld/9639872",
       "https://d2.naver.com/news/1095957",
-      "https://d2.naver.com/helloworld/7134499"
+      "https://d2.naver.com/helloworld/7134499",
+      "https://d2.naver.com/helloworld/7770448",
+      "https://d2.naver.com/helloworld/5037598"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1390,7 +1392,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1JUXRnenVqYkVRT0ZoUjNWbS1hR0szMDNIMUZuRVFnZjE5b1dyN0EtcTdXVWYtY2VoblR2NlFVczVuYnE4NXNBcW1IaHUwSTRiQUl2RnNPbzR6QQ",
       "CBMiWkFVX3lxTE1vZUNMbzl6RXowampkaDBSSFNSeFFrUTN3dGJtbm92VE1kVy1PanF4TGlIckk1Wm92aml3S0R4UnNTa0VpODZaZ0tqV3JFUTBMWi1uX1pFa2pEQQ",
       "CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ",
       "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw",
@@ -1589,7 +1590,8 @@
       "CBMiV0FVX3lxTE9mRVJrcU9YZEl6b18zczdpQVZsWFdMNkVHQ05TeXhuVjhwMDRXVllFS2djazU4WTg3SEhFOGZsalY1RnI4RmxmNXV0OEZGcUtaTnpHNEtKUQ",
       "CBMiV0FVX3lxTE5qRF9Qem5GSzR0WU54YzlTd1p5YkduV3ZDaGZZOTh1NTZ5aXo2WWd0bGpCeDJYMUZvdzhfbHFBUC01amptTklvYnBEbTVIQ3ZlaWY1T0VhZw",
       "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ",
-      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ"
+      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
+      "CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw"
     ]
   },
   "pending": {
@@ -1808,6 +1810,24 @@
         "source": "요즘IT",
         "title": "“어이 신입, 탈출각이다”",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
+        "link": "https://d2.naver.com/helloworld/7770448",
+        "summary": "2020년 글 은 W3C 권고(1.0) 직후의 WebAssembly(이하 'wasm')를 다뤘습니다. '미래 버전에 포함될 작업'으로 스레드, SIMD(single instruction, multiple data), 참조 타입, 꼬리 호출, ESM(ECMAScript modules) 통합을 소개했고, Bytecode Alliance와 WASI(WebAssembly System Interface)가 그리는 브라우저 밖의 그림을 살펴봤습니다. 그리고 \"아직까지 실서비스에서의 활발한 사용이 눈에…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "worklog-system 주간보고 자동화 구축 경험기",
+        "link": "https://d2.naver.com/helloworld/5037598",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며 부딪힌 세 가지 문제를 차례로 다룹니다. 기억이 아니라 기록에서 주간보고를 모으는 방법 재택과 사무실을…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "오픈소스 컴퓨터 유즈 cua-driver 써보니: GUI 시나리오 5개 막힌 곳과 우회법",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw?oc=5",
         "summary": ""
       }
     ],
