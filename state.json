@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36083",
-      "https://news.hada.io/topic?id=36086",
-      "https://news.hada.io/topic?id=36087",
-      "https://news.hada.io/topic?id=36088",
-      "https://news.hada.io/topic?id=36089",
       "https://news.hada.io/topic?id=36094",
       "https://news.hada.io/topic?id=36095",
       "https://news.hada.io/topic?id=36096",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36679",
       "https://news.hada.io/topic?id=36682",
       "https://news.hada.io/topic?id=36683",
-      "https://news.hada.io/topic?id=36684"
+      "https://news.hada.io/topic?id=36684",
+      "https://news.hada.io/topic?id=36691",
+      "https://news.hada.io/topic?id=36693",
+      "https://news.hada.io/topic?id=36694",
+      "https://news.hada.io/topic?id=36696",
+      "https://news.hada.io/topic?id=36697"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50243646",
-      "https://news.ycombinator.com/item?id=50248055",
-      "https://news.ycombinator.com/item?id=50248124",
-      "https://news.ycombinator.com/item?id=50248371",
-      "https://news.ycombinator.com/item?id=50251344",
       "https://news.ycombinator.com/item?id=50251661",
       "https://news.ycombinator.com/item?id=50245831",
       "https://news.ycombinator.com/item?id=50247493",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50383163",
       "https://news.ycombinator.com/item?id=50383740",
       "https://news.ycombinator.com/item?id=50384233",
-      "https://news.ycombinator.com/item?id=50385272"
+      "https://news.ycombinator.com/item?id=50385272",
+      "https://news.ycombinator.com/item?id=50379249",
+      "https://news.ycombinator.com/item?id=50379576",
+      "https://news.ycombinator.com/item?id=50385870",
+      "https://news.ycombinator.com/item?id=50386338",
+      "https://news.ycombinator.com/item?id=50387796"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -627,7 +627,8 @@
       "https://d2.naver.com/news/1095957",
       "https://d2.naver.com/helloworld/7134499",
       "https://d2.naver.com/helloworld/7770448",
-      "https://d2.naver.com/helloworld/5037598"
+      "https://d2.naver.com/helloworld/5037598",
+      "https://d2.naver.com/helloworld/0627744"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -688,7 +689,8 @@
       "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
       "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
       "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
-      "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure"
+      "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure",
+      "https://techblog.lycorp.co.jp/ko/line-premium-call-recording"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1393,8 +1395,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw",
-      "CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ",
       "CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ",
       "CBMiWkFVX3lxTE1yQ2gyX0hNVVJpREE5REdzZnhuOXdxRm5Nemh1NlJSZDF2VWdwQkY2dGFUb3Q2Um95XzFrSmJ4Mk1tVkR6MWFKeTBvV2JBbTB5RERFbTJYUGpWZw",
       "CBMiWkFVX3lxTE1aR2dmdUZBbi1lRmxBRlk3T3FBRU5najVhWDJJS0NRcGVnbUV1b2tYNndrdDFFNGU3RE11Y01CTTR4eGRod1dtZGRCd3N5V0IwZ3psUXd2TGlJUQ",
@@ -1592,7 +1592,9 @@
       "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
       "CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw",
       "CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw",
-      "CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ"
+      "CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ",
+      "CBMiWkFVX3lxTFA5dUdjT0xzZERGYkhnUVVPLU5FODlRb21XMmN0Ml9ucURkcy1kb1RjRGFJUFpjWUF4eE8wTmR1cDIyUDRwOTNQb3BmZVp4emlGNE9UVDBfaFlwUQ",
+      "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw"
     ]
   },
   "pending": {
@@ -1847,6 +1849,30 @@
         "source": "요즘IT",
         "title": "개발자들이 더 이상 질문하지 않는다면",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
+        "link": "https://d2.naver.com/helloworld/0627744",
+        "summary": "\"어느 한 프레임워크가 독보적인 위치를 차지하지 않는 상태는 많은 이들에게 희망과 고통을 동시에 안겨준다.\" 2020년 글 은 이 문장으로 시작했습니다. 6년이 지난 지금, 이 문장은 절반만 맞습니다. 사용률로 보면 React는 독보적인 위치를 굳혔고, 고민은 '어떤 프레임워크를 고를까'에서 'React 위에서 어떤 메타 프레임워크와 빌드 도구를 고를까', 그리고 'AI 도구가 기본값으로 고르는 스택을 그대로 받아들일까'로 옮겨 갔습니다. 여기서 메타 프레임워크는 UI 라이브러리 위에 라우팅,…"
+      },
+      {
+        "source": "LINE",
+        "title": "녹화 버튼 뒤에서 일어나는 일: LINE 프리미엄콜 개발기",
+        "link": "https://techblog.lycorp.co.jp/ko/line-premium-call-recording",
+        "summary": "들어가며안녕하세요. LINE 앱에서 VoIP(voice over Internet protocol, 인터넷 기반 음성 통화) Android 서비스 개발을 담당하고 있는 안덕용입니다...."
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI. vs 사람 맡길 일 고르는 기준 4가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dUdjT0xzZERGYkhnUVVPLU5FODlRb21XMmN0Ml9ucURkcy1kb1RjRGFJUFpjWUF4eE8wTmR1cDIyUDRwOTNQb3BmZVp4emlGNE9UVDBfaFlwUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "10분 만에 온톨로지(Ontology) 이해하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw?oc=5",
         "summary": ""
       }
     ],
