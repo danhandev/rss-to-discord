@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36063",
-      "https://news.hada.io/topic?id=36064",
-      "https://news.hada.io/topic?id=36065",
-      "https://news.hada.io/topic?id=36066",
-      "https://news.hada.io/topic?id=36067",
       "https://news.hada.io/topic?id=36083",
       "https://news.hada.io/topic?id=36086",
       "https://news.hada.io/topic?id=36087",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36664",
       "https://news.hada.io/topic?id=36665",
       "https://news.hada.io/topic?id=36666",
-      "https://news.hada.io/topic?id=36667"
+      "https://news.hada.io/topic?id=36667",
+      "https://news.hada.io/topic?id=36678",
+      "https://news.hada.io/topic?id=36679",
+      "https://news.hada.io/topic?id=36682",
+      "https://news.hada.io/topic?id=36683",
+      "https://news.hada.io/topic?id=36684"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50238763",
-      "https://news.ycombinator.com/item?id=50241664",
-      "https://news.ycombinator.com/item?id=50241925",
-      "https://news.ycombinator.com/item?id=50242870",
-      "https://news.ycombinator.com/item?id=50242939",
       "https://news.ycombinator.com/item?id=50243646",
       "https://news.ycombinator.com/item?id=50248055",
       "https://news.ycombinator.com/item?id=50248124",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50381033",
       "https://news.ycombinator.com/item?id=50381383",
       "https://news.ycombinator.com/item?id=50381623",
-      "https://news.ycombinator.com/item?id=50383739"
+      "https://news.ycombinator.com/item?id=50383739",
+      "https://news.ycombinator.com/item?id=50383057",
+      "https://news.ycombinator.com/item?id=50383163",
+      "https://news.ycombinator.com/item?id=50383740",
+      "https://news.ycombinator.com/item?id=50384233",
+      "https://news.ycombinator.com/item?id=50385272"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -500,7 +500,8 @@
       "https://tech.kakao.com/posts/842",
       "https://tech.kakao.com/posts/843",
       "https://tech.kakao.com/posts/844",
-      "https://tech.kakao.com/posts/845"
+      "https://tech.kakao.com/posts/845",
+      "https://tech.kakao.com/posts/846"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1392,7 +1393,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1XNGhQc1FWZ1ZhTGswd056Tkt2QWJTVHhkbEV1eVNoaVJ3b19SVEdiclVvcTlfMFBvUEJ2N2diWnI2SmZXN1hRV1p0WS1FN1RYUXdXNE1IZmNDQQ",
       "CBMiWkFVX3lxTE1zVTJpanV6cmVDU3VYODZ2dGlQcFE0LVVTWUdpU1ZDSTNnZ2YyWWs2NlowdXJQM1Z2OFNKWFVINURKQU9xajVMX29KTG5KZ3ByNWJ6dGttaGdOZw",
       "CBMiWkFVX3lxTE5nTXVVdGhPOWVjVDd1eEFSQ3lTSXY1a1Nub3lDTnFMd1MzSjJNMlY5WnZqcTFGLXhBNlhaUXBuWHU4OFRIV3MwaDlCWTRtc3VhcC1NZDBDQ1lXUQ",
       "CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ",
@@ -1591,7 +1591,8 @@
       "CBMiWkFVX3lxTE84Umt1cG1kLXZic3FIM2lScnZnRWMzS0pEbmlzeXBTQjM0ZlhyR2RCTHhLbVE4czQ5cUZ1czBYQUo5UXE0Tm01MGZrRUxnVExQWVdsNmtfNDFoQQ",
       "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
       "CBMiWkFVX3lxTFBwTmlrdmk5MzBQcVFwT3EweTdGY01lNmNYZlhud3FzeVV0SkhxSlBEWDVyekJiYTNtaFY3YW5mS1NfejI4N3o4TmJyVlNLcFdXSVNDT1ZMSy1Ddw",
-      "CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw"
+      "CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw",
+      "CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ"
     ]
   },
   "pending": {
@@ -1834,6 +1835,18 @@
         "source": "요즘IT",
         "title": "커서 엔지니어가 한 달 PR 2,500개 머지한 방법(내 저장소에 붙여 보니)",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+        "link": "https://tech.kakao.com/posts/846",
+        "summary": "안녕하세요, 카카오 Applied AI Model팀의 Shawn(정성효), Michael(이주영)입니다. 고객 문의를 분류하고, 상품 사진을 확인하고, 에이전트가 다음 작업에 사용할 도구를 고르는 일. 서비스에는 긴 답변보다 명확한 판단이 필요한 순간이 많습니다. 특히 AI 에이전트는 하나의 요청을 처리하는 동안 이러한 판단을 여러 차례 반복합니다. Agentic AI 시대에 각 단계에서 필요한 판단 결과를 빠르게 얻고, 이를 서비스의 다음 동작으로 ..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자들이 더 이상 질문하지 않는다면",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ?oc=5",
         "summary": ""
       }
     ],
