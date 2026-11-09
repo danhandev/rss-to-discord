@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36241",
-      "https://news.hada.io/topic?id=36242",
-      "https://news.hada.io/topic?id=36243",
-      "https://news.hada.io/topic?id=36244",
-      "https://news.hada.io/topic?id=36245",
       "https://news.hada.io/topic?id=36252",
       "https://news.hada.io/topic?id=36253",
       "https://news.hada.io/topic?id=36254",
@@ -200,7 +195,12 @@
       "https://news.hada.io/topic?id=36841",
       "https://news.hada.io/topic?id=36842",
       "https://news.hada.io/topic?id=36843",
-      "https://news.hada.io/topic?id=36845"
+      "https://news.hada.io/topic?id=36845",
+      "https://news.hada.io/topic?id=36858",
+      "https://news.hada.io/topic?id=36862",
+      "https://news.hada.io/topic?id=36864",
+      "https://news.hada.io/topic?id=36865",
+      "https://news.hada.io/topic?id=36867"
     ],
     "https://hnrss.org/frontpage?points=100": [
       "https://news.ycombinator.com/item?id=50287919",
@@ -701,7 +701,8 @@
       "https://d2.naver.com/helloworld/7134499",
       "https://d2.naver.com/helloworld/7770448",
       "https://d2.naver.com/helloworld/5037598",
-      "https://d2.naver.com/helloworld/0627744"
+      "https://d2.naver.com/helloworld/0627744",
+      "https://d2.naver.com/helloworld/4293206"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1468,7 +1469,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1mTWkyc1lHVFM0bkxrTXRGanJCSFdJOVFHWER3QW41NTN3WjlaZGtPRFdkUXNZZTFEVjdYWHphVHFjYzFKeXNzb3psdjBTVEYzZVBod19IcHU2UQ",
       "CBMiWkFVX3lxTE1yQ2gyX0hNVVJpREE5REdzZnhuOXdxRm5Nemh1NlJSZDF2VWdwQkY2dGFUb3Q2Um95XzFrSmJ4Mk1tVkR6MWFKeTBvV2JBbTB5RERFbTJYUGpWZw",
       "CBMiWkFVX3lxTE1aR2dmdUZBbi1lRmxBRlk3T3FBRU5najVhWDJJS0NRcGVnbUV1b2tYNndrdDFFNGU3RE11Y01CTTR4eGRod1dtZGRCd3N5V0IwZ3psUXd2TGlJUQ",
       "CBMiWkFVX3lxTE5HTk1wQWN0S0xHMlh3OTZwOVFoVnRhcDUwcjZUSFFocTVaQjZOaW8yZlZiVmtvb2NCWlN0b3JPNGwyY1JXQ1pjbnhvb0V0dHZZTXZWMEY0Wl8tUQ",
@@ -1667,7 +1667,8 @@
       "CBMiWkFVX3lxTE5SLWMzQW1vel9PX1FydFkzZVA3UWRKbE5zcDBsV1hBNTlaTUdCdDBWQ3VNY1o5WGZ2VG9OeldOYnB3VG56OFpCWmVIWHF4VzNpeUVJbnNZWjYtZw",
       "CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ",
       "CBMiWkFVX3lxTFA5dUdjT0xzZERGYkhnUVVPLU5FODlRb21XMmN0Ml9ucURkcy1kb1RjRGFJUFpjWUF4eE8wTmR1cDIyUDRwOTNQb3BmZVp4emlGNE9UVDBfaFlwUQ",
-      "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw"
+      "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw",
+      "CBMiWkFVX3lxTE4xMkRDaEtFTlo1T3BRTWxJZlpfc3drcGRyWWVRTkVta3pHMTh2MUM5S3pzSlp0U01NeXFYX3ljRnl6LXdDWWs1RG5CTENqZXQzbndvS0lZR2tCdw"
     ]
   },
   "pending": {
@@ -2385,6 +2386,18 @@
         "title": "뱅크샐러드 '저금리 대출 대리조회' 금융위 혁신금융서비스 지정",
         "link": "https://corp.banksalad.com/blog/news/bs1501/",
         "summary": "- 고객 대신 대출 가심사 신청하고 결과 안내…더 유리한 금리·한도 탐색 지원- 마이데이터 기반 대출 AI 에이전트 고도화…중·저신용자 금리 단층 완화 기대 뱅크샐러드(대표 김태훈)는 ‘저금리 대출 대리조회’ 서비스가 금융위원회 혁신금융서비스로 지정됐다고 밝혔다. 금융위원회는 지난 2…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "로그인 화면, 이제 만들지 마세요 - n3r OIDC",
+        "link": "https://d2.naver.com/helloworld/4293206",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 로그인 화면, 이제 만들지 마세요 - n3r OIDC NAVER D2 | 로그인 화면, 이제 만들지 마세요 - n3r OIDC naver.me ​ 발표 내용 n3r.iam을 OIDC Provider로 확장해 어떤 서비스에든 'n3r 계정으로 로그인'을 붙이는 방법을 소개하고, n3r의 프로젝트·역할 정보를 표준 토큰에 담아낸 설계 결정을 공유합니다. ​ <참고> 영상속 사내용어…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "깃허브 스타 42만 개 REA로 노션형 블록 에디터 구현해봤다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xMkRDaEtFTlo1T3BRTWxJZlpfc3drcGRyWWVRTkVta3pHMTh2MUM5S3pzSlp0U01NeXFYX3ljRnl6LXdDWWs1RG5CTENqZXQzbndvS0lZR2tCdw?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
