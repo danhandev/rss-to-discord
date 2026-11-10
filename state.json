@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36301",
-      "https://news.hada.io/topic?id=36302",
-      "https://news.hada.io/topic?id=36303",
-      "https://news.hada.io/topic?id=36304",
-      "https://news.hada.io/topic?id=36306",
       "https://news.hada.io/topic?id=36310",
       "https://news.hada.io/topic?id=36311",
       "https://news.hada.io/topic?id=36312",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36908",
       "https://news.hada.io/topic?id=36909",
       "https://news.hada.io/topic?id=36910",
-      "https://news.hada.io/topic?id=36911"
+      "https://news.hada.io/topic?id=36911",
+      "https://news.hada.io/topic?id=36924",
+      "https://news.hada.io/topic?id=36925",
+      "https://news.hada.io/topic?id=36928",
+      "https://news.hada.io/topic?id=36929",
+      "https://news.hada.io/topic?id=36930"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50294506",
-      "https://news.ycombinator.com/item?id=50297089",
-      "https://news.ycombinator.com/item?id=50298436",
-      "https://news.ycombinator.com/item?id=50298964",
-      "https://news.ycombinator.com/item?id=50300683",
       "https://news.ycombinator.com/item?id=50301854",
       "https://news.ycombinator.com/item?id=50302814",
       "https://news.ycombinator.com/item?id=50303172",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50430621",
       "https://news.ycombinator.com/item?id=50431058",
       "https://news.ycombinator.com/item?id=50431144",
-      "https://news.ycombinator.com/item?id=50432831"
+      "https://news.ycombinator.com/item?id=50432831",
+      "https://news.ycombinator.com/item?id=50429068",
+      "https://news.ycombinator.com/item?id=50429426",
+      "https://news.ycombinator.com/item?id=50429430",
+      "https://news.ycombinator.com/item?id=50429734",
+      "https://news.ycombinator.com/item?id=50433659"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -662,7 +662,8 @@
       "https://corp.banksalad.com/blog/news/bs1503/",
       "https://corp.banksalad.com/blog/news/bs1501/",
       "https://corp.banksalad.com/blog/tech/banksalad-ax-workflow-automation/",
-      "https://corp.banksalad.com/blog/culture/bfs-interview-1/"
+      "https://corp.banksalad.com/blog/culture/bfs-interview-1/",
+      "https://corp.banksalad.com/blog/culture/bfs-ai-native-sales/"
     ],
     "https://d2.naver.com/d2.atom": [
       "https://d2.naver.com/helloworld/4372269",
@@ -705,7 +706,8 @@
       "https://d2.naver.com/helloworld/7770448",
       "https://d2.naver.com/helloworld/5037598",
       "https://d2.naver.com/helloworld/0627744",
-      "https://d2.naver.com/helloworld/4293206"
+      "https://d2.naver.com/helloworld/4293206",
+      "https://d2.naver.com/helloworld/8644274"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1473,8 +1475,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1aR2dmdUZBbi1lRmxBRlk3T3FBRU5najVhWDJJS0NRcGVnbUV1b2tYNndrdDFFNGU3RE11Y01CTTR4eGRod1dtZGRCd3N5V0IwZ3psUXd2TGlJUQ",
-      "CBMiWkFVX3lxTE5HTk1wQWN0S0xHMlh3OTZwOVFoVnRhcDUwcjZUSFFocTVaQjZOaW8yZlZiVmtvb2NCWlN0b3JPNGwyY1JXQ1pjbnhvb0V0dHZZTXZWMEY0Wl8tUQ",
       "CBMiWkFVX3lxTE4wQUNnT25WNEtHTlY5SzVwaDB0MldodWsxRHBRdWJGUGUtSl9nODJwU1FSVUM1VE1iU3FraXNZWDJzcXZzZzZWWWpFZElkMGJEQUV6Ml9BUEJYdw",
       "CBMiWkFVX3lxTE0zZzc5RE5JNkhOWFFUMmZpY2VhYUl1TERCbGNCajREMWFxcTZnWXlpa1dLem51ZzVFb1h1bGc5OHJrcS1QcHdfbjBiV2RHajhEYkdHMFpWOXJPQQ",
       "CBMiWkFVX3lxTE5WM0RVbnB4Z2dUaVNWVnk2Yzk3aGRJdmpDVDhkQmxISlpBREdEWWRIWW1XeURLTVhCbWFHQXFYV3RsR0NhSndYMnk0c2RZSDZJM3hVaDBFdWVXZw",
@@ -1672,7 +1672,9 @@
       "CBMiWkFVX3lxTFA5dUdjT0xzZERGYkhnUVVPLU5FODlRb21XMmN0Ml9ucURkcy1kb1RjRGFJUFpjWUF4eE8wTmR1cDIyUDRwOTNQb3BmZVp4emlGNE9UVDBfaFlwUQ",
       "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw",
       "CBMiWkFVX3lxTE4xMkRDaEtFTlo1T3BRTWxJZlpfc3drcGRyWWVRTkVta3pHMTh2MUM5S3pzSlp0U01NeXFYX3ljRnl6LXdDWWs1RG5CTENqZXQzbndvS0lZR2tCdw",
-      "CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ"
+      "CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ",
+      "CBMiWkFVX3lxTFAzRjVyQUdiRG56SGE2dzFOZXNWd0MyYkFvQzZSSk5LNnZkajZrY3A0WnozMzVjdHVwQjlQUmFMSDZ3cHFWLVFVLWpqN3VVa0NwR2JydnNCTmgwUQ",
+      "CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ"
     ]
   },
   "pending": {
@@ -1694,6 +1696,30 @@
         "title": "경력 없이 시작해 정규직 2개월 만에 연봉 8천만원, \"다음 목표는 1억\"",
         "link": "https://corp.banksalad.com/blog/culture/bfs-interview-1/",
         "summary": "보험 지식도, 상담 경력도 없던 조남주 님은 정규직 전환 2개월 만에 실적 1위에 올랐습니다. 그달 받은 보상은 연봉으로 환산하면 8,000만 원 수준입니다. 뱅크샐러드금융서비스의 금융 솔루션 전문가 이야기입니다. 처음엔 누구보다 보험 영업이 두려웠던 남주님, 어떻게 두 달 만에 여기…"
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "AI가 바꾼 보험 영업의 방식, AI-Native Sales",
+        "link": "https://corp.banksalad.com/blog/culture/bfs-ai-native-sales/",
+        "summary": "‘보험 영업’이라고 하면 흔히 상상하는 장면이 있습니다. 말을 잘하고, 낯을 가리지 않고, 지인에게도 자연스럽게 상품 얘기를 꺼내는 사람. 연락처에 저장된 이름의 수가 실력이 되는 일. 하지만 뱅크샐러드금융서비스의 보험 영업은 완전히 다릅니다. 오늘 누구에게 연락할지 고민하지 않아…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "우리 팀만의 스펙 주도 개발 정착기",
+        "link": "https://d2.naver.com/helloworld/8644274",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 우리 팀만의 스펙 주도 개발 정착기 NAVER D2 | 우리 팀만의 스펙 주도 개발 정착기 naver.me ​ 발표 내용 스펙 주도 개발(SDD)을 팀 내 개발 정책으로 채택한 배경과 시행착오에 대해 소개합니다. ​ 발표 대상 스펙 주도 개발 도입을 고민중인 개발자 ​ 목차 배경 - SDD를 도입하게 된 이유 우리 팀이 채택한 SDD의 구조 팀 SDD 정책을 세우며 마주친 고민…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "엔지니어의 취향은 무기다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRjVyQUdiRG56SGE2dzFOZXNWd0MyYkFvQzZSSk5LNnZkajZrY3A0WnozMzVjdHVwQjlQUmFMSDZ3cHFWLVFVLWpqN3VVa0NwR2JydnNCTmgwUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "비개발 직군에 AI 가드레일 배포할 때 주의할 5가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
