@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36324",
-      "https://news.hada.io/topic?id=36325",
-      "https://news.hada.io/topic?id=36326",
-      "https://news.hada.io/topic?id=36327",
-      "https://news.hada.io/topic?id=36328",
       "https://news.hada.io/topic?id=36344",
       "https://news.hada.io/topic?id=36345",
       "https://news.hada.io/topic?id=36346",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=36960",
       "https://news.hada.io/topic?id=36961",
       "https://news.hada.io/topic?id=36962",
-      "https://news.hada.io/topic?id=36963"
+      "https://news.hada.io/topic?id=36963",
+      "https://news.hada.io/topic?id=36970",
+      "https://news.hada.io/topic?id=36971",
+      "https://news.hada.io/topic?id=36972",
+      "https://news.hada.io/topic?id=36973",
+      "https://news.hada.io/topic?id=36975"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50308697",
-      "https://news.ycombinator.com/item?id=50309029",
-      "https://news.ycombinator.com/item?id=50309647",
-      "https://news.ycombinator.com/item?id=50310687",
-      "https://news.ycombinator.com/item?id=50309266",
       "https://news.ycombinator.com/item?id=50309314",
       "https://news.ycombinator.com/item?id=50310398",
       "https://news.ycombinator.com/item?id=50311686",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50443716",
       "https://news.ycombinator.com/item?id=50443812",
       "https://news.ycombinator.com/item?id=50443824",
-      "https://news.ycombinator.com/item?id=50445401"
+      "https://news.ycombinator.com/item?id=50445401",
+      "https://news.ycombinator.com/item?id=50443090",
+      "https://news.ycombinator.com/item?id=50444129",
+      "https://news.ycombinator.com/item?id=50445013",
+      "https://news.ycombinator.com/item?id=50446246",
+      "https://news.ycombinator.com/item?id=50447074"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -710,7 +710,8 @@
       "https://d2.naver.com/helloworld/0627744",
       "https://d2.naver.com/helloworld/4293206",
       "https://d2.naver.com/helloworld/8644274",
-      "https://d2.naver.com/helloworld/8562180"
+      "https://d2.naver.com/helloworld/8562180",
+      "https://d2.naver.com/helloworld/3517874"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1741,6 +1742,12 @@
         "title": "'토큰 맥싱'의 시대는 끝났다: 메타·아마존·우버의 선택",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0waXBhNFM1c3RSanh6eGZXcG9NbC1ueW4tT25fcXhGZWR0YnAzLWdTTjdrREZ3YzdodDFCUGN1NHR0U1pFWThSR2tOTmZnNHlTblRlVDNlVHM3UQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Socket.IO 서버를 여러 Pod에서 운영하기",
+        "link": "https://d2.naver.com/helloworld/3517874",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ Socket.IO 서버를 여러 Pod에서 운영하기 NAVER D2 | Socket.IO 서버를 여러 Pod에서 운영하기 naver.me ​ 발표 내용 Socket.IO와 n3r 기반의 소켓 서버를 자체 구축하면서, 여러 Pod 사이의 이벤트 전달과 안정적인 연결 유지를 위한 설계와 검증 과정, 운영 경험을 정리해 공유합니다. ​ <참고> 영상속 사내용어 n3r = 네이버 사내…"
       }
     ],
     "weekly-finance": []
