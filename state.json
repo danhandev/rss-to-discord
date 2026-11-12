@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36381",
-      "https://news.hada.io/topic?id=36383",
-      "https://news.hada.io/topic?id=36384",
-      "https://news.hada.io/topic?id=36385",
-      "https://news.hada.io/topic?id=36386",
       "https://news.hada.io/topic?id=36393",
       "https://news.hada.io/topic?id=36394",
       "https://news.hada.io/topic?id=36395",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37020",
       "https://news.hada.io/topic?id=37024",
       "https://news.hada.io/topic?id=37025",
-      "https://news.hada.io/topic?id=37027"
+      "https://news.hada.io/topic?id=37027",
+      "https://news.hada.io/topic?id=37040",
+      "https://news.hada.io/topic?id=37045",
+      "https://news.hada.io/topic?id=37046",
+      "https://news.hada.io/topic?id=37047",
+      "https://news.hada.io/topic?id=37048"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50316100",
-      "https://news.ycombinator.com/item?id=50318871",
-      "https://news.ycombinator.com/item?id=50319143",
-      "https://news.ycombinator.com/item?id=50319510",
-      "https://news.ycombinator.com/item?id=50318720",
       "https://news.ycombinator.com/item?id=50319358",
       "https://news.ycombinator.com/item?id=50320963",
       "https://news.ycombinator.com/item?id=50320995",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50459321",
       "https://news.ycombinator.com/item?id=50459485",
       "https://news.ycombinator.com/item?id=50459703",
-      "https://news.ycombinator.com/item?id=50459745"
+      "https://news.ycombinator.com/item?id=50459745",
+      "https://news.ycombinator.com/item?id=50456791",
+      "https://news.ycombinator.com/item?id=50457618",
+      "https://news.ycombinator.com/item?id=50458208",
+      "https://news.ycombinator.com/item?id=50460154",
+      "https://news.ycombinator.com/item?id=50462177"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -665,7 +665,8 @@
       "https://corp.banksalad.com/blog/news/bs1501/",
       "https://corp.banksalad.com/blog/tech/banksalad-ax-workflow-automation/",
       "https://corp.banksalad.com/blog/culture/bfs-interview-1/",
-      "https://corp.banksalad.com/blog/culture/bfs-ai-native-sales/"
+      "https://corp.banksalad.com/blog/culture/bfs-ai-native-sales/",
+      "https://corp.banksalad.com/blog/news/bs1504/"
     ],
     "https://d2.naver.com/d2.atom": [
       "https://d2.naver.com/helloworld/4372269",
@@ -1482,21 +1483,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE9uejRxVm81bFp1eWZCZjUyaVVFaHRZdUw0NU05bVhlOXlPUmp1akdyNVllNTJXb0ZFMTlwdVJrbjdKSUZSb0JmZEZ6NXlmVzd3MVI4a0c5OTZWUQ",
-      "CBMiWkFVX3lxTFBlZ1hjNDhFLWRDNHkyLWk3VU1aSlBYRGU3NHRuS2pxUVhqTEVUem1Vd1I4alBYUUFUajJ6NVVyWTZkNms5OEQ3cVcwQmc3UE9IdjNlY0hJSy1sdw",
-      "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw",
-      "CBMiWkFVX3lxTFBER2FNek4xYmxqc2tpaFZ2ZjhOemtfZXA3LUFLMUNMV05GMU9qRUZyWW1lc1p6ajljeFdnczQxYWJkeXpzTFRHMnVOcmRMZU1NdHBCZHRvdjJaQQ",
-      "CBMiWkFVX3lxTE9NRXJlS0kwZDVXSzR4UnJURXB3ZjBtZUpZWEtKdWRyNks5a2hLOC16VEl6bmtXbFMyZnJSM21VNlZReGphcnV0OGx2QWRjb1l2aldEMnk3V1dmZw",
-      "CBMiWkFVX3lxTE5tLW94N24xTlZLVWwxaF9UVUFBTmtzVmNFSUdUS2pmTTlhck5sSG0wUzdIWjdDQndMQnF5NmlvV2pkZTBDRjJWcU0tSHBsMmpnMjREUllNeXp0QQ",
-      "CBMiWkFVX3lxTE5TUzg5T196djBqcFFhaC1NRHZUYm5fVWhhYTdaVV9YZXpVOFhqVklfNHhpMWNmTzg2cGlPNjM1anJ1MmxDTFNLeHppV3puZlExb2lJY1JqQ1lsQQ",
-      "CBMiWkFVX3lxTFAyS1AxUlNyMUZCUW8xVXFuQXkwdDVuR1NFeVpCaTNwd2E2c3dLUGlpZDJGQzNhSXJsLS1wa0JMWWdIV01VZEJxNlVYb0xfVVlFSzRza0hMYVd5QQ",
-      "CBMiWkFVX3lxTE5OMFZRYnJyZGpYR3B4OGNoaTlxTjFJa25sbVMxTmtvSFgwUzlvaGJHa1VMXy1selBZZGpsLVpFR0h4Z3JEOThZc25pUmhNcDNzaUpNZXJkcHRKQQ",
-      "CBMiWkFVX3lxTE9EdkJkdUtKVXZSVHowZzFCaGFVVkUxUzY4MlNhbkpRUUljUHV2SWdnSElHRDdIOTY2ZWItZnpKaTNwUzY5bWNfTXVaaXN6S1UzaWtSYlNULVFBQQ",
-      "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
-      "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
-      "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
-      "CBMiWkFVX3lxTE5lcm9jV25jZ0NxbmpTbkVTaFZBTXdIbC1IanVPRFdFa3NYcE8wdU5FWC1ZU2lPVlhfZHZZSEcwd0xENmVFNzJ4aElPZnBSaDlTdVJQcFZkdGxHUQ",
-      "CBMiWkFVX3lxTFBmX3g2NUMxaFdGQTU2cDVaSHpTWTlKSE5DN1gxR3B3X3luTDJaVUl6aEJiRUpZYmo4dUlPakpFemxOb2o5aGdfTWE3RmRPMkN6Mi13R3Q3RWtOUQ",
       "CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ",
       "CBMiWkFVX3lxTFA3UGQ1b0NaLXM1YmtFYTdGWUZIVFh4el9UX1VTN0txN0FBNTUxMjdlcHZvUm5FRHVWX3lydkVKWkF0enVWX1RRVWRuNXY2RGkydnE3YzhiNUZBdw",
       "CBMiWkFVX3lxTE9KdHhESkM5YVdEeXNQNHVGeEVlbjRQNnJINkpjb0ZHc3lEbHpteE1FX19pRW51U3dvdUNCR21BWEg2OHJDLXdnMzlHelBUSzVKRnBfelFYMmtiQQ",
@@ -1681,7 +1667,22 @@
       "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
       "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
       "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
-      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ"
+      "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
+      "CBMiWkFVX3lxTE0tMG1lN2JueEtTblhFaXgyeXhRSjFQLUxoQUhWVUtScW1BVUVlSVlwWk1mU3Fob0dRM1Rhd2xzOGEwVWN3ampDVlh1UlFJSWhhN2ZnX2FDeEd5QQ",
+      "CBMiWkFVX3lxTE9fSUppUkFvandZb2JOMnluS2gwSy0xR0t4eGoyRjY0Sm9vaDlKVjV0ZFl2djJVaGNtNmpwSUs4ODNmYTBwOVRfV1ltNXE0MUU3VUtPX0N6VVlJUQ",
+      "CBMiWkFVX3lxTE1hdU5McW11bWhIbmNzRUdyVkc5eEtrX2lnSFdjcTM0M3d4M1RJOGtyZm9hd3MxVDIwU2E3UHFkd2c2ZXd1d3pPa1Z4eWFrbXU3MGJXN213N2U4QQ",
+      "CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ",
+      "CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw",
+      "CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ",
+      "CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw",
+      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ",
+      "CBMiWkFVX3lxTE93U0VxdXAzYk8xS3REWnhhNEtjVU9weXNSYkxlWmgxT01TOFVwbjI1YUJRMEFHQ3dfdFctTTdqemh3MG14Q0VlUXBVMEtkUzMwMmc3VmZJYVFvZw",
+      "CBMiWkFVX3lxTE51OEdHU1dza3ZMUEZvSzZ2dzFSRXM2TkxCTTQtR1cwZTU0QV9DVVFRZmNTdkotZ05ldE9FMXczc0RqNnozT2hmUkczYmVCYnhOdDJnUXpJT1pMQQ",
+      "CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw",
+      "CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw",
+      "CBMiWkFVX3lxTE1UMDNScmRIUmI4N2Rpd2V0TFc5Y0Vmbm1KR2VQSDJvXzduRjZKZlIzZzNfZlBZak93emUzeElubTJYLUhjTjZ6QUdiVjFJX1NoWlBaYU1zV20wUQ",
+      "CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ",
+      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw"
     ]
   },
   "pending": {
@@ -1978,6 +1979,102 @@
         "source": "요즘IT",
         "title": "IT 기획 이야기들",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "뱅크샐러드",
+        "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+        "link": "https://corp.banksalad.com/blog/news/bs1504/",
+        "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 반드시 알아야 할 AI 제품 디자인 플레이북",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMG1lN2JueEtTblhFaXgyeXhRSjFQLUxoQUhWVUtScW1BVUVlSVlwWk1mU3Fob0dRM1Rhd2xzOGEwVWN3ampDVlh1UlFJSWhhN2ZnX2FDeEd5QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "진짜 쉽게 이해하는 작은 기업의 온라인 마케팅 5종류",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fSUppUkFvandZb2JOMnluS2gwSy0xR0t4eGoyRjY0Sm9vaDlKVjV0ZFl2djJVaGNtNmpwSUs4ODNmYTBwOVRfV1ltNXE0MUU3VUtPX0N6VVlJUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "디자이너와 개발자가 효율적으로 소통하기 위한 툴은?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hdU5McW11bWhIbmNzRUdyVkc5eEtrX2lnSFdjcTM0M3d4M1RJOGtyZm9hd3MxVDIwU2E3UHFkd2c2ZXd1d3pPa1Z4eWFrbXU3MGJXN213N2U4QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "올해도 10초 매진 각, FEConf 누가 만드나?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘 SI 기업은 어떤 생각을 하고 있을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 진짜 쓸 만한 AI 에이전트 10가지 총정리(1) : 웹·코딩 에이전트",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "p값? 신뢰구간? AB 테스트를 완성하는 통계 분석, 기본 개념 잡기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘IT 독자는 어떤 사람들일까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93U0VxdXAzYk8xS3REWnhhNEtjVU9weXNSYkxlWmgxT01TOFVwbjI1YUJRMEFHQ3dfdFctTTdqemh3MG14Q0VlUXBVMEtkUzMwMmc3VmZJYVFvZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자를 위한 Claude Code 토큰 사용량 최적화 전략",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OEdHU1dza3ZMUEZvSzZ2dzFSRXM2TkxCTTQtR1cwZTU0QV9DVVFRZmNTdkotZ05ldE9FMXczc0RqNnozT2hmUkczYmVCYnhOdDJnUXpJT1pMQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "SI회사 홈페이지에서 SI가 사라지는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "정말로 지금은 Codex가 Claude Code보다 나을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹 개발자라면 알고 있어야 할 HTTP의 진화 과정",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMDNScmRIUmI4N2Rpd2V0TFc5Y0Vmbm1KR2VQSDJvXzduRjZKZlIzZzNfZlBZak93emUzeElubTJYLUhjTjZ6QUdiVjFJX1NoWlBaYU1zV20wUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 직무 사전: ‘테크니컬 라이터’는 하루 종일 글만 쓰나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "페이블, 앤트로픽 엔지니어가 알려주는 활용 가이드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw?oc=5",
         "summary": ""
       }
     ],
