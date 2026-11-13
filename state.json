@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36426",
-      "https://news.hada.io/topic?id=36427",
-      "https://news.hada.io/topic?id=36428",
-      "https://news.hada.io/topic?id=36429",
-      "https://news.hada.io/topic?id=36430",
       "https://news.hada.io/topic?id=36458",
       "https://news.hada.io/topic?id=36459",
       "https://news.hada.io/topic?id=36460",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37104",
       "https://news.hada.io/topic?id=37105",
       "https://news.hada.io/topic?id=37106",
-      "https://news.hada.io/topic?id=37108"
+      "https://news.hada.io/topic?id=37108",
+      "https://news.hada.io/topic?id=37118",
+      "https://news.hada.io/topic?id=37119",
+      "https://news.hada.io/topic?id=37120",
+      "https://news.hada.io/topic?id=37121",
+      "https://news.hada.io/topic?id=37122"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50327266",
-      "https://news.ycombinator.com/item?id=50327650",
-      "https://news.ycombinator.com/item?id=50328251",
-      "https://news.ycombinator.com/item?id=50325253",
-      "https://news.ycombinator.com/item?id=50325454",
       "https://news.ycombinator.com/item?id=50325694",
       "https://news.ycombinator.com/item?id=50328896",
       "https://news.ycombinator.com/item?id=50331402",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50478609",
       "https://news.ycombinator.com/item?id=50479098",
       "https://news.ycombinator.com/item?id=50481187",
-      "https://news.ycombinator.com/item?id=50481220"
+      "https://news.ycombinator.com/item?id=50481220",
+      "https://news.ycombinator.com/item?id=50483611",
+      "https://news.ycombinator.com/item?id=50484235",
+      "https://news.ycombinator.com/item?id=50485295",
+      "https://news.ycombinator.com/item?id=50486482",
+      "https://news.ycombinator.com/item?id=50486748"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1326,7 +1326,8 @@
       "CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA",
       "CBMiTEFVX3lxTFAxVlpKQVpPeWxNYW1MSTl1d2VJY21ycnlCUkpOZXRyaGs5ckM3ZTNTUGZaRkdUV0wtRW9kREZsWHp1a2xZMEhqRUxsdjI",
       "CBMiTEFVX3lxTE1GX0V3aWVrbmRPQ2txZ1RmQWlZU0IzSkRyLXdWek1kUkVCaVRMWmJycVBESVEtaHlSYk9TRU9jaktJSzRmWTBWRU5FVDE",
-      "CBMioAFBVV95cUxOUEJPMVdLZ1pqUXpCbGNqamdCMFViWmNPVVVJeDl6RjRkOFNOV2hMWGg3akE2eXRabTlfUkhiMVdwcDZNVW01U25aQTNyRmgzeUtHdDU1QWVwZE5EOFlJY0J2c2NWRUt3aFVMbGktVU9xZnZ2ZFdGTG9nVUdzSTlrbTRtQXEwTml2TmZCVlJDRXBRbXVoMGpJXzltaWUxOHh4"
+      "CBMioAFBVV95cUxOUEJPMVdLZ1pqUXpCbGNqamdCMFViWmNPVVVJeDl6RjRkOFNOV2hMWGg3akE2eXRabTlfUkhiMVdwcDZNVW01U25aQTNyRmgzeUtHdDU1QWVwZE5EOFlJY0J2c2NWRUt3aFVMbGktVU9xZnZ2ZFdGTG9nVUdzSTlrbTRtQXEwTml2TmZCVlJDRXBRbXVoMGpJXzltaWUxOHh4",
+      "CBMiTEFVX3lxTE1jTW1jWWszeVd4MWlSTEFqZy1DWjNDV0tXdTVSeEthdWZEYlFDQ0J4SWxUb3FvWGdLQUF5LTk1dUVrNDdUWmV5LWxHRWc"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1486,9 +1487,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
-      "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
-      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ",
       "CBMiWkFVX3lxTFBpX0dvelpSaTZUTUJaZDZVUW94dnJPeFF4TFRMZ284bWdRY0M0ZmNqXzhyV0E1LWdFRDNudURhYi1mdEg4akF5ck80Q2hIR1NGc0lsa2ZiU2Y2UQ",
       "CBMiWEFVX3lxTE1uM2ZyVG5TdldEYjFfWk1iSWJZUE9Yc1djNkd4Mlp6c3d2U1kycVhoaFNheTVzS3ZjSlZnV05kVkFpV0FTY1h6VkxIUHI1a0dFcnpnOHNya3Y",
       "CBMiWkFVX3lxTE5iVlpJVkhiRUhpQ3R6RHZwRkh4VlNoUEZEd2k4RXZOMGZDcy10eWNFU29DY2o2TzhjTnEyUlJqMG5saF9ST1A4bkJFUWkyX2RwVUxHSFh4RGtLdw",
@@ -1685,7 +1683,10 @@
       "CBMidkFVX3lxTE5NbEFESXN4R2dOT29Ub00wVUk5ME8tRUZPdEd3V2lnQjRkbVhyemJ0OWtMS1E4ZENBcF92M0RnczJpSXllWGI3OWVJdzJPWW9JR0dOeTFwa0UwZDl5N3JpUktDOElSVy1wWjJXSzhIVnJRejJHOUE",
       "CBMidkFVX3lxTE5KUzlZakQwN3N1dDBwWnlqVW5TejBPY2ZhN0dDdkZHQUZUUUpURmh4U0lZelFZUlVSZ1FzcnlxSEFrbkNfanNkaXhtSFlYVU5EZ2J3RzBaNlhsd053Q2tUcHlRWXlLMndqV2UxSWM2QTdZVS1yZVE",
       "CBMidkFVX3lxTE1RcHRkZnMtOW1rTzlqdXFzT0l5bmktOVdXMzFIeFJiX0VwYUItcE8ybnFsLVBWSGJ5NFptaEdPY3Z5S2d4cElwQWVsU1BTNjg0OU1fRU0tNmtnNDNiaHY1ZlFMZWsyZFlOMkJSLU1kRmhPOG85elE",
-      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ"
+      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ",
+      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw",
+      "CBMiWkFVX3lxTE5HQm1vaG9ob1RTV0hXRlhvNzlOcWpYbEk4aWsxUTlldVNyVnpEdTRreFkzcS1qOVE3NjNvQzJpenZXOUdoa2N4WENia3A0WTlCZUNqUVFBajRsQQ",
+      "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw"
     ]
   },
   "pending": {
@@ -2396,6 +2397,30 @@
         "source": "요즘IT",
         "title": "요즘 글로벌 빅테크는 왜 데이터 시각화 전문가를 채용할까?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "Spring Statemachine 도입기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jTW1jWWszeVd4MWlSTEFqZy1DWjNDV0tXdTVSeEthdWZEYlFDQ0J4SWxUb3FvWGdLQUF5LTk1dUVrNDdUWmV5LWxHRWc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "담당자 퇴사하면 업무 못 하는 회사를 위한 AX는?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "커머스에서 ‘신뢰도’를 주기 위한 방법들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQm1vaG9ob1RTV0hXRlhvNzlOcWpYbEk4aWsxUTlldVNyVnpEdTRreFkzcS1qOVE3NjNvQzJpenZXOUdoa2N4WENia3A0WTlCZUNqUVFBajRsQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "\"AI 도입하고 싶다\" 한마디가 8억 견적서 되는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw?oc=5",
         "summary": ""
       }
     ],
