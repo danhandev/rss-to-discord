@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36431",
-      "https://news.hada.io/topic?id=36433",
-      "https://news.hada.io/topic?id=36434",
-      "https://news.hada.io/topic?id=36436",
-      "https://news.hada.io/topic?id=36440",
       "https://news.hada.io/topic?id=36426",
       "https://news.hada.io/topic?id=36427",
       "https://news.hada.io/topic?id=36428",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37084",
       "https://news.hada.io/topic?id=37085",
       "https://news.hada.io/topic?id=37088",
-      "https://news.hada.io/topic?id=37089"
+      "https://news.hada.io/topic?id=37089",
+      "https://news.hada.io/topic?id=37102",
+      "https://news.hada.io/topic?id=37104",
+      "https://news.hada.io/topic?id=37105",
+      "https://news.hada.io/topic?id=37106",
+      "https://news.hada.io/topic?id=37108"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50326099",
-      "https://news.ycombinator.com/item?id=50326118",
-      "https://news.ycombinator.com/item?id=50326821",
-      "https://news.ycombinator.com/item?id=50326609",
-      "https://news.ycombinator.com/item?id=50327058",
       "https://news.ycombinator.com/item?id=50327266",
       "https://news.ycombinator.com/item?id=50327650",
       "https://news.ycombinator.com/item?id=50328251",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50472490",
       "https://news.ycombinator.com/item?id=50474311",
       "https://news.ycombinator.com/item?id=50474361",
-      "https://news.ycombinator.com/item?id=50474883"
+      "https://news.ycombinator.com/item?id=50474883",
+      "https://news.ycombinator.com/item?id=50478515",
+      "https://news.ycombinator.com/item?id=50478609",
+      "https://news.ycombinator.com/item?id=50479098",
+      "https://news.ycombinator.com/item?id=50481187",
+      "https://news.ycombinator.com/item?id=50481220"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1486,42 +1486,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1jNG1WSkV2eWNLbHBwTkdfdTUwRldNdXVLRlg1eWhFTkpocmw5MmZQOWVzZTN5eUdjb3BOa09jYkd4VV9NV3BUNlZDUHNzVlhhN1VfLTBwUnF4Zw",
-      "CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ",
-      "CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ",
-      "CBMiWkFVX3lxTE5wNWtWM1NKQVg4cTNmU1QwTGRIZWlJMVB5d3lYYTNNa3d0TjlzeUlzTVJvUU81SHNMWWRmTzdSbW5SYVpSNlpJUzhpYTRzY25PNHJOazlyVXhSZw",
-      "CBMiWEFVX3lxTE9LTW5mT2U5LTYyVzg0dWhWMUZKWWNidWlNd2JJSGprN3FaWVE2aUZVbTNwN0ZBVVBTMG53TXg2TkdEMHZrWXhxcnJYSzZUdEJFbk9TYUZNbG4",
-      "CBMiWEFVX3lxTE41bTFMakJxMVZjaEFTRllJcUVKYWIxQ0ZVMDJ5ell1b1FGNlB3a1VBZGFUek9ncVZreWNjNGRGLVg3VHhORnBvTlE4VXd4Y0NMWTktUEJhMjE",
-      "CBMiWkFVX3lxTE1UaWJJeDduYnhFNXZpd1BXUHRacHVXU3Ayc3BQenBBX2N1TlpndHdJRlhIMWFVeE83cmdQN3EwcWp5bExmVF9yeEZYSkxLU2tWU3ZqV2h3d3gxZw",
-      "CBMiWkFVX3lxTE05TlR0QjFWM0xCMzluY2xlMkZBRjNxWmloYkFtZ0hpQUY1MW10X2JRSmZta0ZSMjRoUFBuNFYzQUpoYmpoT1l2bUNoTncwUjN6Z2t0WjdOcEM2Zw",
-      "CBMiWkFVX3lxTFBEYTVPV2hzUmFjcnQzTU5yWU92NFpuRk1vMkVlTlp0a2RXLV8yNHBOU3U3RlZwZ1V6N2ZPZGpyNHVUWVlvUEhUbVVFd1hnZ1hmaFd0MkhUajljdw",
-      "CBMiWkFVX3lxTE9Hdzk4ZHFMalY3R3VyNDMtNmdBeFNnQVBwRmQzYnpqT0hnWTVQM095YWI2VUlXa1RhTjZGQUpFTWYwOVQ1X2ZhbWJnUHNlb0FqZmVRRXY3ZlpDZw",
-      "CBMiWkFVX3lxTE9MZFhHLWh0eU1kZHVRMFNvMnNPRnlzWXM2YVBkd1cydjVfc01Td0RJbWZwOUhsRjk1NGJuRXI4N0NZNTJYNGREODhrcklJTU1IamNsLVk3TW9Rdw",
-      "CBMiWkFVX3lxTFA3REtaNEtvNU5CRTV0bV9vZ3RtRlFISXltYWp2YVF2SGtRVTZ5T3F4OTJyd2tmQVZzOWtRa2lqUGxUY2UwTlQxb0FNaU9XN2wzTXNjU3pCLXNPUQ",
-      "CBMiWkFVX3lxTFBycnlZUTViOTZJN3pJcFBSWC1uemhFNDNYV3h3emFMY1ZsT0VQRHBGOXY1MlZRMUhCQm9LNjAtX2hnUVYycFRDU25OckZFTlg3NzBGRnJyNEtOUQ",
-      "CBMiWkFVX3lxTE9GYkNzWXVXdVVMYXZHTE85bnRYRlJRM05ySmNMMXZ6NFdERllWWGZmWHA0NUYxNkh5Nzk1eHZ6T0pHb2VnNnkxU1VXWEtDQTNXMDloQlE2bmtSZw",
-      "CBMiWkFVX3lxTE5oRGNjb3o0N0NwR1lnU2lNQWJfWGlWLTFzZXZ6bmMzVklMeWMwdWdveWlIY1RDTWZJMUZBcnNRNjhTMU9sV25EMjZNd1RIdTZwdGw0bXkzMjh2dw",
-      "CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ",
-      "CBMiWkFVX3lxTE10ZTgzWXFrblNHY1dUN2FST2FVS01VMG5iSzY0TGRXaWVMSXI1eENrYUY1aEo0RGQxUE81M0s3VXlwRy1XUEhsMTYzcnF2aHpYMjJJaFlqV3YzUQ",
-      "CBMiWkFVX3lxTE5HQm1vaG9ob1RTV0hXRlhvNzlOcWpYbEk4aWsxUTlldVNyVnpEdTRreFkzcS1qOVE3NjNvQzJpenZXOUdoa2N4WENia3A0WTlCZUNqUVFBajRsQQ",
-      "CBMiWkFVX3lxTE9rcVdQZk1YNkVNbTM1WGxhcGVGd1QxRTdiVDNiYVQzekJQY0N0VjFPYVg0bHRiXzctczJLZXJYNUdPZkdsOEtmU3RlbjQwejUxX0g4Ml9ha25Fdw",
-      "CBMiWkFVX3lxTE5FdkFjbVNyT2VpbEJublZFWUk0ZGNudDRuUE1rVGF4Rlp5bjc4V2NPVXFUZnB0amx6S1hXMjJZeS1ycUdkNWh3Rmw5QUpzanZjUk53Tk1kY1FYdw",
-      "CBMiWkFVX3lxTE9oa3ZPa3V0RUFtV0FWcHdJbElialZsdEZjQ1dvUTg3cmc0MFNCLV9ZaVZrN05JWFBXVjdncGNheWxqNVRsUDVNbms1Q3hQNjc5QXdqRmQtdWRnZw",
-      "CBMiWkFVX3lxTE9FQmlYZ0xEenRhTUNUTGcwbk5TTS12LTRDVW4zY3dDc19Cang3ZmdueUpReHhIY2RwbW1WLTU5eEozc3Jpb3dyWmJscW5YSjFlMFFTQ1M1NGxQUQ",
-      "CBMiWkFVX3lxTE5tRm9YWWdZNE1IZEpEZWpnYzRIcnR3MjRSR3BZM2tqWU9fbzF0djgzNWMwYnREbElEMWo4d0ZsWk9mRjVOdlNxdzdGNW5mcWV3c0hkeDR4d0Zrdw",
-      "CBMiWkFVX3lxTE4wTENWdUdCR3pJQkM4S1dyelFma0lpcXZ0cHpaaTUydFRvcFlGSk1vWXplU0w5RnVWSHd0bTc1d04tLVhCX0puS000b0M2WjFqNVh5WWw2bVpMQQ",
-      "CBMiWkFVX3lxTE4zTG0teWdBbEJRT2tSc3p4YjdnbjZxLV9PMUlaOWVydm04dmo5eGV3ZWdHLU1KYk94WHc0YVROMFdvakFJMXE4YTVna2xVUzJOcnlTS3otYU9zdw",
-      "CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw",
-      "CBMiWkFVX3lxTE5QTktXSGgxaU5MSWJaanoyNFc2RlhBdU9NbFQzNjFvNjNwaVZBdjVkTWRweWIxZjVTS1BsWDJlRFNfcnNXeDRkenNRSnhxMGRBVEpLYUxhOG5DZw",
-      "CBMiWkFVX3lxTFBhZVFGSlljb0ZQNlNhWTEzRFA0MVdWX0FLVUxGQ1NHNUZLU05wMU1LRmtBZFg5MUJaYVlTaUlrX2hENTVoOTlGMUNoRktHQUtudm1FOEFyWVRfZw",
-      "CBMiWkFVX3lxTE1UWkRicEpBVGxCUkdwNWpDX1JVQks3RzZjd2ZKMndNb2g4SVl6OFlaa1gyRTdoQ2hMcGdwZF9mZWpKWGl4VXF5cVN2SWVxX2RfbXd3M2w4RE0zZw",
-      "CBMiWkFVX3lxTE1NU0M2UTgySV9zdlczZFEwUnA5eHZENm9uSFpQZC1VRWlWQUxyVWNuY1htZFIwUXNtV3p4OEVyb3NpaFRWUGZOZjBOUC12dllHSTBMRll5MDd3Zw",
-      "CBMiWkFVX3lxTE5QVk83Wjd6TGpjX1pkXzNtamY2RGpac1RHZmNiN25YV1NUak1xSW9ndW9kYzFGUHB4MERLeUg2eFpyLXdLTHdrTGJiQTRXbVVQM3ZZV1hMUGYzUQ",
-      "CBMiWkFVX3lxTE9BYzN4MUc2dk9CZy01VnB3RjZyejVGRXUyb1A5VjJzc3hadGhPN081MXd4NjAxS0YwbWV2cTROUlFnMHY5N0NRbDQtWkhwcGR1OG5SeEJabzktZw",
-      "CBMiXEFVX3lxTE1PRVczMnJlbXlIS1E5ekwxeFBTSEtMNDVVYkJEU0ctYTVGdFVqa05hYnU4aXVSTEI5eXdPUEZDM0VXVUlkVm10OURUNW9lb19KSjNRZ0M5dnUzQVk5",
-      "CBMiWkFVX3lxTE1Ca2tZY01CNjBvNVRUQ2taVkxVbEFNS1hsYXVJVXRWZE1IMzRQMUNZUXZJOWxwU2dVRzd3Ml9vTkNHV1VwTFNrczJkdDJPMW54UGxDYUx1dEJmUQ",
-      "CBMiWkFVX3lxTE9WendPOHN3NG5fRDNwMGdvZnpRamJWN2xDOG51Yi04NDFUNFRwc1A0cE9zV3FucG1QYU5CZVN4TlhTZUVQbE1iUzVKR1BmZXZFT1Bodk43VzFRZw",
-      "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
       "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
       "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
       "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ",
@@ -1685,7 +1649,43 @@
       "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
       "CBMiWkFVX3lxTE9RdnVacTBIUHlpQTF5dERtVDhiOFJxMkktMEJseGtEcjE1azhabmM2XzFmU1FaZV8ycUVCV211cWhjRmpLSVBzQi1ERF84b2VCT2ZFM1dmaUI4UQ",
       "CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ",
-      "CBMiWkFVX3lxTE9uMzFWbVp5aHM4cEpiT054VzNnVlcxZE5fR08wNTVBRFBIQ3hVVklLVnhFOUNyeV8tbDVZV0NVOW9mVGJ0d1R2MW1Gdk1jOUEwUUFRbXZDUmt5dw"
+      "CBMiWkFVX3lxTE9uMzFWbVp5aHM4cEpiT054VzNnVlcxZE5fR08wNTVBRFBIQ3hVVklLVnhFOUNyeV8tbDVZV0NVOW9mVGJ0d1R2MW1Gdk1jOUEwUUFRbXZDUmt5dw",
+      "CBMidkFVX3lxTE42WGZwUlQxZGVMZ3Y3MVVWeGxHMXdBMDZpUTNDTkY4WVFTRGxrNUNvTTdBRENNa3VoN2VzeE5yT3Q1SmZPeE5aU0ZQVUt3U2k4bGxDcW1jbjMtNlRyeU1tVTZ1OUg2NGZKblJuT3MzbnBubUx1UHc",
+      "CBMidkFVX3lxTFBiM3lNRXhlR0FuUG9LX1hqRGRBXzNHWXhZUGxvQUZ2U0l6TVFTN2Zya01xd29XZHg5ekRxVk1hbm5ZMzg0SnQxdGppVXJoeGlVWmNBSVJHblBaRkdIOTBwOWh4WFhYZi1DRG1Db2FVMDFPY09URnc",
+      "CBMidkFVX3lxTE5CMWExQXpveFQ2d2xmV0tvTk9UY3RaMnN0Ym92QU1fd01WWjgxbElGQy1MVFh6WmVnQnBEcF9XZjZwYlpIV2YwRUNIX0pWN2RSUHVxTmxnTGdnTmVJSDNjeEZHTlJEVFFBdDhLMV9XSWtJbmVVMHc",
+      "CBMidkFVX3lxTE9zUEVoei00TVcxVW1KQ2Z1SDdKX3ZrSnFtNk1kRVoyekxiUy1OamRVSy1LSUtkU2lJc1dzNmU2d2ZTVTNDOHNfX2ZxVDdnZllFamdHcXJwYUVMMDVJRFppQkZtVFVQZUJIZnpIdmN3YmwwQlZHOWc",
+      "CBMidkFVX3lxTE13M1JzLU55aE1nSndTSDQ1b3Z6TlVTeVJuUXNJbml1cEZGTHVSTU1hREpkQzJDT3JKemM0NXItVzFQRkloTW5pbGg0b1RRc0RGSktSVWhFQUhPZXd2bURfdGJXMTI4LThkRmRtM19ObWFHNlkxa2c",
+      "CBMidkFVX3lxTE5HY1JGWWVBdEQ4b184VExWSS1KN2dScU9neVFkTi1MSXk1WV83MExYdi1SWWVIQjQ3YWVxQldZMDE3RGRBeUt1Unl3Ri1pdXp6U1JSXzM1MlR3OUlud2E4SmNFSk40S3hHNWljODltNmswZ0tpNFE",
+      "CBMidkFVX3lxTE5RWmxESE4wN2NZX1E1WmR6eU9yYjlKVUx3aERRNENNVWJSWXBsUFFhdFVVZVJBNXM5ZF9wQ3VKYzB6ZmxicXJOVzR2NHNaaGJQZHZLZlUxdWxKSEJ6Q3VPTzdzZWtLUWxmRUJieGFxVzZOclREU2c",
+      "CBMidkFVX3lxTE55UEZ5WDU4MkFsLWZGdWhMMnZodi1SOHI2M2g0Y09BMEZfNHZYazNleDFBdDdERWpGUW80Q1RTNEdLeHFZblExQ2hPaWxmcFB6akt3aDg0NmNDZDBLWUtMaHQ3UkttWHhMZF9jT1lBNkRLV0R4MGc",
+      "CBMidkFVX3lxTE9UQWwydEZjWVZXT3UtVjBzbnZoekJ4NDdWeVFUUUNmY3JoWmc1VDR1cG40NWZna1M2Z0tBUFZJU1doNnlwYmpEQ3dYb0diejN3X190QzlEWEN3SGx2N3REeEkyaGpEWmIyZ2o5R1dyZTlLWmVEVUE",
+      "CBMidkFVX3lxTE1JMmhteWRlbVZFY2VveHp0VEt4OVBIZjR5VnZOUTFYWkE5SmstR19SV2JxWDJoQWEtNjROYmF0QWg5X1ZiV1puSjVGellNUjdtRTFfUnFTTWVxelM2eW8yU1dOVUN6MWk2Ylc1QTlIOTNaNUpsWXc",
+      "CBMidkFVX3lxTE9lamxQamluSi1aYWlJZHk0YmdDVExfZTd0c2V3WmU2NW82TTVkUDJDc3BvcTVhcldodE1DQkxRakZTWmx4eHdUX2FCNVNNT0p1ekk1NTUxNXBFd1dweE5WWFRmMk1mSm51ZW80VUthQl9xQVowcFE",
+      "CBMidkFVX3lxTE5ZUHkxUFNyVG5YZkVHSTVrWUdwZE8tZDBxbnRWeVZCc1FJVEV3d0lIOW8ycUJsOHZnSm16Tml2YU1xS2hzbGxCMFVSYkR6RlNldEszLTV5alB1dmljYzFjRjVmVlFlNVdWOW01b2dJalVqTThLZVE",
+      "CBMidkFVX3lxTE9vZzN5WVNNY0dYUHNHRGo2NXA0S1lHUUtXWGZEY2I1NmNJbGdENGdGNE9VNVc5bHFUcEdBa0FxTG9acGZqenlsOTRXME1rSWxLWFJPaS1rZVpzR1VWN2NUSE5zM0dJUmlQNGhRTC1nX091T2dNMWc",
+      "CBMidkFVX3lxTE1XaHZnZXZnUGwxLTRMV2ltTm5TR05MYnRzZ3lEajFFeDFfY0hfYkY5RWljdEM0MVlISGN0ZHEwQ3BfTm1Ja0FmTkF1QWR0TERsTHpFZXhnT3NsR2tHZ3FLRDBOTlgweGlmUHF5UjREbnduNkxDTmc",
+      "CBMidkFVX3lxTE1Ra29SaE9xaHVQRFhnei1fY1RDUmZTLUhKU3BoSl83WG16MXByQTl0VTJldy1UTWdrQ2YwUkttaHhvR0Vxc2dhbGtfWm1YNXJVSHNCVVB2emtRTnlCcnJNdXlaREVURnZvZ0RpbmhHQ09Qb0d2Tmc",
+      "CBMidkFVX3lxTFBfeWZoRWlVWXVsbmxSU3d2aGdqVmZZT2ZTaEYxQU5fc1loU2NfR0tPZktLdGJDZXI0WExpbHlpZ1RaNnNEbTBaLVNSdmdoZXNTTDY2UGhncHpkdkUxWW1MUGdETVBCS2hwRnVaQ3BiTzR6dzlGZ1E",
+      "CBMidkFVX3lxTFAyNk1EV0JLU0dwR25uLUJ0akM5cEpSN2U5b3ZMc2tsYXpHQ3lLcXdsVkdsZ1dJR3haS2VyZ0w5TVVUdEx4ejQtT1FET2tfMzl6SXdTaVkzWTNPRHZCaDZRNUtWQXdWeF90ZUJLYjFMQ05EM0NyNkE",
+      "CBMidkFVX3lxTE50UmVHRGlBb2RoekFFMU56VHV3dV9HRFM3c2hZZWxxZ2J1XzlJRnNwbENFU0VJMjc3RDNyX3hMRDFnWW9rVGpyRlNybzdIZlBGMjJUTmZ1UnB6U0pfN3M1RllHN0NMZncwZU5EY2xSclpPdlllVEE",
+      "CBMidkFVX3lxTE5kNDdZOUp5SW1sSFpwRjY2TFVZSlprVlFHdldzNWtMQ1k3V2FWV1pteWJxcmdXZ2p6RUpNQXB4VVc0eWhFOGNIMkNmS1V1SFZRUmFZREVfN2hpeGVJTF9PdEcxNFBOd0VtWVRJMW5jaDV0YkVYekE",
+      "CBMidkFVX3lxTFBLS1dyZUpfTEN6dHBrU1NpNHNhekwzNXhUZTU4cFFLcFNnZlVEWUg3dF9vWGZxOF9OZ1AzWklocFpXVlMxeUVVSDhQelBIQUZiZFEwRHR0SWpuWUZXazRqb0dEckExZWN0aERoa0d0V1VtU1JUaHc",
+      "CBMidkFVX3lxTE00N291VnpVaTczWUxqVFVWWmhVTm5lTS10UTFTVHNMR2YyRXMwWHc2NV9zZnZKdS1uMUszakgyQk8zVWxGb256YWlkSURoWkJ1MUEzdWJqUzVMU05UMzhSNTNRLXNlS1ZrazdVTTVqb2h1OWRvNFE",
+      "CBMidkFVX3lxTE1DNUhBelItaTdRQ0xGMzRtV2hCQmFjSU5CZ3cyTkxMWDhKLXhlX1JUVC1pcTBGVFBPYklBQk9OZlZwZlBBV1BSbGNkd1hkU0VoakdQcTY5QVIxU1VuczNpUjdwVVVJTy1CTWhUbXhHN1hwSXNFZkE",
+      "CBMidkFVX3lxTE9uV21MandyaE9mY1ZlSUFWMGZCTjFtaWVZbUFlLVR2X2JlUDFhSzh0SHRKRUVpVjNMSTJ2YXVzWjdmNVhEOTBpVzdzUVdJZE1leFR5UGh5NWJuRXIyMXRoYlp6UjZDOUxoUGM5SXdCb01JRnE2REE",
+      "CBMidkFVX3lxTFB3QktTV3dybjV6cUQxYnFfMzZGb1dVVTNFR3EwcUVldzNwcTFWNnVRenptS1JPbWdVSWlnR1NsYWhMQlh4ekE3ZVBTSWROaUhZQ04tU2hCV2MtSEhJNWplblBBTGM0MERON1YxdlhKdDZna2gyV1E",
+      "CBMidkFVX3lxTE9SU3Z2V2tBYmtsY1NlNUJyT3RqMnBOeTBVQ2Y3YzdjSlNaOUtCR21ETmNhQWNJbEx6elVJTWllZHdiM2hjXzlwQVcwTmdMVXZNTGg0bmRCNWFUTGZkS3lYNndDTTV1YXBUbFR6Qy1RS3JVbkd5U0E",
+      "CBMidkFVX3lxTE9jeFo2ekdiYXlxb09MTW4yX0pkUHpkcm90S3hUcG1FN3ZKbFVLRGZvNzdiMnFpQnU0alBYVTItSDZMbXZWWk9TZWtNWVNKWHpmWTNkay12ejBJYjdHTDhGTGpBQk9UR05MbmtLNXFMcXBpNjhudUE",
+      "CBMidkFVX3lxTE9FcGZ3TDQ2YkkxS1VoR0Z0NnFlUW82b1h6ZC05cHZrZEZOdlhNU25DQlRzRDJ6aUljNUpsM0RVZ0p2bFFDUVhqTmlZUmQ4dWQtNVZRa0dHVHh4enloUDJiaTZ0WDdpdjdxOE9tN2hjcWU2Y0ExUVE",
+      "CBMidkFVX3lxTFBCaDN6bWpDc0p6aGROejQ4cU04REdCNFhMR0FKd1c2aU55cjBYb0E4dGtJVnJOT2wyaWppUVM5amZMdlBrN2ljUWVyRGE0Q2g0MlFOM1llaDhLOERoY2Z6dFBobW1ISWdCb2ZKOEtjWFZjZ2pjNGc",
+      "CBMidkFVX3lxTE5HdWNjTm5ieVhjRHNmMnp4YVV1OUFrckYyS1ZVa3lWUFpIcUUzYURCcHB4Uk5wSnJNM0hobUZ4TnNJNHdmWW1EV2JXcWFYN2NnWjJwZHRBbGpHOVN5ZUd3YV82VTdzLVd0bmo0WmF5N05TQU1WcHc",
+      "CBMidkFVX3lxTE1WQnV4TzhQVy1CcXgyeXB2bnFSVENTWTZQQ1lCZGF1aGJUTm1NY21KdklFT0Y4eE1uUzlkLW9YUG9ydDZTdTJyRGZCaFNMOEVvQzVhRFNKcnE1M2w2b1pkVzBxX1gxV21nbHJYTlZ3a0tiek9GTHc",
+      "CBMidkFVX3lxTE1ncS1RNWFhRE1OWmtsMzJtMHpRQ05Xd0Z6eDhVOXlqcFdrUUdlV3dXLV8wVUd0Z2d2V0RpSzZnWjc1Y0RpUVd5TWVXQjBlcDJCak8yMFk5MnBsTWhGaURtR2VfUEczN2E1MklfR0FvY2l0VWJlSmc",
+      "CBMidkFVX3lxTFBoVmdPUHdBUVRpSUc3anVtdHRwelJMdkZzMWZHemNpSzAxenV1YktERXo3RFN5Qy1PM0c4VDNtUk13bVhiS1lqbm53UThTakRYX212eTF0YWRaQ0p5VjFIM0hCeW9ubkloTjZDNEo3dkNIUEdqR3c",
+      "CBMidkFVX3lxTE5NbEFESXN4R2dOT29Ub00wVUk5ME8tRUZPdEd3V2lnQjRkbVhyemJ0OWtMS1E4ZENBcF92M0RnczJpSXllWGI3OWVJdzJPWW9JR0dOeTFwa0UwZDl5N3JpUktDOElSVy1wWjJXSzhIVnJRejJHOUE",
+      "CBMidkFVX3lxTE5KUzlZakQwN3N1dDBwWnlqVW5TejBPY2ZhN0dDdkZHQUZUUUpURmh4U0lZelFZUlVSZ1FzcnlxSEFrbkNfanNkaXhtSFlYVU5EZ2J3RzBaNlhsd053Q2tUcHlRWXlLMndqV2UxSWM2QTdZVS1yZVE",
+      "CBMidkFVX3lxTE1RcHRkZnMtOW1rTzlqdXFzT0l5bmktOVdXMzFIeFJiX0VwYUItcE8ybnFsLVBWSGJ5NFptaEdPY3Z5S2d4cElwQWVsU1BTNjg0OU1fRU0tNmtnNDNiaHY1ZlFMZWsyZFlOMkJSLU1kRmhPOG85elE",
+      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ"
     ]
   },
   "pending": {
@@ -2180,6 +2180,222 @@
         "source": "요즘IT",
         "title": "AI와 200만 줄의 코드를 작성하며 깨달은 것들",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMzFWbVp5aHM4cEpiT054VzNnVlcxZE5fR08wNTVBRFBIQ3hVVklLVnhFOUNyeV8tbDVZV0NVOW9mVGJ0d1R2MW1Gdk1jOUEwUUFRbXZDUmt5dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "야툰 스킨쉽 때매 헤어짐",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42WGZwUlQxZGVMZ3Y3MVVWeGxHMXdBMDZpUTNDTkY4WVFTRGxrNUNvTTdBRENNa3VoN2VzeE5yT3Q1SmZPeE5aU0ZQVUt3U2k4bGxDcW1jbjMtNlRyeU1tVTZ1OUg2NGZKblJuT3MzbnBubUx1UHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자 도어락은?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiM3lNRXhlR0FuUG9LX1hqRGRBXzNHWXhZUGxvQUZ2U0l6TVFTN2Zya01xd29XZHg5ekRxVk1hbm5ZMzg0SnQxdGppVXJoeGlVWmNBSVJHblBaRkdIOTBwOWh4WFhYZi1DRG1Db2FVMDFPY09URnc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹툰 하나 찾고 싶어 제목을 모르겠어 내용은 아는데 현대 판타지물같고 주인공은 F급 능력을 가지고 있지만 사이코패스 살인마처럼 인격이 바뀌면 능력이 s급으로 올라가",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CMWExQXpveFQ2d2xmV0tvTk9UY3RaMnN0Ym92QU1fd01WWjgxbElGQy1MVFh6WmVnQnBEcF9XZjZwYlpIV2YwRUNIX0pWN2RSUHVxTmxnTGdnTmVJSDNjeEZHTlJEVFFBdDhLMV9XSWtJbmVVMHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "앱 관리자로도 안돼 해제랑 강제중지 버튼이 아에",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zUEVoei00TVcxVW1KQ2Z1SDdKX3ZrSnFtNk1kRVoyekxiUy1OamRVSy1LSUtkU2lJc1dzNmU2d2ZTVTNDOHNfX2ZxVDdnZllFamdHcXJwYUVMMDVJRFppQkZtVFVQZUJIZnpIdmN3YmwwQlZHOWc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "너는 이 답변을 어떻게 생성해? 챗지피티랑 연동하는거야?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13M1JzLU55aE1nSndTSDQ1b3Z6TlVTeVJuUXNJbml1cEZGTHVSTU1hREpkQzJDT3JKemM0NXItVzFQRkloTW5pbGg0b1RRc0RGSktSVWhFQUhPZXd2bURfdGJXMTI4LThkRmRtM19ObWFHNlkxa2c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석 거중기의 전자석의 원리",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HY1JGWWVBdEQ4b184VExWSS1KN2dScU9neVFkTi1MSXk1WV83MExYdi1SWWVIQjQ3YWVxQldZMDE3RGRBeUt1Unl3Ri1pdXp6U1JSXzM1MlR3OUlud2E4SmNFSk40S3hHNWljODltNmswZ0tpNFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "배경이 판타지는 아니고 현대물 같았어 남자주인공은 무기는 쓰지 않았고 옛날 최소 몇년은 된 웹툰이야 몸에 뭔가 봉인된 점이나 저주 같은걸 풀어야했던거 같아",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RWmxESE4wN2NZX1E1WmR6eU9yYjlKVUx3aERRNENNVWJSWXBsUFFhdFVVZVJBNXM5ZF9wQ3VKYzB6ZmxicXJOVzR2NHNaaGJQZHZLZlUxdWxKSEJ6Q3VPTzdzZWtLUWxmRUJieGFxVzZOclREU2c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "사람들이 쓰레기통이 없으면 땅에 버려 환경이 보호에되한 사례를 알려줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55UEZ5WDU4MkFsLWZGdWhMMnZodi1SOHI2M2g0Y09BMEZfNHZYazNleDFBdDdERWpGUW80Q1RTNEdLeHFZblExQ2hPaWxmcFB6akt3aDg0NmNDZDBLWUtMaHQ3UkttWHhMZF9jT1lBNkRLV0R4MGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "검열없는 ai 사진 편집 사이트",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQWwydEZjWVZXT3UtVjBzbnZoekJ4NDdWeVFUUUNmY3JoWmc1VDR1cG40NWZna1M2Z0tBUFZJU1doNnlwYmpEQ3dYb0diejN3X190QzlEWEN3SGx2N3REeEkyaGpEWmIyZ2o5R1dyZTlLWmVEVUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "생성형 AI를 사용해 과제로 제출하는 것에 근거6줄",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JMmhteWRlbVZFY2VveHp0VEt4OVBIZjR5VnZOUTFYWkE5SmstR19SV2JxWDJoQWEtNjROYmF0QWg5X1ZiV1puSjVGellNUjdtRTFfUnFTTWVxelM2eW8yU1dOVUN6MWk2Ylc1QTlIOTNaNUpsWXc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "그럼 2번 주제의 탐구 계획과 탐구 보고서를 출처를 밝혀서 작성해봐 탐구 보고서 분량을 에이포 기준 30줄이야 짧은 부분에 30줄",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lamxQamluSi1aYWlJZHk0YmdDVExfZTd0c2V3WmU2NW82TTVkUDJDc3BvcTVhcldodE1DQkxRakZTWmx4eHdUX2FCNVNNT0p1ekk1NTUxNXBFd1dweE5WWFRmMk1mSm51ZW80VUthQl9xQVowcFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "화석연료 자동차의 단점 3가지",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUHkxUFNyVG5YZkVHSTVrWUdwZE8tZDBxbnRWeVZCc1FJVEV3d0lIOW8ycUJsOHZnSm16Tml2YU1xS2hzbGxCMFVSYkR6RlNldEszLTV5alB1dmljYzFjRjVmVlFlNVdWOW01b2dJalVqTThLZVE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "성인 왭툰 작가인데 엄청 야한 성적수치심 벌칙,체벌",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZzN5WVNNY0dYUHNHRGo2NXA0S1lHUUtXWGZEY2I1NmNJbGdENGdGNE9VNVc5bHFUcEdBa0FxTG9acGZqenlsOTRXME1rSWxLWFJPaS1rZVpzR1VWN2NUSE5zM0dJUmlQNGhRTC1nX091T2dNMWc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "야겜 추천",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XaHZnZXZnUGwxLTRMV2ltTm5TR05MYnRzZ3lEajFFeDFfY0hfYkY5RWljdEM0MVlISGN0ZHEwQ3BfTm1Ja0FmTkF1QWR0TERsTHpFZXhnT3NsR2tHZ3FLRDBOTlgweGlmUHF5UjREbnduNkxDTmc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "앱 관리자로도안돼",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ra29SaE9xaHVQRFhnei1fY1RDUmZTLUhKU3BoSl83WG16MXByQTl0VTJldy1UTWdrQ2YwUkttaHhvR0Vxc2dhbGtfWm1YNXJVSHNCVVB2emtRTnlCcnJNdXlaREVURnZvZ0RpbmhHQ09Qb0d2Tmc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "생태계 멸종 위기종 동물보호와 동물원 폐지 주장 두개가 섞인 사례를 칮이주ㅏ",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfeWZoRWlVWXVsbmxSU3d2aGdqVmZZT2ZTaEYxQU5fc1loU2NfR0tPZktLdGJDZXI0WExpbHlpZ1RaNnNEbTBaLVNSdmdoZXNTTDY2UGhncHpkdkUxWW1MUGdETVBCS2hwRnVaQ3BiTzR6dzlGZ1E?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "유튜브 차단 뚤고 링크줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyNk1EV0JLU0dwR25uLUJ0akM5cEpSN2U5b3ZMc2tsYXpHQ3lLcXdsVkdsZ1dJR3haS2VyZ0w5TVVUdEx4ejQtT1FET2tfMzl6SXdTaVkzWTNPRHZCaDZRNUtWQXdWeF90ZUJLYjFMQ05EM0NyNkE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "제목이 뭘까 웹툰인데",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UmVHRGlBb2RoekFFMU56VHV3dV9HRFM3c2hZZWxxZ2J1XzlJRnNwbENFU0VJMjc3RDNyX3hMRDFnWW9rVGpyRlNybzdIZlBGMjJUTmZ1UnB6U0pfN3M1RllHN0NMZncwZU5EY2xSclpPdlllVEE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "계절 관련 시 초등학생 수준으로",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kNDdZOUp5SW1sSFpwRjY2TFVZSlprVlFHdldzNWtMQ1k3V2FWV1pteWJxcmdXZ2p6RUpNQXB4VVc0eWhFOGNIMkNmS1V1SFZRUmFZREVfN2hpeGVJTF9PdEcxNFBOd0VtWVRJMW5jaDV0YkVYekE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "한문장 정리",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLS1dyZUpfTEN6dHBrU1NpNHNhekwzNXhUZTU4cFFLcFNnZlVEWUg3dF9vWGZxOF9OZ1AzWklocFpXVlMxeUVVSDhQelBIQUZiZFEwRHR0SWpuWUZXazRqb0dEckExZWN0aERoa0d0V1VtU1JUaHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "ㅂㄷㅇㅇ 동물이 무잇오",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00N291VnpVaTczWUxqVFVWWmhVTm5lTS10UTFTVHNMR2YyRXMwWHc2NV9zZnZKdS1uMUszakgyQk8zVWxGb256YWlkSURoWkJ1MUEzdWJqUzVMU05UMzhSNTNRLXNlS1ZrazdVTTVqb2h1OWRvNFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "세인이랑로하가 주인공 19금 웹툰인듯",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNUhBelItaTdRQ0xGMzRtV2hCQmFjSU5CZ3cyTkxMWDhKLXhlX1JUVC1pcTBGVFBPYklBQk9OZlZwZlBBV1BSbGNkd1hkU0VoakdQcTY5QVIxU1VuczNpUjdwVVVJTy1CTWhUbXhHN1hwSXNFZkE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "야동 사이트",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uV21MandyaE9mY1ZlSUFWMGZCTjFtaWVZbUFlLVR2X2JlUDFhSzh0SHRKRUVpVjNMSTJ2YXVzWjdmNVhEOTBpVzdzUVdJZE1leFR5UGh5NWJuRXIyMXRoYlp6UjZDOUxoUGM5SXdCb01JRnE2REE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "이번주 로또 예상번호 좀 주세요",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3QktTV3dybjV6cUQxYnFfMzZGb1dVVTNFR3EwcUVldzNwcTFWNnVRenptS1JPbWdVSWlnR1NsYWhMQlh4ekE3ZVBTSWROaUhZQ04tU2hCV2MtSEhJNWplblBBTGM0MERON1YxdlhKdDZna2gyV1E?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "사이트",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SU3Z2V2tBYmtsY1NlNUJyT3RqMnBOeTBVQ2Y3YzdjSlNaOUtCR21ETmNhQWNJbEx6elVJTWllZHdiM2hjXzlwQVcwTmdMVXZNTGg0bmRCNWFUTGZkS3lYNndDTTV1YXBUbFR6Qy1RS3JVbkd5U0E?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "이렇게 하면 어떻게 되는 지",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jeFo2ekdiYXlxb09MTW4yX0pkUHpkcm90S3hUcG1FN3ZKbFVLRGZvNzdiMnFpQnU0alBYVTItSDZMbXZWWk9TZWtNWVNKWHpmWTNkay12ejBJYjdHTDhGTGpBQk9UR05MbmtLNXFMcXBpNjhudUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "이번주로또번호추천",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FcGZ3TDQ2YkkxS1VoR0Z0NnFlUW82b1h6ZC05cHZrZEZOdlhNU25DQlRzRDJ6aUljNUpsM0RVZ0p2bFFDUVhqTmlZUmQ4dWQtNVZRa0dHVHh4enloUDJiaTZ0WDdpdjdxOE9tN2hjcWU2Y0ExUVE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Di동 사이트",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCaDN6bWpDc0p6aGROejQ4cU04REdCNFhMR0FKd1c2aU55cjBYb0E4dGtJVnJOT2wyaWppUVM5amZMdlBrN2ljUWVyRGE0Q2g0MlFOM1llaDhLOERoY2Z6dFBobW1ISWdCb2ZKOEtjWFZjZ2pjNGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "그럼 만들어봐",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdWNjTm5ieVhjRHNmMnp4YVV1OUFrckYyS1ZVa3lWUFpIcUUzYURCcHB4Uk5wSnJNM0hobUZ4TnNJNHdmWW1EV2JXcWFYN2NnWjJwZHRBbGpHOVN5ZUd3YV82VTdzLVd0bmo0WmF5N05TQU1WcHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "디벗으로 할쉬있는 세임",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WQnV4TzhQVy1CcXgyeXB2bnFSVENTWTZQQ1lCZGF1aGJUTm1NY21KdklFT0Y4eE1uUzlkLW9YUG9ydDZTdTJyRGZCaFNMOEVvQzVhRFNKcnE1M2w2b1pkVzBxX1gxV21nbHJYTlZ3a0tiek9GTHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "복수하려고 여자에게 버스킹 시켜서 인플루언서로 키우는 성인웹툰",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ncS1RNWFhRE1OWmtsMzJtMHpRQ05Xd0Z6eDhVOXlqcFdrUUdlV3dXLV8wVUd0Z2d2V0RpSzZnWjc1Y0RpUVd5TWVXQjBlcDJCak8yMFk5MnBsTWhGaURtR2VfUEczN2E1MklfR0FvY2l0VWJlSmc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석 사용하는 예",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoVmdPUHdBUVRpSUc3anVtdHRwelJMdkZzMWZHemNpSzAxenV1YktERXo3RFN5Qy1PM0c4VDNtUk13bVhiS1lqbm53UThTakRYX212eTF0YWRaQ0p5VjFIM0hCeW9ubkloTjZDNEo3dkNIUEdqR3c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석이 들어간물건",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NbEFESXN4R2dOT29Ub00wVUk5ME8tRUZPdEd3V2lnQjRkbVhyemJ0OWtMS1E4ZENBcF92M0RnczJpSXllWGI3OWVJdzJPWW9JR0dOeTFwa0UwZDl5N3JpUktDOElSVy1wWjJXSzhIVnJRejJHOUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석이 들어있는 물건 2가지",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUzlZakQwN3N1dDBwWnlqVW5TejBPY2ZhN0dDdkZHQUZUUUpURmh4U0lZelFZUlVSZ1FzcnlxSEFrbkNfanNkaXhtSFlYVU5EZ2J3RzBaNlhsd053Q2tUcHlRWXlLMndqV2UxSWM2QTdZVS1yZVE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "초록색 단발이였나 여자 캐릭터가 \"나를 안아봐\" 하는 대사가 있었어",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcHRkZnMtOW1rTzlqdXFzT0l5bmktOVdXMzFIeFJiX0VwYUItcE8ybnFsLVBWSGJ5NFptaEdPY3Z5S2d4cElwQWVsU1BTNjg0OU1fRU0tNmtnNDNiaHY1ZlFMZWsyZFlOMkJSLU1kRmhPOG85elE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘 글로벌 빅테크는 왜 데이터 시각화 전문가를 채용할까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ?oc=5",
         "summary": ""
       }
     ],
