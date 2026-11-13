@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36415",
-      "https://news.hada.io/topic?id=36416",
-      "https://news.hada.io/topic?id=36417",
-      "https://news.hada.io/topic?id=36419",
-      "https://news.hada.io/topic?id=36420",
       "https://news.hada.io/topic?id=36431",
       "https://news.hada.io/topic?id=36433",
       "https://news.hada.io/topic?id=36434",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37071",
       "https://news.hada.io/topic?id=37072",
       "https://news.hada.io/topic?id=37073",
-      "https://news.hada.io/topic?id=37074"
+      "https://news.hada.io/topic?id=37074",
+      "https://news.hada.io/topic?id=37082",
+      "https://news.hada.io/topic?id=37084",
+      "https://news.hada.io/topic?id=37085",
+      "https://news.hada.io/topic?id=37088",
+      "https://news.hada.io/topic?id=37089"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50322173",
-      "https://news.ycombinator.com/item?id=50323088",
-      "https://news.ycombinator.com/item?id=50324388",
-      "https://news.ycombinator.com/item?id=50303984",
-      "https://news.ycombinator.com/item?id=50325662",
       "https://news.ycombinator.com/item?id=50326099",
       "https://news.ycombinator.com/item?id=50326118",
       "https://news.ycombinator.com/item?id=50326821",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50470488",
       "https://news.ycombinator.com/item?id=50471431",
       "https://news.ycombinator.com/item?id=50471668",
-      "https://news.ycombinator.com/item?id=50472260"
+      "https://news.ycombinator.com/item?id=50472260",
+      "https://news.ycombinator.com/item?id=50472038",
+      "https://news.ycombinator.com/item?id=50472490",
+      "https://news.ycombinator.com/item?id=50474311",
+      "https://news.ycombinator.com/item?id=50474361",
+      "https://news.ycombinator.com/item?id=50474883"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -777,7 +777,8 @@
       "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
       "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
       "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure",
-      "https://techblog.lycorp.co.jp/ko/line-premium-call-recording"
+      "https://techblog.lycorp.co.jp/ko/line-premium-call-recording",
+      "https://techblog.lycorp.co.jp/ko/defcon-ctf-2026-finals"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1324,7 +1325,8 @@
       "CBMiTEFVX3lxTFBta2kyWHFYR1gwU0FVTHFfdFdHX2dsWjAwNE91MkZSTXpwZXNtRUd1YTV4NG5nb2ZlMFhxdG9rQXQ4Q1VqaV9INU9TSlU",
       "CBMiS0FVX3lxTE45eElBVUxXVXhSeVU3c1FCdEk1QS1xb2dqdi1jbFEzcklQdDVQS3V4MkdVLXdXVVpMcFNGM2d3clZZSjJQVHBBalY3OA",
       "CBMiTEFVX3lxTFAxVlpKQVpPeWxNYW1MSTl1d2VJY21ycnlCUkpOZXRyaGs5ckM3ZTNTUGZaRkdUV0wtRW9kREZsWHp1a2xZMEhqRUxsdjI",
-      "CBMiTEFVX3lxTE1GX0V3aWVrbmRPQ2txZ1RmQWlZU0IzSkRyLXdWek1kUkVCaVRMWmJycVBESVEtaHlSYk9TRU9jaktJSzRmWTBWRU5FVDE"
+      "CBMiTEFVX3lxTE1GX0V3aWVrbmRPQ2txZ1RmQWlZU0IzSkRyLXdWek1kUkVCaVRMWmJycVBESVEtaHlSYk9TRU9jaktJSzRmWTBWRU5FVDE",
+      "CBMioAFBVV95cUxOUEJPMVdLZ1pqUXpCbGNqamdCMFViWmNPVVVJeDl6RjRkOFNOV2hMWGg3akE2eXRabTlfUkhiMVdwcDZNVW01U25aQTNyRmgzeUtHdDU1QWVwZE5EOFlJY0J2c2NWRUt3aFVMbGktVU9xZnZ2ZFdGTG9nVUdzSTlrbTRtQXEwTml2TmZCVlJDRXBRbXVoMGpJXzltaWUxOHh4"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1484,9 +1486,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBTZDdveXQyd1BPNTZIMEk5b3U1ZEhYWmcyMXluTDQwWXRrUTlNSjVFUHJIOFNKMlR3RjB0NXNieTA5Vi10Slg1MnB0amk1NXNaNHN4Sk9ma1lIdw",
-      "CBMiWkFVX3lxTE1hcEsyS1JyWmlBc2hoc2g4Z1JkR094b1JsSzRxazBNdXFPclpUdVBQSzNLZU05d2d3UnFHVnZRSVkwVFp0ZmZIYWVfa0kta2FDcHhYamxzS1VSQQ",
-      "CBMiWkFVX3lxTFBYNzY4bmF5d2dQb2RvOVRQbHh2TWF0cVgtMmNMUnoyWUlKNnhoOEk2MlJUOGtXdGJDTDBlSmxsX2hCTlNKNDVmcWlBQTYzbHlycU5ta0pjTUl6UQ",
       "CBMiWkFVX3lxTE1jNG1WSkV2eWNLbHBwTkdfdTUwRldNdXVLRlg1eWhFTkpocmw5MmZQOWVzZTN5eUdjb3BOa09jYkd4VV9NV3BUNlZDUHNzVlhhN1VfLTBwUnF4Zw",
       "CBMiWkFVX3lxTE41LVdqamgyNHlHVXl1YjdZdjB3cmMxbXJ3UFRFaEpJNkZ2UGhUamJWZm82REFGR0FFLW0ycnUxNkxxUUlWNktWc2R6dWJDZXZJcWlkenk1NzJNUQ",
       "CBMiWkFVX3lxTE4zaWJTbUF0ZFM3SFdsbWx5bHNfWkhsT0I2OG1vRTdmblZiczNPR084TGJiM1hDZ3ZuV2VvMjFQS3hqdFpkMG81cld0elFFSTBEU1Y2TlBuNGgtQQ",
@@ -1683,7 +1682,10 @@
       "CBMiWkFVX3lxTE5OMFZRYnJyZGpYR3B4OGNoaTlxTjFJa25sbVMxTmtvSFgwUzlvaGJHa1VMXy1selBZZGpsLVpFR0h4Z3JEOThZc25pUmhNcDNzaUpNZXJkcHRKQQ",
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
       "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
-      "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw"
+      "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
+      "CBMiWkFVX3lxTE9RdnVacTBIUHlpQTF5dERtVDhiOFJxMkktMEJseGtEcjE1azhabmM2XzFmU1FaZV8ycUVCV211cWhjRmpLSVBzQi1ERF84b2VCT2ZFM1dmaUI4UQ",
+      "CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ",
+      "CBMiWkFVX3lxTE9uMzFWbVp5aHM4cEpiT054VzNnVlcxZE5fR08wNTVBRFBIQ3hVVklLVnhFOUNyeV8tbDVZV0NVOW9mVGJ0d1R2MW1Gdk1jOUEwUUFRbXZDUmt5dw"
     ]
   },
   "pending": {
@@ -2148,6 +2150,36 @@
         "source": "요즘IT",
         "title": "구글 디자이너가 인공지능 시대에 대처하는 자세",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "우아한테크코스",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEJPMVdLZ1pqUXpCbGNqamdCMFViWmNPVVVJeDl6RjRkOFNOV2hMWGg3akE2eXRabTlfUkhiMVdwcDZNVW01U25aQTNyRmgzeUtHdDU1QWVwZE5EOFlJY0J2c2NWRUt3aFVMbGktVU9xZnZ2ZFdGTG9nVUdzSTlrbTRtQXEwTml2TmZCVlJDRXBRbXVoMGpJXzltaWUxOHh4?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "LINE",
+        "title": "DEF CON CTF 2026 본선 참가기",
+        "link": "https://techblog.lycorp.co.jp/ko/defcon-ctf-2026-finals",
+        "summary": "들어가며안녕하세요. LY Corporation에서 서비스 보안 점검과 취약점 분석을 담당하고 있는 김종환, 양성조, 임홍렬입니다. 저희는 올해 연합팀 ‘SuperDiceCodeLo..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "골드만삭스는 왜 트레이더에게서 클로드 코드를 뺏었을까",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RdnVacTBIUHlpQTF5dERtVDhiOFJxMkktMEJseGtEcjE1azhabmM2XzFmU1FaZV8ycUVCV211cWhjRmpLSVBzQi1ERF84b2VCT2ZFM1dmaUI4UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "데이터 엔지니어링 핵심 도구 ‘Apache Airflow’ 개념 정리",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YQkFmRlp6TWUyS19fVjJkYlh4bWRVZnVhRzVmVjFLSVREUVNfa1Z1dy1EY0RsOF9wV3lhZ3hjblFQUHZ3RE1EUDhCREpPWXZTeXg1LV9ieWUxQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI와 200만 줄의 코드를 작성하며 깨달은 것들",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMzFWbVp5aHM4cEpiT054VzNnVlcxZE5fR08wNTVBRFBIQ3hVVklLVnhFOUNyeV8tbDVZV0NVOW9mVGJ0d1R2MW1Gdk1jOUEwUUFRbXZDUmt5dw?oc=5",
         "summary": ""
       }
     ],
