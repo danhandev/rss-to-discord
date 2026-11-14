@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36502",
-      "https://news.hada.io/topic?id=36504",
-      "https://news.hada.io/topic?id=36505",
-      "https://news.hada.io/topic?id=36506",
-      "https://news.hada.io/topic?id=36507",
       "https://news.hada.io/topic?id=36516",
       "https://news.hada.io/topic?id=36517",
       "https://news.hada.io/topic?id=36518",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37149",
       "https://news.hada.io/topic?id=37150",
       "https://news.hada.io/topic?id=37151",
-      "https://news.hada.io/topic?id=37152"
+      "https://news.hada.io/topic?id=37152",
+      "https://news.hada.io/topic?id=37157",
+      "https://news.hada.io/topic?id=37158",
+      "https://news.hada.io/topic?id=37159",
+      "https://news.hada.io/topic?id=37162",
+      "https://news.hada.io/topic?id=37163"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50334038",
-      "https://news.ycombinator.com/item?id=50334704",
-      "https://news.ycombinator.com/item?id=50335615",
-      "https://news.ycombinator.com/item?id=50340088",
-      "https://news.ycombinator.com/item?id=50341174",
       "https://news.ycombinator.com/item?id=50341462",
       "https://news.ycombinator.com/item?id=50342284",
       "https://news.ycombinator.com/item?id=50344181",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50492315",
       "https://news.ycombinator.com/item?id=50492860",
       "https://news.ycombinator.com/item?id=50493062",
-      "https://news.ycombinator.com/item?id=50493251"
+      "https://news.ycombinator.com/item?id=50493251",
+      "https://news.ycombinator.com/item?id=50491423",
+      "https://news.ycombinator.com/item?id=50491545",
+      "https://news.ycombinator.com/item?id=50491830",
+      "https://news.ycombinator.com/item?id=50493904",
+      "https://news.ycombinator.com/item?id=50496602"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1487,11 +1487,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5RSFZYZ2xGVXdxN2JtWWI0cm5HaUZmYmdTWFNNbWN0YjFxdTE4cDdZazNfYWZOMzJPYUxyNEtIQXRJdVRjMi01UEozeW8xcUtzSGZ3SkF4VDNCdw",
-      "CBMiWkFVX3lxTE9qMlVYbEltZU80WlVwZzR6ZFdkVFF6WTlpV2RDQWphSklxNDExN0FQbWJZUEQ5UXhzTG53VXNQeWFLM2U0ZFFjaE4wQ0ZrdVdzR1laQW9CLWV6dw",
-      "CBMiWkFVX3lxTFBhX0lyX3ZDU2VhTEMyb0pYWi14YnNXNmZYV3VFU1VLQ1pfdTg1Z2lzbFZ5b2R1ZzFSbVAxdmlIZ1pycTBTZXlWLVFsTnJ5a3hERmtCMWtuNWxPUQ",
-      "CBMiWkFVX3lxTE9MWFMybklCLUQ4RFNXTDZETklTVXFiOEtPN0tqbGVMdTRtb05iaVd2YjU4Q3VBSG9xODNGQW1qZXA3ektDemlidUJLb0pJeEZCaHNXU1JiOWNsdw",
-      "CBMiW0FVX3lxTE9mbk1TcDN3MEUycTJfV2ZSOTYyZ0cyWFVJVnhQdjAxNjdMMmJiMk1BSWJRRHNyb01Ia2t5bVhxWVhTRlhnYmxSSW0yVUNjcldZbDVNTnF6V3lUQk0",
       "CBMiWkFVX3lxTE43bjhhV19TUUxFM0cxQXZna2hXWmFobERDWGI5LTBycnFwV25hdTJWOGQ0YXoyeUdXNDY4dURTRGNMWkdPck5WcU1yN2lwb21jZ2J3aUZ4VGFYQQ",
       "CBMiWkFVX3lxTE1YNE85M3Y1M1g2SjBjR1ViUU93ejJ6ekRrN2p0TEVfdG5xdWdWS2pxcTdzU29HLVdoMkgxQ0dQYjIzZUNjdVZ6dndlTVJUVVRfdjVqZHBIeHVDQQ",
       "CBMiWkFVX3lxTE9TSnFsUmZVMHRkeUJmYXRnTnJNMXRWR1c1cGtpT2ltYjR4UTVLOXZjMmNiSmZUU29oVlAxLWVtUmNIeWVMRVJSTVFrTUlWWWFBTjViY19LeWtSdw",
@@ -1686,7 +1681,12 @@
       "CBMiW0FVX3lxTE54VGxObUJKSVV5WDlGd0h0bTR3ZF9tU0s3eEtFcHZOVjE5cDN5NzZJcnpXRXl5dkZTb2padFpEb1c2NnVZbm5RNEN0UlRoMzlFNVhWWVJNV1pjRzQ",
       "CBMiWkFVX3lxTE5xMTRyUWZVTm1vUTd3NTlEd1VvenAxVXdIdjRlaC1RNTBiUmRmdVVvZ2N2M0N4VHRsZ0JIemFLbkJ2Rk1tSWpfOUdFcnRvdDVsd3FRUG5rSVI0dw",
       "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ",
-      "CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw"
+      "CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw",
+      "CBMiWkFVX3lxTFBaOUo0Mkc0ZUU3VDdyVmpoQXduR1M0a0lvdjcxcjB1Rmh3ejVwSS1RZ1hzTWZLVmtpOGZRZUhVOURqTkpMTzJHWWVRd0FGUkJrUm1EemgwR0Nvdw",
+      "CBMidkFVX3lxTE5odmdMbnhpaklRdTlyZU1PUlN2SnpPMF9kTGlDam5tWG1fa3JRNkhHVXRwakF2QjloUEFPODBWTGpxTEpEVkNrbE51SEN5R2dzM1Q1Y1daajhPaVNWOG0ydW9SaDlJUEhRejM2Q1RqalBjZlFTTlE",
+      "CBMidkFVX3lxTFAwakp1MjVlWGRSeUkxWHRkMVRraVZMbkFjak1uUzhnRkpjZF9VSFZESTYtTWliRXhOeTNHcEtXSU9vYmtVTk5YSTJycU95eUxwc00xWVBhYlZLY0pQQ0ZFaTMydjAtYXVWdGZDaWpmeE9ab01KZ0E",
+      "CBMiWkFVX3lxTE5BSnZHMlp2RjZxN0lLQkNvVWZJMWxrZHoxZk8zUGJ4YTV0WFJkUksxX25KUlY4bUF2Y3BoenQ1dmp2bHhGc3R1NUowNGo3aF9xNjJSdFNVdWF3QQ",
+      "CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw"
     ]
   },
   "pending": {
@@ -2661,6 +2661,36 @@
         "source": "요즘IT",
         "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI가 \"개발 완료\"라고 보고하면, 어디까지 믿어도 될까",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaOUo0Mkc0ZUU3VDdyVmpoQXduR1M0a0lvdjcxcjB1Rmh3ejVwSS1RZ1hzTWZLVmtpOGZRZUhVOURqTkpMTzJHWWVRd0FGUkJrUm1EemgwR0Nvdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "한반도 통일에 대한 반대 근거 10가지 한문장 정리",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odmdMbnhpaklRdTlyZU1PUlN2SnpPMF9kTGlDam5tWG1fa3JRNkhHVXRwakF2QjloUEFPODBWTGpxTEpEVkNrbE51SEN5R2dzM1Q1Y1daajhPaVNWOG0ydW9SaDlJUEhRejM2Q1RqalBjZlFTTlE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "이거 말고도. A I에 관한 의료 관련 문제나 생명과한 거면 상관없어 고등학교 1학년 수준에서 신화주군이면돼 2학년때 진짜 탐구해보고 싶은 내용말이야",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwakp1MjVlWGRSeUkxWHRkMVRraVZMbkFjak1uUzhnRkpjZF9VSFZESTYtTWliRXhOeTNHcEtXSU9vYmtVTk5YSTJycU95eUxwc00xWVBhYlZLY0pQQ0ZFaTMydjAtYXVWdGZDaWpmeE9ab01KZ0E?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "A/B 테스트 결과, 이게 맞아?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSnZHMlp2RjZxN0lLQkNvVWZJMWxrZHoxZk8zUGJ4YTV0WFJkUksxX25KUlY4bUF2Y3BoenQ1dmp2bHhGc3R1NUowNGo3aF9xNjJSdFNVdWF3QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw?oc=5",
         "summary": ""
       }
     ],
