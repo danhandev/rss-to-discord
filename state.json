@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36594",
-      "https://news.hada.io/topic?id=36595",
-      "https://news.hada.io/topic?id=36596",
-      "https://news.hada.io/topic?id=36597",
-      "https://news.hada.io/topic?id=36598",
       "https://news.hada.io/topic?id=36610",
       "https://news.hada.io/topic?id=36611",
       "https://news.hada.io/topic?id=36612",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37202",
       "https://news.hada.io/topic?id=37204",
       "https://news.hada.io/topic?id=37206",
-      "https://news.hada.io/topic?id=37207"
+      "https://news.hada.io/topic?id=37207",
+      "https://news.hada.io/topic?id=37221",
+      "https://news.hada.io/topic?id=37222",
+      "https://news.hada.io/topic?id=37223",
+      "https://news.hada.io/topic?id=37224",
+      "https://news.hada.io/topic?id=37225"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50358562",
-      "https://news.ycombinator.com/item?id=50358582",
-      "https://news.ycombinator.com/item?id=50358702",
-      "https://news.ycombinator.com/item?id=50346755",
-      "https://news.ycombinator.com/item?id=50352758",
       "https://news.ycombinator.com/item?id=50355767",
       "https://news.ycombinator.com/item?id=50360164",
       "https://news.ycombinator.com/item?id=50361268",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50505271",
       "https://news.ycombinator.com/item?id=50506180",
       "https://news.ycombinator.com/item?id=50506719",
-      "https://news.ycombinator.com/item?id=50507303"
+      "https://news.ycombinator.com/item?id=50507303",
+      "https://news.ycombinator.com/item?id=50506894",
+      "https://news.ycombinator.com/item?id=50507553",
+      "https://news.ycombinator.com/item?id=50509023",
+      "https://news.ycombinator.com/item?id=50509308",
+      "https://news.ycombinator.com/item?id=50509411"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1487,10 +1487,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ",
-      "CBMiWkFVX3lxTFAzRjVyQUdiRG56SGE2dzFOZXNWd0MyYkFvQzZSSk5LNnZkajZrY3A0WnozMzVjdHVwQjlQUmFMSDZ3cHFWLVFVLWpqN3VVa0NwR2JydnNCTmgwUQ",
-      "CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ",
-      "CBMiWkFVX3lxTE0waXBhNFM1c3RSanh6eGZXcG9NbC1ueW4tT25fcXhGZWR0YnAzLWdTTjdrREZ3YzdodDFCUGN1NHR0U1pFWThSR2tOTmZnNHlTblRlVDNlVHM3UQ",
       "CBMiWkFVX3lxTFBrRkRTMEtmOGw0anF4TnBLclFYZmtuQjQzVndERVhYN2V3R2pBdzlydXYxNTNDQk9kSVY4TjFwZUVnb0hWemR1UEEzOUtkZHFCNm1yODJnZUJmdw",
       "CBMidkFVX3lxTE4tWTB5RVk2UzFyaGZOMzRZYVJMSHRUU2xvOUk5Nm1kVXFaVFBCNGNWN3dVejZZNV9HU0U3MjZLdHFDMW5wSERWa2JCZWdjazFMSmVyWTJzeFU3aUZTMTIxUE5xcnZGXzN3SURhRkFQOXpkRFNQRFE",
       "CBMidkFVX3lxTE1jdW8yTmJxaXpqdkpuT0swTnp2UXBHVDFlQ2Vhcjk0aFlPdk9MRlFkYXVCRzc5NllvNVI2eEVZMkxsWmRxRENnTjUtWW5PWm9GeWpPY040T0wyX19rdTNHSGpiRkF5c25kY1RCbHhMb2dPZlFWMFE",
@@ -1686,7 +1682,11 @@
       "CBMiWkFVX3lxTE9QQXFUUDZSN25oUlpDR1ZzX0tzZUcxMDMzcnBXV0JPWFZvWDh2ZXRoR3gyVTJWRk5FcDJfTEZIVVh6eERPN09Ydk5wVjc2OUszRUppX2Q4SXpodw",
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
-      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc"
+      "CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc",
+      "CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ",
+      "CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ",
+      "CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw",
+      "CBMiWkFVX3lxTE4xMkRDaEtFTlo1T3BRTWxJZlpfc3drcGRyWWVRTkVta3pHMTh2MUM5S3pzSlp0U01NeXFYX3ljRnl6LXdDWWs1RG5CTENqZXQzbndvS0lZR2tCdw"
     ]
   },
   "pending": {
@@ -2979,6 +2979,30 @@
         "source": "요즘IT",
         "title": "IT 개발 이야기들",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oajlkN1hTb2ZDMWJPNHpOa0JNdHZiQkE5dTFlSVlFVHFiOGRKbjliMnhVNzJPUGdGY0FKWnJWZjBQM1pmUU5rQXlxVEJmUGVzZGRKS1B3NTEySGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자들이 더 이상 질문하지 않는다면",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tLWwzTlZMLUJUNXBnMHNFR2E3NDE0SjYwS3dmUkpiVUNYZGIzQXl5Wnd6Z2UwcVJaTEdyVk5xYjFQRFJYbmVxblM3dGx5U0QyU3lNVTlKUEhnUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "“어이 신입, 탈출각이다”",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLWVGd2pSbWtZWE4wSGd6clRSTTNoSS1xYTNNOUhRWTZiZ3ZtWWlGRXFTY2RRT29fbDNIOGZnTWxyRTNYQWRaSG5Eakl0bVV3SmVaUG5sTTluQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "10분 만에 온톨로지(Ontology) 이해하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zcmdlOUxMRW9qTjdhZlVPRXdXWkxrTGpVQkNmakV1SWdhZW81S3d6WWtuT3M5ajNqQTlHTVRrNjFQWk1iREp5dThSck9xSm1sSWpqZWNJOTYtZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "깃허브 스타 42만 개 REA로 노션형 블록 에디터 구현해봤다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xMkRDaEtFTlo1T3BRTWxJZlpfc3drcGRyWWVRTkVta3pHMTh2MUM5S3pzSlp0U01NeXFYX3ljRnl6LXdDWWs1RG5CTENqZXQzbndvS0lZR2tCdw?oc=5",
         "summary": ""
       }
     ],
