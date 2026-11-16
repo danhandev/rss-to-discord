@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36647",
-      "https://news.hada.io/topic?id=36648",
-      "https://news.hada.io/topic?id=36652",
-      "https://news.hada.io/topic?id=36653",
-      "https://news.hada.io/topic?id=36654",
       "https://news.hada.io/topic?id=36663",
       "https://news.hada.io/topic?id=36664",
       "https://news.hada.io/topic?id=36665",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37264",
       "https://news.hada.io/topic?id=37265",
       "https://news.hada.io/topic?id=37266",
-      "https://news.hada.io/topic?id=37267"
+      "https://news.hada.io/topic?id=37267",
+      "https://news.hada.io/topic?id=37275",
+      "https://news.hada.io/topic?id=37278",
+      "https://news.hada.io/topic?id=37279",
+      "https://news.hada.io/topic?id=37282",
+      "https://news.hada.io/topic?id=37285"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50370610",
-      "https://news.ycombinator.com/item?id=50371246",
-      "https://news.ycombinator.com/item?id=50371508",
-      "https://news.ycombinator.com/item?id=50369895",
-      "https://news.ycombinator.com/item?id=50370654",
       "https://news.ycombinator.com/item?id=50372929",
       "https://news.ycombinator.com/item?id=50372945",
       "https://news.ycombinator.com/item?id=50373308",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50508715",
       "https://news.ycombinator.com/item?id=50509837",
       "https://news.ycombinator.com/item?id=50509972",
-      "https://news.ycombinator.com/item?id=50510296"
+      "https://news.ycombinator.com/item?id=50510296",
+      "https://news.ycombinator.com/item?id=50512441",
+      "https://news.ycombinator.com/item?id=50514470",
+      "https://news.ycombinator.com/item?id=50515058",
+      "https://news.ycombinator.com/item?id=50516245",
+      "https://news.ycombinator.com/item?id=50516473"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -504,7 +504,8 @@
       "https://tech.kakao.com/posts/843",
       "https://tech.kakao.com/posts/844",
       "https://tech.kakao.com/posts/845",
-      "https://tech.kakao.com/posts/846"
+      "https://tech.kakao.com/posts/846",
+      "https://tech.kakao.com/posts/847"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -716,7 +717,10 @@
       "https://d2.naver.com/helloworld/7749530",
       "https://d2.naver.com/helloworld/2568242",
       "https://d2.naver.com/helloworld/6523094",
-      "https://d2.naver.com/helloworld/1599966"
+      "https://d2.naver.com/helloworld/1599966",
+      "https://d2.naver.com/helloworld/4049909",
+      "https://d2.naver.com/helloworld/9994827",
+      "https://d2.naver.com/helloworld/5976687"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1488,21 +1492,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTE9OS0xjek9LR2JEbmF2R2hXYXlsRjcwZG1zLWZIdEg2bHhHWl9lNzA2TTU4aUlveExGcVZrVkhGX3dtV1BwcC1scjEtRzFvc0lnLXBONmlreV9ZZTVlcUVyNTJjMzZ5eTduNFZlaVZOMXdvM1lWREE",
-      "CBMidkFVX3lxTFAxQ3hwVjJNTFZIWFMtTnowNG94MEhILTFtbWU0R3hOYmV4b1hOamJlOF9CRGZ0cVZwbzNhRDRESDNtdGtremh2eTVWRmRSbVpwY3pNemRSbFc1RWhZdWxwWF9pM0tLNUdoOFpWWlVocEd6SDdYalE",
-      "CBMidkFVX3lxTE1UWVdabmRtMFZvVml3MVZwd3JLSHRDYnNiclV2QlYtTEJxdUlnMzM0MDZNRUJpTEZWTWFUT3RxeldiVFZDMzVGVmQzb3UzeUxiajl4YXZNemlUWmM3MzAtcEZWb2RCSEhtWmxLLW5Sb2pqRzhJaUE",
-      "CBMidkFVX3lxTE9Ld3N0Tl9yc1BaX3JmVUtkTkJJdTJ1TXB5OWMtcGowX25rSFdmenAzZzF4MU13SmlzMk9UbHNRUkNjdUJrdDFWd1VNcFlPUmhmclQ2VThBMWtSX095cEdhaUxSSDZnWFAxTGNBMDNVRWhuWkFRbHc",
-      "CBMidkFVX3lxTFA4aWdYTzQ4NGZmMVMzWlVoby0wZlIyNWowRUhlZElLZjR6WmM1RFhHRmN6ZGZfTFNkTGJwa2lrNGw2MFE2MGh6bWZVOWtON0dFOVhWb0UxQl9VVWdZWTVFRGtBb2Nydml2cGlHUHBNdGNvN09BYWc",
-      "CBMidkFVX3lxTE96NVpScWZFSnJYQjV0TEdmYWgzWXdTcUdYdFJfVFhFT2ctNUd6a0N2T2FfbzFqX0Q1aU55eHc1UGxkcWkwblJmSU9iUkxuX3NIT2llSzNPZEZ1dkd3ZWVrUEFpMGFwRmpKRTVVV0VRZ0t1aEllNWc",
-      "CBMidkFVX3lxTE8taVhnTDBrWC14cmQwaWw3UFR2bENYTURBS1kzTDdmWktsQkl4c3MtVzhMMTRkTVpoWHd1MktxX1NRemJKcjh5MXJtZ0RjWDRIVDc5WTBISVdEWk51Y2RlUTJiUkJwemd0M3pGTEVBLTVHT0pjbGc",
-      "CBMidkFVX3lxTE5YZEc4OEswY3AtaTQtYURPZjd5ekJId0RBdkpEa2hpX1hOXzBFQkd4YXp2d2FobjctZ2Niak8tMTlXQkFEV3lGakRnM0RESjBvQTJNWHd2RXUwbnZORmx0YVkzeWVzemtmUmlXdVhZQzFKWU92Y3c",
-      "CBMidkFVX3lxTE1HNXdNMmZsc285QVZkQVJIUUVpN2lrVGpBeFhuWjZKcVhCVHR2azI0WVVfRmpNbXNyN2tiYVZpdnFuZnJIOFFibXNRNno5TDdIc0I1LTlLd0N0cWI3T3ZYdG5hRUU0U0RfVEpPLUhNajdwa0liRmc",
-      "CBMidkFVX3lxTFBBdkw2VjZibzRjcGNpUnc1QktRTFJuZ2hXYXRjanlYcWZkajd6QlNPVW9yQVVPMEJQeVByOXJzY0luTXgxWlg3bjA5OHhJWndjbTZBWVd1dmNQOF9WYzFxckZIQWQzY095c2lOT050NWNhUkx5Z3c",
-      "CBMidkFVX3lxTE9tU3QyeWhnWm5xZm5qUWJ5X1VvQl9jcjF0Rllsb3cxTUxpTzFXYXhwVzFlS3Nzd3FLVm9mVnY0NHRiZDMxZ2Z1bXhyY3JSVlUxZ1BIWjh1VFlibjRZOVdlYVFkWWhrdWw1TEFtUVhYMExQWUoydXc",
-      "CBMidkFVX3lxTE5iS3lnRUVmWFREWm4xZkFTdzBxWkhKcElyTkJMVk9CUTVUb0o2SHEwaUJCSHFHMU9rYkRDOGtjR0pHaHhvM1BxS0g3ckg4NmJDN19vMkdRXzY3YVZrYXp6Z1lyZi04Q2JNUG9TYzF0VXlDcGx1d3c",
-      "CBMidkFVX3lxTE1DZndFZlVTa2t2MkRPVFBjNXlyRU1HZlA1bWk0OG01bHI2SGxNME1nZ0tOZm9IZ21WZnE2RERZR0lGSFJ6bENSVldDS1NmZzBmVHFWd3VQNk5jUFZ4S3ZEaW83RjNaVkFBY1NZTDd1bGRwTjBwN1E",
-      "CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ",
-      "CBMidkFVX3lxTE9uZElmS3dscWJYSDJfLWlKZG5aOUg0OC05MXE2M0drZ1RqcEEtM0M2N3lraXpPdm5kUFpVWXl4U1V1RURqaDhMN0V1LWJES3M0RVAyUGp3TzkteTVIMmJFTUliQm9wdVpRaDRGN2tpT1ZaSG52cnc",
       "CBMidkFVX3lxTE9nUXN6OHdXQlNmam1lOVpSWV9ENTB1d3huQV84a1E4Wk9kbmh1NVZGcmlsUHF4LTlvODNkNWtkT1dXMVI5UlJYLVBjRGU0ZUJ3LXo1OTRpS3I3YXFjYVVNZHB5Mk12czE1dUo5ckE3UmMxaDJ0S1E",
       "CBMidkFVX3lxTE03WGNYbWlqQWVibl9SZVdJdFM2Ylh1aFBadkNPajBZSDdBQ1k2VlYxdllUWlZBRW82NWNSLWU0cDN6MjFGSXVIOS1wQllLbHRVVzJkR0ZNSElMb3lubEFtMm9GTUNHcnBWNnZiMEp1cFFKRktPRlE",
       "CBMidkFVX3lxTE9WenNPb3UxVDlNcjlpVHJwUzEtOU9FcmZsSDd5SXRDVnVtS2pIYlB0Yk9DdldiVXZQSWJjWFd6Tm84OWJxaWMxakdFdDRvUVFLQnVUYVJCVjE1YzYyVGpabFdrWnZtNTZWRjNxUWpFRW5rWW5CV3c",
@@ -1687,11 +1676,141 @@
       "CBMiWkFVX3lxTE9yU2hoUFh3aUpPci1qeXMteldPZ2dLc2NMeFlVNnhPanMzbDFsZFZOak1tcDVfUU5PTXZTRDhNck1JWWZCY3R0SFRKRlFrdlEzT25ORmhpdDBuQQ",
       "CBMiWkFVX3lxTE0waXBhNFM1c3RSanh6eGZXcG9NbC1ueW4tT25fcXhGZWR0YnAzLWdTTjdrREZ3YzdodDFCUGN1NHR0U1pFWThSR2tOTmZnNHlTblRlVDNlVHM3UQ",
       "CBMiWkFVX3lxTE5OT2JMTW8xR3Q1WVBaTjdyZ2ZJX29HNHB1bDJodzN3MWFNRzJZRlVESUs2UjVvRy1hSksyTWxWNmtHLTBpaldRZnZ2UVNUSUpGaFpNb0hJZ2JCZw",
-      "CBMiWkFVX3lxTFBrRkRTMEtmOGw0anF4TnBLclFYZmtuQjQzVndERVhYN2V3R2pBdzlydXYxNTNDQk9kSVY4TjFwZUVnb0hWemR1UEEzOUtkZHFCNm1yODJnZUJmdw"
+      "CBMiWkFVX3lxTFBrRkRTMEtmOGw0anF4TnBLclFYZmtuQjQzVndERVhYN2V3R2pBdzlydXYxNTNDQk9kSVY4TjFwZUVnb0hWemR1UEEzOUtkZHFCNm1yODJnZUJmdw",
+      "CBMiWkFVX3lxTE5sOXBJSlFQdnd5TjJibm1ydE0yYUdWU2dyOVk2SWNod1ZLMWNwaUVWdEFOa3E4MGVhOWYyVVJ0dFpkdDJZWVpUY0VBTFY2OVdERnNSQ1BqV2dBUQ",
+      "CBMidkFVX3lxTE1tR2o0S1JSOFcxT05KcXFpQ2VaUjhFSkpXQ2Z1eEFIRTZlZzRhRkN1ZkFVVjJ2SGtrMERyekdvaHg1aUNpRmQ1RldjSnF6NWJyUHFqMlEzM2JrZnJxZ0JBb2RsTXROV2xlSUp1NjFWWmpTOGpTVXc",
+      "CBMidkFVX3lxTE1PbzZ2UE92cDc4OFd2WXVqMjZPeFVBMjVaV0hDRmEyRDVSRWJVSkM1Wk92Wmg1OFM1aEVRa0lJUlJ2dVZBMmtUWDB0UFBWNE05UlZBc1dwVWY1WjJxakl4OTd5emVBcG9Ka25jakl5ODJLeW80RFE",
+      "CBMidkFVX3lxTE5LVDl2UlN4bll2bUM3c3NLUGRESm9qUFI0NVM1NzRUWXRLSkltZHI0QlNkZ0VpbGUzbEFsN29sVHdLTXdvUWU4a1gteXZKOWdRMzQ4QS0tck9jeWhVUEktam9ta0VESUllUmlOaDZ3Umw4NnFZVEE",
+      "CBMidkFVX3lxTE4wSVJvZWJNM09tZDlrSmZWZldVMlZwYmFjaDZLNWMyLTFjcjBhNnFtSXlUZnNFa0ZpZHdpa2FyR1k5UFNqWHg0anJVakhoZDY1a05fRTJuR3ZiQThfNkFXN0E1YUg1MklMLTVHVGxEZ0lGUkJ1MGc",
+      "CBMidkFVX3lxTE12SVcyZEg0Y0RzRDA1dFY4WUpKMHNHMXNoTkhEcGd0RURwaWZFcFlHYzh2dkFDdHlQYTNrd3M2ellWQngyTmx6aUZXS0JEUFhST2NxV2RoZ3RwSjBBc2RQLWxBeHBfY21zN2ZkQ2hKRzFMd2hWOXc",
+      "CBMidkFVX3lxTE9PVTFNVHB3WGgwR1d5aHp5bGRGVnVwcl9LXzdKZm9pTzdpREkyMVFLck5GRV9kR3VwclQwTkUyeXctSWVVdFhpaF9MMXo1Qlh6ZU4ycUtuUWpMX0VwenZhVzhaOFZMSGJ2YzY1dXk2U3VJa0h0YUE",
+      "CBMidkFVX3lxTE9LdWZCWEZhZ1NLcFFaTUdDNHhjV2VEREdJRHV6STJEbUZydUpmemxTcGViRFdZYm9McE5nbjdnbnZ1d1NzU2R2OE05NklraGQzU2NSaTN6YTg0b2xWbFVpS0liUWNjdzJtdFM1REw1M0ZiRU5LU3c",
+      "CBMidkFVX3lxTFAxTUFQMmpmY2V2aEo5dk1SZlFHYzM4alBiV1U2UjVBR01BQUlJRHoyQU9DMVlNdERSMm1MXzIzSDZSalRYbk5UOFNmb24wNV9UMWhoSnNpVWgyS05FN0JyN0RjWnhVMkpiNE5yXy1DZWFZOU5IS3c",
+      "CBMidkFVX3lxTE9sQ2liS1BNdUFZaGc4RjhlcktnY19KcHhubDVscTNldTFuS3ljNHljTWNFcWRjeWhiSm9BVGUyLUZBbVFRdkUycUpXR0xmM2VXMWpTb25uSFFZS1dBbmhhRHJvMmM0TVlqNzhJNUd0V21ZV0laUXc",
+      "CBMidkFVX3lxTE5id3FtOFVJTjJXMDlNMXNjZ3pZSE43VnN6eVE0VzFjRmducDNnUlpSVzQtenNESU9QUGxMczBHZjg5VXhfU1hxUWpWOG5aRDdVTVRGSXYwVUpQNkJmb3Y5SGVUM2lueGgtMk5md3VWRGV5N0JWbFE",
+      "CBMidkFVX3lxTE40S3l5VUp0aWtNUnlDUEJ6MDdQajdDdWkxdHdFOVBSZV9MQVozS2JIUVJXSUNsVF9uTkpOMzkyWlZySHdLcml3UE8td0VSV1p4dmZGVU1NcDdVT1BmRnRraml3d05RVXkwQ2N1S3hKSFllZ2tSWHc",
+      "CBMidkFVX3lxTE13VjF4N3hYMEJtdXNuT2U3NEVUVTBSYVVmX2steFR0NnZ4b3V0VzNOdDZqYXdpUXh0WThLWW9LQ3d0SmF0RExGWUZHR1Vpa0MtTHJpSExkZHpXQkxRejR6NWE0WkJELVFWQk96UDIwVnhPdkxtVkE",
+      "CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ",
+      "CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "카카오",
+        "title": "잘 만들었다면, 잘 배운 것일까? : 카카오테크 캠퍼스가 고민한 주니어 개발자의 성장",
+        "link": "https://tech.kakao.com/posts/847",
+        "summary": "안녕하세요. 카카오 기술인재양성팀의 Elphie입니다. 저는 기술인재양성팀에서 예비 개발자 성장을 지원하는 사회 공헌 교육 “카카오테크 캠퍼스”를 기획/운영하고 있습니다. 개발자를 꿈꾸는 사람들이 무엇을 어떻게 배우면 좋을지 고민하는 일을 좋아하고, 주로 하고 있습니다. 올해 카카오테크 캠퍼스 참여 학생들은 그 어느 때보다도 코딩 에이전트를 적극적으로 활용해 학습했습니다. 과제에 대한 결과물을 완성하는 속도가 눈에 띄게 빨라졌고, 퀄리티도 좋아졌습니다..."
+      },
+      {
+        "source": "NAVER D2",
+        "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+        "link": "https://d2.naver.com/helloworld/4049909",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 코드만 남아 있던 14년 된 카페 관리도구를 AI와 함께 분석하고, Storybook과 MSW로 화면과 동작을 재현하며 새로운 카페 스튜디오를 개발했습니다. 이 과정에서 기획, 디자인, BE와의 협업 방식이 어떻게 달라졌는지 공유합니다. ​ 발표 대상 레거시 시스템 개편을 준비하는 개발자 AI를 실무에 활용하려는 엔지니어 화면과 정책을 함께 검증하며 협업하고 싶은…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지",
+        "link": "https://d2.naver.com/helloworld/9994827",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 SNOW의 16개 Image AI 서비스에서 응답 속도와 안정성을 높이면서, H100 환산 약 67장의 GPU 자원을 절감한 경험을 공유합니다. LitServe 전환과 함께 불필요한 연산과 CPU·GPU의 대기 시간을 줄이고, 실제 트래픽에 맞게 설정을 조정하며, 여러 서비스가 GPU를 공유하도록 만든 과정을 소개합니다. ( English Version : ​…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+        "link": "https://d2.naver.com/helloworld/5976687",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 '자율 그래프 주도 개발(Autonomous Graph-Driven Development)'에서는 사람의 직접적인 지시 없이 그래프가 프로젝트 진행을 주도합니다. 스펙 문서와 코드는 AI Agent 루프가 작성하고, 결정론적 코드가 이를 기계적으로 검사하며, 결함은 피드백 루프를 통해 자동으로 바로잡습니다. 사람이 AI를 호출하던 주도권이 역전되어 이제는 AI가…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "진짜 기업 앞에 서는 FDE 해커톤 ‘포워드톤’ 참가 모집",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sOXBJSlFQdnd5TjJibm1ydE0yYUdWU2dyOVk2SWNod1ZLMWNwaUVWdEFOa3E4MGVhOWYyVVJ0dFpkdDJZWVpUY0VBTFY2OVdERnNSQ1BqV2dBUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘 개발자에게 유용한 AI 툴",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tR2o0S1JSOFcxT05KcXFpQ2VaUjhFSkpXQ2Z1eEFIRTZlZzRhRkN1ZkFVVjJ2SGtrMERyekdvaHg1aUNpRmQ1RldjSnF6NWJyUHFqMlEzM2JrZnJxZ0JBb2RsTXROV2xlSUp1NjFWWmpTOGpTVXc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전기자동차에 있는 전자석의 성질을 사용한 예를 PPT에 쓸 수 있게 정리해줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PbzZ2UE92cDc4OFd2WXVqMjZPeFVBMjVaV0hDRmEyRDVSRWJVSkM1Wk92Wmg1OFM1aEVRa0lJUlJ2dVZBMmtUWDB0UFBWNE05UlZBc1dwVWY1WjJxakl4OTd5emVBcG9Ka25jakl5ODJLeW80RFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "실무에 도움 주는 챗GPT 활용법",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LVDl2UlN4bll2bUM3c3NLUGRESm9qUFI0NVM1NzRUWXRLSkltZHI0QlNkZ0VpbGUzbEFsN29sVHdLTXdvUWU4a1gteXZKOWdRMzQ4QS0tck9jeWhVUEktam9ta0VESUllUmlOaDZ3Umw4NnFZVEE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "일상생활에서 전자석을 이용하는 예 50가지",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wSVJvZWJNM09tZDlrSmZWZldVMlZwYmFjaDZLNWMyLTFjcjBhNnFtSXlUZnNFa0ZpZHdpa2FyR1k5UFNqWHg0anJVakhoZDY1a05fRTJuR3ZiQThfNkFXN0E1YUg1MklMLTVHVGxEZ0lGUkJ1MGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "자료명.작성자(기관),출처,핵심내용 한문장 필요해",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12SVcyZEg0Y0RzRDA1dFY4WUpKMHNHMXNoTkhEcGd0RURwaWZFcFlHYzh2dkFDdHlQYTNrd3M2ellWQngyTmx6aUZXS0JEUFhST2NxV2RoZ3RwSjBBc2RQLWxBeHBfY21zN2ZkQ2hKRzFMd2hWOXc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "그거에다가 설명도해줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVTFNVHB3WGgwR1d5aHp5bGRGVnVwcl9LXzdKZm9pTzdpREkyMVFLck5GRV9kR3VwclQwTkUyeXctSWVVdFhpaF9MMXo1Qlh6ZU4ycUtuUWpMX0VwenZhVzhaOFZMSGJ2YzY1dXk2U3VJa0h0YUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "방금과 같은 자료를 하나더 줘봐",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdWZCWEZhZ1NLcFFaTUdDNHhjV2VEREdJRHV6STJEbUZydUpmemxTcGViRFdZYm9McE5nbjdnbnZ1d1NzU2R2OE05NklraGQzU2NSaTN6YTg0b2xWbFVpS0liUWNjdzJtdFM1REw1M0ZiRU5LU3c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "약간 강제로 당하는 그런 내용이엇어",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxTUFQMmpmY2V2aEo5dk1SZlFHYzM4alBiV1U2UjVBR01BQUlJRHoyQU9DMVlNdERSMm1MXzIzSDZSalRYbk5UOFNmb24wNV9UMWhoSnNpVWgyS05FN0JyN0RjWnhVMkpiNE5yXy1DZWFZOU5IS3c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "해결 방항",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQ2liS1BNdUFZaGc4RjhlcktnY19KcHhubDVscTNldTFuS3ljNHljTWNFcWRjeWhiSm9BVGUyLUZBbVFRdkUycUpXR0xmM2VXMWpTb25uSFFZS1dBbmhhRHJvMmM0TVlqNzhJNUd0V21ZV0laUXc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전기차 충전기에 커넥터가 뭐야?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5id3FtOFVJTjJXMDlNMXNjZ3pZSE43VnN6eVE0VzFjRmducDNnUlpSVzQtenNESU9QUGxMczBHZjg5VXhfU1hxUWpWOG5aRDdVTVRGSXYwVUpQNkJmb3Y5SGVUM2lueGgtMk5md3VWRGV5N0JWbFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전지석이 사용돼는 예는?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40S3l5VUp0aWtNUnlDUEJ6MDdQajdDdWkxdHdFOVBSZV9MQVozS2JIUVJXSUNsVF9uTkpOMzkyWlZySHdLcml3UE8td0VSV1p4dmZGVU1NcDdVT1BmRnRraml3d05RVXkwQ2N1S3hKSFllZ2tSWHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "나랑가위바위보해볼레",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13VjF4N3hYMEJtdXNuT2U3NEVUVTBSYVVmX2steFR0NnZ4b3V0VzNOdDZqYXdpUXh0WThLWW9LQ3d0SmF0RExGWUZHR1Vpa0MtTHJpSExkZHpXQkxRejR6NWE0WkJELVFWQk96UDIwVnhPdkxtVkE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 시대 현직 개발자의 자기 효능감에 관하여",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "비개발 직군에 AI 가드레일 배포할 때 주의할 5가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
