@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36691",
-      "https://news.hada.io/topic?id=36693",
-      "https://news.hada.io/topic?id=36694",
-      "https://news.hada.io/topic?id=36696",
-      "https://news.hada.io/topic?id=36697",
       "https://news.hada.io/topic?id=36708",
       "https://news.hada.io/topic?id=36710",
       "https://news.hada.io/topic?id=36711",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37332",
       "https://news.hada.io/topic?id=37333",
       "https://news.hada.io/topic?id=37336",
-      "https://news.hada.io/topic?id=37337"
+      "https://news.hada.io/topic?id=37337",
+      "https://news.hada.io/topic?id=37347",
+      "https://news.hada.io/topic?id=37349",
+      "https://news.hada.io/topic?id=37352",
+      "https://news.hada.io/topic?id=37353",
+      "https://news.hada.io/topic?id=37355"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50381383",
-      "https://news.ycombinator.com/item?id=50381623",
-      "https://news.ycombinator.com/item?id=50383739",
-      "https://news.ycombinator.com/item?id=50383057",
-      "https://news.ycombinator.com/item?id=50383163",
       "https://news.ycombinator.com/item?id=50383740",
       "https://news.ycombinator.com/item?id=50384233",
       "https://news.ycombinator.com/item?id=50385272",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50523291",
       "https://news.ycombinator.com/item?id=50523459",
       "https://news.ycombinator.com/item?id=50524736",
-      "https://news.ycombinator.com/item?id=50524767"
+      "https://news.ycombinator.com/item?id=50524767",
+      "https://news.ycombinator.com/item?id=50530163",
+      "https://news.ycombinator.com/item?id=50531751",
+      "https://news.ycombinator.com/item?id=50532086",
+      "https://news.ycombinator.com/item?id=50532191",
+      "https://news.ycombinator.com/item?id=50532849"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -477,7 +477,9 @@
       "https://toss.tech/article/snap-llm-cost-reduction",
       "https://toss.tech/article/taste",
       "https://toss.tech/article/agent-platform-foundation",
-      "https://toss.tech/article/training-serving-skew"
+      "https://toss.tech/article/training-serving-skew",
+      "https://toss.tech/article/targeting-model-automation",
+      "https://toss.tech/article/new20-timeline-hub"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -805,7 +807,9 @@
       "https://medium.com/p/5340546886b5",
       "https://medium.com/p/16c6328dea50",
       "https://medium.com/p/5ae60ab5108b",
-      "https://medium.com/p/8dea7fe41c07"
+      "https://medium.com/p/8dea7fe41c07",
+      "https://medium.com/p/cbe1a46a9e71",
+      "https://medium.com/p/0a8f39c3b70b"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -1494,15 +1498,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE0tMG1lN2JueEtTblhFaXgyeXhRSjFQLUxoQUhWVUtScW1BVUVlSVlwWk1mU3Fob0dRM1Rhd2xzOGEwVWN3ampDVlh1UlFJSWhhN2ZnX2FDeEd5QQ",
-      "CBMiWkFVX3lxTE9fSUppUkFvandZb2JOMnluS2gwSy0xR0t4eGoyRjY0Sm9vaDlKVjV0ZFl2djJVaGNtNmpwSUs4ODNmYTBwOVRfV1ltNXE0MUU3VUtPX0N6VVlJUQ",
-      "CBMiWkFVX3lxTE1hdU5McW11bWhIbmNzRUdyVkc5eEtrX2lnSFdjcTM0M3d4M1RJOGtyZm9hd3MxVDIwU2E3UHFkd2c2ZXd1d3pPa1Z4eWFrbXU3MGJXN213N2U4QQ",
-      "CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ",
-      "CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw",
-      "CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ",
-      "CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw",
-      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ",
-      "CBMiWkFVX3lxTE93U0VxdXAzYk8xS3REWnhhNEtjVU9weXNSYkxlWmgxT01TOFVwbjI1YUJRMEFHQ3dfdFctTTdqemh3MG14Q0VlUXBVMEtkUzMwMmc3VmZJYVFvZw",
       "CBMiWkFVX3lxTE51OEdHU1dza3ZMUEZvSzZ2dzFSRXM2TkxCTTQtR1cwZTU0QV9DVVFRZmNTdkotZ05ldE9FMXczc0RqNnozT2hmUkczYmVCYnhOdDJnUXpJT1pMQQ",
       "CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw",
       "CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw",
@@ -1693,7 +1688,16 @@
       "CBMidkFVX3lxTE9yYlgwMWNza0NwRzExQnc3dXV5M21HSHZDTUJ1a2pYcVpQQmx2VS1IMWV2ZmtseGhJZGJXM1o1VnlxRXBNM1VORGpmenMtN3Z5UVJOUW44UUl4RXZEbW96RWJ6YkVOU1lockxEMG81UU5LaUIzVkE",
       "CBMidkFVX3lxTE04Ul85NXhZWENMcFZwbVJKLTZaYW1SZEMteFFhLUFpbldOTGZfNFNVd2hTVHI2SjIwdExIZEJKcjZheGphVlZFcmd2MXVsNDNzWE1kRGRKdVhCc0tGdEJHeDVoR3MtVGdraHFVSnQtQ2dJNXBhRFE",
       "CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ",
-      "CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ"
+      "CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ",
+      "CBMiWkFVX3lxTE52am5YaHdpS0Y4VlV6bHhTY1NFc2hCNG1zR3FOa20tc2VDWWptQ0piVlpSY3ZVdzBVWjh4cUhQVDV2QkhJU2MxNVFlV0tJLXhLaHlwSHNPSFFtUQ",
+      "CBMidkFVX3lxTFBkUjF5bWNldVRkZDlQMTNTQ2ZnUW4zTlR5bHhfWTJwUVVoM1h2V1puRE4zMnZOMmxQU0I1UDVqb3hZOW1vaFJYSFRxWk5nelhPVGpmWTRMUW4zVFhBeUlHem9ndUluVk11VUZsOVBMcUhOaFVVN2c",
+      "CBMidkFVX3lxTE5xbV9KUzRKTk1TbjFDVDZRSEpkd0h0dWtVMTdkcGdvWVpETDU5YW1vZDJhMk0wOXpCTENkOXIxMzhuaGktNkdZY0NQQ2lleXBNQWt0dnpGNFFaakJLZno0eDlDQXBNNXlaRGlZYUQ4Nnp5a1ByelE",
+      "CBMidkFVX3lxTE84bVRKQTJiQkRZUlpwazdJZlpWN2hoT0dMNDBNblBXNTkxRjBqS0pCTVh1YUxlME0zSEhPdGkzSVJsZC1HQm02STQ4TWJVa2ZUSG9XTGdFRWx2RjdFQWhMRGZSWktKODk2TnktN0dHNXVHaUpFblE",
+      "CBMidkFVX3lxTE1RWEI3eXZlZUx1ZmJvcGw0dVVmMFl3VkZCalVmd0Q4U0Fsbm9rdU54c19uWkxqS1dBcHhfbzRPSlR5b2xDSEFRQlJpX3BzbVF6U3NPQ3ZhQ0JLZjBnTTRZeDdzVUtzelpsUHdabldKeW1kVFN2eGc",
+      "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
+      "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
+      "CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw",
+      "CBMiWkFVX3lxTFBmaGRpb1Ezcmp6X1JsLWIzQmlUUi16T2Njb0dLLUJsLVNJOGhVRFlKMXYzYmNGUzZxQWl3YzNTd3pVemdrcm5xNnBaczdwVWZaZ3IzeU1OY0pYQQ"
     ]
   },
   "pending": {
@@ -1919,6 +1923,84 @@
         "title": "if(kakao)26 현장 스케치",
         "link": "https://tech.kakao.com/posts/849",
         "summary": "지난 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열렸습니다. ‘모든 연결에 지능을’이라는 주제 아래, 카카오가 만들어가는 AI 기술과 서비스를 소개하고 개발과 운영 과정에서 쌓은 경험을 나눴습니다. 현장과 온라인으로 함께해주신 모든 분께 감사드립니다. 올해 행사를 준비하며 집중한 것은 기술 세션과 만남이었습니다. 카카오가 도달한 지점과 아직 풀고 있는 문제를 솔직하게 공유하고, 비슷한 고민을 가진 사람들이 서로의 경험을 나눌..."
+      },
+      {
+        "source": "토스테크",
+        "title": "판단에만 집중하세요: 토스 타겟팅 모델 개발 자동화",
+        "link": "https://toss.tech/article/targeting-model-automation",
+        "summary": "피쳐 개수 자동 결정부터 모델 비교, 평가 보고서 자동 생성, 메트릭 확인까지"
+      },
+      {
+        "source": "토스테크",
+        "title": "지표 뒤에 숨은 맥락을 한눈에: New20 Timeline Hub 만들기",
+        "link": "https://toss.tech/article/new20-timeline-hub",
+        "summary": "흩어진 정책, 배포, 실험 기록을 하나의 시간축으로 연결해 분석가의 질문에 답하는 허브를 만든 경험을 공유합니다."
+      },
+      {
+        "source": "당근",
+        "title": "GitHub Actions 모니터링의 빈칸: Exporter로 ARC Runner 관측하기",
+        "link": "https://medium.com/daangn/github-actions-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%98-%EB%B9%88%EC%B9%B8-exporter%EB%A1%9C-arc-runner-%EA%B4%80%EC%B8%A1%ED%95%98%EA%B8%B0-cbe1a46a9e71?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요, 당근 SRE팀 딜리버리 파트에서 일하고 있는 Uno(우노)예요. 딜리버리 파트는 Kubernetes 환경 기반의 사내 배포 플랫폼 Kontrol을 운영하고 GitHub Actions 중심의 전사 CI 시스템을 관리해요. 이번 글에서는 GitHub Actions를 운영하며 Job의 대기 현황과 Job을 실행 중인 Runner를 파악하기 위해 exporter를 만들고 개선한 과정을 소개할게요. exporter를 소개하기에 앞서 GitHub Actions의 구조를 간단히 살펴볼게요.…"
+      },
+      {
+        "source": "당근",
+        "title": "Closing the GitHub Actions Monitoring Gap: Observing ARC Runners with an Exporter",
+        "link": "https://medium.com/daangn/closing-the-github-actions-monitoring-gap-observing-arc-runners-with-an-exporter-0a8f39c3b70b?source=rss----4505f82a2dbd---4",
+        "summary": "Hi, I’m Uno from the Delivery part of Karrot’s SRE team. Our team’s mission is to run Kontrol, our internal deployment platform on Kubernetes, and manage the company-wide CI system that mostly relies on GitHub Actions. In this post I’ll introduce the exporter we built to see…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "국내 FDE 공고 117건 분석: 누가 뽑고, 무엇을 요구할까",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52am5YaHdpS0Y4VlV6bHhTY1NFc2hCNG1zR3FOa20tc2VDWWptQ0piVlpSY3ZVdzBVWjh4cUhQVDV2QkhJU2MxNVFlV0tJLXhLaHlwSHNPSFFtUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "ㅇㄴ 네이버웹툰에서 내가찾늨 웹툰 내용이 처능력이 있는 세상인데 그게 팔찌로 나타나고 초능력이 없는 여주같은사람들은 핍박받음 남주는 처능력 개많고 서브도 개많아 남주이름은 도현임",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkUjF5bWNldVRkZDlQMTNTQ2ZnUW4zTlR5bHhfWTJwUVVoM1h2V1puRE4zMnZOMmxQU0I1UDVqb3hZOW1vaFJYSFRxWk5nelhPVGpmWTRMUW4zVFhBeUlHem9ndUluVk11VUZsOVBMcUhOaFVVN2c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "비슷한 사이트좀 알려줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xbV9KUzRKTk1TbjFDVDZRSEpkd0h0dWtVMTdkcGdvWVpETDU5YW1vZDJhMk0wOXpCTENkOXIxMzhuaGktNkdZY0NQQ2lleXBNQWt0dnpGNFFaakJLZno0eDlDQXBNNXlaRGlZYUQ4Nnp5a1ByelE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "초능력이 있는 세상인데 야주늨 초능력이없고 남주는 없다가 상김 이름음 도현",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84bVRKQTJiQkRZUlpwazdJZlpWN2hoT0dMNDBNblBXNTkxRjBqS0pCTVh1YUxlME0zSEhPdGkzSVJsZC1HQm02STQ4TWJVa2ZUSG9XTGdFRWx2RjdFQWhMRGZSWktKODk2TnktN0dHNXVHaUpFblE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "인생도박이라는 야동사이트 알아?",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWEI3eXZlZUx1ZmJvcGw0dVVmMFl3VkZCalVmd0Q4U0Fsbm9rdU54c19uWkxqS1dBcHhfbzRPSlR5b2xDSEFRQlJpX3BzbVF6U3NPQ3ZhQ0JLZjBnTTRZeDdzVUtzelpsUHdabldKeW1kVFN2eGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 전 세계에서 가장 인기 있는 에이전트 스킬 Top5는 뭘까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2026년 하반기 국내외 IT 컨퍼런스 일정 모아보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "열심히 공부하는 당신이 서류조차 못 넘는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MUNtRWdIQ2t4bnpUamUtdUU0OW9HeVhLSS10R2h3UnRLd3NGUnljU3BNZWNIbk8tbWhGMG1PSm5fY1dDQjBOMkQya3ZZQ2hVMExSMHROVlBTZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2인 팀이 AI로 만든 서비스, 유료 사용자 1,600명까지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmaGRpb1Ezcmp6X1JsLWIzQmlUUi16T2Njb0dLLUJsLVNJOGhVRFlKMXYzYmNGUzZxQWl3YzNTd3pVemdrcm5xNnBaczdwVWZaZ3IzeU1OY0pYQQ?oc=5",
+        "summary": ""
       }
     ],
     "weekly-finance": []
