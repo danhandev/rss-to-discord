@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36678",
-      "https://news.hada.io/topic?id=36679",
-      "https://news.hada.io/topic?id=36682",
-      "https://news.hada.io/topic?id=36683",
-      "https://news.hada.io/topic?id=36684",
       "https://news.hada.io/topic?id=36691",
       "https://news.hada.io/topic?id=36693",
       "https://news.hada.io/topic?id=36694",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37302",
       "https://news.hada.io/topic?id=37303",
       "https://news.hada.io/topic?id=37304",
-      "https://news.hada.io/topic?id=37305"
+      "https://news.hada.io/topic?id=37305",
+      "https://news.hada.io/topic?id=37328",
+      "https://news.hada.io/topic?id=37332",
+      "https://news.hada.io/topic?id=37333",
+      "https://news.hada.io/topic?id=37336",
+      "https://news.hada.io/topic?id=37337"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50377078",
-      "https://news.ycombinator.com/item?id=50377221",
-      "https://news.ycombinator.com/item?id=50378228",
-      "https://news.ycombinator.com/item?id=50380810",
-      "https://news.ycombinator.com/item?id=50381033",
       "https://news.ycombinator.com/item?id=50381383",
       "https://news.ycombinator.com/item?id=50381623",
       "https://news.ycombinator.com/item?id=50383739",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50522563",
       "https://news.ycombinator.com/item?id=50522980",
       "https://news.ycombinator.com/item?id=50523601",
-      "https://news.ycombinator.com/item?id=50524165"
+      "https://news.ycombinator.com/item?id=50524165",
+      "https://news.ycombinator.com/item?id=50523025",
+      "https://news.ycombinator.com/item?id=50523291",
+      "https://news.ycombinator.com/item?id=50523459",
+      "https://news.ycombinator.com/item?id=50524736",
+      "https://news.ycombinator.com/item?id=50524767"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -476,7 +476,8 @@
       "https://toss.tech/article/dataops-log-definition-skill",
       "https://toss.tech/article/snap-llm-cost-reduction",
       "https://toss.tech/article/taste",
-      "https://toss.tech/article/agent-platform-foundation"
+      "https://toss.tech/article/agent-platform-foundation",
+      "https://toss.tech/article/training-serving-skew"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -505,7 +506,8 @@
       "https://tech.kakao.com/posts/844",
       "https://tech.kakao.com/posts/845",
       "https://tech.kakao.com/posts/846",
-      "https://tech.kakao.com/posts/847"
+      "https://tech.kakao.com/posts/847",
+      "https://tech.kakao.com/posts/849"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -1905,6 +1907,18 @@
         "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ?oc=5",
         "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "같은 모델, 다른 예측",
+        "link": "https://toss.tech/article/training-serving-skew",
+        "summary": "Training–Serving Skew를 줄인 과정을 소개합니다."
+      },
+      {
+        "source": "카카오",
+        "title": "if(kakao)26 현장 스케치",
+        "link": "https://tech.kakao.com/posts/849",
+        "summary": "지난 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열렸습니다. ‘모든 연결에 지능을’이라는 주제 아래, 카카오가 만들어가는 AI 기술과 서비스를 소개하고 개발과 운영 과정에서 쌓은 경험을 나눴습니다. 현장과 온라인으로 함께해주신 모든 분께 감사드립니다. 올해 행사를 준비하며 집중한 것은 기술 세션과 만남이었습니다. 카카오가 도달한 지점과 아직 풀고 있는 문제를 솔직하게 공유하고, 비슷한 고민을 가진 사람들이 서로의 경험을 나눌..."
       }
     ],
     "weekly-finance": []
