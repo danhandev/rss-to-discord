@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36720",
-      "https://news.hada.io/topic?id=36721",
-      "https://news.hada.io/topic?id=36722",
-      "https://news.hada.io/topic?id=36723",
-      "https://news.hada.io/topic?id=36724",
       "https://news.hada.io/topic?id=36734",
       "https://news.hada.io/topic?id=36735",
       "https://news.hada.io/topic?id=36736",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37373",
       "https://news.hada.io/topic?id=37375",
       "https://news.hada.io/topic?id=37376",
-      "https://news.hada.io/topic?id=37377"
+      "https://news.hada.io/topic?id=37377",
+      "https://news.hada.io/topic?id=37396",
+      "https://news.hada.io/topic?id=37398",
+      "https://news.hada.io/topic?id=37400",
+      "https://news.hada.io/topic?id=37401",
+      "https://news.hada.io/topic?id=37402"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50385870",
-      "https://news.ycombinator.com/item?id=50386338",
-      "https://news.ycombinator.com/item?id=50387796",
-      "https://news.ycombinator.com/item?id=50390124",
-      "https://news.ycombinator.com/item?id=50390525",
       "https://news.ycombinator.com/item?id=50392118",
       "https://news.ycombinator.com/item?id=50393154",
       "https://news.ycombinator.com/item?id=50393758",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50537156",
       "https://news.ycombinator.com/item?id=50537290",
       "https://news.ycombinator.com/item?id=50538240",
-      "https://news.ycombinator.com/item?id=50538994"
+      "https://news.ycombinator.com/item?id=50538994",
+      "https://news.ycombinator.com/item?id=50539747",
+      "https://news.ycombinator.com/item?id=50540178",
+      "https://news.ycombinator.com/item?id=50540437",
+      "https://news.ycombinator.com/item?id=50542135",
+      "https://news.ycombinator.com/item?id=50542705"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -510,7 +510,8 @@
       "https://tech.kakao.com/posts/845",
       "https://tech.kakao.com/posts/846",
       "https://tech.kakao.com/posts/847",
-      "https://tech.kakao.com/posts/849"
+      "https://tech.kakao.com/posts/849",
+      "https://tech.kakao.com/posts/848"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -725,7 +726,11 @@
       "https://d2.naver.com/helloworld/1599966",
       "https://d2.naver.com/helloworld/4049909",
       "https://d2.naver.com/helloworld/9994827",
-      "https://d2.naver.com/helloworld/5976687"
+      "https://d2.naver.com/helloworld/5976687",
+      "https://d2.naver.com/helloworld/8055238",
+      "https://d2.naver.com/helloworld/1376800",
+      "https://d2.naver.com/helloworld/6180316",
+      "https://d2.naver.com/helloworld/5896967"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1499,12 +1504,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw",
-      "CBMiWkFVX3lxTFBER2FNek4xYmxqc2tpaFZ2ZjhOemtfZXA3LUFLMUNMV05GMU9qRUZyWW1lc1p6ajljeFdnczQxYWJkeXpzTFRHMnVOcmRMZU1NdHBCZHRvdjJaQQ",
-      "CBMiWkFVX3lxTE5tLW94N24xTlZLVWwxaF9UVUFBTmtzVmNFSUdUS2pmTTlhck5sSG0wUzdIWjdDQndMQnF5NmlvV2pkZTBDRjJWcU0tSHBsMmpnMjREUllNeXp0QQ",
-      "CBMiWkFVX3lxTE5TUzg5T196djBqcFFhaC1NRHZUYm5fVWhhYTdaVV9YZXpVOFhqVklfNHhpMWNmTzg2cGlPNjM1anJ1MmxDTFNLeHppV3puZlExb2lJY1JqQ1lsQQ",
-      "CBMiWkFVX3lxTFAyS1AxUlNyMUZCUW8xVXFuQXkwdDVuR1NFeVpCaTNwd2E2c3dLUGlpZDJGQzNhSXJsLS1wa0JMWWdIV01VZEJxNlVYb0xfVVlFSzRza0hMYVd5QQ",
-      "CBMiWkFVX3lxTE5OMFZRYnJyZGpYR3B4OGNoaTlxTjFJa25sbVMxTmtvSFgwUzlvaGJHa1VMXy1selBZZGpsLVpFR0h4Z3JEOThZc25pUmhNcDNzaUpNZXJkcHRKQQ",
       "CBMiWkFVX3lxTE1TUDdxT0ZFTWpGZ0dyLW94cUpnVnR1R1NkdnM1RUZqUHpXajUxSVdGRkkycUw3SWc2ZWxEZVJ3LXVBMWxDbWNQcjM0TmdubzE3TlozTXpqTW00UQ",
       "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
       "CBMiWkFVX3lxTE9WdjFUSHRydzBEZUhjR2dBb0hjanhzam55THZQVEp4SVk2NmF6UFZJVFBSb3hYUGZXQjVsQTZsR1FPS1dxTU1xS25SZ2hMOEtjcDlVVDcwdUlSdw",
@@ -1698,7 +1697,13 @@
       "CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ",
       "CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw",
       "CBMiWkFVX3lxTE93U0VxdXAzYk8xS3REWnhhNEtjVU9weXNSYkxlWmgxT01TOFVwbjI1YUJRMEFHQ3dfdFctTTdqemh3MG14Q0VlUXBVMEtkUzMwMmc3VmZJYVFvZw",
-      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ"
+      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ",
+      "CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw",
+      "CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw",
+      "CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ",
+      "CBMiWkFVX3lxTE1UMDNScmRIUmI4N2Rpd2V0TFc5Y0Vmbm1KR2VQSDJvXzduRjZKZlIzZzNfZlBZak93emUzeElubTJYLUhjTjZ6QUdiVjFJX1NoWlBaYU1zV20wUQ",
+      "CBMiWkFVX3lxTE9uejRxVm81bFp1eWZCZjUyaVVFaHRZdUw0NU05bVhlOXlPUmp1akdyNVllNTJXb0ZFMTlwdVJrbjdKSUZSb0JmZEZ6NXlmVzd3MVI4a0c5OTZWUQ",
+      "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw"
     ]
   },
   "pending": {
@@ -2049,6 +2054,72 @@
         "source": "요즘IT",
         "title": "소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "같은 GPU로 더 많은 AI 요청을 처리할 수 있을까? ― KV 캐시 오프로딩 × EPP 라우팅: 계산 결과를 오래 남기고, 다음 요청이 그 결과를 찾아가게 하기",
+        "link": "https://tech.kakao.com/posts/848",
+        "summary": "“같은 GPU 32장, 같은 요청 3,456건. 처리 시간이 121.7분에서 47.2분으로 줄었습니다. GPU도 모델도 바꾸지 않았습니다. 바꾼 것은 두 가지입니다. 이미 계산한 결과를 GPU 밖에도 보관할 수 있게 했고, 같은 문서를 묻는 다음 요청이 그 결과를 가진 서버로 가게 했습니다.” 저희 팀은 사내 서비스가 쓰는 LLM 추론 플랫폼을 운영합니다. 모델을 GPU에 올리는 일부터 요청을 GPU로 나눠 보내는 게이트웨이까지 맡고 있습니다. 그래..."
+      },
+      {
+        "source": "NAVER D2",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 1편 - 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조",
+        "link": "https://d2.naver.com/helloworld/8055238",
+        "summary": "GPU 서버 한 대를 여러 사용자가 함께 쓴다면 사용자의 작업을 어디까지 격리해야 할까요? 적어도 한 사용자의 컨테이너 탈출이 같은 서버에 있는 다른 사용자의 작업이나 GPU 접근으로 이어져서는 안 됩니다. Kubernetes 위에서 NVIDIA GPU 환경을 격리하면서 겪은 문제와 해결 방법을 네 편으로 나누어 정리했습니다. 1편: 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 2편 - GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성",
+        "link": "https://d2.naver.com/helloworld/1376800",
+        "summary": "1편에서는 Kata Containers(이하 'kata')가 Pod마다 VM을 만들고 그 안에서 컨테이너를 실행하는 구조를 살펴봤습니다. 2편에서는 이 VM에 GPU를 연결합니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편: GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe, vCPU 배치,…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 3편 - Fabric Manager 파티션과 DRA를 이용한 GPU 할당",
+        "link": "https://d2.naver.com/helloworld/6180316",
+        "summary": "2편에서는 GPU를 vfio-pci에 바인딩해 VM에 연결하는 구조와 GPU 8장 VM의 부팅·메모리 구성을 살펴봤습니다. 이번 3편에서는 그 VM에 연결할 GPU를 어떻게 고르는지 다룹니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편: Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe,…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 4편 - IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능",
+        "link": "https://d2.naver.com/helloworld/5896967",
+        "summary": "3편에서는 Fabric Manager가 NVLink로 묶어 주는 GPU 조합인 fabric partition(이하 '파티션')을 DRA(동적 리소스 할당)로 할당하고 VM에 연결했습니다. 학습 작업을 실행하려면 GPU뿐 아니라 다른 서버와 IB(InfiniBand)로 통신할 NIC(network interface card), 모델과 데이터를 읽고 쓸 로컬 스토리지도 필요합니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "SI회사 홈페이지에서 SI가 사라지는 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "정말로 지금은 Codex가 Claude Code보다 나을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "IT 직무 사전: ‘테크니컬 라이터’는 하루 종일 글만 쓰나요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "웹 개발자라면 알고 있어야 할 HTTP의 진화 과정",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMDNScmRIUmI4N2Rpd2V0TFc5Y0Vmbm1KR2VQSDJvXzduRjZKZlIzZzNfZlBZak93emUzeElubTJYLUhjTjZ6QUdiVjFJX1NoWlBaYU1zV20wUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "개발자 생활 첫 10년, 이 세 가지가 중요합니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uejRxVm81bFp1eWZCZjUyaVVFaHRZdUw0NU05bVhlOXlPUmp1akdyNVllNTJXb0ZFMTlwdVJrbjdKSUZSb0JmZEZ6NXlmVzd3MVI4a0c5OTZWUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "페이블, 앤트로픽 엔지니어가 알려주는 활용 가이드",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw?oc=5",
         "summary": ""
       }
     ],
