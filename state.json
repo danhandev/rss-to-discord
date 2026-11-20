@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36781",
-      "https://news.hada.io/topic?id=36782",
-      "https://news.hada.io/topic?id=36784",
-      "https://news.hada.io/topic?id=36785",
-      "https://news.hada.io/topic?id=36787",
       "https://news.hada.io/topic?id=36802",
       "https://news.hada.io/topic?id=36803",
       "https://news.hada.io/topic?id=36805",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37477",
       "https://news.hada.io/topic?id=37478",
       "https://news.hada.io/topic?id=37479",
-      "https://news.hada.io/topic?id=37480"
+      "https://news.hada.io/topic?id=37480",
+      "https://news.hada.io/topic?id=37496",
+      "https://news.hada.io/topic?id=37497",
+      "https://news.hada.io/topic?id=37498",
+      "https://news.hada.io/topic?id=37499",
+      "https://news.hada.io/topic?id=37502"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50403052",
-      "https://news.ycombinator.com/item?id=50403066",
-      "https://news.ycombinator.com/item?id=50404599",
-      "https://news.ycombinator.com/item?id=50406111",
-      "https://news.ycombinator.com/item?id=50406222",
       "https://news.ycombinator.com/item?id=50406292",
       "https://news.ycombinator.com/item?id=50406563",
       "https://news.ycombinator.com/item?id=50406670",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50562113",
       "https://news.ycombinator.com/item?id=50562262",
       "https://news.ycombinator.com/item?id=50562754",
-      "https://news.ycombinator.com/item?id=50563148"
+      "https://news.ycombinator.com/item?id=50563148",
+      "https://news.ycombinator.com/item?id=50559179",
+      "https://news.ycombinator.com/item?id=50559719",
+      "https://news.ycombinator.com/item?id=50561515",
+      "https://news.ycombinator.com/item?id=50563066",
+      "https://news.ycombinator.com/item?id=50564159"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1505,7 +1505,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTE1Ra29SaE9xaHVQRFhnei1fY1RDUmZTLUhKU3BoSl83WG16MXByQTl0VTJldy1UTWdrQ2YwUkttaHhvR0Vxc2dhbGtfWm1YNXJVSHNCVVB2emtRTnlCcnJNdXlaREVURnZvZ0RpbmhHQ09Qb0d2Tmc",
       "CBMidkFVX3lxTFBfeWZoRWlVWXVsbmxSU3d2aGdqVmZZT2ZTaEYxQU5fc1loU2NfR0tPZktLdGJDZXI0WExpbHlpZ1RaNnNEbTBaLVNSdmdoZXNTTDY2UGhncHpkdkUxWW1MUGdETVBCS2hwRnVaQ3BiTzR6dzlGZ1E",
       "CBMidkFVX3lxTFAyNk1EV0JLU0dwR25uLUJ0akM5cEpSN2U5b3ZMc2tsYXpHQ3lLcXdsVkdsZ1dJR3haS2VyZ0w5TVVUdEx4ejQtT1FET2tfMzl6SXdTaVkzWTNPRHZCaDZRNUtWQXdWeF90ZUJLYjFMQ05EM0NyNkE",
       "CBMidkFVX3lxTE50UmVHRGlBb2RoekFFMU56VHV3dV9HRFM3c2hZZWxxZ2J1XzlJRnNwbENFU0VJMjc3RDNyX3hMRDFnWW9rVGpyRlNybzdIZlBGMjJUTmZ1UnB6U0pfN3M1RllHN0NMZncwZU5EY2xSclpPdlllVEE",
@@ -1704,7 +1703,8 @@
       "CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ",
       "CBMidkFVX3lxTE1JMmhteWRlbVZFY2VveHp0VEt4OVBIZjR5VnZOUTFYWkE5SmstR19SV2JxWDJoQWEtNjROYmF0QWg5X1ZiV1puSjVGellNUjdtRTFfUnFTTWVxelM2eW8yU1dOVUN6MWk2Ylc1QTlIOTNaNUpsWXc",
       "CBMiWkFVX3lxTE1WOGRxSXJSUW91VW1lbHMzZGk3THJwWnd6YUh3OWFSdzlUeE1VVFZlOXNTOFdPX0s2VkxjLUJINUNmZjJkNy1JZXFfTU5rb3lNRFF5Yk1ZN1ZnUQ",
-      "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw"
+      "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw",
+      "CBMiWkFVX3lxTE85djZsc090UkpMaFJxTE43LW44RURtOWQxT0NEVHIxRG5aUU5taE5iWWVueXdaTk5zekJudGtWNnU1VGhvUmZ5SWRtd01vdGNISms1aW9jQ3N5UQ"
     ]
   },
   "pending": {
@@ -2241,6 +2241,12 @@
         "source": "요즘IT",
         "title": "주니어 개발자를 위한, ‘웹’으로 알아보는 네트워크",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "출시 취소 후 새로 나온 GPT-6.2 Astra, 무엇이 달라졌을까",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85djZsc090UkpMaFJxTE43LW44RURtOWQxT0NEVHIxRG5aUU5taE5iWWVueXdaTk5zekJudGtWNnU1VGhvUmZ5SWRtd01vdGNISms1aW9jQ3N5UQ?oc=5",
         "summary": ""
       }
     ],
