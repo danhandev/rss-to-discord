@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36802",
-      "https://news.hada.io/topic?id=36803",
-      "https://news.hada.io/topic?id=36805",
-      "https://news.hada.io/topic?id=36806",
-      "https://news.hada.io/topic?id=36807",
       "https://news.hada.io/topic?id=36820",
       "https://news.hada.io/topic?id=36821",
       "https://news.hada.io/topic?id=36822",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37497",
       "https://news.hada.io/topic?id=37498",
       "https://news.hada.io/topic?id=37499",
-      "https://news.hada.io/topic?id=37502"
+      "https://news.hada.io/topic?id=37502",
+      "https://news.hada.io/topic?id=37508",
+      "https://news.hada.io/topic?id=37510",
+      "https://news.hada.io/topic?id=37511",
+      "https://news.hada.io/topic?id=37512",
+      "https://news.hada.io/topic?id=37513"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50406292",
-      "https://news.ycombinator.com/item?id=50406563",
-      "https://news.ycombinator.com/item?id=50406670",
-      "https://news.ycombinator.com/item?id=50403507",
-      "https://news.ycombinator.com/item?id=50405674",
       "https://news.ycombinator.com/item?id=50407882",
       "https://news.ycombinator.com/item?id=50377661",
       "https://news.ycombinator.com/item?id=50408713",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50559719",
       "https://news.ycombinator.com/item?id=50561515",
       "https://news.ycombinator.com/item?id=50563066",
-      "https://news.ycombinator.com/item?id=50564159"
+      "https://news.ycombinator.com/item?id=50564159",
+      "https://news.ycombinator.com/item?id=50567209",
+      "https://news.ycombinator.com/item?id=50568861",
+      "https://news.ycombinator.com/item?id=50569226",
+      "https://news.ycombinator.com/item?id=50569890",
+      "https://news.ycombinator.com/item?id=50569998"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -481,7 +481,8 @@
       "https://toss.tech/article/agent-platform-foundation",
       "https://toss.tech/article/training-serving-skew",
       "https://toss.tech/article/targeting-model-automation",
-      "https://toss.tech/article/new20-timeline-hub"
+      "https://toss.tech/article/new20-timeline-hub",
+      "https://toss.tech/article/bankbook_graphic"
     ],
     "https://tech.kakao.com/feed/": [
       "https://tech.kakao.com/posts/821",
@@ -794,7 +795,8 @@
       "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
       "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure",
       "https://techblog.lycorp.co.jp/ko/line-premium-call-recording",
-      "https://techblog.lycorp.co.jp/ko/defcon-ctf-2026-finals"
+      "https://techblog.lycorp.co.jp/ko/defcon-ctf-2026-finals",
+      "https://techblog.lycorp.co.jp/ko/external-guardrails-for-ai-security"
     ],
     "https://medium.com/feed/daangn": [
       "https://medium.com/p/0bc268f819c7",
@@ -1505,9 +1507,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTFBfeWZoRWlVWXVsbmxSU3d2aGdqVmZZT2ZTaEYxQU5fc1loU2NfR0tPZktLdGJDZXI0WExpbHlpZ1RaNnNEbTBaLVNSdmdoZXNTTDY2UGhncHpkdkUxWW1MUGdETVBCS2hwRnVaQ3BiTzR6dzlGZ1E",
-      "CBMidkFVX3lxTFAyNk1EV0JLU0dwR25uLUJ0akM5cEpSN2U5b3ZMc2tsYXpHQ3lLcXdsVkdsZ1dJR3haS2VyZ0w5TVVUdEx4ejQtT1FET2tfMzl6SXdTaVkzWTNPRHZCaDZRNUtWQXdWeF90ZUJLYjFMQ05EM0NyNkE",
-      "CBMidkFVX3lxTE50UmVHRGlBb2RoekFFMU56VHV3dV9HRFM3c2hZZWxxZ2J1XzlJRnNwbENFU0VJMjc3RDNyX3hMRDFnWW9rVGpyRlNybzdIZlBGMjJUTmZ1UnB6U0pfN3M1RllHN0NMZncwZU5EY2xSclpPdlllVEE",
       "CBMidkFVX3lxTE5kNDdZOUp5SW1sSFpwRjY2TFVZSlprVlFHdldzNWtMQ1k3V2FWV1pteWJxcmdXZ2p6RUpNQXB4VVc0eWhFOGNIMkNmS1V1SFZRUmFZREVfN2hpeGVJTF9PdEcxNFBOd0VtWVRJMW5jaDV0YkVYekE",
       "CBMidkFVX3lxTFBLS1dyZUpfTEN6dHBrU1NpNHNhekwzNXhUZTU4cFFLcFNnZlVEWUg3dF9vWGZxOF9OZ1AzWklocFpXVlMxeUVVSDhQelBIQUZiZFEwRHR0SWpuWUZXazRqb0dEckExZWN0aERoa0d0V1VtU1JUaHc",
       "CBMidkFVX3lxTE00N291VnpVaTczWUxqVFVWWmhVTm5lTS10UTFTVHNMR2YyRXMwWHc2NV9zZnZKdS1uMUszakgyQk8zVWxGb256YWlkSURoWkJ1MUEzdWJqUzVMU05UMzhSNTNRLXNlS1ZrazdVTTVqb2h1OWRvNFE",
@@ -1704,7 +1703,10 @@
       "CBMidkFVX3lxTE1JMmhteWRlbVZFY2VveHp0VEt4OVBIZjR5VnZOUTFYWkE5SmstR19SV2JxWDJoQWEtNjROYmF0QWg5X1ZiV1puSjVGellNUjdtRTFfUnFTTWVxelM2eW8yU1dOVUN6MWk2Ylc1QTlIOTNaNUpsWXc",
       "CBMiWkFVX3lxTE1WOGRxSXJSUW91VW1lbHMzZGk3THJwWnd6YUh3OWFSdzlUeE1VVFZlOXNTOFdPX0s2VkxjLUJINUNmZjJkNy1JZXFfTU5rb3lNRFF5Yk1ZN1ZnUQ",
       "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw",
-      "CBMiWkFVX3lxTE85djZsc090UkpMaFJxTE43LW44RURtOWQxT0NEVHIxRG5aUU5taE5iWWVueXdaTk5zekJudGtWNnU1VGhvUmZ5SWRtd01vdGNISms1aW9jQ3N5UQ"
+      "CBMiWkFVX3lxTE85djZsc090UkpMaFJxTE43LW44RURtOWQxT0NEVHIxRG5aUU5taE5iWWVueXdaTk5zekJudGtWNnU1VGhvUmZ5SWRtd01vdGNISms1aW9jQ3N5UQ",
+      "CBMiWkFVX3lxTE9ZNElSZzFQaVVac1gwRVJXaDZtSU15N0Z5ODBmVUdqbUpaX2liZ1ZtcHdwV2dKM011N3RScmp5NWh1QnJTZlNMZzdrSjh1aFQzT0tFVHNGeWF6dw",
+      "CBMidkFVX3lxTE90ZHhDU3dGUEZ0YnlZdU5PQ3RhcDByMWhCb1NKTm1GN0QwT1BTbkk1Y0tTMXdiQmdLVTZKUWlPbGozSGNmMzgxSWJwdF9qeUZrNjhGbEdYZUdlQklDZTcxMUU4ampGdEtFdk9LMnc0eHduOFZaM2c",
+      "CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw"
     ]
   },
   "pending": {
@@ -2247,6 +2249,36 @@
         "source": "요즘IT",
         "title": "출시 취소 후 새로 나온 GPT-6.2 Astra, 무엇이 달라졌을까",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85djZsc090UkpMaFJxTE43LW44RURtOWQxT0NEVHIxRG5aUU5taE5iWWVueXdaTk5zekJudGtWNnU1VGhvUmZ5SWRtd01vdGNISms1aW9jQ3N5UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "토스테크",
+        "title": "디자인 시스템 만들던 디자이너가 3D 그래픽을 그린다면",
+        "link": "https://toss.tech/article/bankbook_graphic",
+        "summary": "통장 개설 UI를 그리면서 AI와 함께 상상의 폭을 넓혀 본 과정을 소개합니다."
+      },
+      {
+        "source": "LINE",
+        "title": "AI 시대 필수 보안: 외부 가드레일 완벽 가이드",
+        "link": "https://techblog.lycorp.co.jp/ko/external-guardrails-for-ai-security",
+        "summary": "들어가며안녕하세요. LINE Plus에서 AI 서비스를 안전하게 사용하기 위한 가드레일을 개발하고 있는 김영현, 한종우, 장혁재, 이수아입니다.다양한 업무와 서비스에서 AI가 자연..."
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI로 만든 거 안 쓰고 있나요? : 계속 쓰게 만드는 방법 4가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNElSZzFQaVVac1gwRVJXaDZtSU15N0Z5ODBmVUdqbUpaX2liZ1ZtcHdwV2dKM011N3RScmp5NWh1QnJTZlNMZzdrSjh1aFQzT0tFVHNGeWF6dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "닉네임 추천",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZHhDU3dGUEZ0YnlZdU5PQ3RhcDByMWhCb1NKTm1GN0QwT1BTbkk1Y0tTMXdiQmdLVTZKUWlPbGozSGNmMzgxSWJwdF9qeUZrNjhGbEdYZUdlQklDZTcxMUU4ampGdEtFdk9LMnc0eHduOFZaM2c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "데이터 시각화 101: 3데이터 속 거짓말 발견하기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NVW9vQ2lPYmlaQlBoRktTQWpsS2pHMXFCWHJCWE9xamJablZSZmRjQTZSYlRJd2RNTzBDRU44MGl4S0xaMDJZaWxRWTRPVWdMT3M0Mm9fdi1FZw?oc=5",
         "summary": ""
       }
     ],
