@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36857",
-      "https://news.hada.io/topic?id=36869",
-      "https://news.hada.io/topic?id=36870",
-      "https://news.hada.io/topic?id=36872",
-      "https://news.hada.io/topic?id=36873",
       "https://news.hada.io/topic?id=36879",
       "https://news.hada.io/topic?id=36880",
       "https://news.hada.io/topic?id=36882",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37560",
       "https://news.hada.io/topic?id=37561",
       "https://news.hada.io/topic?id=37563",
-      "https://news.hada.io/topic?id=37564"
+      "https://news.hada.io/topic?id=37564",
+      "https://news.hada.io/topic?id=37582",
+      "https://news.hada.io/topic?id=37583",
+      "https://news.hada.io/topic?id=37584",
+      "https://news.hada.io/topic?id=37585",
+      "https://news.hada.io/topic?id=37586"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50418176",
-      "https://news.ycombinator.com/item?id=50418182",
-      "https://news.ycombinator.com/item?id=50418975",
-      "https://news.ycombinator.com/item?id=50419215",
-      "https://news.ycombinator.com/item?id=50420035",
       "https://news.ycombinator.com/item?id=50422069",
       "https://news.ycombinator.com/item?id=50422168",
       "https://news.ycombinator.com/item?id=50422628",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50581110",
       "https://news.ycombinator.com/item?id=50583274",
       "https://news.ycombinator.com/item?id=50583761",
-      "https://news.ycombinator.com/item?id=50585593"
+      "https://news.ycombinator.com/item?id=50585593",
+      "https://news.ycombinator.com/item?id=50587859",
+      "https://news.ycombinator.com/item?id=50587875",
+      "https://news.ycombinator.com/item?id=50588916",
+      "https://news.ycombinator.com/item?id=50588982",
+      "https://news.ycombinator.com/item?id=50589618"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1507,7 +1507,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTFBveUtXUmlrV18zb0Y2dUV2bldvNE1abF9VcHV1S1FoTVZJRl9ZWTdQd3hPWkpQbTdwYmNaNDZFMFZxT0RJUmNzaDZid0w3Z3pDYThyTmF1dmpCMW1FamE1SFA3T3pTRC05Ql84emxyQ1RweDFaWHc",
       "CBMidkFVX3lxTFBGZUk1cGhXRW5PMGNYS2dQRUxXT3JBemVpb2c0SFFoVlhpVk1YX1dwRElzRDJEYkEybXdWV1pHTXU3Wm1oZHRiTzFMdG1VWWYwS1EySjZtRWJzd1M4Sl94OU1fUWVKOFR3Q3NVa1p3b1lqTXlZbVE",
       "CBMidkFVX3lxTE5XMTNzdEM4THpVNHpVU2VaX2dRQ29mNjVDYUlKWkRYakk2bWotdHN0b2JZTTl0VGotcTZ1cy1mcEw0NXJ6QUZOMy11c3I5bl8xSGtsSEhEWWtRSWZlcVhjLXUyWHFFbldqWjktb25scmJkamJmeEE",
       "CBMidkFVX3lxTFBfNmNtekYxZHFKMF9sMTJfc2xvbzFYZWRxRkxRdWVfeDBtV25HQlItT29zblBrdm9sejF1VTJETDNZT0dmV2FYLWxnaFotbEtTRUUydEtUS3hnMU90aVBWVjEwM3dvZ0ZrYXBHbVEweWhBcldZdkE",
@@ -1706,7 +1705,8 @@
       "CBMiWkFVX3lxTE5ZbnFOTmktYU1JUXdwUFBua3lTUkFSMEhNNHpibzVjU1hvMzVPSERaM01TaUFkUXJTSFNqWXM4SmMtM2ZybjBJS3FyR1ZCazNIOVIxWTFaTlR2dw",
       "CBMidkFVX3lxTE13dmpiMTJ1Z0pjYjV5cUlOSnpMU3JKbk1rTnJUcElPSTRMaDBlSHVVNjdQTmJNMURoUEU5OXRLRTNfMDRJOWM5YVFEVjNZa1FpVERiMlJPTU1VYmFwRGFteEN6Z0E5WEV0QzBITGY2dElSejVaMFE",
       "CBMidkFVX3lxTE1ZdGNNX3ZGQjhEVVdQMXdBaTAxTkpnYWV4TnRWbDR0WGJxQkZ0OG5FNk1qOG5pS0FZaHgtYm1JcWdCenY0djlXeElHZVFBdzNWMzlYb1dsTXN6UjFDaDNYQ2trYlhnUzctdmRXRFNJVkpnV3dDY2c",
-      "CBMiWkFVX3lxTFBVVUtUZTUzWXpOaGFiRm1OWWpNb2tPM0twSGZYV1FjemRQZVd6c3R5Y3NmVEJubXczNG1idDZPMzRDUHFEcWp4azFRaVFGaXdSVUhYLUliR2Jfdw"
+      "CBMiWkFVX3lxTFBVVUtUZTUzWXpOaGFiRm1OWWpNb2tPM0twSGZYV1FjemRQZVd6c3R5Y3NmVEJubXczNG1idDZPMzRDUHFEcWp4azFRaVFGaXdSVUhYLUliR2Jfdw",
+      "CBMiWkFVX3lxTE5Sb2RfRVJXblh6TTBQMnFzaHdocndtVUVSMmlXOUJ5cFRzbzBnZjlwektoZy1iZV9yb215OEk1d2ltbEU3SzgwVXVDdGQzN243eDZyc1VSeThNZw"
     ]
   },
   "pending": {
@@ -2531,6 +2531,12 @@
         "source": "요즘IT",
         "title": "UX의 새로운 도전, 메타버스를 디자인하라",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVVUtUZTUzWXpOaGFiRm1OWWpNb2tPM0twSGZYV1FjemRQZVd6c3R5Y3NmVEJubXczNG1idDZPMzRDUHFEcWp4azFRaVFGaXdSVUhYLUliR2Jfdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "외주로 만든 우리 쇼핑몰, PHP 취약점 뉴스에 해당될까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb2RfRVJXblh6TTBQMnFzaHdocndtVUVSMmlXOUJ5cFRzbzBnZjlwektoZy1iZV9yb215OEk1d2ltbEU3SzgwVXVDdGQzN243eDZyc1VSeThNZw?oc=5",
         "summary": ""
       }
     ],
