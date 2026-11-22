@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36924",
-      "https://news.hada.io/topic?id=36925",
-      "https://news.hada.io/topic?id=36928",
-      "https://news.hada.io/topic?id=36929",
-      "https://news.hada.io/topic?id=36930",
       "https://news.hada.io/topic?id=36941",
       "https://news.hada.io/topic?id=36942",
       "https://news.hada.io/topic?id=36943",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37602",
       "https://news.hada.io/topic?id=37603",
       "https://news.hada.io/topic?id=37604",
-      "https://news.hada.io/topic?id=37607"
+      "https://news.hada.io/topic?id=37607",
+      "https://news.hada.io/topic?id=37625",
+      "https://news.hada.io/topic?id=37626",
+      "https://news.hada.io/topic?id=37627",
+      "https://news.hada.io/topic?id=37628",
+      "https://news.hada.io/topic?id=37629"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50429068",
-      "https://news.ycombinator.com/item?id=50429426",
-      "https://news.ycombinator.com/item?id=50429430",
-      "https://news.ycombinator.com/item?id=50429734",
-      "https://news.ycombinator.com/item?id=50433659",
       "https://news.ycombinator.com/item?id=50437106",
       "https://news.ycombinator.com/item?id=50437790",
       "https://news.ycombinator.com/item?id=50439000",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50583028",
       "https://news.ycombinator.com/item?id=50590441",
       "https://news.ycombinator.com/item?id=50591260",
-      "https://news.ycombinator.com/item?id=50593737"
+      "https://news.ycombinator.com/item?id=50593737",
+      "https://news.ycombinator.com/item?id=50594132",
+      "https://news.ycombinator.com/item?id=50594911",
+      "https://news.ycombinator.com/item?id=50595554",
+      "https://news.ycombinator.com/item?id=50596133",
+      "https://news.ycombinator.com/item?id=50597612"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1507,10 +1507,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTE1FX1pPZjR6c3FfUUhfajUzdU1JcnRhWWNLMENONWJkQ2tWTUhmV3JBUmliV2lrM21jTmtoRTBlUVcyb2gyNFA1VmhxczBuN3NST1A2bnoxaWFBT2pNZ0h0NDlUN2ZvWjIzT0QycE5pWE9laDVWS0E",
-      "CBMidkFVX3lxTE5KNjRiMUw4T1ZnVE4zQUg3aW11ZEdmX3Q4UzNGM25uTEZWOHZFZzB0d3lyZEluN1RLY09maUpyTTZXVW42MHBGeEZ5MXlUNFdWa2lXcWYyUWpPLV9TbzB6SUhYQWdubHhBSWpjUnBrQXFUV2NoVkE",
-      "CBMidkFVX3lxTE5UeTZDa2Qtd1J3TG80TlBaZEJzWTZXcElsZ21ERjZYQmIzR1QydE5KSXBsQWZOeURSUnpBNkZ1dnh2czZPQmJ6N2xIQ0lBRXhFWWNjMlRtMlZ6aFBLZXNtTTJuMDY2YllfSWR0MmpJS2lfVkNDNlE",
-      "CBMidkFVX3lxTE8xUDgxaVo2OUd4UmMtdGRwanlfTDRzeEM5UlJ3VW9meTVNUTFLM0Q1Q1lkZHNkMmwtZEpDcmZPZ2tseXI3S3NLMGVrZVRoTm9VdGlMaUFqdG5ncl9FQjlVTDNXMTN3aDBSVW9hZ3lwTjc0NHVTY0E",
       "CBMidkFVX3lxTFBjbW0xWWpOOHRDX0NNbFhDOVF5UXVfWmo4MXBNY0JmdGJXZnAwTzBPRDAxaG9qMEJZNloybXdUdlhJS0JZUDhGX3ZJaXdwT2lucjdkVURXbGk4R1QwbmdIZEpFeXZmdmk0WXZmV1hZR1hZRzZELVE",
       "CBMidkFVX3lxTFA0MnVSVFdScTBtQlBMRHBEM0xhZXMwVHZmZkxNSzhVaWUtUUNybGphY25EblJDSmdZcWJJek9qSmNfTmx2S2U1bDBGRWc0RElBMG9saHJERnBTU0tac3hIRGhMWXRYS1JKYU5XQmpUTGVpZlNsaVE",
       "CBMidkFVX3lxTE1sVDhOMGJaVVZsd050QkpQeU1RS3V6al8tNGh5UDM4Zk1mZ1Fkb0lwZzJUMDFVS2c0RDlZM3hVMkZJS2t6cGRicl9nWlFkWXFOdlJ2MW9IOGp1VE15ZUtnems4dEJrZjRuM0tvcUlxQ2hDaUZGbGc",
@@ -1706,7 +1702,11 @@
       "CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw",
       "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
       "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
-      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ"
+      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ",
+      "CBMiWkFVX3lxTE1uOTEzWk5NM1B3SnM4RmMzMmlIa0Y4akNIcV9manlkOXhpbGV2N0RZUWJteWtWQnlfTmxjdjB4cjBWRUZNQ1dSdGc0RUEwdnFuQ2ViRkVGdHo0UQ",
+      "CBMid0FVX3lxTE1XMHMyQmliWVNwNUR2Tm40Zmx3YWJMa3BmUDFEcGpkdTN0dGVuYllBSGx2MUhJOUNlQjdMY0NHbURNXy1oUWJNb3lFR0FiSDhIaFBvc0VDdnFOOHBuWHdHX0lUUU5FbExKVnRBQmxTbVlxNnhsNTVZ",
+      "CBMidEFVX3lxTFA5WElDWWFKWGZrM3NRUVZlMGgxS0Y4MDBUQnNMdVROTEhaQmdjUzYzaVdLall2cE5BdHptX2ZkU1otRVplN1l0V04zVUQ0Z2xQZm5ubC1jdW1tUVZJdS1JQXpkelRaOUYzN093bXJXTHpzUzJz",
+      "CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw"
     ]
   },
   "pending": {
@@ -2747,6 +2747,30 @@
         "source": "요즘IT",
         "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "역기획, 서비스 분석은 딱 반쪽짜리 공부다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uOTEzWk5NM1B3SnM4RmMzMmlIa0Y4akNIcV9manlkOXhpbGV2N0RZUWJteWtWQnlfTmxjdjB4cjBWRUZNQ1dSdGc0RUEwdnFuQ2ViRkVGdHo0UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "SavePoint Station Manager 리뷰 : 솔직한 사용자 후기를 확인해 보세요.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMHMyQmliWVNwNUR2Tm40Zmx3YWJMa3BmUDFEcGpkdTN0dGVuYllBSGx2MUhJOUNlQjdMY0NHbURNXy1oUWJNb3lFR0FiSDhIaFBvc0VDdnFOOHBuWHdHX0lUUU5FbExKVnRBQmxTbVlxNnhsNTVZ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Get1pct 리뷰 : 솔직한 사용자 후기를 확인해 보세요.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5WElDWWFKWGZrM3NRUVZlMGgxS0Y4MDBUQnNMdVROTEhaQmdjUzYzaVdLall2cE5BdHptX2ZkU1otRVplN1l0V04zVUQ0Z2xQZm5ubC1jdW1tUVZJdS1JQXpkelRaOUYzN093bXJXTHpzUzJz?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 챗봇이 있어도 왜 콜센터 전화는 줄지 않을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3d1aG9xbFVUQVJqNzdkR2NINFlXRVNjcVFfZGJLZnlGaGREMm40QmdOTmxTcWQ0OVc2WG5IQWtVMWV5RGhLWlhmTThyWk9rYUsxeEZOOTNCdw?oc=5",
         "summary": ""
       }
     ],
