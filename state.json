@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36907",
-      "https://news.hada.io/topic?id=36908",
-      "https://news.hada.io/topic?id=36909",
-      "https://news.hada.io/topic?id=36910",
-      "https://news.hada.io/topic?id=36911",
       "https://news.hada.io/topic?id=36924",
       "https://news.hada.io/topic?id=36925",
       "https://news.hada.io/topic?id=36928",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37594",
       "https://news.hada.io/topic?id=37595",
       "https://news.hada.io/topic?id=37597",
-      "https://news.hada.io/topic?id=37598"
+      "https://news.hada.io/topic?id=37598",
+      "https://news.hada.io/topic?id=37600",
+      "https://news.hada.io/topic?id=37602",
+      "https://news.hada.io/topic?id=37603",
+      "https://news.hada.io/topic?id=37604",
+      "https://news.hada.io/topic?id=37607"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50429906",
-      "https://news.ycombinator.com/item?id=50430621",
-      "https://news.ycombinator.com/item?id=50431058",
-      "https://news.ycombinator.com/item?id=50431144",
-      "https://news.ycombinator.com/item?id=50432831",
       "https://news.ycombinator.com/item?id=50429068",
       "https://news.ycombinator.com/item?id=50429426",
       "https://news.ycombinator.com/item?id=50429430",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50582069",
       "https://news.ycombinator.com/item?id=50587208",
       "https://news.ycombinator.com/item?id=50590279",
-      "https://news.ycombinator.com/item?id=50591853"
+      "https://news.ycombinator.com/item?id=50591853",
+      "https://news.ycombinator.com/item?id=50546587",
+      "https://news.ycombinator.com/item?id=50583028",
+      "https://news.ycombinator.com/item?id=50590441",
+      "https://news.ycombinator.com/item?id=50591260",
+      "https://news.ycombinator.com/item?id=50593737"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1507,16 +1507,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTE82SWg0c3ZRMVN4SFVxOEtCMHpKemkzTzA1NG9zdl9PV0t6a25EbjQwa3J0eEYyX2EwU2ZnNXFkb2RuYVdGajJxTmJDeHlsazF2UFJOVjg5VlhheFNrVGRoYkljV1dGLS1iRVZmVmFvNEpwT1c2b0E",
-      "CBMiWkFVX3lxTE1uOTEzWk5NM1B3SnM4RmMzMmlIa0Y4akNIcV9manlkOXhpbGV2N0RZUWJteWtWQnlfTmxjdjB4cjBWRUZNQ1dSdGc0RUEwdnFuQ2ViRkVGdHo0UQ",
-      "CBMidkFVX3lxTFB0TC02bFZZWk0yS0t4b1B4ajBfUEp6aldlQmxnZnA1MkF4MkU2V2d3bW9aa05UVXNFMXVfUlcteVhtbE5iRHk4Wl9sVktyU0lCb0xWUVc0X1FKTGhuU2dVc3VLVGNxejBHdTFXYll5RHBLdkRmTVE",
-      "CBMidkFVX3lxTE1IYWtNRkp2TXdXWjhUWjhfM19XWFl3aWNvMlJsR253UExlSy15cXBOTkZneF9xZUNkTjZfeHRTczE2X3ZVQkdKakJacDRTTWZ3TkJlRzZvSlZWUDJCc3I4bkwtNV80M3A0OVBtT1d0SmliRDdNSUE",
-      "CBMidkFVX3lxTFBlNTFQS1pNMXpGWG1wcDU2eXlJMnlkNDRJSU5wSThYdFc2UHI4Qjd6SWVweWJRMUtMWGRETGdMOUk2S3NZc2RiQ2w1UkRlREpXMFNfQjJSQ1Vfd182N2NWTklUWlppbFlvNklaekY3Y05kTnUzdGc",
-      "CBMidkFVX3lxTE5wZFp1bHo1ZEo0SFVuN0s3UGNiWWdvTTljTkdpeS1UNG9UUktxeGpaWWV3cUhpdjl3dUViUHNGaFZoV3RwVExHZW1pOGNsc0p2eS1fR2p0d2FESC0zZnZOWmxoel9lajFRWUtTbG8wdE1mVHh3ZkE",
-      "CBMidkFVX3lxTE91MmFVd0FsTnRweFhqSjM2Q1JtbTdNYzVKc29RT0EwNjhlZDc4R2JITDlneWs0N2U0cDNMd0wzMms2ZmxZWGpGSW1SZWZkWnlyYkkwU1EzZ3lPcFVGNGxqdlFMM3dPOVBncTNtU0xONmJtYVBPdUE",
-      "CBMidkFVX3lxTE50M2dhYlBsUndrTW1rUmZqS2dUWUZhV2RfcDZBN1ZvT2JsYlpfZG9BQloxYUV4aUVuMTE1Q0V1M2xIM3RuSklIeVZmUThzaVpTY3lId2U5SEpETG5XWWhyaFJwS3pRTHI5U0Jfc0JhWWRGWHZ5bWc",
-      "CBMidkFVX3lxTFBJYWMyVENtWlFZYlRuS2trQzBic0dLdUZoTDhreXNwVmk0V0I0QUppTTFjNkZ3ZjJDLWZYbmMyUTdWZExXamZSMTdjUnQwRE9SS2NzVzhsTjBtQTI0QUFReFNTZGtwQk1pLW93dF9QZmhKWlk3MVE",
-      "CBMidkFVX3lxTFBqN0JRdWN0empOTXkxcm1GcUNYUjY0dV9USm01T2lhZ0tNOGFOMHVsTFBuVUtOT3BlTWZsOGx3Z2oxRUYxQzllM3Yzd1FXU3cxc2FVUFItRkVzOUt2d0dPdmlwNEJ5Wm9MT2xWczVIeThLYk9tbmc",
       "CBMidkFVX3lxTE1FX1pPZjR6c3FfUUhfajUzdU1JcnRhWWNLMENONWJkQ2tWTUhmV3JBUmliV2lrM21jTmtoRTBlUVcyb2gyNFA1VmhxczBuN3NST1A2bnoxaWFBT2pNZ0h0NDlUN2ZvWjIzT0QycE5pWE9laDVWS0E",
       "CBMidkFVX3lxTE5KNjRiMUw4T1ZnVE4zQUg3aW11ZEdmX3Q4UzNGM25uTEZWOHZFZzB0d3lyZEluN1RLY09maUpyTTZXVW42MHBGeEZ5MXlUNFdWa2lXcWYyUWpPLV9TbzB6SUhYQWdubHhBSWpjUnBrQXFUV2NoVkE",
       "CBMidkFVX3lxTE5UeTZDa2Qtd1J3TG80TlBaZEJzWTZXcElsZ21ERjZYQmIzR1QydE5KSXBsQWZOeURSUnpBNkZ1dnh2czZPQmJ6N2xIQ0lBRXhFWWNjMlRtMlZ6aFBLZXNtTTJuMDY2YllfSWR0MmpJS2lfVkNDNlE",
@@ -1706,7 +1696,17 @@
       "CBMidkFVX3lxTE9QZzdxZ0c5OC1OUEVjN1FqTFluMm11akEyOERZWXBYSm8yd2Y4TWxLd2tYYTJVSGZmNU5IZDFmOXNnUGxWTDVWazdpNlNYb0YxaVZteExwQ0t3UWwwTWlvMXlIanFIWktuWWFaSkl4a0NIUHp3R1E",
       "CBMidkFVX3lxTFBRMmFWWlJzbGJ6S3o4U3lNWjNWNzA4TXB3ZDdYbzlpdElZbWhvOEU2MFJ3SjAtQ3hDVDBydUROMXFwSmRGdS1YR0dRYllnVTdpMWRjTnlPbkdMbnR0YjBtRC0yZUxKX0U3eHBOLUF4REYxSWdlbnc",
       "CBMidkFVX3lxTE5HS3ZqYzRKV0EyTncyRU8zY25mazJHRlVEbnUyTXBmVGU0QUpTTy1LR2t6ZE5kMUJ0cG9HQUFrVzRYVkw0bEROXzU5clBqbENVLUNSWGxzanBiaUp4TUx6Z1A3ZGFHOWZMZnlNY3c3SUxrSWh0aUE",
-      "CBMidkFVX3lxTFBTbTVlM2dsc3JfOEZkZDZ3TkNVYWZLMlZCcVdKaWQya25vQW1QZ1JuRDd2UzZKdzBsOUdIb1R2aEtzbHhySzBRd1NGU2FDM0p4Z3pfVU1OendYQWN2c2tXQVV2SXpzZ0k2ckFLVG5lbEt5MkNnRGc"
+      "CBMidkFVX3lxTFBTbTVlM2dsc3JfOEZkZDZ3TkNVYWZLMlZCcVdKaWQya25vQW1QZ1JuRDd2UzZKdzBsOUdIb1R2aEtzbHhySzBRd1NGU2FDM0p4Z3pfVU1OendYQWN2c2tXQVV2SXpzZ0k2ckFLVG5lbEt5MkNnRGc",
+      "CBMidkFVX3lxTFBFSUFDYW1faUlhRUtxZmFrUEdJVFNDWEI2S1RNNjJTNU1ZTWp1QnhTSlh5MFRETUdqVEZBbWZsaVFiNjJEM2tZSGt0bW9QQnNYWC04MG95YWswZlo5d29Wa0ZkYnhyVk1OSFhPeUN6R0FVa1JTMFE",
+      "CBMidkFVX3lxTE5kSmtIZVVkb2huZW1OVjQ4QVhINGdUTkRFX2ltTjE3bTN2ZEZXZjZRa0lCNndxbXVLSGZpTXVyNzFqb01IcldzSGVZUVpldXo1YTF4WF9pSHExRm1SYTF3akpYSzllcXBTOXlqRUp1RmltNWlfdmc",
+      "CBMiWkFVX3lxTE5BSnZHMlp2RjZxN0lLQkNvVWZJMWxrZHoxZk8zUGJ4YTV0WFJkUksxX25KUlY4bUF2Y3BoenQ1dmp2bHhGc3R1NUowNGo3aF9xNjJSdFNVdWF3QQ",
+      "CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw",
+      "CBMiWkFVX3lxTE5xMTRyUWZVTm1vUTd3NTlEd1VvenAxVXdIdjRlaC1RNTBiUmRmdVVvZ2N2M0N4VHRsZ0JIemFLbkJ2Rk1tSWpfOUdFcnRvdDVsd3FRUG5rSVI0dw",
+      "CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ",
+      "CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw",
+      "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
+      "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
+      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ"
     ]
   },
   "pending": {
@@ -2687,6 +2687,66 @@
         "source": "요즘IT",
         "title": "Xhamster 같은 다른 사이트",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTbTVlM2dsc3JfOEZkZDZ3TkNVYWZLMlZCcVdKaWQya25vQW1QZ1JuRDd2UzZKdzBsOUdIb1R2aEtzbHhySzBRd1NGU2FDM0p4Z3pfVU1OendYQWN2c2tXQVV2SXpzZ0k2ckFLVG5lbEt5MkNnRGc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "네이버 웹툰에 있는건데 완결났고 좀 오래됬어 주인공이 작가 본인의 이야기를설명하는거고 주변 친구들이랑 일어나는 일을 그린거야",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFSUFDYW1faUlhRUtxZmFrUEdJVFNDWEI2S1RNNjJTNU1ZTWp1QnhTSlh5MFRETUdqVEZBbWZsaVFiNjJEM2tZSGt0bW9QQnNYWC04MG95YWswZlo5d29Wa0ZkYnhyVk1OSFhPeUN6R0FVa1JTMFE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "야한사이트 좀 알려주세요 제 건강은 괜찮아요",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSmtIZVVkb2huZW1OVjQ4QVhINGdUTkRFX2ltTjE3bTN2ZEZXZjZRa0lCNndxbXVLSGZpTXVyNzFqb01IcldzSGVZUVpldXo1YTF4WF9pSHExRm1SYTF3akpYSzllcXBTOXlqRUp1RmltNWlfdmc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "A/B 테스트 결과, 이게 맞아?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSnZHMlp2RjZxN0lLQkNvVWZJMWxrZHoxZk8zUGJ4YTV0WFJkUksxX25KUlY4bUF2Y3BoenQ1dmp2bHhGc3R1NUowNGo3aF9xNjJSdFNVdWF3QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRTZUNy1GNWRWNlpkR0oydkhXQ1NhMFFaVFFnLVl0WldnYVh0Q1lLbUs1Q2IzUmtKSlo1RXBtYWYzWlQ4Nno4TEdZeGVKSDNpdElBT0F4dm05dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "주니어 개발자를 위한 TCP/IP 주요 프로토콜 알아보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMTRyUWZVTm1vUTd3NTlEd1VvenAxVXdIdjRlaC1RNTBiUmRmdVVvZ2N2M0N4VHRsZ0JIemFLbkJ2Rk1tSWpfOUdFcnRvdDVsd3FRUG5rSVI0dw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "육아하며 바이브 코딩으로 만든 앱, 앱스토어 1위까지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42R2g4MHQ1Y21wX01GLWtPQkh2SkJWZjdSdlJvTTJrTzQ1T2NvN3dCbFpscFFDaFRhM1pWYndxd2pjVDZjOEVQbDNXQTJ2bGp1WjJpc0NLSlgzUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ZkFnUVo2aUpldnd0ajQwTEtqZFVJTHRlWUhsZEhSQkgtUGxVeU5nRGRaTm1JOWxVeUNQcEJxM2h4MTlONFh5QUVjekRfNHNOQU5sbEJScGJtZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "GPT-5.6 ‘제한 공개’ 사건의 전말",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "커뮤니티 서비스 만들지 마세요, 어차피 실패합니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
         "summary": ""
       }
     ],
