@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=36986",
-      "https://news.hada.io/topic?id=36987",
-      "https://news.hada.io/topic?id=36988",
-      "https://news.hada.io/topic?id=36989",
-      "https://news.hada.io/topic?id=36990",
       "https://news.hada.io/topic?id=37000",
       "https://news.hada.io/topic?id=37001",
       "https://news.hada.io/topic?id=37002",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37693",
       "https://news.hada.io/topic?id=37694",
       "https://news.hada.io/topic?id=37695",
-      "https://news.hada.io/topic?id=37696"
+      "https://news.hada.io/topic?id=37696",
+      "https://news.hada.io/topic?id=37708",
+      "https://news.hada.io/topic?id=37710",
+      "https://news.hada.io/topic?id=37712",
+      "https://news.hada.io/topic?id=37713",
+      "https://news.hada.io/topic?id=37714"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50442736",
-      "https://news.ycombinator.com/item?id=50446520",
-      "https://news.ycombinator.com/item?id=50448921",
-      "https://news.ycombinator.com/item?id=50449275",
-      "https://news.ycombinator.com/item?id=50449748",
       "https://news.ycombinator.com/item?id=50453637",
       "https://news.ycombinator.com/item?id=50453763",
       "https://news.ycombinator.com/item?id=50454625",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50604472",
       "https://news.ycombinator.com/item?id=50604988",
       "https://news.ycombinator.com/item?id=50606192",
-      "https://news.ycombinator.com/item?id=50607261"
+      "https://news.ycombinator.com/item?id=50607261",
+      "https://news.ycombinator.com/item?id=50603143",
+      "https://news.ycombinator.com/item?id=50604123",
+      "https://news.ycombinator.com/item?id=50606499",
+      "https://news.ycombinator.com/item?id=50607668",
+      "https://news.ycombinator.com/item?id=50609685"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -733,7 +733,16 @@
       "https://d2.naver.com/helloworld/8055238",
       "https://d2.naver.com/helloworld/1376800",
       "https://d2.naver.com/helloworld/6180316",
-      "https://d2.naver.com/helloworld/5896967"
+      "https://d2.naver.com/helloworld/5896967",
+      "https://d2.naver.com/helloworld/2957037",
+      "https://d2.naver.com/helloworld/2622882",
+      "https://d2.naver.com/helloworld/0118355",
+      "https://d2.naver.com/helloworld/5037527",
+      "https://d2.naver.com/helloworld/2526679",
+      "https://d2.naver.com/helloworld/7131556",
+      "https://d2.naver.com/helloworld/5087915",
+      "https://d2.naver.com/helloworld/1126768",
+      "https://d2.naver.com/helloworld/3284900"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1508,21 +1517,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTFAxTUFQMmpmY2V2aEo5dk1SZlFHYzM4alBiV1U2UjVBR01BQUlJRHoyQU9DMVlNdERSMm1MXzIzSDZSalRYbk5UOFNmb24wNV9UMWhoSnNpVWgyS05FN0JyN0RjWnhVMkpiNE5yXy1DZWFZOU5IS3c",
-      "CBMidkFVX3lxTE9sQ2liS1BNdUFZaGc4RjhlcktnY19KcHhubDVscTNldTFuS3ljNHljTWNFcWRjeWhiSm9BVGUyLUZBbVFRdkUycUpXR0xmM2VXMWpTb25uSFFZS1dBbmhhRHJvMmM0TVlqNzhJNUd0V21ZV0laUXc",
-      "CBMidkFVX3lxTE5id3FtOFVJTjJXMDlNMXNjZ3pZSE43VnN6eVE0VzFjRmducDNnUlpSVzQtenNESU9QUGxMczBHZjg5VXhfU1hxUWpWOG5aRDdVTVRGSXYwVUpQNkJmb3Y5SGVUM2lueGgtMk5md3VWRGV5N0JWbFE",
-      "CBMidkFVX3lxTE40S3l5VUp0aWtNUnlDUEJ6MDdQajdDdWkxdHdFOVBSZV9MQVozS2JIUVJXSUNsVF9uTkpOMzkyWlZySHdLcml3UE8td0VSV1p4dmZGVU1NcDdVT1BmRnRraml3d05RVXkwQ2N1S3hKSFllZ2tSWHc",
-      "CBMidkFVX3lxTE13VjF4N3hYMEJtdXNuT2U3NEVUVTBSYVVmX2steFR0NnZ4b3V0VzNOdDZqYXdpUXh0WThLWW9LQ3d0SmF0RExGWUZHR1Vpa0MtTHJpSExkZHpXQkxRejR6NWE0WkJELVFWQk96UDIwVnhPdkxtVkE",
-      "CBMiWkFVX3lxTE5SRnJLSHczLVVSbFRiQllyTGtLdWVxQndDRFhoa2JHcktXc1ZiUG5kNWtEU0E0MUpNcXdxSHBycEsyRVJhNWlybk9UMHNWaDFTRFcyRjFhZlMtQQ",
-      "CBMiWkFVX3lxTFA4eTZoV1BOS0ZtVDdQdGZvaVpNZVRUenM1U01nOWhsQnZoSkswaHRoSDZEZnVtS1RwQ2NPNWVZZVhTdzRFemFOZmtpVUJmMkFWNjdZcjN0ZHRvQQ",
-      "CBMidkFVX3lxTE9Nelg3eDVQcDNxUUVmOGVLbEtaSHZ6djhVSkFSRG55dFVIMjlEb3N2SGdqanRDZExBUkpBbnAtcU9pdlR4aHpxX0d3RWZ1OG1vZnZpSzhkZDQtQ3N6VUNvR2YwWGxJdlkxVmFOSllhY3pKeVZLYkE",
-      "CBMidkFVX3lxTE1KSEoyZXFtSk1hY2UyUHlwMGZ6NkwwVFBfX0tIb2U4bE53SzFrRWhXLXlMYjJTeXhQZnNmamdOeE9FNHdjN3RJMGtoZWF0anItUDBHaFVlWTBtenZHc0p4ekhMbkFoUzFfamZJVzNvOFhFTWRHOVE",
-      "CBMidkFVX3lxTFBGWEVrSng3dFRhNEpkbFpXTFRkT3ItcU9MOUwzQ2VudjdYWkhiVXUwOXFBS1NRbDhRUFFrM2UzSUpVX3VlYmtlQ2VTNlFOTU8wbEVSbkk1NmZmRGVXeFpKVDU1ZVpSQ2hGTUtZRUNvTjBkMUtqY3c",
-      "CBMidkFVX3lxTE5Jd1hBLUpVUGFLd0dDeV8xdkstOUlsMXlpODl5cHhmVEpTSmdnbHA1bDJGQnBqaTJWNmNhdTVpbjk3ZE9oU3c3MlVJdE9NVkhlVURna3pEa2piNHEzQmZ0SXdUTmk1ZFotNW5ETDdlRFR3XzZEYXc",
-      "CBMidkFVX3lxTE1Xam1neTRZOFBHWHZKMWZWQkVjX21heFV1ZVBfa0lTT0NqMFpuQ1J0aFVDNjVILUVXNEt0MFdkY2dpRUJGbVBHVG5Nd3dlUzdUOXgwYU8tdDJNa1hvY3FMU3hPdnU4SDB6Ml9OTWVhT0ZqQ0hwc2c",
-      "CBMidkFVX3lxTE9OS0xjek9LR2JEbmF2R2hXYXlsRjcwZG1zLWZIdEg2bHhHWl9lNzA2TTU4aUlveExGcVZrVkhGX3dtV1BwcC1scjEtRzFvc0lnLXBONmlreV9ZZTVlcUVyNTJjMzZ5eTduNFZlaVZOMXdvM1lWREE",
-      "CBMidkFVX3lxTE9LcDJQVXZnV0MxMXNsYXlkeFFKSGhrU05VQVlnMEw1MzRjMTFJbjR4MUgwd1NZbEVWWGN1N0hzeFlKemF0UU9EN0tKazI3YkZsdjRXUFFLTDg3WlY5NXBpYy1lOGZNai05dHBxQVNmeS1ucEh4LVE",
-      "CBMidkFVX3lxTE43UkdkcHhXUVNlc1ZBVmV6djVXYm1DbWxsT1FJbjFPazZUdk9EU1AxMUNSUWRIcS1CTGM2NG8yX2JZVlRhLUtGNFp2ZE5ZODBLMVpDd29reVoyWE1QOHJaZFFBSDdfeDZmWTBqZXVPTFVteFBhUmc",
       "CBMidkFVX3lxTE1rWklaSTBhR1ZrdjdNa2dPcWkteHJRRkZWSVVPNFJpMUY5bVplUkJ0cjVURzZPX0dVRTNpRFotak1PTk9PblpDMkc1THViQVVPVWgzN1JzOTRnVnhHSHN2WkFfMS11NmxBWmEyZ2pEeHZZdjA1X0E",
       "CBMidkFVX3lxTFBLbEJJSjJpb2xaaDlQTVRXbm1POUhoRU5vTGNWaG1ldjNZVkxMWWFRQTc0bTRWcTVSSHlMWmtsSFhOMXBNWEg1V2xOS1YwMTFRQWxhX3pZeWVwdkN3VnlXNTF5Zl8tb2hfQVJVbFppNUx2WU5QWVE",
       "CBMidkFVX3lxTE1XQmttUEJGVWJOTDhlaUE5bnNxSjYtS0o5Z2lJZThTazBhZDRCUkVEYzJCUVZhN3dmRkNwRExlT3FkblBXNFZtcW1LVHpka2V0dXdjUWRpcHQwc1U2NWQyNTZUUkZrNlpuTTlwdk5kTmRnNmc3eFE",
@@ -1707,11 +1701,171 @@
       "CBMiWkFVX3lxTE9fbW5oU0VpZ0FjWFVSR3NlQzJpdHg2OTAzMjNCMU9uVlBPYUNfNkhYQkRJaDk3bHRsaDFSXzVaSHl1SEdYTXJwaGtMR2xrc1V6MlptU3A1ZEVBdw",
       "CBMiV0FVX3lxTFBIc3dUZFdCeFBSWWdvVENpMGJqc2d0M2dNWndjcWRnRktLeUE4OUVJTjhYVUM3NVNobHViaVFzZC03MFNoUklxTWx4bmhOWE16NHFiNGd3SQ",
       "CBMiWkFVX3lxTE1nTkhEQ3k0R0syeXpVejFOX1dxWUE4SXpKaU4xdGNLS1N6SHdDNDctclBfUEtpaXhkbXBpVl83Q095dUViMjdtb2FzT1RqekstWDBGcFh3U3VYUQ",
-      "CBMiWkFVX3lxTE5OT2JMTW8xR3Q1WVBaTjdyZ2ZJX29HNHB1bDJodzN3MWFNRzJZRlVESUs2UjVvRy1hSksyTWxWNmtHLTBpaldRZnZ2UVNUSUpGaFpNb0hJZ2JCZw"
+      "CBMiWkFVX3lxTE5OT2JMTW8xR3Q1WVBaTjdyZ2ZJX29HNHB1bDJodzN3MWFNRzJZRlVESUs2UjVvRy1hSksyTWxWNmtHLTBpaldRZnZ2UVNUSUpGaFpNb0hJZ2JCZw",
+      "CBMiWkFVX3lxTE9UWlhYV0lSUEJpV2xxQUVxTUlld2EwQVNGc2NNUXhud3ItVVhyUFhYODBiNkJoMnZaTW1MNXRNX0I5OHVvbkNSYzNPUzRibmRkVjhnVXRnU0RHQQ",
+      "CBMiWkFVX3lxTE8xejEzNHVPRzJoVW5kdkFkakpvcTJ1bXUwOGFIekRtM3RoWXNFRXdNaXU1clJsNndhMkl2QmFxd0ZsY1J3LXVzVkF2a3FBSzF5QktFbE9tcnlWZw",
+      "CBMidkFVX3lxTFBjU2pPNjQ2YjNYeVkySUFGaTM0SnpYTnJDXzB6M2NoS1A3M3ZSVU9PMzM0YlRtSk5NdVZQQkprVzkycVVGMG1RM0xTOGtCdng1cm8xbHhkOGhkUGh3a3V2aF81ZENKd0dDeVBJNjVrdUhMUXZ4YVE",
+      "CBMidkFVX3lxTE1zQXlBd2tGNkhvRDVRbnQ0ek9ybGFaRjZtdzJvWmd1dWR5TTNzbExUOE5ubUQ2ZHlaNXBfalpaYks0QlZqckNHTHQtSTM2MWk2Tm0xSTRoOFVERy1hZFRhbkpTN1JvSy1ROWFPX2tfMGk0MFJzMnc",
+      "CBMidkFVX3lxTE1hYVdqdE5mc3ByRnUtME5Xc1BveDVQdE1sVThocFd1b01zWldZbzh1cUN6djhsN0hjNF9EWHNvQmJzTFlCZThLOW5WY2tFR2NlRXpHUFNadGhfcXJnRXlkUmpXUm56VEQtSFozbk5odEFzcjgweWc",
+      "CBMidkFVX3lxTE10aEZmYVc5RkxITmZ4R3pINEFVeDZQcE54VEFzVTY4allsNldrQlhJSnduaWFKTzc3NElOclp2WE9QTWNfaS13UGlVcHotdDBJLWRHdDc4ckFZQVhiVDM0MjhxM0ZNakljdmhlUXY0Z2pBbVp3LXc",
+      "CBMidkFVX3lxTE9TQ1BJNXY1V2FEZ0VnU045MlNsRVAtMHFub1VUZVBtdkRDTmdzSy0yM3NfQmdZekxyZ0N1SWl0MlZheTUtYkpOOFk2LWNBWnBLYmF3Z3JudXo3REhXSl9vNVZhaUVVSUVXNHhmYkdTcnBKQk03SkE",
+      "CBMidkFVX3lxTE5ubHNvaEdaNTNQSWZaTFRlUzZMUFdGYy01OUVoSVVGYUFmQkFyZFJGRFFzNzlUSTFmay12NWZicFNtZi1ON3JlVHU5Umplc0dFR0JxOUliU2VtNWk4RTdkdURkcmtLVHJPWEwzTElaU1FmS3hGS2c",
+      "CBMidkFVX3lxTE90bngwaFQ2VElVRHhHOS0zdHZ5RzNBaUJLX1FHQk1yaEtrR2laUnBpNUE4VjFGZG0tMWF0UHd2SUJIakZuSGp3aFh5YkstSlFKaVJBR3E1YUdYb1NjbThzSlJDdGxsSnpoWUFQUTNVNllLNVVjelE",
+      "CBMidkFVX3lxTE1OWXhqLWdCLS1VLXVOUzRvQWJxcVd6WTFFUW1vY3FvaFptWTBHRkcxRHhNdFlWOGhnVWZEdXVSVmRySmoycEE3b1Q4bFRsU1lna1BRQ2VoX29HaDNyNFVYTHNTbTZrOHRIQ1FIdElmeEhGY082LUE",
+      "CBMidkFVX3lxTE5FbHlneFp6ajRHUFpDU0JzN1MtbnRRSHZlQTNLZ0g3dVhXVlVwWVhubV9LV2tpR3Zlbm10YnByRjUwcUItc2R3dW83b3lfa0NENDNBdE00OWpMTTlzZ1B0VVNCX0pCSWJVbVlEWHNRSXdFbmc4aVE",
+      "CBMidkFVX3lxTE4tdE9wV1gwakRmb0RYTkdsWkl5aEhYRUFTRVZ3N0dXeW03UFBHempFLV85cU1zVzAyTU5FUll3SjRaRlVMYUt3QURwV1hpQThZQ2J4LVhZV2JpOUxjTERGa3NSMjN5MUlVYTJzdm9lX2tQSHVabUE",
+      "CBMidkFVX3lxTFA3bUJTX21yU2FRZWRHcjlJV0NuZGprS3A1RlIxNVhSenNpVC01NFE2TzhJMGFlRlZuMGxsb2FxQU5ZUV9FMzc5b3hLODBUMUJ1T05zVUFmZy03ZVlWQ01zdWVHQ3lTN08zMDdka2w2VHJJelo2aHc",
+      "CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ",
+      "CBMiWkFVX3lxTE5sOXBJSlFQdnd5TjJibm1ydE0yYUdWU2dyOVk2SWNod1ZLMWNwaUVWdEFOa3E4MGVhOWYyVVJ0dFpkdDJZWVpUY0VBTFY2OVdERnNSQ1BqV2dBUQ"
     ]
   },
   "pending": {
-    "weekly-tech": [],
+    "weekly-tech": [
+      {
+        "source": "NAVER D2",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "link": "https://d2.naver.com/helloworld/2957037",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를 LazyRow 없이 Jetpack Compose로 직접 만들면서 겪은 세 가지 이슈와 해결 과정을…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "부족한 건 모델이 아니라 팀 문서였다: 팀 공유 지식층 Third Brain 구축기",
+        "link": "https://d2.naver.com/helloworld/2622882",
+        "summary": "​ 네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI가 답을 못 맞히는 이유가 모델이 아니라 팀 문서의 부재라는 것을 확인하고, 팀 위키를 AI가 읽고 쓰는 공유 지식층으로 만들어 운영한 경험을 공유합니다. ​ 발표 대상 팀 지식을 정리하는 방법을 고민중인 개발자 ​ 목차 에이전트가 우리 팀 일을 못 했다 Third Brain 이란 어디에 적나요? 문서는 누가 업데이트하나요? AI가 쓴 걸 믿을 수 있나요?…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Devops Agent 리포트 오이데~ 평가 야호~",
+        "link": "https://d2.naver.com/helloworld/0118355",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 통합검색 알람 발생 시 1분 내 장애 1차 진단 리포트를 이슈로 남기는 에이전트, 그 결과를 평가해 시스템 정확도를 도출한 이야기 ​ 발표 대상 LLM 기반의 이상 신호 분석 시스템을 운영하고자 하는 독자 LLM 기반의 평가 시스템을 운영하고자 하는 독자 ​ 목차 Devops Agent 소개 에이전트라서 생기는 문제 평가 기준 정하기 평가 시스템 구성 평가 시스템…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+        "link": "https://d2.naver.com/helloworld/5037527",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 가상의 물류회사가 매일 받는 \"이 화물 지금 어디 있고, 예외가 있었나?\"라는 질문 하나에서 출발해, 온톨로지를 어떻게 만들고 사람과 AI가 그 위에서 어떻게 찾아보고 일을 처리하는지 실제 화면으로 보여 드리는 발표입니다. 온톨로지 구축 부터 활용까지, 고객의 질문을 답하는 방향성으로 소개합니다. ​ 온톨로지 소개 가상의 물류회사 온톨로지 구축 사례로 구축부터 활용까지…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Spark 배치 파이프라인 Distributed Tracing 도입",
+        "link": "https://d2.naver.com/helloworld/2526679",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Apache Spark가 지원하지 않는 분산 추적을 비즈니스 로직 수정 없이 플러그인 형태로 제공하여 연관된 애플리케이션들과 한 흐름으로 잇는 방법을 소개하고, 관측 결과를 성능 개선과 AI Agent 진단에 연결한 경험을 공유합니다. ​ 발표 대상 Spark 배치 처리의 관측성 확보와 성능 최적화에 관심 있는 개발자 ​ 목차 인트로 Observability…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지",
+        "link": "https://d2.naver.com/helloworld/7131556",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다.) [발표... NAVER D2 | GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다.)…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+        "link": "https://d2.naver.com/helloworld/5087915",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI 에이전트의 메모리 관리와 토큰 비용 절감에 관심 있는 개발자 ​ 목차 요청마다 다시 읽히는 토큰 다시 읽는 토큰…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+        "link": "https://d2.naver.com/helloworld/1126768",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 공유 드립니다. ​ 발표 대상 개발과 서비스 운영(온콜)을 함께 맡고 있는 개발자·엔지니어 AI Agent에게 조사·조치 같은 실제 운영 업무를 맡기려는 개발자 사내 Agent 도입을…"
+      },
+      {
+        "source": "NAVER D2",
+        "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+        "link": "https://d2.naver.com/helloworld/3284900",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을 공유합니다. ​ 발표 대상 코딩 에이전트에게 사내 도메인 업무를 맡겨 보고 싶은 개발자 흩어진 데이터 문서와…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "[AX일지] 마케터 2명이 제 ERP 화면을 다 바꿨습니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UWlhYV0lSUEJpV2xxQUVxTUlld2EwQVNGc2NNUXhud3ItVVhyUFhYODBiNkJoMnZaTW1MNXRNX0I5OHVvbkNSYzNPUzRibmRkVjhnVXRnU0RHQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 시대에도 여전히, 오프라인 UX",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xejEzNHVPRzJoVW5kdkFkakpvcTJ1bXUwOGFIekRtM3RoWXNFRXdNaXU1clJsNndhMkl2QmFxd0ZsY1J3LXVzVkF2a3FBSzF5QktFbE9tcnlWZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석이 사용되는 물건 100가지를 알려줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjU2pPNjQ2YjNYeVkySUFGaTM0SnpYTnJDXzB6M2NoS1A3M3ZSVU9PMzM0YlRtSk5NdVZQQkprVzkycVVGMG1RM0xTOGtCdng1cm8xbHhkOGhkUGh3a3V2aF81ZENKd0dDeVBJNjVrdUhMUXZ4YVE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "카메라 손떨림 보정 장치와 에어컨 압축기 모터의 쓰임새와 원리를 알려줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zQXlBd2tGNkhvRDVRbnQ0ek9ybGFaRjZtdzJvWmd1dWR5TTNzbExUOE5ubUQ2ZHlaNXBfalpaYks0QlZqckNHTHQtSTM2MWk2Tm0xSTRoOFVERy1hZFRhbkpTN1JvSy1ROWFPX2tfMGk0MFJzMnc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "미적분 1 탐구주제추천 경상계열",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hYVdqdE5mc3ByRnUtME5Xc1BveDVQdE1sVThocFd1b01zWldZbzh1cUN6djhsN0hjNF9EWHNvQmJzTFlCZThLOW5WY2tFR2NlRXpHUFNadGhfcXJnRXlkUmpXUm56VEQtSFozbk5odEFzcjgweWc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "내 진로가 경제(데이터를 엮은)인데 확통 포스터를 만들어야 해 주제를 추천해봐",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10aEZmYVc5RkxITmZ4R3pINEFVeDZQcE54VEFzVTY4allsNldrQlhJSnduaWFKTzc3NElOclp2WE9QTWNfaS13UGlVcHotdDBJLWRHdDc4ckFZQVhiVDM0MjhxM0ZNakljdmhlUXY0Z2pBbVp3LXc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "현대물! 여주 엄마가 연예인인데 따로 살고 여주는 부자고 그랬어 주 배경은 학교였고 남주가 여주한테 도시락싸줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQ1BJNXY1V2FEZ0VnU045MlNsRVAtMHFub1VUZVBtdkRDTmdzSy0yM3NfQmdZekxyZ0N1SWl0MlZheTUtYkpOOFk2LWNBWnBLYmF3Z3JudXo3REhXSl9vNVZhaUVVSUVXNHhmYkdTcnBKQk03SkE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘 유행하는 사람",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubHNvaEdaNTNQSWZaTFRlUzZMUFdGYy01OUVoSVVGYUFmQkFyZFJGRFFzNzlUSTFmay12NWZicFNtZi1ON3JlVHU5Umplc0dFR0JxOUliU2VtNWk4RTdkdURkcmtLVHJPWEwzTElaU1FmS3hGS2c?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "학교 크롬북으로 몰래 피파를 할수있는 피파 링크를 줘봐",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90bngwaFQ2VElVRHhHOS0zdHZ5RzNBaUJLX1FHQk1yaEtrR2laUnBpNUE4VjFGZG0tMWF0UHd2SUJIakZuSGp3aFh5YkstSlFKaVJBR3E1YUdYb1NjbThzSlJDdGxsSnpoWUFQUTNVNllLNVVjelE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "일상생활에서 전자석이 사용된 예시",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OWXhqLWdCLS1VLXVOUzRvQWJxcVd6WTFFUW1vY3FvaFptWTBHRkcxRHhNdFlWOGhnVWZEdXVSVmRySmoycEE3b1Q4bFRsU1lna1BRQ2VoX29HaDNyNFVYTHNTbTZrOHRIQ1FIdElmeEhGY082LUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "거울을 일상생활에서 이요하느예",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbHlneFp6ajRHUFpDU0JzN1MtbnRRSHZlQTNLZ0g3dVhXVlVwWVhubV9LV2tpR3Zlbm10YnByRjUwcUItc2R3dW83b3lfa0NENDNBdE00OWpMTTlzZ1B0VVNCX0pCSWJVbVlEWHNRSXdFbmc4aVE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "전자석 물건",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdE9wV1gwakRmb0RYTkdsWkl5aEhYRUFTRVZ3N0dXeW03UFBHempFLV85cU1zVzAyTU5FUll3SjRaRlVMYUt3QURwV1hpQThZQ2J4LVhZV2JpOUxjTERGa3NSMjN5MUlVYTJzdm9lX2tQSHVabUE?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "1등확류을 높여줘",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bUJTX21yU2FRZWRHcjlJV0NuZGprS3A1RlIxNVhSenNpVC01NFE2TzhJMGFlRlZuMGxsb2FxQU5ZUV9FMzc5b3hLODBUMUJ1T05zVUFmZy03ZVlWQ01zdWVHQ3lTN08zMDdka2w2VHJJelo2aHc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "데이터 시각화 101: 2직관적인 데이터 시각화 만들기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SRER3a2RPcmstSnAtUU8wV0VGc1VYRFRpNy1US1Atcm5NRHhiTHdOUU0teV9NVEY5TmJOSTNpWGhVbDBfakkxTF9YZ1hyMDN0MEo3S2R6NktwUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "진짜 기업 앞에 서는 FDE 해커톤 ‘포워드톤’ 참가 모집",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sOXBJSlFQdnd5TjJibm1ydE0yYUdWU2dyOVk2SWNod1ZLMWNwaUVWdEFOa3E4MGVhOWYyVVJ0dFpkdDJZWVpUY0VBTFY2OVdERnNSQ1BqV2dBUQ?oc=5",
+        "summary": ""
+      }
+    ],
     "weekly-finance": []
   }
 }
