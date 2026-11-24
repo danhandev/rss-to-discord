@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=37040",
-      "https://news.hada.io/topic?id=37045",
-      "https://news.hada.io/topic?id=37046",
-      "https://news.hada.io/topic?id=37047",
-      "https://news.hada.io/topic?id=37048",
       "https://news.hada.io/topic?id=37070",
       "https://news.hada.io/topic?id=37071",
       "https://news.hada.io/topic?id=37072",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37768",
       "https://news.hada.io/topic?id=37769",
       "https://news.hada.io/topic?id=37770",
-      "https://news.hada.io/topic?id=37771"
+      "https://news.hada.io/topic?id=37771",
+      "https://news.hada.io/topic?id=37791",
+      "https://news.hada.io/topic?id=37792",
+      "https://news.hada.io/topic?id=37793",
+      "https://news.hada.io/topic?id=37794",
+      "https://news.hada.io/topic?id=37795"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50456791",
-      "https://news.ycombinator.com/item?id=50457618",
-      "https://news.ycombinator.com/item?id=50458208",
-      "https://news.ycombinator.com/item?id=50460154",
-      "https://news.ycombinator.com/item?id=50462177",
       "https://news.ycombinator.com/item?id=50469994",
       "https://news.ycombinator.com/item?id=50470488",
       "https://news.ycombinator.com/item?id=50471431",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50622774",
       "https://news.ycombinator.com/item?id=50623515",
       "https://news.ycombinator.com/item?id=50624061",
-      "https://news.ycombinator.com/item?id=50624497"
+      "https://news.ycombinator.com/item?id=50624497",
+      "https://news.ycombinator.com/item?id=50630594",
+      "https://news.ycombinator.com/item?id=50630809",
+      "https://news.ycombinator.com/item?id=50631157",
+      "https://news.ycombinator.com/item?id=50632883",
+      "https://news.ycombinator.com/item?id=50633922"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -1359,7 +1359,9 @@
       "CBMiTEFVX3lxTFAxVlpKQVpPeWxNYW1MSTl1d2VJY21ycnlCUkpOZXRyaGs5ckM3ZTNTUGZaRkdUV0wtRW9kREZsWHp1a2xZMEhqRUxsdjI",
       "CBMiTEFVX3lxTE1GX0V3aWVrbmRPQ2txZ1RmQWlZU0IzSkRyLXdWek1kUkVCaVRMWmJycVBESVEtaHlSYk9TRU9jaktJSzRmWTBWRU5FVDE",
       "CBMioAFBVV95cUxOUEJPMVdLZ1pqUXpCbGNqamdCMFViWmNPVVVJeDl6RjRkOFNOV2hMWGg3akE2eXRabTlfUkhiMVdwcDZNVW01U25aQTNyRmgzeUtHdDU1QWVwZE5EOFlJY0J2c2NWRUt3aFVMbGktVU9xZnZ2ZFdGTG9nVUdzSTlrbTRtQXEwTml2TmZCVlJDRXBRbXVoMGpJXzltaWUxOHh4",
-      "CBMiTEFVX3lxTE1jTW1jWWszeVd4MWlSTEFqZy1DWjNDV0tXdTVSeEthdWZEYlFDQ0J4SWxUb3FvWGdLQUF5LTk1dUVrNDdUWmV5LWxHRWc"
+      "CBMiTEFVX3lxTE1jTW1jWWszeVd4MWlSTEFqZy1DWjNDV0tXdTVSeEthdWZEYlFDQ0J4SWxUb3FvWGdLQUF5LTk1dUVrNDdUWmV5LWxHRWc",
+      "CBMiTEFVX3lxTE5tZEdTZVEzLVNMT2JhZUxBS2Y4MGRtRjk0cUxlN2xESGk3VjRiRHFLckFEb0pBTFVXU25ydUFMcEU0ZUhESHhLYlRySDc",
+      "CBMiTEFVX3lxTE05TDlsdl9MUlk4UzloMXVkNURndWtUYmg1QVI0TmJjQml0ekYxWi03N2JGbzlqM2wzRmNfUm1iOWN0RlVqZlgya00waVQ"
     ],
     "https://helloworld.kurly.com/rss.xml": [
       "https://helloworld.kurly.com/blog/welcome-to-kurly/",
@@ -1519,11 +1521,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw",
-      "CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw",
-      "CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ",
-      "CBMiWkFVX3lxTE1UMDNScmRIUmI4N2Rpd2V0TFc5Y0Vmbm1KR2VQSDJvXzduRjZKZlIzZzNfZlBZak93emUzeElubTJYLUhjTjZ6QUdiVjFJX1NoWlBaYU1zV20wUQ",
-      "CBMiWkFVX3lxTE9uejRxVm81bFp1eWZCZjUyaVVFaHRZdUw0NU05bVhlOXlPUmp1akdyNVllNTJXb0ZFMTlwdVJrbjdKSUZSb0JmZEZ6NXlmVzd3MVI4a0c5OTZWUQ",
       "CBMiWkFVX3lxTE5uSko5MUVGS0gyZ292OS1fQzFyaEQwNkVoM1kwdXc5dGREQzZBQUp1cDA0bW5yNk1qWlhtbllQQmozQ1Y3Y1A2c2FoM3h1WnppVGhZcHdpMEFpdw",
       "CBMiWkFVX3lxTFBIdlg5QXFLNVRwM1J4TVhfdmtUaDBUZ3prdmlHT2J1VFpnSW5zWXVCOFZVZ1VzcXprWURjaUt2TTV6YUgxcFVsWlBHN0hSRVRmU051Y3dncUkyZw",
       "CBMiWkFVX3lxTFBER2FNek4xYmxqc2tpaFZ2ZjhOemtfZXA3LUFLMUNMV05GMU9qRUZyWW1lc1p6ajljeFdnczQxYWJkeXpzTFRHMnVOcmRMZU1NdHBCZHRvdjJaQQ",
@@ -1718,7 +1715,12 @@
       "CBMiWkFVX3lxTE5mVTEwenNWNVVWVE5GbmhORFlNQTdEb1JJdWU1cFA2dHNMMUZKYUI4S3gzY2NPaHB1bHRaaTVwMkIxWkU4elIzWUQ5WXFodGZNNVBiVmtFR1pJQQ",
       "CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ",
       "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
-      "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw"
+      "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw",
+      "CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ",
+      "CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw",
+      "CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ",
+      "CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw",
+      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ"
     ]
   },
   "pending": {
@@ -2027,6 +2029,48 @@
         "source": "요즘IT",
         "title": "2026년 하반기 국내외 IT 컨퍼런스 일정 모아보기",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "critical-script, 배달의민족 웹뷰 로딩 성능을 30% 개선한 인라인 스크립트 로딩 전략 이야기",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tZEdTZVEzLVNMT2JhZUxBS2Y4MGRtRjk0cUxlN2xESGk3VjRiRHFLckFEb0pBTFVXU25ydUFMcEU0ZUhESHhLYlRySDc?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "우아한형제들",
+        "title": "이래라저래라 하지 마라: 주니어를 성장시키는 파트너십 대화법",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05TDlsdl9MUlk4UzloMXVkNURndWtUYmg1QVI0TmJjQml0ekYxWi03N2JGbzlqM2wzRmNfUm1iOWN0RlVqZlgya00waVQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "올해도 10초 매진 각, FEConf 누가 만드나?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "요즘 SI 기업은 어떤 생각을 하고 있을까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 진짜 쓸 만한 AI 에이전트 10가지 총정리(1) : 웹·코딩 에이전트",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "p값? 신뢰구간? AB 테스트를 완성하는 통계 분석, 기본 개념 잡기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ?oc=5",
         "summary": ""
       }
     ],
