@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=37017",
-      "https://news.hada.io/topic?id=37020",
-      "https://news.hada.io/topic?id=37024",
-      "https://news.hada.io/topic?id=37025",
-      "https://news.hada.io/topic?id=37027",
       "https://news.hada.io/topic?id=37040",
       "https://news.hada.io/topic?id=37045",
       "https://news.hada.io/topic?id=37046",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37742",
       "https://news.hada.io/topic?id=37743",
       "https://news.hada.io/topic?id=37744",
-      "https://news.hada.io/topic?id=37745"
+      "https://news.hada.io/topic?id=37745",
+      "https://news.hada.io/topic?id=37767",
+      "https://news.hada.io/topic?id=37768",
+      "https://news.hada.io/topic?id=37769",
+      "https://news.hada.io/topic?id=37770",
+      "https://news.hada.io/topic?id=37771"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50458900",
-      "https://news.ycombinator.com/item?id=50459321",
-      "https://news.ycombinator.com/item?id=50459485",
-      "https://news.ycombinator.com/item?id=50459703",
-      "https://news.ycombinator.com/item?id=50459745",
       "https://news.ycombinator.com/item?id=50456791",
       "https://news.ycombinator.com/item?id=50457618",
       "https://news.ycombinator.com/item?id=50458208",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50619103",
       "https://news.ycombinator.com/item?id=50620102",
       "https://news.ycombinator.com/item?id=50620349",
-      "https://news.ycombinator.com/item?id=50620822"
+      "https://news.ycombinator.com/item?id=50620822",
+      "https://news.ycombinator.com/item?id=50620721",
+      "https://news.ycombinator.com/item?id=50622774",
+      "https://news.ycombinator.com/item?id=50623515",
+      "https://news.ycombinator.com/item?id=50624061",
+      "https://news.ycombinator.com/item?id=50624497"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -828,7 +828,9 @@
       "https://medium.com/p/5ae60ab5108b",
       "https://medium.com/p/8dea7fe41c07",
       "https://medium.com/p/cbe1a46a9e71",
-      "https://medium.com/p/0a8f39c3b70b"
+      "https://medium.com/p/0a8f39c3b70b",
+      "https://medium.com/p/545dfd2cfc4f",
+      "https://medium.com/p/6fceb1d2a5f7"
     ],
     "https://medium.com/feed/coupang-engineering": [
       "https://medium.com/p/7d997644d14",
@@ -1517,12 +1519,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMiWkFVX3lxTE13Q0ZNaFBKNTFVZXVuU0k2UmdINjY1NUlIMW9Lc3ZxTDF4bHJNTkZjOWhob2xBa1ZFMG9sNkdtZkhCQWJneDhUUlhvbjB4LVRWNlVmaWU1RnhPQQ",
-      "CBMiWkFVX3lxTE9jaG1LQndnVVhkOGFhNElsTGN4YWlhM3pxcms0UmQ3QXQxc0oxVVpEZXljX0xoaEMtOHVYUTQwZG11VmMtRmRZMHZTdExFLVBnMFI3cWNINEtWdw",
-      "CBMiWkFVX3lxTE5CVlVFSU5Ua1R6eXYxNHNVOUpJRXFOR0U1WHFjbzNjV09jMlNIYUZjdGpjQnVxaERtWEQ4Y1RRZ1p2MEFYVjRMTFdCS0gyLTY0OTFVMHpha0ZYQQ",
-      "CBMiWkFVX3lxTE5XYi1GekpFX2pUWEx5aFNQVXZ0MzJfX0dxWE9VSU5QQWcwQ0tCUkhSSllMZmJQWkpVTXFjcnJKSy1GTEtOLWM4eTR2U2ZhWUswaTczdFhQSEtTZw",
-      "CBMiWkFVX3lxTE93U0VxdXAzYk8xS3REWnhhNEtjVU9weXNSYkxlWmgxT01TOFVwbjI1YUJRMEFHQ3dfdFctTTdqemh3MG14Q0VlUXBVMEtkUzMwMmc3VmZJYVFvZw",
-      "CBMiWkFVX3lxTFAzcWdVMHF4TmVDNXNIU0ZtTkw2dTZCY3dkcjBMTFpEUmtOVnlFZUZyQ1l1OGNyV1YxY09xY3JiU1N3eUhqSUFYTkNWZFlnQmxoQUlLMTBDejkyQQ",
       "CBMiWkFVX3lxTE1mckU5WTlLNG56YU5rSC00dzEzdWxqX1phWlkxM0V6ZU10eVRJSU5mMjNBTE4zaHE3T3gxWDVIdjZZUnFvR0xmRzEtTDZtUm1mc3p2QVRmckFJdw",
       "CBMiWkFVX3lxTFBBUENOal85eXdVZlJETTRYWTFnU3FTOW94eTBsRjJBUU43OGVIWnFCdXZDNUJjenhwdkFMYmFCdDZJUktDbjlMYzdpcmZ3alJQaEhJYW96VGZ3Zw",
       "CBMiWkFVX3lxTFBidjh2VTl2czhEVFFaWmlPRnVDT0JkcXlMYm1XU1F1OHZheXJFSXk0YWJPeV80NDFwMjIxUmt6c3ByLWJUU2N6NHBDNlBfRjgySDB0aFlWYnNhQQ",
@@ -1716,7 +1712,13 @@
       "CBMidkFVX3lxTE1ZXy1ENGdLeHdLN3hkNVdrR3JBYlpyLS0ta25nNlotRzlVUEVtc2FWc0NWWkRDOVFwaG5ST25Pck1jaE9Fb2hmTUg2LWg2d1NUZ3dmWTFnQTJoTGR6bzJEamc3aFlzMktCbmhkWnVIZEk1TzZHX3c",
       "CBMiWkFVX3lxTE90Z1NNTnpPRk5SWnV5cEhmWlhLYjFMUV96aXB2SzFHUGNhOEc0MDNGRWhBdzZpUjJWZGlDSTBDdWFaZHhrUk1Hb2VDR3lEejdKNENxU1FjSjE0dw",
       "CBMiWkFVX3lxTE1ERjNkQzNoY1lDQ3psT1hwMnZjTzI2b0pUSGtUd3lfejRsSTRFcVdqMUE2aVdUSjFrNmoyU2c0ZHRuTW1WcXJyNk9hNjFQb3c2am1yVFZBdDlCUQ",
-      "CBMiWkFVX3lxTFBlTlpCWU5pSnlhOHFDSk16V3hVdVZrZHRBbHYtQUxTZ2s5ZUJxbzVjV3FMUzFNM25rcWpyWVJGZW85eHlmQ3l1T2JSc3plSnBkVVNreEdpckZvUQ"
+      "CBMiWkFVX3lxTFBlTlpCWU5pSnlhOHFDSk16V3hVdVZrZHRBbHYtQUxTZ2s5ZUJxbzVjV3FMUzFNM25rcWpyWVJGZW85eHlmQ3l1T2JSc3plSnBkVVNreEdpckZvUQ",
+      "CBMiWkFVX3lxTFAtd1ZpZnVmLXlfbDV3M0JSY01LSGNFUUxMZmh3LWFhWnlnNFB4SkZCSldlWXlmZDNtS2tIYXI0MVV1TXVVcFpsVGZqSjc4TXo5M1psc0J5RWxidw",
+      "CBMiWkFVX3lxTE0tMG1lN2JueEtTblhFaXgyeXhRSjFQLUxoQUhWVUtScW1BVUVlSVlwWk1mU3Fob0dRM1Rhd2xzOGEwVWN3ampDVlh1UlFJSWhhN2ZnX2FDeEd5QQ",
+      "CBMiWkFVX3lxTE5mVTEwenNWNVVWVE5GbmhORFlNQTdEb1JJdWU1cFA2dHNMMUZKYUI4S3gzY2NPaHB1bHRaaTVwMkIxWkU4elIzWUQ5WXFodGZNNVBiVmtFR1pJQQ",
+      "CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ",
+      "CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw",
+      "CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw"
     ]
   },
   "pending": {
@@ -1977,6 +1979,54 @@
         "source": "요즘IT",
         "title": "AI PM의 커리어를 설계하라",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlTlpCWU5pSnlhOHFDSk16V3hVdVZrZHRBbHYtQUxTZ2s5ZUJxbzVjV3FMUzFNM25rcWpyWVJGZW85eHlmQ3l1T2JSc3plSnBkVVNreEdpckZvUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "당근",
+        "title": "파드는 떴는데 왜 통신이 안 될까? kube-proxy nftables 전환 여정",
+        "link": "https://medium.com/daangn/%ED%8C%8C%EB%93%9C%EB%8A%94-%EB%96%B4%EB%8A%94%EB%8D%B0-%EC%99%9C-%ED%86%B5%EC%8B%A0%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C-kube-proxy-nftables-%EC%A0%84%ED%99%98-%EC%97%AC%EC%A0%95-545dfd2cfc4f?source=rss----4505f82a2dbd---4",
+        "summary": "안녕하세요, 당근 SRE팀 클러스터 파트에서 일하고 있는 Karin(카린)이에요. 클러스터 파트는 당근 내부의 모든 서비스가 운영되는 쿠버네티스 환경을 설계하고 관리해요. 쿠버네티스 환경의 가시성과 서비스 안정성을 확보하기 위해 모니터링 인프라부터 서비스 메시, 보안까지 여러 방면에서 정책과 로드맵을 설계하고 적용해요. 이 글에서는 kube-proxy를 iptables 모드에서 nftables 모드로 전환한 이야기를 해보려고 해요. kube-proxy는 쿠버네티스의 모든 노드에서 동작하면서,…"
+      },
+      {
+        "source": "당근",
+        "title": "Why Can’t My Running Pods Be Reached? Our Journey to kube-proxy nftables Mode",
+        "link": "https://medium.com/daangn/why-cant-my-running-pods-be-reached-our-journey-to-kube-proxy-nftables-mode-6fceb1d2a5f7?source=rss----4505f82a2dbd---4",
+        "summary": "Hi, I’m Karin, and I’m on the Cluster squad within SRE at Karrot. Our team designs and runs the Kubernetes platform that every service at Karrot runs on. We take responsibility for everything that keeps our clusters observable and reliable, from monitoring infrastructure all the…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "마이크로소프트 FDE 총괄이 스스로 고쳐 쓴 FDE의 정의",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtd1ZpZnVmLXlfbDV3M0JSY01LSGNFUUxMZmh3LWFhWnlnNFB4SkZCSldlWXlmZDNtS2tIYXI0MVV1TXVVcFpsVGZqSjc4TXo5M1psc0J5RWxidw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 반드시 알아야 할 AI 제품 디자인 플레이북",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMG1lN2JueEtTblhFaXgyeXhRSjFQLUxoQUhWVUtScW1BVUVlSVlwWk1mU3Fob0dRM1Rhd2xzOGEwVWN3ampDVlh1UlFJSWhhN2ZnX2FDeEd5QQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "모두가 알지만 누구도 제대로 쓰지 못하는, PRD",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVTEwenNWNVVWVE5GbmhORFlNQTdEb1JJdWU1cFA2dHNMMUZKYUI4S3gzY2NPaHB1bHRaaTVwMkIxWkU4elIzWUQ5WXFodGZNNVBiVmtFR1pJQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "구글 14년차 엔지니어가 공유한, 직군 불문 교훈 14가지",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EM3NKU3V4NWc1TFdqd3dNcWR2TVJ5Y1dmRmtzaEotUnJvQjlZVFdja2xIX2tiT25zOE1VZm9QLTdjaFZKLVQtSnVYVVE5N0RvTG1iZWNnS0pNUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "지금 전 세계에서 가장 인기 있는 에이전트 스킬 Top5는 뭘까?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TTFvYzkwRnExQW95Rzh2QVNZUmNabDhnSHRWb2pFenlWWHliMi1feVZMUHVYWmpITFhWVU5VOWVaUzdHeFhIOGRsZ1oydEM0aS01blJsTWlVZw?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "2026년 하반기 국내외 IT 컨퍼런스 일정 모아보기",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hMzVZcTc5N291Y1JHdWZMUzA2LXNnYUFnTVNHVmVpSzJYTUpBZjBscXZaZXlxX3Z5eVBzYTZvSW40SzI4Y1dwWEpCUElLc3ZQeDVpTmJMTmlMZw?oc=5",
         "summary": ""
       }
     ],
