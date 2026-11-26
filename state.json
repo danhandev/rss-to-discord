@@ -1,11 +1,6 @@
 {
   "seen": {
     "https://news.hada.io/rss/news": [
-      "https://news.hada.io/topic?id=37118",
-      "https://news.hada.io/topic?id=37119",
-      "https://news.hada.io/topic?id=37120",
-      "https://news.hada.io/topic?id=37121",
-      "https://news.hada.io/topic?id=37122",
       "https://news.hada.io/topic?id=37132",
       "https://news.hada.io/topic?id=37133",
       "https://news.hada.io/topic?id=37134",
@@ -200,14 +195,14 @@
       "https://news.hada.io/topic?id=37868",
       "https://news.hada.io/topic?id=37870",
       "https://news.hada.io/topic?id=37871",
-      "https://news.hada.io/topic?id=37873"
+      "https://news.hada.io/topic?id=37873",
+      "https://news.hada.io/topic?id=37891",
+      "https://news.hada.io/topic?id=37893",
+      "https://news.hada.io/topic?id=37894",
+      "https://news.hada.io/topic?id=37896",
+      "https://news.hada.io/topic?id=37897"
     ],
     "https://hnrss.org/frontpage?points=100": [
-      "https://news.ycombinator.com/item?id=50483611",
-      "https://news.ycombinator.com/item?id=50484235",
-      "https://news.ycombinator.com/item?id=50485295",
-      "https://news.ycombinator.com/item?id=50486482",
-      "https://news.ycombinator.com/item?id=50486748",
       "https://news.ycombinator.com/item?id=50488470",
       "https://news.ycombinator.com/item?id=50489641",
       "https://news.ycombinator.com/item?id=50489652",
@@ -402,7 +397,12 @@
       "https://news.ycombinator.com/item?id=50647181",
       "https://news.ycombinator.com/item?id=50647673",
       "https://news.ycombinator.com/item?id=50648050",
-      "https://news.ycombinator.com/item?id=50648823"
+      "https://news.ycombinator.com/item?id=50648823",
+      "https://news.ycombinator.com/item?id=50650892",
+      "https://news.ycombinator.com/item?id=50651117",
+      "https://news.ycombinator.com/item?id=50651719",
+      "https://news.ycombinator.com/item?id=50652184",
+      "https://news.ycombinator.com/item?id=50653667"
     ],
     "https://spring.io/blog.atom": [
       "https://spring.io/blog/2026/07/28/this-week-in-spring-july-28-2026",
@@ -516,7 +516,8 @@
       "https://tech.kakao.com/posts/846",
       "https://tech.kakao.com/posts/847",
       "https://tech.kakao.com/posts/849",
-      "https://tech.kakao.com/posts/848"
+      "https://tech.kakao.com/posts/848",
+      "https://tech.kakao.com/posts/850"
     ],
     "https://tech.kakaopay.com/rss.xml": [],
     "https://blog.banksalad.com/rss.xml": [
@@ -749,7 +750,8 @@
       "https://d2.naver.com/helloworld/4331341",
       "https://d2.naver.com/helloworld/5512498",
       "https://d2.naver.com/helloworld/6934862",
-      "https://d2.naver.com/helloworld/5073599"
+      "https://d2.naver.com/helloworld/5073599",
+      "https://d2.naver.com/helloworld/7426315"
     ],
     "https://techblog.lycorp.co.jp/ko/feed/index.xml": [
       "https://techblog.lycorp.co.jp/ko/solving-slow-queries-optimizing-bitwise-operation-queries-with-functional-indexes",
@@ -1528,11 +1530,6 @@
       "https://tech.socar.kr/dev/2026/07/27/parking-brain-1"
     ],
     "https://news.google.com/rss/search?q=site:yozm.wishket.com/magazine&hl=ko&gl=KR&ceid=KR:ko": [
-      "CBMidkFVX3lxTFBBUi00VUdCY1dDZXNOVjFyWHdjdDlYTzJtc3BfSGdtdDE5dW1LQ19sOXJXcFVEaXhPajh5Z1lyUUFGOGpFZnpNTEhCZWdhNndWX3ZSRUcwcmkxSE5aSDA5Unp1LXdSVlpLY3FzOTJFTWl2ZnU4d1E",
-      "CBMiWkFVX3lxTE5ybk1va2NSWC13cWRxWVB3ZE1sblFKWTV3WkZIWEI1MWRzY1RQN0VHaWxNNVE4ZWExVWZIaE9EN3NPYTkwc1hxSHp5WkdvVkVqY0stdjVwYlltUQ",
-      "CBMiWkFVX3lxTE5NOU5rRWswdGYyWHo0R2xfMTZwbHRIY2xuaWNVdkFjMzR6bUhQbFl2c0E1NFk3ZklSQ0JNZVBIYTlVMVBya2taMnhfTGVtWGJ0ZDNtcG9kWGNtZw",
-      "CBMiWkFVX3lxTFBUYm1RN0pEemF6N0l6cTdkdjRLU002RnF5VTFDbVJrWVRkQk5LeWIzTnd4cGhPbDk1OGk0Ujl4Y255U3oyZmhvMHR2cXJRMHQ0WnhTaUd5akNtQQ",
-      "CBMiWkFVX3lxTE04SkdWSEFTUTJvUEE0THRrbUZQcVJlZ3BSdk1PTFR6TzdfMUR5UmdkM1RBZTRrMzFOZktaZVlPaElscVJ0Z2hCQVBMVmswejdmRjMxWjZFSmVjdw",
       "CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw",
       "CBMiWkFVX3lxTFBFbl94MTBrQ1Y1SGVrRTRvSW94X04yQ0IxcjN3NWl6aGI2VUJDN3V5cDZiZXF6S042eFBGSlpWdWNLZUlicllMMGl0LWc5Ukl5Y0h5Y0dUQXlUZw",
       "CBMiWkFVX3lxTE5JTWJmc0RuWHlOUUdWY0RsTFdGUXJqS0lJc1hEcGRqVTdlWjNPQWgwOWRISXpGR0xvOGs1TzdZREo5NTJaVkpGU21USHJhaFFHcmhkWWoydkFXZw",
@@ -1727,7 +1724,12 @@
       "CBMiWkFVX3lxTE5tLW94N24xTlZLVWwxaF9UVUFBTmtzVmNFSUdUS2pmTTlhck5sSG0wUzdIWjdDQndMQnF5NmlvV2pkZTBDRjJWcU0tSHBsMmpnMjREUllNeXp0QQ",
       "CBMiWkFVX3lxTFBwTGFBRVFfcG1hajBDZTBza01wMkc4LUtNMFpsYndDRGRFbXZqMkpBTkVpb0dtRW5FMHBjQi1LTFlUMjY5RFY4aG5DbHBPaHhDazJQSmhrYU1hZw",
       "CBMiWkFVX3lxTFAyMHF3SGJxMGFkWWk0dzlBWmtOUzVaSFlOLUU1QW5DVU1EODY1cU01a0JZM3pTRnh0bFNnWmZZaExId20zaFdtX2lOWG9DaG1TZ1c1X2IxaUFJZw",
-      "CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ"
+      "CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ",
+      "CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ",
+      "CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ",
+      "CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ",
+      "CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ",
+      "CBMiWkFVX3lxTFBILWxIMjBuMHlPaVRWWHhXR1otRllHQmQ1UlA1QkRzRFhucUdvUXh1UTFCMW1KSHI5cVA5VHNHVmhzdWZXRjVSTTVfUHoxMlIxRDBvRm9nbzdCQQ"
     ]
   },
   "pending": {
@@ -2936,6 +2938,48 @@
         "source": "요즘IT",
         "title": "[리포트] 국내 FDE 현황 조사 2026: ① 누가, 어디서 와서, 무슨 일을 하나",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "카카오",
+        "title": "행사 순간을 함께 나누는 한마디, if(kakao)26 네트워킹 스크린 제작기",
+        "link": "https://tech.kakao.com/posts/850",
+        "summary": "행사에 참여하다 보면 기억에 남는 세션이나 문득 떠오른 생각, 함께 나누고 싶은 소감이 생깁니다. 하지만 그 마음을 남기거나 다른 참가자들과 공유할 기회는 많지 않습니다. if(kakao)26의 네트워킹 경험을 기획하면서 저는 참가자들이 자기 생각을 쉽고 재미있게 표현할 방법을 고민했습니다. 행사장에서 떠오른 생각이나 소감을 부담 없이 남기고, 다른 참가자들의 메시지도 함께 볼 수 있다면 어떨까요? 그렇게 시작한 아이디어가 네트워킹 스크린입니다. 저는 ..."
+      },
+      {
+        "source": "NAVER D2",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "link": "https://d2.naver.com/helloworld/7426315",
+        "summary": "Jetpack Compose(안드로이드의 선언형 UI 툴킷)로 가로로 넘기는 목록을 만들 때는 대부분 LazyRow 부터 떠올리실 겁니다. 그런데 최근 저희 팀에서 만든 화면 중에는 아무리 고민해도 LazyRow 로는 만들 수 없는 UI가 있었습니다. 이 글에서는 그 UI를 커스텀 3D 캐러셀로 직접 만든 경험을 소개하고, 그 과정에서 만난 다음 세 가지 이슈를 어떻게 풀었는지 정리합니다. 드래그하는 동안 매 프레임 바뀌는 값을 '리컴포지션'(상태가 바뀌어 컴포저블 함수가 다시 실행되는 것)…"
+      },
+      {
+        "source": "요즘IT",
+        "title": "GPT-5.6 ‘제한 공개’ 사건의 전말",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kaHFnbWVzWFJDbW42RUcydlJJTF93eFNIbzRlOUNTcUJCX05KUWtibmstWnZjdGE4M3dGeVY2bUt5bGdWdjJqWWZYdzB1NVF0ak8xTkhoLXBaUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "커뮤니티 서비스 만들지 마세요, 어차피 실패합니다",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tUEV6cFdlajJ6UXVkVWpoQmEtcGZ5VFQxRkNXZ2lIbzJaQ09jOEdPVU9IUlczc3dwd1VDcGtBVzFZWVRSOUlKeWo5OGZ6UFlKSkdQZmJBd01QUQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "쿠버네티스 7개 주요 게이트웨이 기술 검증(Poc)하기 (feat. Ingress NGINX의 은퇴)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UG05aFdzUWwyZVNjYkZqRmdDTFJNUEVUaGlHN0dzVG03RHpzQVZRc0w1WmlPVGtULWlxd05FZWpaeGlhQ3BDcmhfUzlMTEZ2ZzIyaFN6Y0NpQQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "프리랜서 하시게요? 그럼 기획을 잘 하셔야겠네요?",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYnFSM3dQRjdVaTJ3NTVyQkFOUnppeWlRbTF6WVRGSUxDSFIwTXpMMDQ4ejZGSTdXcGRBYnlTalZGMWgtWnNSQUFKUWI1WWZpMjFtVE1UVTA5UQ?oc=5",
+        "summary": ""
+      },
+      {
+        "source": "요즘IT",
+        "title": "AI 에이전트로 유튜브 댓글 추천 서비스 만들기(프롬프트와 하네스 차이)",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILWxIMjBuMHlPaVRWWHhXR1otRllHQmQ1UlA1QkRzRFhucUdvUXh1UTFCMW1KSHI5cVA5VHNHVmhzdWZXRjVSTTVfUHoxMlIxRDBvRm9nbzdCQQ?oc=5",
         "summary": ""
       }
     ],
